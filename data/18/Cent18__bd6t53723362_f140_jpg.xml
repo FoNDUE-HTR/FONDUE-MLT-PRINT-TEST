@@ -25,13 +25,13 @@
                   WIDTH="757"
                   HEIGHT="1200">
         
-        <TextBlock HPOS="310"
-                   VPOS="149"
-                   WIDTH="285"
-                   HEIGHT="46"
-                   ID="block_0"
-                   TAGREFS="BT10458">
-          <Shape><Polygon POINTS="594 149 595 182 310 195 312 164"/></Shape>
+        <TextBlock HPOS="232"
+                   VPOS="171"
+                   WIDTH="50"
+                   HEIGHT="30"
+                   ID="eSc_textblock_60ed59b7"
+                   TAGREFS="BT10444">
+          <Shape><Polygon POINTS="232 171 232 201 282 201 282 171"/></Shape>
           
           
           <TextLine ID="line_1"
@@ -41,7 +41,7 @@
                     VPOS="168"
                     WIDTH="42"
                     HEIGHT="37">
-            <Shape><Polygon POINTS="241 194 241 205 282 199 282 193 280 168 240 168 241 194"/></Shape>
+            <Shape><Polygon POINTS="241 205 282 199 282 193 280 168 240 168 241 194"/></Shape>
 	    <String CONTENT="132"
                     HPOS="240"
                     VPOS="168"
@@ -49,6 +49,16 @@
                     HEIGHT="37"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="310"
+                   VPOS="149"
+                   WIDTH="285"
+                   HEIGHT="46"
+                   ID="block_0"
+                   TAGREFS="BT10458">
+          <Shape><Polygon POINTS="594 149 595 182 310 195 312 164"/></Shape>
           
           
           <TextLine ID="eSc_line_f4473e24"
@@ -147,6 +157,23 @@
 
           
           
+          <TextLine ID="line_7"
+                    TAGREFS="LT4083"
+                    BASELINE="240 384 660 369" 
+                    HPOS="239"
+                    VPOS="348"
+                    WIDTH="421"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="240 384 240 394 258 400 259 400 289 398 290 398 297 392 298 392 315 398 316 398 331 397 332 397 332 396 337 391 338 390 375 390 376 390 382 396 383 396 384 396 385 396 403 389 404 389 406 389 430 394 431 394 450 390 468 393 469 393 534 387 543 390 544 390 545 390 546 390 552 385 566 388 567 388 586 383 588 383 589 383 600 385 601 385 602 385 602 384 603 384 604 382 605 381 660 380 660 369 658 350 638 348 637 348 636 348 636 349 634 350 630 355 598 356 556 352 541 352 540 352 536 353 520 359 490 354 489 354 488 354 487 354 479 360 456 361 435 356 434 356 433 356 425 363 407 363 390 357 389 356 388 356 352 357 351 357 350 357 350 358 338 366 293 367 279 360 278 360 239 360 240 384"/></Shape>
+	    <String CONTENT="Abjurons, dans leurs bras, des grandeurs men¬"
+                    HPOS="239"
+                    VPOS="348"
+                    WIDTH="421"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="line_4"
                     TAGREFS="LT4083"
                     BASELINE="286 354 340 356" 
@@ -161,23 +188,6 @@
                     WIDTH="55"
                     HEIGHT="34"
                     WC="0.9873"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_7"
-                    TAGREFS="LT4083"
-                    BASELINE="240 384 660 369" 
-                    HPOS="239"
-                    VPOS="348"
-                    WIDTH="421"
-                    HEIGHT="52">
-            <Shape><Polygon POINTS="240 384 240 394 258 400 259 400 289 398 290 398 297 392 298 392 315 398 316 398 331 397 332 397 332 396 337 391 338 390 375 390 376 390 382 396 383 396 384 396 385 396 403 389 404 389 406 389 430 394 431 394 450 390 468 393 469 393 534 387 543 390 544 390 545 390 546 390 552 385 566 388 567 388 586 383 588 383 589 383 600 385 601 385 602 385 602 384 603 384 604 382 605 381 660 380 660 369 658 350 638 348 637 348 636 348 636 349 634 350 630 355 598 356 556 352 541 352 540 352 536 353 520 359 490 354 489 354 488 354 487 354 479 360 456 361 435 356 434 356 433 356 425 363 407 363 390 357 389 356 388 356 352 357 351 357 350 357 350 358 338 366 293 367 279 360 278 360 239 360 240 384"/></Shape>
-	    <String CONTENT="Abjurons, dans leurs bras, des grandeurs men¬"
-                    HPOS="239"
-                    VPOS="348"
-                    WIDTH="421"
-                    HEIGHT="52"></String>
           </TextLine>
 
           
@@ -497,16 +507,6 @@
                     HEIGHT="43"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="232"
-                   VPOS="171"
-                   WIDTH="50"
-                   HEIGHT="30"
-                   ID="eSc_textblock_60ed59b7"
-                   TAGREFS="BT10444">
-          <Shape><Polygon POINTS="232 171 232 201 282 201 282 171"/></Shape>
           
         </TextBlock>
         
