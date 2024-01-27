@@ -1228,26 +1228,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="806"
-                   VPOS="2206"
-                   WIDTH="4"
-                   HEIGHT="3"
-                   ID="eSc_textblock_22ef9e5d"
-                   >
-          <Shape><Polygon POINTS="810 2209 806 2209 806 2206 810 2207"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="851"
-                   VPOS="2147"
-                   WIDTH="2"
-                   HEIGHT="28"
-                   ID="eSc_textblock_f0628783"
-                   >
-          <Shape><Polygon POINTS="853 2175 851 2175 851 2147 853 2149"/></Shape>
-          
-        </TextBlock>
-        
 
         
       </PrintSpace>
