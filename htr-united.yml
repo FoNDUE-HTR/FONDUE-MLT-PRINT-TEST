@@ -84,8 +84,8 @@ characters:
   - T
   - ':'
   - O
-  - J
   - '?'
+  - J
   - x
   - »
   - V
@@ -156,5 +156,5 @@ volume:
   metric: files
 - count: 665
   metric: lines
-- count: 53
+- count: 52
   metric: regions
