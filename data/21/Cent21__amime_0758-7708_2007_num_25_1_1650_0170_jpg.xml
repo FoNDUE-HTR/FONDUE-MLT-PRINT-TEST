@@ -847,57 +847,6 @@
           </TextLine>
 
           
-          
-          <TextLine ID="line_62"
-                    TAGREFS="LT4091"
-                    BASELINE="161 2080 832 2080" 
-                    HPOS="161"
-                    VPOS="2038"
-                    WIDTH="671"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="161 2080 161 2099 832 2092 832 2080 829 2057 478 2057 426 2055 408 2043 398 2038 396 2038 161 2038 161 2080"/></Shape>
-	    <String CONTENT="* Agent contractuel INRAP Méditerranée, agnieszka_koziol@hotmail.com"
-                    HPOS="161"
-                    VPOS="2038"
-                    WIDTH="671"
-                    HEIGHT="61"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_63"
-                    TAGREFS="LT4091"
-                    BASELINE="158 2111 783 2106" 
-                    HPOS="154"
-                    VPOS="2090"
-                    WIDTH="626"
-                    HEIGHT="32">
-            <Shape><Polygon POINTS="156 2120 191 2120 205 2120 224 2120 242 2118 263 2118 282 2120 298 2120 314 2122 326 2122 473 2120 778 2120 780 2108 778 2092 154 2090 156 2108"/></Shape>
-	    <String CONTENT="** Agent contractuel INRAP Méditerranée, patrice.wuscher@inrap.fr"
-                    HPOS="154"
-                    VPOS="2090"
-                    WIDTH="626"
-                    HEIGHT="32"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_64"
-                    TAGREFS="LT4091"
-                    BASELINE="158 2129 631 2132" 
-                    HPOS="154"
-                    VPOS="2106"
-                    WIDTH="475"
-                    HEIGHT="47">
-            <Shape><Polygon POINTS="624 2106 606 2106 587 2106 566 2106 547 2106 526 2106 508 2106 489 2106 468 2106 450 2108 431 2108 410 2108 391 2108 370 2108 352 2108 333 2108 312 2108 294 2108 275 2108 254 2108 235 2108 214 2108 196 2108 177 2108 156 2108 156 2127 154 2153 627 2153 629 2129 627 2106 624 2106"/></Shape>
-	    <String CONTENT="*** C.A.M.L., 5 rue de l&#x27;Olivier 11000 Carcassonne"
-                    HPOS="154"
-                    VPOS="2106"
-                    WIDTH="475"
-                    HEIGHT="47"></String>
-          </TextLine>
-
-          
         </TextBlock>
         
         <TextBlock HPOS="839.0"
@@ -1085,24 +1034,6 @@
 
           
           
-          <TextLine ID="line_23"
-                    TAGREFS="LT4091"
-                    BASELINE="899 822 1500 822" 
-                    HPOS="899"
-                    VPOS="790"
-                    WIDTH="601"
-                    HEIGHT="46">
-            <Shape><Polygon POINTS="899 822 899 836 1500 836 1500 822 1500 790 899 790 899 822"/></Shape>
-	    <String CONTENT="Un diagnostic archéologique de 3 hectares (projet de"
-                    HPOS="899"
-                    VPOS="790"
-                    WIDTH="601"
-                    HEIGHT="46"
-                    WC="0.9910875"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="line_24"
                     TAGREFS="LT4091"
                     BASELINE="862 855 1500 850" 
@@ -1117,6 +1048,24 @@
                     WIDTH="640"
                     HEIGHT="42"
                     WC="0.9864"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT4091"
+                    BASELINE="899 822 1500 822" 
+                    HPOS="899"
+                    VPOS="790"
+                    WIDTH="601"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="899 822 899 836 1500 836 1500 822 1500 790 899 790 899 822"/></Shape>
+	    <String CONTENT="Un diagnostic archéologique de 3 hectares (projet de"
+                    HPOS="899"
+                    VPOS="790"
+                    WIDTH="601"
+                    HEIGHT="46"
+                    WC="0.9910875"></String>
           </TextLine>
 
           
@@ -1643,6 +1592,67 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="151.0"
+                   VPOS="2043.0"
+                   WIDTH="690.0"
+                   HEIGHT="105.0"
+                   ID="eSc_textblock_c9dbe968"
+                   TAGREFS="BT10477">
+          <Shape><Polygon POINTS="151 2043 151 2148 841 2148 841 2043"/></Shape>
+          
+          
+          <TextLine ID="line_62"
+                    TAGREFS="LT4091"
+                    BASELINE="161 2080 832 2080" 
+                    HPOS="161"
+                    VPOS="2038"
+                    WIDTH="671"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="161 2099 832 2092 832 2080 829 2057 478 2057 426 2055 408 2043 398 2038 396 2038 161 2038 161 2080"/></Shape>
+	    <String CONTENT="* Agent contractuel INRAP Méditerranée, agnieszka_koziol@hotmail.com"
+                    HPOS="161"
+                    VPOS="2038"
+                    WIDTH="671"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_63"
+                    TAGREFS="LT4091"
+                    BASELINE="158 2111 783 2106" 
+                    HPOS="154"
+                    VPOS="2090"
+                    WIDTH="626"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="156 2120 191 2120 205 2120 224 2120 242 2118 263 2118 282 2120 298 2120 314 2122 326 2122 473 2120 778 2120 780 2108 778 2092 154 2090 156 2108"/></Shape>
+	    <String CONTENT="** Agent contractuel INRAP Méditerranée, patrice.wuscher@inrap.fr"
+                    HPOS="154"
+                    VPOS="2090"
+                    WIDTH="626"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_64"
+                    TAGREFS="LT4091"
+                    BASELINE="158 2129 631 2132" 
+                    HPOS="154"
+                    VPOS="2106"
+                    WIDTH="475"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="606 2106 587 2106 566 2106 547 2106 526 2106 508 2106 489 2106 468 2106 450 2108 431 2108 410 2108 391 2108 370 2108 352 2108 333 2108 312 2108 294 2108 275 2108 254 2108 235 2108 214 2108 196 2108 177 2108 156 2108 156 2127 154 2153 627 2153 629 2129 627 2106 624 2106"/></Shape>
+	    <String CONTENT="*** C.A.M.L., 5 rue de l&#x27;Olivier 11000 Carcassonne"
+                    HPOS="154"
+                    VPOS="2106"
+                    WIDTH="475"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="75.0"
                    VPOS="2208.0"
                    WIDTH="58.0"
@@ -1667,16 +1677,6 @@
                     HEIGHT="49"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="151.0"
-                   VPOS="2043.0"
-                   WIDTH="690.0"
-                   HEIGHT="105.0"
-                   ID="eSc_textblock_c9dbe968"
-                   TAGREFS="BT10477">
-          <Shape><Polygon POINTS="151 2043 151 2148 841 2148 841 2043"/></Shape>
           
         </TextBlock>
         
