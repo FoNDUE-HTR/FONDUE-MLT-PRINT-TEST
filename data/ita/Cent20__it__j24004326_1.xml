@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent20__it__j24004326_1.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10579" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10578" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10577" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT10576" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10575" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10574" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10573" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10572" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4140" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4139" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4138" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3098"
+          HEIGHT="4670"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3098"
+                  HEIGHT="4670">
+        
+        <TextBlock HPOS="283"
+                   VPOS="303"
+                   WIDTH="2487"
+                   HEIGHT="3865"
+                   ID="eSc_textblock_a5b2b044"
+                   TAGREFS="BT10572">
+          <Shape><Polygon POINTS="283 303 283 4168 2770 4168 2770 303"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_33ef58b5"
+                    TAGREFS="LT4139"
+                    BASELINE="2309 588 2664 583" 
+                    HPOS="2306"
+                    VPOS="513"
+                    WIDTH="358"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="2553 513 2550 513 2547 513 2545 513 2519 529 2485 513 2483 513 2480 513 2477 513 2441 531 2438 534 2379 534 2376 531 2363 518 2363 516 2361 516 2358 516 2355 516 2353 516 2324 524 2306 560 2309 588 2309 609 2662 607 2664 583 2659 534 2654 529"/></Shape>
+	    <String CONTENT="Lucia Re"
+                    HPOS="2306"
+                    VPOS="513"
+                    WIDTH="358"
+                    HEIGHT="96"
+                    WC="0.990533262491226"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fab050b0"
+                    TAGREFS="LT4139"
+                    BASELINE="1559 975 2669 975" 
+                    HPOS="1559"
+                    VPOS="897"
+                    WIDTH="1110"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2607 900 2597 900 2584 900 2571 910 2480 897 2477 897 2475 897 2441 913 2438 913 2433 913 2374 897 2371 897 2368 897 2366 897 2322 910 2314 913 2304 910 2259 897 2257 897 2254 897 2252 897 2249 897 2231 910 2226 913 2184 910 2052 897 2049 897 1984 908 1966 910 1956 908 1927 897 1925 897 1922 897 1920 897 1917 897 1917 900 1909 908 1901 913 1559 905 1559 975 1559 996 2669 996 2669 975 2669 923 2659 913"/></Shape>
+	    <String CONTENT="Per una lettura testualista"
+                    HPOS="1559"
+                    VPOS="897"
+                    WIDTH="1110"
+                    HEIGHT="99"
+                    WC="0.999244433862192"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_789de505"
+                    TAGREFS="LT4139"
+                    BASELINE="1637 1092 2667 1087" 
+                    HPOS="1634"
+                    VPOS="1014"
+                    WIDTH="1033"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1637 1110 2633 1120 2636 1120 2638 1120 2667 1105 2667 1087 2662 1032 2477 1014 2475 1014 2472 1014 2433 1032 2208 1032 2150 1014 2148 1014 2145 1014 2143 1014 2140 1014 2109 1035 1803 1035 1787 1019 1787 1017 1785 1017 1782 1017 1676 1017 1673 1017 1670 1017 1634 1032 1637 1092"/></Shape>
+	    <String CONTENT="del corpus dannunziano"
+                    HPOS="1634"
+                    VPOS="1014"
+                    WIDTH="1033"
+                    HEIGHT="106"
+                    WC="0.983215884728865"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_722744e1"
+                    TAGREFS="LT4139"
+                    BASELINE="1748 1281 2680 1281" 
+                    HPOS="1748"
+                    VPOS="1237"
+                    WIDTH="932"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1748 1305 2680 1305 2680 1281 2680 1237 1748 1237 1748 1281"/></Shape>
+	    <String CONTENT="Chi mai oggi o nei secoli dei secoli,"
+                    HPOS="1748"
+                    VPOS="1237"
+                    WIDTH="932"
+                    HEIGHT="68"
+                    WC="0.97695475655633"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8d172ae"
+                    TAGREFS="LT4139"
+                    BASELINE="1385 1364 2680 1359" 
+                    HPOS="1382"
+                    VPOS="1315"
+                    WIDTH="1298"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1385 1390 2677 1385 2680 1359 2672 1315 1382 1320 1385 1364"/></Shape>
+	    <String CONTENT="potrà dire quel che di me ho io voluto nascondere?"
+                    HPOS="1382"
+                    VPOS="1315"
+                    WIDTH="1298"
+                    HEIGHT="75"
+                    WC="0.981866517487694"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_75ca6280"
+                    TAGREFS="LT4139"
+                    BASELINE="2096 1450 2669 1445" 
+                    HPOS="2093"
+                    VPOS="1390"
+                    WIDTH="576"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2096 1471 2667 1468 2669 1445 2667 1406 2630 1390 2628 1390 2625 1390 2374 1406 2122 1393 2119 1393 2117 1393 2114 1393 2093 1403 2096 1450"/></Shape>
+	    <String CONTENT="(Libro segreto 2:918)"
+                    HPOS="2093"
+                    VPOS="1390"
+                    WIDTH="576"
+                    HEIGHT="81"
+                    WC="0.997458006654467"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb3c287b"
+                    TAGREFS="LT4139"
+                    BASELINE="508 1722 1668 1722" 
+                    HPOS="508"
+                    VPOS="1660"
+                    WIDTH="1160"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="588 1660 586 1660 583 1660 557 1673 531 1660 529 1660 526 1660 524 1660 521 1660 508 1670 508 1722 508 1746 1668 1746 1668 1722 1668 1688 1655 1673"/></Shape>
+	    <String CONTENT="1. D&#x27;Annunzio e la critica smascherante."
+                    HPOS="508"
+                    VPOS="1660"
+                    WIDTH="1160"
+                    HEIGHT="86"
+                    WC="0.982615236938"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d9e811f"
+                    TAGREFS="LT4138"
+                    BASELINE="500 1904 2667 1904" 
+                    HPOS="500"
+                    VPOS="1855"
+                    WIDTH="2167"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2654 1855 2628 1855 500 1855 500 1904 500 1927 2667 1927 2667 1904 2667 1855 2654 1855"/></Shape>
+	    <String CONTENT="Rileggere D’Annunzio oggi vuol dire innanzitutto affrontare il problema"
+                    HPOS="500"
+                    VPOS="1855"
+                    WIDTH="2167"
+                    HEIGHT="72"
+                    WC="0.972155706143715"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b339789"
+                    TAGREFS="LT4138"
+                    BASELINE="378 1987 2651 1982" 
+                    HPOS="376"
+                    VPOS="1922"
+                    WIDTH="2275"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="378 1987 378 2010 2649 2005 2651 1982 2643 1925 2075 1935 2060 1927 2044 1922 2041 1922 2039 1922 2000 1930 1964 1935 1933 1930 1888 1922 1886 1922 1883 1922 1857 1930 1839 1935 1818 1930 1779 1922 1777 1922 1774 1922 1743 1930 1728 1935 1715 1932 1681 1922 1678 1922 1676 1922 1673 1922 1642 1932 1632 1935 1624 1932 1600 1922 1598 1922 1595 1922 1593 1922 1590 1922 1577 1932 1572 1935 1554 1932 1504 1925 1502 1925 1442 1932 1414 1938 1398 1935 1367 1925 1364 1925 1362 1925 1359 1925 1338 1935 1331 1938 1318 1935 1279 1925 1276 1925 1273 1925 1224 1935 1211 1938 1201 1935 1164 1925 1162 1925 1159 1925 1157 1925 1154 1925 1136 1935 1133 1938 1126 1935 1071 1925 1068 1925 1066 1925 1063 1925 1045 1938 1043 1940 866 1940 861 1938 651 1925 648 1925 529 1938 409 1925 407 1925 404 1925 376 1938 378 1987"/></Shape>
+	    <String CONTENT="della suaWirkungsgeschichte (la “storia degli effetti”), cioè delle “mutazioni”"
+                    HPOS="376"
+                    VPOS="1922"
+                    WIDTH="2275"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b73a73d9"
+                    TAGREFS="LT4138"
+                    BASELINE="378 2070 2664 2070" 
+                    HPOS="378"
+                    VPOS="2026"
+                    WIDTH="2286"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="378 2070 378 2093 2664 2093 2664 2070 2664 2026 378 2026 378 2070"/></Shape>
+	    <String CONTENT="che il corpus dannunziano ha subito con il passare del tempo, soprattutto"
+                    HPOS="378"
+                    VPOS="2026"
+                    WIDTH="2286"
+                    HEIGHT="67"
+                    WC="0.982074385636473"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64f086d5"
+                    TAGREFS="LT4138"
+                    BASELINE="381 2155 2664 2155" 
+                    HPOS="381"
+                    VPOS="2109"
+                    WIDTH="2283"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="381 2155 381 2179 2664 2179 2664 2155 2664 2109 381 2109 381 2155"/></Shape>
+	    <String CONTENT="attraverso gli interventi della critica. Un testo letterario, infatti, ci giunge ed è"
+                    HPOS="381"
+                    VPOS="2109"
+                    WIDTH="2283"
+                    HEIGHT="70"
+                    WC="0.986690802629604"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d877c271"
+                    TAGREFS="LT4138"
+                    BASELINE="381 2239 2667 2233" 
+                    HPOS="378"
+                    VPOS="2179"
+                    WIDTH="2289"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="381 2239 381 2259 2664 2254 2667 2233 2662 2184 396 2179 394 2179 391 2179 389 2179 378 2187 381 2239"/></Shape>
+	    <String CONTENT="fruibile attraverso una serie di mediazioni interpretative e di inquadramenti"
+                    HPOS="378"
+                    VPOS="2179"
+                    WIDTH="2289"
+                    HEIGHT="80"
+                    WC="0.991782477923802"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2eafce53"
+                    TAGREFS="LT4138"
+                    BASELINE="378 2324 2667 2319" 
+                    HPOS="376"
+                    VPOS="2262"
+                    WIDTH="2291"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="378 2324 378 2345 2664 2340 2667 2319 2662 2270 503 2262 500 2262 376 2275 378 2324"/></Shape>
+	    <String CONTENT="contestuali che modificano il senso del testo stesso, il suo modo di parlarci e di"
+                    HPOS="376"
+                    VPOS="2262"
+                    WIDTH="2291"
+                    HEIGHT="83"
+                    WC="0.987367219314343"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72c559f0"
+                    TAGREFS="LT4138"
+                    BASELINE="381 2405 2667 2399" 
+                    HPOS="378"
+                    VPOS="2342"
+                    WIDTH="2289"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="381 2405 381 2425 2664 2420 2667 2399 2662 2355 1536 2342 1533 2342 1434 2355 415 2345 412 2345 409 2345 378 2355 381 2405"/></Shape>
+	    <String CONTENT="significare: l’interpretazione di un’opera ha luogo inevitabilmente in un territorio"
+                    HPOS="378"
+                    VPOS="2342"
+                    WIDTH="2289"
+                    HEIGHT="83"
+                    WC="0.988214285600753"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53c01ad9"
+                    TAGREFS="LT4138"
+                    BASELINE="384 2488 2664 2482" 
+                    HPOS="381"
+                    VPOS="2425"
+                    WIDTH="2283"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="384 2488 384 2514 2662 2501 2664 2482 2659 2436 425 2425 422 2425 420 2425 381 2438 384 2488"/></Shape>
+	    <String CONTENT="già “compromesso” dalla fortuna dell’opera stessa.^1 Nella storia della critica e"
+                    HPOS="381"
+                    VPOS="2425"
+                    WIDTH="2283"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff2b6b48"
+                    TAGREFS="LT4138"
+                    BASELINE="384 2563 2672 2563" 
+                    HPOS="384"
+                    VPOS="2521"
+                    WIDTH="2288"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="384 2563 384 2589 2672 2589 2672 2563 2672 2521 384 2521 384 2563"/></Shape>
+	    <String CONTENT="nella Mirkungsgeschichte dannunziana è riscontrabile una tendenza allo"
+                    HPOS="384"
+                    VPOS="2521"
+                    WIDTH="2288"
+                    HEIGHT="68"
+                    WC="0.990875878804166"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4270d4af"
+                    TAGREFS="LT4138"
+                    BASELINE="394 2643 2667 2648" 
+                    HPOS="391"
+                    VPOS="2586"
+                    WIDTH="2276"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="391 2661 2662 2667 2667 2648 2664 2604 1024 2589 1022 2589 936 2589 454 2599 396 2586 394 2643 391 2661"/></Shape>
+	    <String CONTENT="“gmascheramento” che accomuna pratiche critiche assai diverse, da quella"
+                    HPOS="391"
+                    VPOS="2586"
+                    WIDTH="2276"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0517880"
+                    TAGREFS="LT4138"
+                    BASELINE="381 2731 2664 2731" 
+                    HPOS="381"
+                    VPOS="2672"
+                    WIDTH="2283"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="381 2731 381 2755 2664 2755 2664 2731 2664 2687 2555 2672 2553 2672 2550 2672 2503 2685 2467 2672 2464 2672 2462 2672 2329 2685 2093 2672 2091 2672 2088 2672 2060 2687 1837 2687 1746 2672 1743 2672 1523 2685 1473 2672 1471 2672 1468 2672 1465 2672 1432 2685 1328 2672 1325 2672 1198 2685 1035 2672 1032 2672 1030 2672 1027 2672 1006 2685 905 2672 902 2672 780 2685 708 2672 705 2672 604 2685 516 2672 513 2672 381 2685 381 2731"/></Shape>
+	    <String CONTENT="crociana, alle analisi di tipo sociologico, marxista, gramsciano o psicologista."
+                    HPOS="381"
+                    VPOS="2672"
+                    WIDTH="2283"
+                    HEIGHT="83"
+                    WC="0.986656000465155"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caf465c6"
+                    TAGREFS="LT4138"
+                    BASELINE="381 2812 2667 2812" 
+                    HPOS="381"
+                    VPOS="2763"
+                    WIDTH="2286"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="381 2812 381 2838 2667 2838 2667 2812 2667 2763 381 2763 381 2812"/></Shape>
+	    <String CONTENT="L’istanza smascherante, presupponendo una nozione negativa o peggiorativa di"
+                    HPOS="381"
+                    VPOS="2763"
+                    WIDTH="2286"
+                    HEIGHT="75"
+                    WC="0.991374178152335"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7de45b5f"
+                    TAGREFS="LT4138"
+                    BASELINE="381 2895 2669 2895" 
+                    HPOS="381"
+                    VPOS="2835"
+                    WIDTH="2288"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="381 2895 381 2918 2669 2918 2669 2895 2669 2848 2080 2835 2078 2835 1969 2848 1956 2848 1943 2848 1844 2835 1842 2835 1728 2848 1717 2848 1715 2848 1676 2835 1673 2835 1670 2835 1606 2848 1600 2848 1598 2848 1564 2835 1561 2835 1356 2835 1354 2835 1351 2835 1323 2848 1320 2848 1318 2848 1235 2835 1232 2835 1170 2848 1167 2848 1123 2835 1120 2835 1118 2835 1115 2835 1087 2848 1043 2835 1040 2835 1037 2835 954 2848 952 2848 949 2848 869 2835 866 2835 864 2835 861 2835 843 2848 809 2835 806 2835 804 2835 801 2835 747 2848 710 2835 708 2835 705 2835 703 2835 651 2848 596 2835 594 2835 591 2835 588 2835 560 2848 560 2851 381 2851 381 2895"/></Shape>
+	    <String CONTENT="tutto ciò che è “retorica”, cioè “mistificazione della realtà”, si esprime nel"
+                    HPOS="381"
+                    VPOS="2835"
+                    WIDTH="2288"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7dbd1dc9"
+                    TAGREFS="LT4138"
+                    BASELINE="384 2973 2669 2978" 
+                    HPOS="381"
+                    VPOS="2929"
+                    WIDTH="2288"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="384 2973 381 2996 2664 3001 2669 2978 2667 2934 384 2929 384 2973"/></Shape>
+	    <String CONTENT="tentativo di ricondurre la retorica dannunziana, le sue configurazioni stilistiche"
+                    HPOS="381"
+                    VPOS="2929"
+                    WIDTH="2288"
+                    HEIGHT="72"
+                    WC="0.976322318722562"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e253226"
+                    TAGREFS="LT4138"
+                    BASELINE="396 3064 2669 3064" 
+                    HPOS="396"
+                    VPOS="3004"
+                    WIDTH="2273"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="396 3064 396 3087 2669 3087 2669 3064 2669 3017 396 3004 396 3064"/></Shape>
+	    <String CONTENT="“superficiali”, a delle cause o motivazioni “profonde”, siano esse di carattere"
+                    HPOS="396"
+                    VPOS="3004"
+                    WIDTH="2273"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9abd482"
+                    TAGREFS="LT4138"
+                    BASELINE="384 3154 2667 3147" 
+                    HPOS="381"
+                    VPOS="3084"
+                    WIDTH="2286"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="384 3154 384 3178 2664 3170 2667 3147 2659 3089 2420 3100 2394 3089 2376 3084 2374 3084 2371 3084 2368 3084 2348 3092 2324 3100 2298 3092 2278 3084 2275 3084 2272 3084 2187 3092 2112 3100 2083 3095 2044 3084 2041 3084 2039 3084 2036 3084 2018 3095 2003 3102 1800 3102 1756 3097 1689 3087 1686 3087 1595 3097 1556 3102 1536 3100 1489 3087 1486 3087 1484 3087 1341 3100 1336 3100 1331 3100 1248 3087 1245 3087 1242 3087 1240 3087 1219 3102 1216 3102 1206 3102 1102 3089 1100 3089 1097 3089 1061 3102 1058 3102 949 3089 947 3089 806 3105 799 3105 793 3105 646 3089 643 3089 552 3105 456 3089 454 3089 451 3089 381 3108 384 3154"/></Shape>
+	    <String CONTENT="psico-estetico, sociologico, ideologico, politico o anche patologico. Testi"
+                    HPOS="381"
+                    VPOS="3084"
+                    WIDTH="2286"
+                    HEIGHT="94"
+                    WC="0.986724364757538"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a30e6cd9"
+                    TAGREFS="LT4138"
+                    BASELINE="399 3235 2667 3230" 
+                    HPOS="396"
+                    VPOS="3175"
+                    WIDTH="2271"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="399 3235 399 3256 2664 3256 2667 3230 2662 3175 396 3175 399 3235"/></Shape>
+	    <String CONTENT="“esemplari” dei vari orientamenti della critica “smascherante” negli ultimi"
+                    HPOS="396"
+                    VPOS="3175"
+                    WIDTH="2271"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f65f46fc"
+                    TAGREFS="LT4138"
+                    BASELINE="389 3313 2669 3318" 
+                    HPOS="386"
+                    VPOS="3266"
+                    WIDTH="2283"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="389 3313 386 3333 2664 3341 2669 3318 2667 3271 389 3266 389 3313"/></Shape>
+	    <String CONTENT="vent’anni possono essere considerati gli studi dannunziani di Salinari, Luti,"
+                    HPOS="386"
+                    VPOS="3266"
+                    WIDTH="2283"
+                    HEIGHT="75"
+                    WC="0.982962176397249"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d5950a4a"
+                    TAGREFS="LT4138"
+                    BASELINE="384 3403 2664 3398" 
+                    HPOS="381"
+                    VPOS="3341"
+                    WIDTH="2283"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="384 3403 384 3424 2662 3419 2664 3398 2659 3349 399 3341 396 3341 394 3341 391 3341 381 3346 384 3403"/></Shape>
+	    <String CONTENT="Jacomuzzi, Roda e, nel campo degli studi storico-biografici, il D’Annunzio di"
+                    HPOS="381"
+                    VPOS="3341"
+                    WIDTH="2283"
+                    HEIGHT="83"
+                    WC="0.985799796395488"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bed4d65e"
+                    TAGREFS="LT4138"
+                    BASELINE="384 3486 2669 3486" 
+                    HPOS="384"
+                    VPOS="3435"
+                    WIDTH="2285"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="384 3486 384 3512 2669 3512 2669 3486 2669 3440 384 3435 384 3486"/></Shape>
+	    <String CONTENT="Paolo Alatri. Il corpus dannunziano insomma, ci viene generalmente presentato"
+                    HPOS="384"
+                    VPOS="3435"
+                    WIDTH="2285"
+                    HEIGHT="77"
+                    WC="0.984539223181737"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc274aa6"
+                    TAGREFS="LT4138"
+                    BASELINE="384 3564 2672 3569" 
+                    HPOS="381"
+                    VPOS="3510"
+                    WIDTH="2291"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="384 3564 381 3585 2667 3590 2672 3569 2672 3531 2599 3512 2597 3512 2431 3525 1769 3512 1766 3512 1764 3512 1761 3512 1741 3528 1559 3528 1515 3512 1512 3512 1510 3512 747 3523 627 3510 625 3510 534 3523 417 3510 415 3510 412 3510 384 3523 384 3564"/></Shape>
+	    <String CONTENT="dalla critica come sintomo di un certo stato di cose, per cui la sua retorica"
+                    HPOS="381"
+                    VPOS="3510"
+                    WIDTH="2291"
+                    HEIGHT="80"
+                    WC="0.978248725463818"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8ba87e4"
+                    TAGREFS="LT4138"
+                    BASELINE="389 3655 2672 3655" 
+                    HPOS="389"
+                    VPOS="3608"
+                    WIDTH="2283"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="389 3655 389 3678 2672 3678 2672 3655 2672 3608 389 3608 389 3655"/></Shape>
+	    <String CONTENT="sarebbe una (spesso splendida) serie di mistificazioni di cui il critico intende"
+                    HPOS="389"
+                    VPOS="3608"
+                    WIDTH="2283"
+                    HEIGHT="70"
+                    WC="0.981165254116058"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aff070eb"
+                    TAGREFS="LT4138"
+                    BASELINE="386 3743 2669 3736" 
+                    HPOS="384"
+                    VPOS="3676"
+                    WIDTH="2285"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="386 3743 386 3764 2664 3767 2669 3736 2667 3691 2623 3676 2620 3676 2617 3676 2615 3676 2612 3676 2592 3689 2449 3676 2446 3676 2361 3689 2332 3676 2329 3676 2327 3676 2246 3689 2197 3676 2195 3676 2192 3676 2189 3676 2143 3689 2096 3676 2093 3676 2091 3676 2023 3689 1990 3676 1987 3676 1984 3676 1899 3691 1816 3678 1813 3678 1811 3678 1761 3694 1478 3694 1432 3678 1429 3678 1427 3678 1351 3691 1336 3678 1333 3678 1331 3678 1154 3678 1152 3678 1087 3691 853 3681 851 3681 848 3681 845 3681 830 3694 778 3681 775 3681 773 3681 384 3697 386 3743"/></Shape>
+	    <String CONTENT="mettere a nudo i referenti “veri”, o la sostanza dietro al velo, il volto dietro la"
+                    HPOS="384"
+                    VPOS="3676"
+                    WIDTH="2285"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84ec055c"
+                    TAGREFS="LT4138"
+                    BASELINE="386 3826 692 3826" 
+                    HPOS="386"
+                    VPOS="3782"
+                    WIDTH="306"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="386 3826 386 3850 692 3850 692 3826 692 3782 386 3782 386 3826"/></Shape>
+	    <String CONTENT="maschera."
+                    HPOS="386"
+                    VPOS="3782"
+                    WIDTH="306"
+                    HEIGHT="68"
+                    WC="0.988739801777734"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_debad9ee"
+                    TAGREFS="LT4138"
+                    BASELINE="508 3917 2669 3917" 
+                    HPOS="508"
+                    VPOS="3865"
+                    WIDTH="2161"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="508 3917 508 3938 2667 3938 2669 3917 2667 3868 508 3865 508 3917"/></Shape>
+	    <String CONTENT="Per complesse ragioni storico-ideologiche la critica “smascherante” è"
+                    HPOS="508"
+                    VPOS="3865"
+                    WIDTH="2161"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69448919"
+                    TAGREFS="LT4138"
+                    BASELINE="386 4003 2672 3998" 
+                    HPOS="384"
+                    VPOS="3943"
+                    WIDTH="2288"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="386 4003 386 4026 2669 4021 2672 3998 2667 3953 417 3943 415 3943 412 3943 384 3953 386 4003"/></Shape>
+	    <String CONTENT="rimasta in genere ancorata a una nozione implicitamente riduttiva del discorso"
+                    HPOS="384"
+                    VPOS="3943"
+                    WIDTH="2288"
+                    HEIGHT="83"
+                    WC="0.987767309714586"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4c3cc5c"
+                    TAGREFS="LT4138"
+                    BASELINE="386 4086 2672 4086" 
+                    HPOS="386"
+                    VPOS="4036"
+                    WIDTH="2286"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="386 4086 386 4114 2672 4114 2672 4086 2672 4039 386 4036 386 4086"/></Shape>
+	    <String CONTENT="letterario. All’istanza diffusa dello smascheramento, al tentativo di demistificare"
+                    HPOS="386"
+                    VPOS="4036"
+                    WIDTH="2286"
+                    HEIGHT="78"
+                    WC="0.976860156978469"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
