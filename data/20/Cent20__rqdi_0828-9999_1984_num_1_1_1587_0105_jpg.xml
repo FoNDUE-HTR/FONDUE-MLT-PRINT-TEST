@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent20__rqdi_0828-9999_1984_num_1_1_1587_0105_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10462" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10461" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT10460" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10459" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10458" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10457" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10456" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10445" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10444" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10443" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4085" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4084" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4083" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="710"
+          HEIGHT="1051"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="710"
+                  HEIGHT="1051">
+        
+        <TextBlock HPOS="83"
+                   VPOS="245"
+                   WIDTH="527"
+                   HEIGHT="619"
+                   ID="eSc_textblock_3c90ae4d"
+                   TAGREFS="BT10443">
+          <Shape><Polygon POINTS="610 864 610 245 83 245 83 864"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4084"
+                    BASELINE="185 275 513 273" 
+                    HPOS="184"
+                    VPOS="252"
+                    WIDTH="329"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="185 282 512 281 513 273 512 259 501 252 500 252 499 252 485 259 393 259 304 259 300 256 298 253 297 253 296 253 279 253 278 253 275 255 269 259 262 255 259 253 258 253 239 253 238 253 237 253 234 255 226 259 217 254 215 253 214 253 184 253 185 275"/></Shape>
+	    <String CONTENT="L’application aux gouvernements"
+                    HPOS="184"
+                    VPOS="252"
+                    WIDTH="329"
+                    HEIGHT="30"
+                    WC="0.986966666666667"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4084"
+                    BASELINE="159 304 538 303" 
+                    HPOS="158"
+                    VPOS="284"
+                    WIDTH="380"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="159 312 312 315 331 312 341 315 342 315 343 315 378 312 427 314 428 314 429 314 433 311 434 311 440 311 517 314 518 314 538 311 538 303 537 284 158 285 159 304"/></Shape>
+	    <String CONTENT="et administrations régionaux et locaux"
+                    HPOS="158"
+                    VPOS="284"
+                    WIDTH="380"
+                    HEIGHT="31"
+                    WC="0.98408"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4084"
+                    BASELINE="139 332 559 333" 
+                    HPOS="139"
+                    VPOS="315"
+                    WIDTH="420"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="139 337 146 340 147 340 558 338 559 333 558 315 139 315 139 332"/></Shape>
+	    <String CONTENT="de l’Accord général sur les tarifs douaniers"
+                    HPOS="139"
+                    VPOS="315"
+                    WIDTH="420"
+                    HEIGHT="25"
+                    WC="0.991614285714286"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4084"
+                    BASELINE="142 362 555 360" 
+                    HPOS="142"
+                    VPOS="340"
+                    WIDTH="413"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="142 370 555 370 555 360 554 346 526 346 520 340 519 340 470 340 469 340 463 346 455 343 454 343 438 346 432 340 431 340 417 340 416 340 407 347 348 347 341 341 340 341 312 341 311 341 300 347 191 347 184 342 183 342 159 342 158 342 142 347 142 362"/></Shape>
+	    <String CONTENT="et le commerce et des accords et décisions"
+                    HPOS="142"
+                    VPOS="340"
+                    WIDTH="413"
+                    HEIGHT="30"
+                    WC="0.9936"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4084"
+                    BASELINE="109 391 603 390" 
+                    HPOS="108"
+                    VPOS="370"
+                    WIDTH="495"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="109 402 603 401 603 390 601 370 108 371 109 391"/></Shape>
+	    <String CONTENT="issus des négociations commerciales multilatérales"
+                    HPOS="108"
+                    VPOS="370"
+                    WIDTH="495"
+                    HEIGHT="32"
+                    WC="0.95292"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4084"
+                    BASELINE="260 440 442 438" 
+                    HPOS="259"
+                    VPOS="419"
+                    WIDTH="183"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="260 451 431 451 431 450 432 450 442 447 442 438 441 419 259 421 260 440"/></Shape>
+	    <String CONTENT="A.L.C. De MESTRAL*"
+                    HPOS="259"
+                    VPOS="419"
+                    WIDTH="183"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4083"
+                    BASELINE="126 531 607 530" 
+                    HPOS="125"
+                    VPOS="514"
+                    WIDTH="482"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="126 531 126 538 605 538 607 530 605 514 125 515 126 531"/></Shape>
+	    <String CONTENT="L&#x27;Accord général sur les tarifs douaniers et le commerce^1 (G.A.T.T.)."
+                    HPOS="125"
+                    VPOS="514"
+                    WIDTH="482"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4083"
+                    BASELINE="94 551 608 550" 
+                    HPOS="94"
+                    VPOS="536"
+                    WIDTH="514"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="94 551 94 557 607 557 608 550 606 536 94 538 94 551"/></Shape>
+	    <String CONTENT="est une institution profondément marquée par un esprit pragmatique."
+                    HPOS="94"
+                    VPOS="536"
+                    WIDTH="514"
+                    HEIGHT="21"
+                    WC="0.992244444444444"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4083"
+                    BASELINE="94 572 608 569" 
+                    HPOS="93"
+                    VPOS="554"
+                    WIDTH="515"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="94 572 94 578 607 576 608 569 607 557 487 554 486 554 479 557 476 558 467 557 437 555 436 555 427 557 425 558 93 558 94 572"/></Shape>
+	    <String CONTENT="La lettre de l’Accord général est une chose; souvent la réalité en est une"
+                    HPOS="93"
+                    VPOS="554"
+                    WIDTH="515"
+                    HEIGHT="24"
+                    WC="0.965435714285714"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT4083"
+                    BASELINE="94 591 609 590" 
+                    HPOS="94"
+                    VPOS="576"
+                    WIDTH="515"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="94 591 94 597 608 596 609 590 608 579 351 576 350 576 346 579 111 576 94 579 94 591"/></Shape>
+	    <String CONTENT="autre. Les problèmes d’une époque s’estompent avec les années et cèdent"
+                    HPOS="94"
+                    VPOS="576"
+                    WIDTH="515"
+                    HEIGHT="21"
+                    WC="0.983745454545455"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT4083"
+                    BASELINE="94 611 608 609" 
+                    HPOS="93"
+                    VPOS="594"
+                    WIDTH="515"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="94 611 94 618 608 617 608 609 607 597 513 594 93 599 94 611"/></Shape>
+	    <String CONTENT="la place à d’autres préoccupations issues du contexte changeant du"
+                    HPOS="93"
+                    VPOS="594"
+                    WIDTH="515"
+                    HEIGHT="24"
+                    WC="0.98774"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT4083"
+                    BASELINE="94 630 608 630" 
+                    HPOS="94"
+                    VPOS="619"
+                    WIDTH="514"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="94 630 94 637 608 637 608 630 608 619 94 619 94 630"/></Shape>
+	    <String CONTENT="commerce international. Il en est ainsi en ce qui concerne l’application"
+                    HPOS="94"
+                    VPOS="619"
+                    WIDTH="514"
+                    HEIGHT="18"
+                    WC="0.993654545454545"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT4083"
+                    BASELINE="94 651 608 649" 
+                    HPOS="94"
+                    VPOS="635"
+                    WIDTH="514"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="94 651 94 658 607 656 608 649 606 635 94 636 94 651"/></Shape>
+	    <String CONTENT="des accords du G.A.T.T. aux gouvernements et administrations régionaux."
+                    HPOS="94"
+                    VPOS="635"
+                    WIDTH="514"
+                    HEIGHT="23"
+                    WC="0.993733333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT4083"
+                    BASELINE="94 670 608 670" 
+                    HPOS="94"
+                    VPOS="655"
+                    WIDTH="514"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="94 670 94 676 608 676 608 670 608 658 600 655 560 655 559 655 558 655 553 658 271 655 270 655 260 658 243 655 218 658 203 655 202 655 197 659 125 659 116 655 115 655 94 658 94 670"/></Shape>
+	    <String CONTENT="et locaux canadiens. En 1947, lors de la conclusion de l’Accord général,"
+                    HPOS="94"
+                    VPOS="655"
+                    WIDTH="514"
+                    HEIGHT="21"
+                    WC="0.981633333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT4083"
+                    BASELINE="94 691 608 689" 
+                    HPOS="93"
+                    VPOS="674"
+                    WIDTH="515"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="94 691 94 698 608 698 608 689 607 677 267 674 266 674 265 674 261 677 104 675 103 675 93 678 94 691"/></Shape>
+	    <String CONTENT="les négociateurs se souciaient peu de l’impact des États constituants des"
+                    HPOS="93"
+                    VPOS="674"
+                    WIDTH="515"
+                    HEIGHT="24"
+                    WC="0.993081818181818"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT4083"
+                    BASELINE="94 711 608 709" 
+                    HPOS="93"
+                    VPOS="694"
+                    WIDTH="515"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="94 711 94 718 608 718 608 709 607 698 587 694 586 694 570 698 569 698 489 698 487 698 469 694 445 697 435 699 411 699 409 697 406 695 405 695 404 695 390 697 381 698 344 697 295 695 294 695 293 695 290 697 286 699 251 700 219 700 215 696 214 695 213 695 212 695 207 696 192 699 93 696 94 711"/></Shape>
+	    <String CONTENT="fédérations sur le commerce international. Leur première préoccupation"
+                    HPOS="93"
+                    VPOS="694"
+                    WIDTH="515"
+                    HEIGHT="24"
+                    WC="0.9853625"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT4083"
+                    BASELINE="94 731 608 729" 
+                    HPOS="93"
+                    VPOS="714"
+                    WIDTH="515"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="94 731 94 738 608 736 608 729 607 715 396 717 386 717 365 714 316 717 305 717 302 717 288 714 248 717 239 718 235 717 222 715 108 715 93 718 94 731"/></Shape>
+	    <String CONTENT="était de baisser les tarifs douaniers et d’abolir le recours aux restrictions"
+                    HPOS="93"
+                    VPOS="714"
+                    WIDTH="515"
+                    HEIGHT="24"
+                    WC="0.960833333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT4083"
+                    BASELINE="94 751 608 749" 
+                    HPOS="93"
+                    VPOS="735"
+                    WIDTH="515"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="94 751 94 757 608 757 608 749 607 738 473 735 472 735 435 738 132 736 93 739 94 751"/></Shape>
+	    <String CONTENT="quantitatives. Vingt-six ans plus tard, au moment de l’adoption de la"
+                    HPOS="93"
+                    VPOS="735"
+                    WIDTH="515"
+                    HEIGHT="22"
+                    WC="0.989490909090909"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT4083"
+                    BASELINE="94 769 609 770" 
+                    HPOS="94"
+                    VPOS="757"
+                    WIDTH="515"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="94 769 94 777 608 777 609 770 608 758 94 757 94 769"/></Shape>
+	    <String CONTENT="déclaration de Tokyo, les barrières non tarifaires étant la principale"
+                    HPOS="94"
+                    VPOS="757"
+                    WIDTH="515"
+                    HEIGHT="20"
+                    WC="0.98451"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT4083"
+                    BASELINE="94 791 608 790" 
+                    HPOS="93"
+                    VPOS="776"
+                    WIDTH="515"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="94 791 94 799 608 797 608 790 607 777 255 776 254 776 242 779 240 779 239 779 225 776 224 776 187 779 178 776 115 776 93 780 94 791"/></Shape>
+	    <String CONTENT="préoccupation des Parties contractantes, l’application de l’Accord général"
+                    HPOS="93"
+                    VPOS="776"
+                    WIDTH="515"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT4083"
+                    BASELINE="94 810 609 810" 
+                    HPOS="94"
+                    VPOS="798"
+                    WIDTH="515"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="94 810 94 818 609 818 609 810 609 798 94 798 94 810"/></Shape>
+	    <String CONTENT="aux gouvernements régionaux et locaux constituait un problème pratique"
+                    HPOS="94"
+                    VPOS="798"
+                    WIDTH="515"
+                    HEIGHT="20"
+                    WC="0.959822222222222"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT4083"
+                    BASELINE="93 831 608 829" 
+                    HPOS="92"
+                    VPOS="815"
+                    WIDTH="516"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="93 831 93 836 263 839 264 839 320 836 603 838 604 838 608 835 608 829 607 818 515 818 514 818 504 815 503 815 502 815 498 818 497 818 462 818 461 818 449 815 448 815 447 815 443 818 435 815 434 815 427 818 425 819 385 819 383 818 378 815 377 815 376 815 370 818 369 818 368 818 359 815 358 815 357 815 354 818 352 819 283 819 281 818 270 815 269 815 268 815 262 818 260 819 189 819 188 818 184 816 183 816 182 816 92 818 93 831"/></Shape>
+	    <String CONTENT="dont il fallait tenir compte au cours de la négociation des futurs accords"
+                    HPOS="92"
+                    VPOS="815"
+                    WIDTH="516"
+                    HEIGHT="24"
+                    WC="0.987823076923077"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT4083"
+                    BASELINE="94 850 608 848" 
+                    HPOS="94"
+                    VPOS="836"
+                    WIDTH="514"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="94 850 94 858 608 858 608 848 606 836 94 837 94 850"/></Shape>
+	    <String CONTENT="traitant des barrières non tarifaires. Aujourd’hui et pour les années à"
+                    HPOS="94"
+                    VPOS="836"
+                    WIDTH="514"
+                    HEIGHT="22"
+                    WC="0.981890909090909"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="93"
+                   VPOS="904"
+                   WIDTH="435"
+                   HEIGHT="66"
+                   ID="eSc_textblock_dd82728c"
+                   TAGREFS="BT10456">
+          <Shape><Polygon POINTS="93 904 93 970 528 970 528 904"/></Shape>
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT4083"
+                    BASELINE="111 931 424 932" 
+                    HPOS="111"
+                    VPOS="908"
+                    WIDTH="313"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="111 931 111 937 423 938 424 932 424 916 413 913 412 913 411 913 382 915 355 917 224 917 206 914 202 910 201 909 200 909 111 908 111 931"/></Shape>
+	    <String CONTENT="* Professeur à la Faculté de droit. Université McGill."
+                    HPOS="111"
+                    VPOS="908"
+                    WIDTH="313"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24"
+                    TAGREFS="LT4083"
+                    BASELINE="102 947 519 949" 
+                    HPOS="102"
+                    VPOS="933"
+                    WIDTH="417"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="102 947 102 954 209 955 211 956 220 961 221 961 239 961 247 957 249 956 252 957 261 961 262 961 352 959 454 956 460 961 461 962 462 962 479 962 480 962 480 961 487 956 495 956 501 962 502 962 503 962 518 962 519 949 519 933 456 933 455 933 448 938 440 938 434 934 434 933 433 933 428 934 404 938 372 938 368 934 367 934 366 934 364 934 348 937 276 935 253 934 252 934 251 934 248 935 241 937 231 935 220 933 219 933 155 936 134 937 131 936 120 933 119 933 118 933 115 936 113 937 102 937 102 947"/></Shape>
+	    <String CONTENT="1. G.A.T.T.I.B.D.D., v. IV. p. 1 [ci-après dénommé l’Accord général]."
+                    HPOS="102"
+                    VPOS="933"
+                    WIDTH="417"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

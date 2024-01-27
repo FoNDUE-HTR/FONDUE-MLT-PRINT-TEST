@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent20__medio_0223-3843_1979_num_1_1_885_0013_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10462" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10461" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT10460" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10459" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10458" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10457" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10456" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10445" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10444" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10443" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4085" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4084" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4083" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="710"
+          HEIGHT="1006"
+          PHYSICAL_IMG_NR="23"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="710"
+                  HEIGHT="1006">
+        
+        <TextBlock HPOS="292"
+                   VPOS="30"
+                   WIDTH="83"
+                   HEIGHT="30"
+                   ID="block_2"
+                   TAGREFS="BT10444">
+          <Shape><Polygon POINTS="375 30 375 60 292 60 292 30"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4083"
+                    BASELINE="303 45 357 44" 
+                    HPOS="302"
+                    VPOS="30"
+                    WIDTH="55"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="335 30 330 30 324 30 322 30 317 33 314 30 313 30 308 30 302 30 303 45 303 51 320 51 326 56 326 57 327 57 328 57 357 51 357 44 356 33 340 30 335 30"/></Shape>
+	    <String CONTENT="1. – 13 –"
+                    HPOS="302"
+                    VPOS="30"
+                    WIDTH="55"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="41"
+                   VPOS="67"
+                   WIDTH="652"
+                   HEIGHT="899"
+                   ID="block_0"
+                   TAGREFS="BT10443">
+          <Shape><Polygon POINTS="43 67 692 69 693 966 41 966 41 81"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4084"
+                    BASELINE="56 82 150 83 154 83 240 83" 
+                    HPOS="54"
+                    VPOS="67"
+                    WIDTH="185"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="230 67 222 67 214 67 205 67 197 67 188 67 180 67 172 67 163 67 155 67 146 67 138 67 130 67 121 67 113 67 104 67 96 67 88 67 79 67 71 67 62 67 55 67 55 81 54 90 237 91 239 82 238 67 230 67"/></Shape>
+	    <String CONTENT="L&#x27;INFORMATION."
+                    HPOS="54"
+                    VPOS="67"
+                    WIDTH="185"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4083"
+                    BASELINE="57 105 661 106" 
+                    HPOS="57"
+                    VPOS="91"
+                    WIDTH="604"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="57 105 57 111 107 111 113 114 114 114 115 114 122 111 123 111 124 111 154 114 223 111 234 111 236 111 251 114 252 114 258 111 260 111 272 114 273 114 309 111 316 111 318 111 326 114 327 114 358 115 359 115 660 112 661 106 660 91 57 91 57 105"/></Shape>
+	    <String CONTENT="A/ Nous proposons ici une liste de bulletins, revues, périodiques susceptibles de"
+                    HPOS="57"
+                    VPOS="91"
+                    WIDTH="604"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4083"
+                    BASELINE="57 119 596 120" 
+                    HPOS="57"
+                    VPOS="107"
+                    WIDTH="539"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="595 108 328 111 324 108 323 108 322 108 319 108 67 110 57 107 57 119 57 126 595 125 596 120 595 108"/></Shape>
+	    <String CONTENT="contenir des articles (ou, plus généralement, des renseignements) utiles à"
+                    HPOS="57"
+                    VPOS="107"
+                    WIDTH="539"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4083"
+                    BASELINE="58 133 640 134" 
+                    HPOS="57"
+                    VPOS="122"
+                    WIDTH="583"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="58 133 57 138 639 141 640 134 640 124 58 122 58 133"/></Shape>
+	    <String CONTENT="l&#x27;historien utilisateur de l&#x27;informatique. Nous avons volontairement exclu de ce"
+                    HPOS="57"
+                    VPOS="122"
+                    WIDTH="583"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4083"
+                    BASELINE="57 148 621 148" 
+                    HPOS="57"
+                    VPOS="138"
+                    WIDTH="564"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="57 148 57 154 621 153 621 148 621 140 57 138 57 148"/></Shape>
+	    <String CONTENT="panorama toute publication de caractère exclusivement théorique ; pour chaque"
+                    HPOS="57"
+                    VPOS="138"
+                    WIDTH="564"
+                    HEIGHT="16"
+                    WC="0.97779"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4083"
+                    BASELINE="57 161 647 163" 
+                    HPOS="56"
+                    VPOS="152"
+                    WIDTH="591"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="57 161 56 168 646 169 647 163 646 153 57 152 57 161"/></Shape>
+	    <String CONTENT="élèment de la liste nous donnons l’adresse du responsable (ou de l&#x27;un des respon¬"
+                    HPOS="56"
+                    VPOS="152"
+                    WIDTH="591"
+                    HEIGHT="17"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4083"
+                    BASELINE="57 175 249 177" 
+                    HPOS="57"
+                    VPOS="164"
+                    WIDTH="192"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="57 175 57 185 248 186 249 177 248 168 232 165 231 165 208 167 201 168 200 167 194 164 193 164 168 167 157 167 155 166 152 164 151 164 150 164 141 166 136 167 131 165 122 164 121 164 117 165 114 167 110 165 105 164 104 164 57 164 57 175"/></Shape>
+	    <String CONTENT="sables) de la publication."
+                    HPOS="57"
+                    VPOS="164"
+                    WIDTH="192"
+                    HEIGHT="22"
+                    WC="0.97055"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4083"
+                    BASELINE="58 198 633 198" 
+                    HPOS="58"
+                    VPOS="186"
+                    WIDTH="575"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="58 198 58 207 169 207 170 207 177 211 178 211 633 209 633 198 633 188 58 186 58 198"/></Shape>
+	    <String CONTENT="1) signalons en tout premier lieu, parce que la revue intéresse spécialement le"
+                    HPOS="58"
+                    VPOS="186"
+                    WIDTH="575"
+                    HEIGHT="25"
+                    WC="0.991869230769231"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT4083"
+                    BASELINE="77 212 167 212" 
+                    HPOS="77"
+                    VPOS="203"
+                    WIDTH="90"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="77 212 77 218 167 218 167 212 167 203 77 203 77 212"/></Shape>
+	    <String CONTENT="médiéviste :"
+                    HPOS="77"
+                    VPOS="203"
+                    WIDTH="90"
+                    HEIGHT="15"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT4083"
+                    BASELINE="78 226 422 228" 
+                    HPOS="77"
+                    VPOS="211"
+                    WIDTH="345"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="162 212 157 212 78 214 78 226 77 230 103 233 192 233 282 231 297 231 300 234 302 236 303 236 304 237 421 237 422 228 421 211 360 211 359 211 358 211 353 215 346 211 344 211 343 211 341 211 328 215 275 212 250 211 249 211 248 211 246 212 243 214 241 212 239 211 238 211 162 212"/></Shape>
+	    <String CONTENT="Computers and Medieval Data Processing (CAMDAP)"
+                    HPOS="77"
+                    VPOS="211"
+                    WIDTH="345"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT4083"
+                    BASELINE="78 241 655 242" 
+                    HPOS="77"
+                    VPOS="227"
+                    WIDTH="578"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="284 228 278 228 273 228 267 228 262 228 256 228 251 228 245 227 239 227 234 227 228 227 223 227 217 227 211 227 206 227 200 227 195 227 189 227 183 227 180 227 78 227 78 241 77 246 136 249 655 249 655 242 655 227 434 227 433 227 423 231 301 231 288 228 284 228"/></Shape>
+	    <String CONTENT="c/o M. Ie Professeur Serge Lusignan — Institut d&#x27;études médiévales -Université"
+                    HPOS="77"
+                    VPOS="227"
+                    WIDTH="578"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT4083"
+                    BASELINE="78 255 618 257" 
+                    HPOS="77"
+                    VPOS="244"
+                    WIDTH="541"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="78 255 77 260 82 263 83 263 128 263 128 264 160 264 160 263 161 263 165 261 185 263 186 263 210 261 252 263 253 263 254 263 258 261 264 264 265 264 330 261 337 261 347 261 438 264 439 264 458 262 462 262 465 262 475 264 476 264 617 263 618 257 617 248 502 244 484 247 483 247 482 247 477 244 476 244 475 244 471 247 470 248 442 248 441 247 436 244 435 244 434 244 78 245 78 255"/></Shape>
+	    <String CONTENT="de Montréal - C.P. 6128, Succursale &quot;A&quot; -MONTREAL, P.Q. H3C 3J7 - Canada."
+                    HPOS="77"
+                    VPOS="244"
+                    WIDTH="541"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT4083"
+                    BASELINE="77 270 676 271" 
+                    HPOS="77"
+                    VPOS="259"
+                    WIDTH="599"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="77 270 77 276 675 279 676 271 675 259 77 259 77 270"/></Shape>
+	    <String CONTENT="ce bulletin contient, entre autres, un recensement périodique à l&#x27;échelle mondiale"
+                    HPOS="77"
+                    VPOS="259"
+                    WIDTH="599"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT4083"
+                    BASELINE="78 285 661 286" 
+                    HPOS="78"
+                    VPOS="273"
+                    WIDTH="583"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="78 285 78 291 162 291 166 292 170 295 171 295 189 292 200 291 272 293 299 293 303 293 323 291 335 293 336 293 337 293 338 293 349 291 366 293 372 295 373 295 381 294 405 291 429 294 438 295 439 295 450 295 474 292 480 295 484 296 485 296 611 296 612 296 633 291 641 296 642 296 661 296 661 286 661 277 78 273 78 285"/></Shape>
+	    <String CONTENT="de tous les projets en cours dans le domaine &quot;Informatique et Moyen-Age&quot;, et une"
+                    HPOS="78"
+                    VPOS="273"
+                    WIDTH="583"
+                    HEIGHT="23"
+                    WC="0.985721428571429"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT4083"
+                    BASELINE="78 299 486 301" 
+                    HPOS="77"
+                    VPOS="287"
+                    WIDTH="409"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="78 299 77 305 385 309 485 306 486 301 485 292 466 288 465 288 456 291 455 291 451 291 394 288 368 291 359 291 357 291 350 288 349 288 338 290 335 291 334 290 327 288 326 288 325 288 319 290 318 291 306 290 275 288 248 288 247 288 245 290 243 291 237 290 227 288 226 288 220 290 214 291 210 289 204 287 203 287 190 289 182 290 175 289 165 287 164 287 147 289 130 290 78 288 78 299"/></Shape>
+	    <String CONTENT="bibliographie très détaillée sur le même sujet. Gratuit."
+                    HPOS="77"
+                    VPOS="287"
+                    WIDTH="409"
+                    HEIGHT="22"
+                    WC="0.9905125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT4083"
+                    BASELINE="57 320 243 323" 
+                    HPOS="57"
+                    VPOS="307"
+                    WIDTH="186"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="57 320 57 326 242 326 243 323 243 308 57 307 57 320"/></Shape>
+	    <String CONTENT="2) ACM SIGLASH Newsletter"
+                    HPOS="57"
+                    VPOS="307"
+                    WIDTH="186"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT4083"
+                    BASELINE="78 336 631 337" 
+                    HPOS="77"
+                    VPOS="321"
+                    WIDTH="554"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="240 323 234 323 229 323 223 323 218 323 212 323 206 323 201 323 195 323 190 323 184 323 178 323 173 323 167 322 162 322 156 322 150 322 145 322 139 322 134 322 130 321 78 321 78 336 77 344 630 345 631 337 631 324 240 322 240 323"/></Shape>
+	    <String CONTENT="c/o Mrs. Christine Montgomery - Operating Systems, Inc., 21031 Ventura Bvld."
+                    HPOS="77"
+                    VPOS="321"
+                    WIDTH="554"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT4083"
+                    BASELINE="79 349 341 352" 
+                    HPOS="78"
+                    VPOS="338"
+                    WIDTH="263"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="79 349 78 353 96 357 150 357 151 357 152 357 157 355 158 354 163 355 183 358 184 358 185 358 193 356 196 355 200 356 213 358 225 356 234 355 236 356 239 358 240 358 262 357 278 356 339 358 341 352 341 343 331 340 330 340 329 340 325 343 318 340 317 340 278 342 275 340 275 339 274 339 242 339 241 339 240 339 236 342 235 342 233 342 213 339 191 342 188 342 185 338 184 338 183 338 79 340 79 349"/></Shape>
+	    <String CONTENT="- WOODLAND HILLS, Ca. 93164 - U.S.A."
+                    HPOS="78"
+                    VPOS="338"
+                    WIDTH="263"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT4083"
+                    BASELINE="78 366 675 366" 
+                    HPOS="78"
+                    VPOS="354"
+                    WIDTH="597"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="78 366 78 372 214 372 218 373 228 376 229 376 242 373 246 372 292 373 370 375 371 375 374 374 379 372 391 374 398 375 427 375 497 372 510 375 516 376 517 377 675 377 675 366 675 356 78 354 78 366"/></Shape>
+	    <String CONTENT="Le SIGLASH est le &quot;Special Interest Group for Language Analysis and Studies in the"
+                    HPOS="78"
+                    VPOS="354"
+                    WIDTH="597"
+                    HEIGHT="23"
+                    WC="0.984664285714286"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT4083"
+                    BASELINE="78 379 521 381" 
+                    HPOS="77"
+                    VPOS="369"
+                    WIDTH="444"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="78 379 77 385 225 386 236 390 237 390 238 390 244 387 362 387 378 391 379 391 434 391 435 391 450 387 513 391 514 391 515 391 520 387 521 381 520 372 78 369 78 379"/></Shape>
+	    <String CONTENT="Humanities&quot; de l’ACM (&quot;Association for Computing Machinery&quot;)."
+                    HPOS="77"
+                    VPOS="369"
+                    WIDTH="444"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT4083"
+                    BASELINE="58 402 143 402" 
+                    HPOS="58"
+                    VPOS="387"
+                    WIDTH="85"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="58 402 58 409 143 407 143 402 143 388 58 387 58 402"/></Shape>
+	    <String CONTENT="3) ARITHMOI"
+                    HPOS="58"
+                    VPOS="387"
+                    WIDTH="85"
+                    HEIGHT="22"
+                    WC="0.99955"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT4083"
+                    BASELINE="78 417 646 418" 
+                    HPOS="77"
+                    VPOS="402"
+                    WIDTH="569"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="139 403 134 403 128 403 122 403 117 403 111 403 106 403 100 403 95 403 89 403 83 403 78 403 78 417 77 421 92 424 93 424 646 423 646 418 646 404 139 402 139 403"/></Shape>
+	    <String CONTENT="c/o Professor Richard E. Whitaker - Central College - PELLA, Iowa 50219 U.S.A."
+                    HPOS="77"
+                    VPOS="402"
+                    WIDTH="569"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT4083"
+                    BASELINE="78 431 666 433" 
+                    HPOS="77"
+                    VPOS="419"
+                    WIDTH="589"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="78 431 77 438 665 441 666 433 666 420 617 420 616 420 615 420 610 423 537 420 519 419 518 419 498 420 439 422 380 420 335 419 334 419 330 420 327 422 266 422 262 420 258 419 257 419 253 420 249 421 78 421 78 431"/></Shape>
+	    <String CONTENT="Lancé par le Prof. Whitaker comme équivalent pour les études bibliques de Calculi"
+                    HPOS="77"
+                    VPOS="419"
+                    WIDTH="589"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24"
+                    TAGREFS="LT4083"
+                    BASELINE="78 447 631 447" 
+                    HPOS="78"
+                    VPOS="438"
+                    WIDTH="553"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="78 447 78 454 177 454 178 455 187 459 188 459 251 456 295 459 311 456 313 456 314 456 320 459 321 459 631 458 631 447 631 438 78 438 78 447"/></Shape>
+	    <String CONTENT="ou de CAMDAP (voir plus bas), il semble avoir cessé de paraître ces derniers"
+                    HPOS="78"
+                    VPOS="438"
+                    WIDTH="553"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_25"
+                    TAGREFS="LT4083"
+                    BASELINE="78 461 191 461" 
+                    HPOS="78"
+                    VPOS="447"
+                    WIDTH="113"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="173 447 168 447 162 447 157 447 151 447 145 447 140 447 134 447 129 447 123 447 121 447 116 452 78 452 78 461 78 467 191 467 191 461 191 452 180 452 174 447 173 447"/></Shape>
+	    <String CONTENT="temps. Gratui t."
+                    HPOS="78"
+                    VPOS="447"
+                    WIDTH="113"
+                    HEIGHT="20"
+                    WC="0.9756"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_26"
+                    TAGREFS="LT4083"
+                    BASELINE="57 482 230 482" 
+                    HPOS="57"
+                    VPOS="467"
+                    WIDTH="173"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="57 482 57 489 230 486 230 482 229 467 57 467 57 482"/></Shape>
+	    <String CONTENT="4) Bulletin of the ALLC"
+                    HPOS="57"
+                    VPOS="467"
+                    WIDTH="173"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_27"
+                    TAGREFS="LT4083"
+                    BASELINE="78 497 646 497" 
+                    HPOS="78"
+                    VPOS="483"
+                    WIDTH="568"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="78 497 78 504 646 506 646 497 646 483 78 483 78 497"/></Shape>
+	    <String CONTENT="c/o Mrs. Susan M. Hockey - Oxford University Comput ing Laboratory - 19 Banbury"
+                    HPOS="78"
+                    VPOS="483"
+                    WIDTH="568"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_28"
+                    TAGREFS="LT4083"
+                    BASELINE="78 511 255 512" 
+                    HPOS="77"
+                    VPOS="499"
+                    WIDTH="178"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="78 511 77 515 90 519 91 519 119 516 128 516 130 517 133 519 134 519 174 520 175 520 176 520 176 519 177 518 179 516 194 516 202 519 206 520 207 520 254 520 255 512 255 503 244 500 243 500 226 503 225 503 220 499 219 499 218 499 198 502 194 503 176 503 174 502 167 499 166 499 136 499 135 499 134 499 130 501 128 503 111 503 109 501 106 499 105 499 104 499 99 501 96 502 78 501 78 511"/></Shape>
+	    <String CONTENT="Road - OXFORD - England."
+                    HPOS="77"
+                    VPOS="499"
+                    WIDTH="178"
+                    HEIGHT="21"
+                    WC="0.99604"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_29"
+                    TAGREFS="LT4083"
+                    BASELINE="77 526 645 528" 
+                    HPOS="77"
+                    VPOS="513"
+                    WIDTH="568"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="77 526 77 535 644 537 645 528 644 515 77 513 77 526"/></Shape>
+	    <String CONTENT="Revue éditée par l&#x27;ALLC (&quot;Association for Literary and Linguistic Computing&#x27;&quot;)."
+                    HPOS="77"
+                    VPOS="513"
+                    WIDTH="568"
+                    HEIGHT="24"
+                    WC="0.96698"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_30"
+                    TAGREFS="LT4083"
+                    BASELINE="58 549 134 547" 
+                    HPOS="57"
+                    VPOS="529"
+                    WIDTH="77"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="58 549 58 554 134 551 134 547 134 533 121 529 120 529 109 532 102 533 93 532 84 530 83 530 81 532 76 534 57 531 58 549"/></Shape>
+	    <String CONTENT="5) CALCULI"
+                    HPOS="57"
+                    VPOS="529"
+                    WIDTH="77"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_31"
+                    TAGREFS="LT4083"
+                    BASELINE="77 562 660 563" 
+                    HPOS="77"
+                    VPOS="548"
+                    WIDTH="583"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="128 548 122 548 116 548 111 548 105 548 100 548 94 548 88 548 83 549 77 549 77 562 77 567 83 571 84 571 660 570 660 563 660 548 133 548 128 548"/></Shape>
+	    <String CONTENT="c/o Professor Stephen V.F. Waite - Kiewit Computation Center - Dartmouth College"
+                    HPOS="77"
+                    VPOS="548"
+                    WIDTH="583"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_32"
+                    TAGREFS="LT4083"
+                    BASELINE="79 576 361 577" 
+                    HPOS="78"
+                    VPOS="563"
+                    WIDTH="283"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="79 576 78 580 92 584 93 584 150 584 151 584 151 583 154 581 173 584 361 582 361 577 361 568 313 565 312 565 311 565 308 568 299 568 298 568 294 565 293 565 263 564 262 564 261 564 257 567 226 564 225 564 219 567 218 568 176 568 175 567 167 563 166 563 165 563 157 567 140 563 79 566 79 576"/></Shape>
+	    <String CONTENT="- HANOVER, New Hampshire 03755 - U.S.A."
+                    HPOS="78"
+                    VPOS="563"
+                    WIDTH="283"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_33"
+                    TAGREFS="LT4083"
+                    BASELINE="77 591 632 592" 
+                    HPOS="77"
+                    VPOS="579"
+                    WIDTH="555"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="77 591 77 598 631 601 632 592 631 579 77 579 77 591"/></Shape>
+	    <String CONTENT="Bulletin d&#x27;information dédié principalement aux applications des ordinateurs"
+                    HPOS="77"
+                    VPOS="579"
+                    WIDTH="555"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_34"
+                    TAGREFS="LT4083"
+                    BASELINE="77 607 342 607" 
+                    HPOS="77"
+                    VPOS="598"
+                    WIDTH="265"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="77 607 77 614 87 619 88 619 107 615 109 615 119 615 120 615 124 619 125 619 126 619 166 618 167 618 169 616 170 615 172 616 178 619 179 619 180 619 181 619 181 618 183 616 185 615 191 616 203 619 204 619 210 617 215 615 220 617 226 619 227 619 228 619 243 619 244 619 247 617 252 615 268 615 273 618 276 619 277 619 342 618 342 607 342 598 77 598 77 607"/></Shape>
+	    <String CONTENT="dans les études classiques. Gratuit."
+                    HPOS="77"
+                    VPOS="598"
+                    WIDTH="265"
+                    HEIGHT="21"
+                    WC="0.96698"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_35"
+                    TAGREFS="LT4083"
+                    BASELINE="57 629 287 628" 
+                    HPOS="57"
+                    VPOS="613"
+                    WIDTH="230"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="57 629 57 634 287 631 287 628 285 618 275 618 273 617 269 613 268 613 267 613 248 617 242 618 219 618 215 616 213 614 212 614 211 614 210 614 207 616 205 618 195 616 189 615 188 615 185 615 180 618 175 615 170 613 169 613 168 613 164 615 159 618 57 614 57 629"/></Shape>
+	    <String CONTENT="6) Computers and the Humanities"
+                    HPOS="57"
+                    VPOS="613"
+                    WIDTH="230"
+                    HEIGHT="21"
+                    WC="0.9937"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_36"
+                    TAGREFS="LT4083"
+                    BASELINE="77 643 645 644" 
+                    HPOS="77"
+                    VPOS="628"
+                    WIDTH="568"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="167 629 161 629 155 629 150 629 144 629 139 629 133 629 128 629 122 629 116 629 111 629 105 629 100 629 94 629 88 629 83 629 77 629 77 643 77 649 644 650 645 644 645 629 170 628 167 629"/></Shape>
+	    <String CONTENT="c/o Professor Joseph Raben - Queens college of the city University of New York"
+                    HPOS="77"
+                    VPOS="628"
+                    WIDTH="568"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_37"
+                    TAGREFS="LT4083"
+                    BASELINE="79 657 333 657" 
+                    HPOS="79"
+                    VPOS="645"
+                    WIDTH="254"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="79 657 79 662 332 665 333 657 333 648 311 645 310 645 301 648 235 645 234 645 226 648 219 645 218 645 208 648 196 645 195 645 177 648 169 645 168 645 154 648 150 645 149 645 105 645 79 648 79 657"/></Shape>
+	    <String CONTENT="- FLUSHING, New York 11367 - U.S.A."
+                    HPOS="79"
+                    VPOS="645"
+                    WIDTH="254"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_38"
+                    TAGREFS="LT4083"
+                    BASELINE="78 673 639 673" 
+                    HPOS="78"
+                    VPOS="659"
+                    WIDTH="561"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="78 673 78 681 374 679 394 682 397 682 398 682 400 682 412 679 424 682 426 682 427 682 639 682 639 673 639 660 78 659 78 673"/></Shape>
+	    <String CONTENT="Il s&#x27;agit de la revue la plus connue et, peut-être, la plus prestigieuse dans"
+                    HPOS="78"
+                    VPOS="659"
+                    WIDTH="561"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_39"
+                    TAGREFS="LT4083"
+                    BASELINE="78 688 426 686" 
+                    HPOS="77"
+                    VPOS="675"
+                    WIDTH="349"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="78 688 78 698 188 696 191 699 192 699 261 699 276 699 335 696 425 699 426 686 425 677 82 675 81 675 80 675 77 677 78 688"/></Shape>
+	    <String CONTENT="le domaine &quot;Informatique et Science de l&#x27;Homme&#x27;&quot;."
+                    HPOS="77"
+                    VPOS="675"
+                    WIDTH="349"
+                    HEIGHT="24"
+                    WC="0.995"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_40"
+                    TAGREFS="LT4083"
+                    BASELINE="57 710 214 708" 
+                    HPOS="57"
+                    VPOS="693"
+                    WIDTH="157"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="57 710 57 717 72 717 73 717 73 716 76 713 214 713 214 708 213 697 182 694 181 694 175 696 172 697 168 696 160 693 159 693 158 693 155 695 153 697 151 695 149 694 148 694 147 694 146 694 144 695 140 698 129 695 125 694 124 694 120 695 100 698 93 694 92 694 91 694 88 694 76 696 57 694 57 710"/></Shape>
+	    <String CONTENT="7) Historical Methods"
+                    HPOS="57"
+                    VPOS="693"
+                    WIDTH="157"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_41"
+                    TAGREFS="LT4083"
+                    BASELINE="77 723 645 724" 
+                    HPOS="76"
+                    VPOS="706"
+                    WIDTH="569"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="211 709 205 709 200 709 194 709 188 709 183 709 177 709 172 709 166 709 161 709 155 709 149 709 144 709 138 709 133 710 127 710 121 710 116 710 110 710 105 710 99 710 93 710 88 710 82 710 77 710 77 723 76 727 644 730 645 724 644 707 635 710 607 707 605 707 604 707 593 707 483 710 475 708 474 707 473 707 472 707 467 708 451 710 445 708 443 707 361 706 360 706 211 708 211 709"/></Shape>
+	    <String CONTENT="c/o Professor Reginald Baker - University of Pittsburgh - Faculty of Arts and"
+                    HPOS="76"
+                    VPOS="706"
+                    WIDTH="569"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_42"
+                    TAGREFS="LT4083"
+                    BASELINE="77 738 558 738" 
+                    HPOS="77"
+                    VPOS="725"
+                    WIDTH="481"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="77 738 77 745 558 745 558 738 558 729 532 725 507 728 497 725 496 725 495 725 457 728 456 728 455 728 424 725 423 725 415 728 398 725 77 728 77 738"/></Shape>
+	    <String CONTENT="Sciences - Department of History - PITTSBURGH, P. a. 15260 - U.S.A."
+                    HPOS="77"
+                    VPOS="725"
+                    WIDTH="481"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_43"
+                    TAGREFS="LT4083"
+                    BASELINE="77 752 596 753" 
+                    HPOS="77"
+                    VPOS="741"
+                    WIDTH="519"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="77 752 77 758 595 757 596 753 595 742 77 741 77 752"/></Shape>
+	    <String CONTENT="ce bulletin s’est transformé de simple bulletin de liaison en véritable"
+                    HPOS="77"
+                    VPOS="741"
+                    WIDTH="519"
+                    HEIGHT="17"
+                    WC="0.983336363636364"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_44"
+                    TAGREFS="LT4083"
+                    BASELINE="78 766 631 767" 
+                    HPOS="78"
+                    VPOS="755"
+                    WIDTH="553"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="78 766 78 774 271 774 274 775 281 778 282 778 354 779 355 779 630 777 631 767 630 755 78 756 78 766"/></Shape>
+	    <String CONTENT="revue largement ouverte aux problèmes et aux méthodes concernant l’emploi de"
+                    HPOS="78"
+                    VPOS="755"
+                    WIDTH="553"
+                    HEIGHT="24"
+                    WC="0.982009090909091"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_45"
+                    TAGREFS="LT4083"
+                    BASELINE="78 781 278 781" 
+                    HPOS="78"
+                    VPOS="772"
+                    WIDTH="200"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="78 781 78 787 278 787 278 781 278 772 78 772 78 781"/></Shape>
+	    <String CONTENT="l&#x27;informatique en histoire."
+                    HPOS="78"
+                    VPOS="772"
+                    WIDTH="200"
+                    HEIGHT="15"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_46"
+                    TAGREFS="LT4083"
+                    BASELINE="57 804 236 802" 
+                    HPOS="56"
+                    VPOS="787"
+                    WIDTH="180"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="57 804 57 808 236 804 236 802 235 788 56 787 57 804"/></Shape>
+	    <String CONTENT="8) Informatica e diritto"
+                    HPOS="56"
+                    VPOS="787"
+                    WIDTH="180"
+                    HEIGHT="21"
+                    WC="0.997125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_47"
+                    TAGREFS="LT4083"
+                    BASELINE="77 817 651 818" 
+                    HPOS="76"
+                    VPOS="803"
+                    WIDTH="575"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="144 803 138 803 133 803 127 803 121 803 116 803 110 803 105 803 99 804 93 804 88 804 82 804 77 804 77 817 76 822 86 826 87 826 102 823 103 823 136 826 137 826 160 823 164 823 170 823 202 826 219 823 225 823 305 823 309 824 313 826 314 826 338 824 362 823 372 824 382 826 383 826 389 824 394 823 650 826 651 818 651 804 147 803 144 803"/></Shape>
+	    <String CONTENT="c/o Dr. Costantino Ciampi - Istituto per la Documentazione Giuridica del C.N.R."
+                    HPOS="76"
+                    VPOS="803"
+                    WIDTH="575"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_48"
+                    TAGREFS="LT4083"
+                    BASELINE="78 830 441 831" 
+                    HPOS="78"
+                    VPOS="821"
+                    WIDTH="363"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="78 830 78 834 104 838 105 838 441 836 441 831 441 822 78 821 78 830"/></Shape>
+	    <String CONTENT="- Via Panciatichi, 56/16 - 50127 FIRENZE - Italia."
+                    HPOS="78"
+                    VPOS="821"
+                    WIDTH="363"
+                    HEIGHT="17"
+                    WC="0.988077777777778"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_49"
+                    TAGREFS="LT4083"
+                    BASELINE="77 846 623 845" 
+                    HPOS="76"
+                    VPOS="836"
+                    WIDTH="547"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="77 846 77 851 91 855 92 855 98 852 100 851 144 851 145 852 153 856 154 856 155 856 162 852 163 852 165 852 175 855 176 855 177 855 182 852 183 852 200 856 201 856 208 852 210 851 355 851 361 854 363 856 364 856 365 856 383 856 384 856 387 854 393 851 403 851 460 855 477 856 478 856 479 856 481 855 493 851 519 855 524 856 589 856 590 856 595 852 622 856 623 845 622 836 76 836 77 846"/></Shape>
+	    <String CONTENT="La revue accepte toute contribution du type &quot;Informatique et Traitement des"
+                    HPOS="76"
+                    VPOS="836"
+                    WIDTH="547"
+                    HEIGHT="20"
+                    WC="0.972163636363636"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_50"
+                    TAGREFS="LT4083"
+                    BASELINE="77 860 138 859" 
+                    HPOS="77"
+                    VPOS="850"
+                    WIDTH="61"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="77 860 77 866 138 865 138 859 136 850 77 851 77 860"/></Shape>
+	    <String CONTENT="textes&quot;."
+                    HPOS="77"
+                    VPOS="850"
+                    WIDTH="61"
+                    HEIGHT="16"
+                    WC="0.9855"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_51"
+                    TAGREFS="LT4083"
+                    BASELINE="57 882 329 881" 
+                    HPOS="56"
+                    VPOS="867"
+                    WIDTH="273"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="57 882 57 890 68 890 69 890 69 889 74 885 245 885 249 888 251 889 252 889 329 887 329 881 327 867 56 867 57 882"/></Shape>
+	    <String CONTENT="9) Informatie Nederlandse Lexicologie"
+                    HPOS="56"
+                    VPOS="867"
+                    WIDTH="273"
+                    HEIGHT="23"
+                    WC="0.989225"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_52"
+                    TAGREFS="LT4083"
+                    BASELINE="77 896 571 896" 
+                    HPOS="77"
+                    VPOS="882"
+                    WIDTH="494"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="155 882 149 882 144 882 138 882 133 882 127 882 121 882 116 882 110 882 105 882 99 882 93 882 88 882 82 882 77 882 77 896 77 904 151 907 152 907 207 905 218 904 227 905 261 907 262 907 286 905 295 904 570 906 571 896 570 885 159 882 155 882"/></Shape>
+	    <String CONTENT="c/o Dr. Félicien de TolIenaere - Beatrixlaan 7 - WARMOND - Pays-Bas."
+                    HPOS="77"
+                    VPOS="882"
+                    WIDTH="494"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_53"
+                    TAGREFS="LT4083"
+                    BASELINE="57 918 329 916" 
+                    HPOS="57"
+                    VPOS="902"
+                    WIDTH="272"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="57 918 57 923 328 919 329 916 328 907 308 907 308 906 303 902 302 902 301 902 282 906 281 906 280 906 273 902 272 902 271 902 262 905 259 907 230 907 228 905 223 902 222 902 221 902 198 905 180 908 159 908 154 904 152 903 151 903 150 903 141 904 129 907 109 904 105 904 104 904 103 904 100 907 91 904 90 904 57 904 57 918"/></Shape>
+	    <String CONTENT="10) Informatique et Sciences Humaines"
+                    HPOS="57"
+                    VPOS="902"
+                    WIDTH="272"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_54"
+                    TAGREFS="LT4083"
+                    BASELINE="77 932 428 931 616 933" 
+                    HPOS="77"
+                    VPOS="916"
+                    WIDTH="539"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="188 918 183 918 124 918 121 918 116 918 110 918 105 918 99 918 93 918 88 918 82 918 77 918 77 932 77 947 182 946 183 946 185 946 196 938 241 937 360 938 368 942 375 946 376 946 377 946 386 942 396 938 460 938 468 941 480 946 481 946 510 940 528 937 536 940 537 940 615 938 616 933 614 916 188 917 188 918"/></Shape>
+	    <String CONTENT="c/o M. Philippe Cibois — CNRS — LISH - 54, boulevard Raspail - 75270 PARIS"
+                    HPOS="77"
+                    VPOS="916"
+                    WIDTH="539"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_55"
+                    TAGREFS="LT4083"
+                    BASELINE="77 947 140 946" 
+                    HPOS="76"
+                    VPOS="933"
+                    WIDTH="64"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="77 947 77 954 140 954 140 946 139 935 82 933 81 933 76 936 77 947"/></Shape>
+	    <String CONTENT="Cedex O6"
+                    HPOS="76"
+                    VPOS="933"
+                    WIDTH="64"
+                    HEIGHT="21"
+                    WC="0.99385"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

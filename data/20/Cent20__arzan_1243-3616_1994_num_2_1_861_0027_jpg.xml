@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent20__arzan_1243-3616_1994_num_2_1_861_0027_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10462" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10461" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT10460" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10459" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10458" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10457" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10456" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10445" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10444" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10443" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4085" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4084" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4083" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="710"
+          HEIGHT="1213"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="710"
+                  HEIGHT="1213">
+        
+        <TextBlock HPOS="54.605751037597656"
+                   VPOS="319.2294006347656"
+                   WIDTH="564.2142562866211"
+                   HEIGHT="736.3343200683594"
+                   ID="block_0"
+                   TAGREFS="BT10443">
+          <Shape><Polygon POINTS="54.6058 319.229 618.82 319.229 618.82 1055.56 54.6058 1055.56 54.6058 319.229"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4084"
+                    BASELINE="159 413 494 413" 
+                    HPOS="159"
+                    VPOS="388"
+                    WIDTH="335"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="482 388 476 388 469 388 462 388 455 388 449 388 442 388 435 388 428 388 422 388 415 388 408 388 401 388 395 388 388 388 381 388 374 388 368 388 361 388 354 388 347 388 341 388 334 388 327 388 320 388 314 388 307 388 300 388 293 388 287 388 280 388 273 388 267 388 260 388 253 388 246 388 240 388 233 388 226 388 219 388 213 388 206 388 199 388 192 388 186 388 179 388 172 388 165 388 159 388 159 413 159 423 166 427 167 427 168 427 178 423 211 427 212 427 230 424 233 423 235 424 241 427 242 427 243 427 249 424 251 423 493 427 494 413 494 388 489 388"/></Shape>
+	    <String CONTENT="UTRUM RISERIT DANTES?"
+                    HPOS="159"
+                    VPOS="388"
+                    WIDTH="335"
+                    HEIGHT="39"
+                    WC="0.989366666666667"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4084"
+                    BASELINE="330 541 585 543" 
+                    HPOS="329"
+                    VPOS="522"
+                    WIDTH="256"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="329 549 457 555 458 555 584 552 585 543 585 523 330 522 330 541"/></Shape>
+	    <String CONTENT="Et citus a gravibus fit transitus"
+                    HPOS="329"
+                    VPOS="522"
+                    WIDTH="256"
+                    HEIGHT="33"
+                    WC="0.975133333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4084"
+                    BASELINE="327 567 421 567" 
+                    HPOS="326"
+                    VPOS="548"
+                    WIDTH="94"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="326 566 326 576 420 576 420 566 419 548 326 550 326 566"/></Shape>
+	    <String CONTENT="ad leviora&quot;"
+                    HPOS="326"
+                    VPOS="548"
+                    WIDTH="94"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4084"
+                    BASELINE="327 592 586 592" 
+                    HPOS="327"
+                    VPOS="572"
+                    WIDTH="259"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="327 602 585 603 586 592 586 577 577 572 576 572 566 572 565 572 564 572 564 573 558 578 542 578 536 573 536 572 535 572 520 572 519 572 518 572 518 573 513 578 472 578 465 572 464 572 463 572 442 572 441 572 440 572 440 573 437 576 433 573 433 572 432 572 421 572 420 572 419 572 411 578 375 578 368 572 367 572 366 572 365 572 353 577 347 572 346 572 345 572 344 572 344 573 340 576 336 573 335 573 334 573 333 573 327 576 327 592"/></Shape>
+	    <String CONTENT="Marbode de Rennes, De apto"
+                    HPOS="327"
+                    VPOS="572"
+                    WIDTH="259"
+                    HEIGHT="31"
+                    WC="0.93692"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4084"
+                    BASELINE="327 617 452 615" 
+                    HPOS="327"
+                    VPOS="597"
+                    WIDTH="125"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="327 624 409 626 452 621 452 615 449 597 432 601 418 599 409 597 408 597 404 599 399 603 327 603 327 617"/></Shape>
+	    <String CONTENT="genere scribendi"
+                    HPOS="327"
+                    VPOS="597"
+                    WIDTH="125"
+                    HEIGHT="29"
+                    WC="0.99945"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4084"
+                    BASELINE="327 641 527 640" 
+                    HPOS="327"
+                    VPOS="619"
+                    WIDTH="200"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="327 650 387 654 527 650 527 640 526 624 520 619 519 619 457 619 429 624 425 624 327 624 327 641"/></Shape>
+	    <String CONTENT="F.L. Migne, 171, 1693 B."
+                    HPOS="327"
+                    VPOS="619"
+                    WIDTH="200"
+                    HEIGHT="35"
+                    WC="0.96294"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4084"
+                    BASELINE="331 690 585 690" 
+                    HPOS="331"
+                    VPOS="670"
+                    WIDTH="254"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="331 698 585 699 585 690 585 675 493 675 490 673 485 671 484 671 483 671 482 671 480 673 478 675 457 675 448 672 441 670 440 670 439 670 438 670 436 672 432 675 419 675 404 671 398 670 397 670 396 670 396 671 395 671 391 675 370 675 364 671 364 670 363 670 331 670 331 690"/></Shape>
+	    <String CONTENT="&quot;ché voler ciò udire è bassa"
+                    HPOS="331"
+                    VPOS="670"
+                    WIDTH="254"
+                    HEIGHT="29"
+                    WC="0.9962"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4084"
+                    BASELINE="331 715 390 715" 
+                    HPOS="330"
+                    VPOS="696"
+                    WIDTH="59"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="330 714 330 724 360 728 361 728 389 722 389 714 389 696 330 696 330 714"/></Shape>
+	    <String CONTENT="voglia&quot;"
+                    HPOS="330"
+                    VPOS="696"
+                    WIDTH="59"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4084"
+                    BASELINE="353 741 469 739" 
+                    HPOS="352"
+                    VPOS="721"
+                    WIDTH="117"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="353 749 391 754 392 754 393 754 393 753 398 749 438 753 439 753 440 753 445 748 454 752 455 752 456 752 469 748 469 739 467 723 377 721 376 721 352 725 353 741"/></Shape>
+	    <String CONTENT="Inf XXX. 148"
+                    HPOS="352"
+                    VPOS="721"
+                    WIDTH="117"
+                    HEIGHT="33"
+                    WC="0.985933333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT4083"
+                    BASELINE="137 825 587 827" 
+                    HPOS="136"
+                    VPOS="803"
+                    WIDTH="451"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="136 832 321 836 322 836 587 834 587 827 586 810 505 810 488 807 469 805 468 805 463 807 457 810 447 807 438 804 437 804 436 804 430 807 425 810 422 807 418 804 417 804 397 804 396 804 395 804 393 806 388 810 358 810 347 805 343 804 342 804 341 804 341 805 339 805 335 810 326 810 313 805 310 804 309 804 308 804 308 805 307 805 303 809 298 805 298 804 297 804 296 804 285 803 284 803 283 803 282 805 279 807 275 805 274 804 274 803 273 803 260 803 259 803 258 803 258 804 252 810 190 810 184 804 184 803 183 803 137 803 137 825"/></Shape>
+	    <String CONTENT="Verba vana aut risui apta non loqui: c’est par cette"
+                    HPOS="136"
+                    VPOS="803"
+                    WIDTH="451"
+                    HEIGHT="33"
+                    WC="0.97115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT4083"
+                    BASELINE="64 855 585 857" 
+                    HPOS="64"
+                    VPOS="834"
+                    WIDTH="521"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="64 865 584 866 585 857 585 839 549 838 544 834 543 834 542 834 541 834 528 838 511 838 477 838 476 838 471 834 470 834 469 834 430 837 423 838 420 837 405 834 355 836 329 838 327 836 324 834 323 834 275 834 274 834 270 836 268 837 265 836 261 834 260 834 212 835 163 837 64 834 64 855"/></Shape>
+	    <String CONTENT="injonction tirée de la sévère règle bénédictine que Jorge"
+                    HPOS="64"
+                    VPOS="834"
+                    WIDTH="521"
+                    HEIGHT="32"
+                    WC="0.968366666666667"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT4083"
+                    BASELINE="64 884 586 886" 
+                    HPOS="64"
+                    VPOS="866"
+                    WIDTH="522"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="64 890 153 894 154 894 169 891 173 890 179 891 211 894 212 894 213 894 223 891 225 890 305 890 339 890 339 891 344 895 345 895 346 896 375 896 375 895 376 895 382 891 408 891 421 891 425 895 426 895 427 895 428 895 438 892 459 895 482 891 484 891 487 891 506 895 507 895 516 891 517 891 585 891 586 886 585 867 64 866 64 884"/></Shape>
+	    <String CONTENT="de Burgos le patriarche aveugle et terrible du roman"
+                    HPOS="64"
+                    VPOS="866"
+                    WIDTH="522"
+                    HEIGHT="30"
+                    WC="0.9956"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT4083"
+                    BASELINE="64 913 587 913" 
+                    HPOS="64"
+                    VPOS="894"
+                    WIDTH="523"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="64 923 587 922 587 913 587 899 529 894 528 894 515 898 507 894 506 894 505 894 492 899 459 899 449 894 448 894 425 898 393 894 392 894 391 894 385 899 342 899 276 894 275 894 264 899 231 899 226 894 225 894 224 894 207 898 190 894 189 894 188 894 179 899 140 899 134 894 133 894 132 894 112 898 108 894 107 894 70 894 69 894 68 894 64 897 64 913"/></Shape>
+	    <String CONTENT="d’Eco Le nom de la rose, interrompt d’une façon sinistre et"
+                    HPOS="64"
+                    VPOS="894"
+                    WIDTH="523"
+                    HEIGHT="29"
+                    WC="0.985927272727273"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT4083"
+                    BASELINE="65 943 587 942" 
+                    HPOS="64"
+                    VPOS="923"
+                    WIDTH="523"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="65 955 586 955 587 942 585 923 64 923 65 943"/></Shape>
+	    <String CONTENT="qui, si on se réfère à la typologie du roman noir que le"
+                    HPOS="64"
+                    VPOS="923"
+                    WIDTH="523"
+                    HEIGHT="32"
+                    WC="0.989238461538462"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT4083"
+                    BASELINE="64 972 587 971" 
+                    HPOS="63"
+                    VPOS="955"
+                    WIDTH="524"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="64 978 585 979 587 971 585 955 63 955 64 972"/></Shape>
+	    <String CONTENT="cinéma et une certaine littérature populaire nous ont"
+                    HPOS="63"
+                    VPOS="955"
+                    WIDTH="524"
+                    HEIGHT="24"
+                    WC="0.9696625"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT4083"
+                    BASELINE="64 1001 587 1001" 
+                    HPOS="64"
+                    VPOS="980"
+                    WIDTH="523"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="64 1011 587 1011 587 1001 587 985 575 980 574 980 573 980 558 985 544 980 543 980 542 980 541 980 534 985 487 980 486 980 485 980 478 986 351 986 335 980 334 980 333 980 327 985 320 980 319 980 304 980 303 980 302 980 293 986 280 986 273 980 272 980 271 980 248 980 247 980 246 980 240 985 212 985 201 980 200 980 175 980 174 980 173 980 165 985 134 980 133 980 132 980 117 985 105 980 104 980 103 980 95 986 64 986 64 1001"/></Shape>
+	    <String CONTENT="rendue familière, est lourde de menaces pour l’avenir, la"
+                    HPOS="64"
+                    VPOS="980"
+                    WIDTH="523"
+                    HEIGHT="31"
+                    WC="0.989288888888889"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT4083"
+                    BASELINE="67 1030 587 1029" 
+                    HPOS="66"
+                    VPOS="1011"
+                    WIDTH="521"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="67 1043 587 1042 587 1029 585 1011 66 1011 67 1030"/></Shape>
+	    <String CONTENT="première des trois séquences du roman (triple itération"
+                    HPOS="66"
+                    VPOS="1011"
+                    WIDTH="521"
+                    HEIGHT="32"
+                    WC="0.9973625"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

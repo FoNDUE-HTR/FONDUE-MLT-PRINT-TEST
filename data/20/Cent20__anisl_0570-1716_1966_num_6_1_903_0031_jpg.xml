@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent20__anisl_0570-1716_1966_num_6_1_903_0031_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10571" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10570" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10569" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10567" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10566" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10568" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10565" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10564" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10563" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10562" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4137" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4135" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4136" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="710"
+          HEIGHT="971"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="710"
+                  HEIGHT="971">
+        
+        <TextBlock HPOS="113"
+                   VPOS="182"
+                   WIDTH="495"
+                   HEIGHT="323"
+                   ID="eSc_textblock_47102ad4"
+                   TAGREFS="BT10562">
+          <Shape><Polygon POINTS="113 182 113 505 608 505 608 182"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8d88ed45"
+                    TAGREFS="LT4136"
+                    BASELINE="237 209 480 209" 
+                    HPOS="236"
+                    VPOS="186"
+                    WIDTH="243"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="236 208 236 217 479 217 479 208 478 186 236 186 236 208"/></Shape>
+	    <String CONTENT="INDEX DES TABAQÃT^(1)"
+                    HPOS="236"
+                    VPOS="186"
+                    WIDTH="243"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc1c2709"
+                    TAGREFS="LT4136"
+                    BASELINE="296 241 424 241" 
+                    HPOS="296"
+                    VPOS="220"
+                    WIDTH="128"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="296 250 424 249 424 241 424 221 296 220 296 241"/></Shape>
+	    <String CONTENT="DE SHA&#x27;RÃNI"
+                    HPOS="296"
+                    VPOS="220"
+                    WIDTH="128"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4e3baf9"
+                    TAGREFS="LT4136"
+                    BASELINE="145 269 571 270" 
+                    HPOS="145"
+                    VPOS="251"
+                    WIDTH="426"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="561 256 555 255 550 254 544 254 539 253 538 252 147 251 145 253 145 269 145 279 291 283 292 283 570 281 571 270 567 256 566 256"/></Shape>
+	    <String CONTENT="(POUR LA FIN DU IX^e ET LE DÉBUT DU X^e S. H.)"
+                    HPOS="145"
+                    VPOS="251"
+                    WIDTH="426"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_863df6c9"
+                    TAGREFS="LT4136"
+                    BASELINE="346 299 372 298" 
+                    HPOS="345"
+                    VPOS="283"
+                    WIDTH="27"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="346 305 372 304 372 298 371 284 345 283 346 299"/></Shape>
+	    <String CONTENT="PAR"
+                    HPOS="345"
+                    VPOS="283"
+                    WIDTH="27"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42475486"
+                    TAGREFS="LT4136"
+                    BASELINE="315 324 402 323" 
+                    HPOS="315"
+                    VPOS="306"
+                    WIDTH="87"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="400 308 326 306 325 306 315 309 315 310 315 324 315 330 402 329 402 323 401 310"/></Shape>
+	    <String CONTENT="J.-C. GARCIN"
+                    HPOS="315"
+                    VPOS="306"
+                    WIDTH="87"
+                    HEIGHT="24"
+                    WC="0.959850137432416"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30e8b6ad"
+                    TAGREFS="LT4135"
+                    BASELINE="130 360 599 360" 
+                    HPOS="130"
+                    VPOS="345"
+                    WIDTH="469"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="594 349 589 346 585 346 583 346 577 346 572 346 567 346 566 346 563 347 563 348 524 348 524 347 521 346 518 346 513 346 504 347 497 345 496 345 492 345 483 347 478 345 475 345 472 345 460 347 454 345 453 345 453 345 427 347 426 347 424 347 401 345 400 345 386 347 385 347 383 347 351 345 351 345 339 347 338 348 274 348 274 347 267 345 266 345 265 345 250 347 248 348 215 348 214 347 211 345 210 345 210 345 209 345 130 347 130 348 130 360 130 365 598 368 599 360 599 351 594 349"/></Shape>
+	    <String CONTENT="Sha&#x27;rãni est l’homme d’un passage: il a vécu la fin de la domination des sultans"
+                    HPOS="130"
+                    VPOS="345"
+                    WIDTH="469"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b661647"
+                    TAGREFS="LT4135"
+                    BASELINE="117 379 599 378" 
+                    HPOS="117"
+                    VPOS="365"
+                    WIDTH="482"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="117 379 117 385 598 386 599 378 598 368 563 368 563 368 558 365 558 365 557 365 557 365 556 365 546 368 545 368 545 368 525 365 524 365 508 368 507 368 506 368 496 365 495 365 461 365 460 365 460 365 451 368 450 368 447 368 422 365 422 365 421 365 410 367 407 368 405 367 391 365 390 365 390 365 384 367 383 368 353 369 287 369 277 367 265 365 264 365 245 367 229 368 226 367 222 365 221 365 221 365 196 367 173 368 166 367 160 365 160 365 159 365 117 366 117 379"/></Shape>
+	    <String CONTENT="Mamluks et le début de l’occupation ottomane^(2). Né en 897 H./1491 J.-C., sous"
+                    HPOS="117"
+                    VPOS="365"
+                    WIDTH="482"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79662121"
+                    TAGREFS="LT4135"
+                    BASELINE="117 399 599 399" 
+                    HPOS="117"
+                    VPOS="385"
+                    WIDTH="482"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="117 399 117 405 599 405 599 399 599 388 545 388 545 387 539 385 538 385 538 385 537 385 530 387 530 388 487 388 487 387 483 385 482 385 482 385 481 385 468 387 468 387 467 387 456 385 455 385 455 385 454 385 447 387 447 387 441 385 440 385 440 385 117 386 117 399"/></Shape>
+	    <String CONTENT="le règne de Qaitbay et venu au Caire en 911 H./1505 J.-C., il a vingt-cinq ans en"
+                    HPOS="117"
+                    VPOS="385"
+                    WIDTH="482"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_665b88f6"
+                    TAGREFS="LT4135"
+                    BASELINE="117 418 598 417" 
+                    HPOS="117"
+                    VPOS="403"
+                    WIDTH="481"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="117 418 117 425 597 426 598 417 597 406 579 403 578 403 578 403 568 406 567 406 565 406 559 404 558 404 558 404 527 406 518 406 517 406 511 403 511 403 510 403 510 403 500 406 497 406 486 406 453 404 453 404 430 405 420 406 418 405 416 404 415 404 415 404 414 404 405 405 399 406 395 405 388 404 388 404 387 404 387 404 383 405 380 406 375 405 364 403 364 403 363 403 357 405 352 407 309 405 272 404 271 404 271 404 267 405 260 407 246 405 236 404 236 404 226 405 212 407 199 405 191 404 190 404 117 404 117 418"/></Shape>
+	    <String CONTENT="922 H./1516 J.-C. lors de la chute du Caire^(3); il assiste au premier demi-siècle"
+                    HPOS="117"
+                    VPOS="403"
+                    WIDTH="481"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89b8dded"
+                    TAGREFS="LT4135"
+                    BASELINE="117 436 599 438" 
+                    HPOS="116"
+                    VPOS="424"
+                    WIDTH="483"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="117 436 116 442 127 446 128 446 128 446 197 446 197 446 198 446 198 446 202 443 209 446 210 446 210 446 276 443 352 446 352 446 353 446 353 446 358 443 368 446 369 446 369 446 598 443 599 438 598 427 577 424 576 424 576 424 565 427 564 427 557 424 557 424 556 424 516 427 508 427 498 426 459 424 458 424 448 426 444 427 434 426 416 424 415 424 415 424 408 426 404 427 394 426 380 424 379 424 379 424 374 426 371 427 357 426 339 424 338 424 330 425 325 426 117 424 117 436"/></Shape>
+	    <String CONTENT="de domination turque. Il a vu se parfaire le Caire de Maqrizi; désormais, le décor"
+                    HPOS="116"
+                    VPOS="424"
+                    WIDTH="483"
+                    HEIGHT="22"
+                    WC="0.97544925624416"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80e5dff6"
+                    TAGREFS="LT4135"
+                    BASELINE="117 457 598 456" 
+                    HPOS="116"
+                    VPOS="443"
+                    WIDTH="482"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="117 457 117 465 597 466 598 456 597 447 581 443 580 443 579 443 565 446 536 443 535 443 535 443 525 447 490 447 464 443 463 443 444 446 430 443 429 443 429 443 410 446 401 443 401 443 378 443 377 443 355 447 346 444 345 444 345 444 312 447 306 443 305 443 264 443 264 443 263 443 256 447 221 443 220 443 220 443 207 447 199 443 199 443 134 443 134 443 116 447 117 457"/></Shape>
+	    <String CONTENT="architectural ne change plus guère, du moins dans les populeux quartiers de la"
+                    HPOS="116"
+                    VPOS="443"
+                    WIDTH="482"
+                    HEIGHT="23"
+                    WC="0.9840756541566"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1cb484b0"
+                    TAGREFS="LT4135"
+                    BASELINE="117 476 598 477" 
+                    HPOS="116"
+                    VPOS="463"
+                    WIDTH="482"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="117 476 116 481 127 484 128 484 128 484 598 482 598 477 598 467 581 463 581 463 580 463 572 466 497 463 496 463 463 466 461 466 459 466 445 463 445 463 427 466 425 466 423 466 407 463 406 463 365 466 358 466 355 466 338 463 337 463 299 466 298 466 297 466 269 463 268 463 244 466 243 466 242 466 233 463 233 463 232 463 117 465 117 476"/></Shape>
+	    <String CONTENT="Ghauriyya et de Bain al Qasraïn^(4). L’armature intellectuelle et spirituelle non plus"
+                    HPOS="116"
+                    VPOS="463"
+                    WIDTH="482"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b3bfbd35"
+                    TAGREFS="LT4135"
+                    BASELINE="117 497 598 497" 
+                    HPOS="117"
+                    VPOS="485"
+                    WIDTH="481"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="117 497 117 505 597 506 598 497 597 485 117 485 117 497"/></Shape>
+	    <String CONTENT="ne change plus. Le cadre est prêt où sous contrôle ottoman, fonctionne jusqu’au"
+                    HPOS="117"
+                    VPOS="485"
+                    WIDTH="481"
+                    HEIGHT="21"
+                    WC="0.98382725003289"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="110"
+                   VPOS="521"
+                   WIDTH="243"
+                   HEIGHT="297"
+                   ID="eSc_textblock_66e086ac"
+                   TAGREFS="BT10568">
+          <Shape><Polygon POINTS="110 521 110 818 353 818 353 521"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c5c2e780"
+                    TAGREFS="LT4135"
+                    BASELINE="128 534 349 535" 
+                    HPOS="127"
+                    VPOS="521"
+                    WIDTH="221"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="127 533 127 539 147 544 148 544 229 541 236 545 237 545 238 545 238 545 348 541 348 534 348 521 127 521 127 533"/></Shape>
+	    <String CONTENT="^(1) on sait qu’on nomme Tabaqât des"
+                    HPOS="127"
+                    VPOS="521"
+                    WIDTH="221"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a45f94a2"
+                    TAGREFS="LT4135"
+                    BASELINE="116 551 349 550" 
+                    HPOS="115"
+                    VPOS="538"
+                    WIDTH="234"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="116 551 116 557 226 559 226 559 244 556 246 556 247 556 257 559 257 559 258 559 288 556 289 556 290 556 293 559 294 559 294 559 295 559 340 559 340 559 340 559 349 556 349 550 347 538 341 541 284 541 279 539 275 538 275 538 274 538 256 539 244 541 241 540 234 538 234 538 233 538 233 538 223 540 219 541 198 541 122 538 121 538 121 538 120 538 115 541 116 551"/></Shape>
+	    <String CONTENT="ensembles de biographies de personnages qui"
+                    HPOS="115"
+                    VPOS="538"
+                    WIDTH="234"
+                    HEIGHT="21"
+                    WC="0.973666107931802"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49e3f489"
+                    TAGREFS="LT4135"
+                    BASELINE="116 567 350 566" 
+                    HPOS="115"
+                    VPOS="555"
+                    WIDTH="235"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="116 567 116 572 349 571 350 566 349 558 300 555 299 555 299 555 298 555 294 558 268 558 261 555 261 555 260 555 246 557 235 555 235 555 234 555 234 555 233 555 233 555 230 558 123 555 123 555 122 555 115 558 116 567"/></Shape>
+	    <String CONTENT="s’illustrèrent dans un domaine quelconque:"
+                    HPOS="115"
+                    VPOS="555"
+                    WIDTH="235"
+                    HEIGHT="17"
+                    WC="0.982387416584547"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7df10bb5"
+                    TAGREFS="LT4135"
+                    BASELINE="116 583 350 582" 
+                    HPOS="115"
+                    VPOS="569"
+                    WIDTH="235"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="116 583 116 589 349 587 350 582 349 573 320 570 319 570 319 570 308 572 297 569 297 569 296 569 296 569 295 569 295 570 292 573 253 573 240 569 239 569 239 569 216 573 178 570 177 570 150 573 133 570 132 570 115 573 116 583"/></Shape>
+	    <String CONTENT="poètes, médecins, juristes etc. Cf. LANE,"
+                    HPOS="115"
+                    VPOS="569"
+                    WIDTH="235"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63c0ae23"
+                    TAGREFS="LT4135"
+                    BASELINE="116 596 349 598" 
+                    HPOS="115"
+                    VPOS="584"
+                    WIDTH="234"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="116 596 115 603 116 604 117 604 117 604 117 604 118 604 118 605 179 605 179 604 179 604 188 601 192 600 199 602 221 605 222 605 243 605 243 605 243 605 244 605 248 602 249 602 250 602 256 604 256 604 257 604 257 604 258 604 261 602 263 601 266 602 276 605 276 605 277 605 277 605 285 603 296 605 297 605 297 605 298 605 298 605 302 603 304 602 348 603 349 598 349 589 344 585 343 585 343 585 313 585 312 585 312 585 311 585 311 586 308 589 308 589 283 589 282 589 276 585 275 585 275 585 274 585 268 588 255 585 254 585 254 585 253 585 248 589 244 589 214 589 213 588 208 585 207 585 207 585 206 585 206 585 195 588 194 588 194 588 188 584 188 584 187 584 187 584 168 587 164 584 164 584 163 584 162 584 162 584 152 587 152 587 144 584 144 584 143 584 116 587 116 596"/></Shape>
+	    <String CONTENT="Arabic-English Lexicon, t. I, p. 1827,"
+                    HPOS="115"
+                    VPOS="584"
+                    WIDTH="234"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_653fef9a"
+                    TAGREFS="LT4135"
+                    BASELINE="117 613 349 612" 
+                    HPOS="116"
+                    VPOS="599"
+                    WIDTH="233"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="117 613 117 617 348 618 349 612 349 603 338 599 337 599 337 599 336 599 325 603 284 599 283 599 283 599 282 599 282 599 278 603 244 603 229 599 228 599 228 599 227 599 221 603 209 599 208 599 181 599 181 599 180 599 180 599 180 600 175 604 167 604 124 599 124 599 123 599 123 599 116 603 117 613"/></Shape>
+	    <String CONTENT="(Londres, 1874). On a traduit l’arabe"
+                    HPOS="116"
+                    VPOS="599"
+                    WIDTH="233"
+                    HEIGHT="19"
+                    WC="0.963776585218069"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b003b106"
+                    TAGREFS="LT4135"
+                    BASELINE="118 627 350 628" 
+                    HPOS="117"
+                    VPOS="615"
+                    WIDTH="233"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="118 627 117 632 349 633 350 628 350 618 343 615 343 615 342 615 342 615 331 618 317 615 286 615 285 615 285 615 284 615 284 616 282 618 281 618 263 615 262 615 262 615 254 618 252 618 227 618 227 617 224 616 224 615 224 615 223 615 223 615 222 615 216 617 213 618 211 617 204 615 203 615 203 615 118 616 118 627"/></Shape>
+	    <String CONTENT="Tabaqât par le latin classes : classes (DE SLANE),"
+                    HPOS="117"
+                    VPOS="615"
+                    WIDTH="233"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14496542"
+                    TAGREFS="LT4135"
+                    BASELINE="116 644 349 643" 
+                    HPOS="115"
+                    VPOS="631"
+                    WIDTH="234"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="116 644 116 649 348 650 349 643 348 632 250 631 250 631 249 631 242 633 241 633 240 633 233 631 232 631 231 631 231 631 230 631 227 633 226 634 222 633 203 631 202 631 202 631 195 634 194 634 194 634 185 631 185 631 184 631 166 634 156 631 155 631 155 631 154 631 145 634 128 631 127 631 127 631 115 634 116 644"/></Shape>
+	    <String CONTENT="générations. Un livre de Tabaqât peut suivre"
+                    HPOS="115"
+                    VPOS="631"
+                    WIDTH="234"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f1d90a0"
+                    TAGREFS="LT4135"
+                    BASELINE="118 658 350 658" 
+                    HPOS="117"
+                    VPOS="647"
+                    WIDTH="233"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="118 658 117 663 333 666 333 666 349 662 350 658 349 649 118 647 118 658"/></Shape>
+	    <String CONTENT="l’ordre chronologique, parfois approximati¬"
+                    HPOS="117"
+                    VPOS="647"
+                    WIDTH="233"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fccba171"
+                    TAGREFS="LT4135"
+                    BASELINE="116 673 349 673" 
+                    HPOS="116"
+                    VPOS="662"
+                    WIDTH="233"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="116 673 116 679 349 679 349 673 349 665 341 662 340 662 340 662 339 662 332 665 260 662 260 662 242 665 223 662 223 662 208 665 201 662 201 662 200 662 200 662 190 665 187 662 186 662 186 662 185 662 185 662 184 662 180 665 155 665 147 662 147 662 146 662 146 662 145 662 145 662 142 665 116 665 116 673"/></Shape>
+	    <String CONTENT="vement, comme les Tabaqât de SHA&#x27;RÃNI que"
+                    HPOS="116"
+                    VPOS="662"
+                    WIDTH="233"
+                    HEIGHT="17"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b1bb744"
+                    TAGREFS="LT4135"
+                    BASELINE="116 688 350 688" 
+                    HPOS="116"
+                    VPOS="680"
+                    WIDTH="234"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="116 688 116 694 350 694 350 688 350 680 116 680 116 688"/></Shape>
+	    <String CONTENT="nous allons présenter ici; à l’intérieur des"
+                    HPOS="116"
+                    VPOS="680"
+                    WIDTH="234"
+                    HEIGHT="14"
+                    WC="0.993288354670748"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a29613ae"
+                    TAGREFS="LT4135"
+                    BASELINE="115 705 349 703" 
+                    HPOS="115"
+                    VPOS="691"
+                    WIDTH="234"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="115 705 115 710 118 713 118 713 119 713 119 713 193 709 264 712 265 712 265 712 273 709 297 712 298 712 298 712 299 712 302 709 342 711 342 711 343 711 349 708 349 703 347 694 273 691 272 691 254 694 205 692 204 692 203 692 192 695 135 692 135 692 115 695 115 705"/></Shape>
+	    <String CONTENT="partitions chronologiques générales on peut"
+                    HPOS="115"
+                    VPOS="691"
+                    WIDTH="234"
+                    HEIGHT="22"
+                    WC="0.978364431858063"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15c9ced2"
+                    TAGREFS="LT4135"
+                    BASELINE="116 720 347 720" 
+                    HPOS="116"
+                    VPOS="708"
+                    WIDTH="231"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="116 720 116 724 347 726 347 720 347 710 341 708 340 708 340 708 326 710 270 708 270 708 269 708 269 708 266 710 260 708 260 708 259 708 244 710 211 708 210 708 210 708 209 708 209 708 207 711 159 711 152 708 152 708 151 708 151 708 146 710 142 708 141 708 141 708 140 708 116 710 116 720"/></Shape>
+	    <String CONTENT="aussi rencontrer l’ordre alphabétique (cf."
+                    HPOS="116"
+                    VPOS="708"
+                    WIDTH="231"
+                    HEIGHT="18"
+                    WC="0.985636408938918"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e951ada"
+                    TAGREFS="LT4135"
+                    BASELINE="115 734 347 735" 
+                    HPOS="115"
+                    VPOS="722"
+                    WIDTH="232"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="115 734 115 740 181 739 185 740 186 741 186 741 187 741 187 741 188 741 192 740 198 739 240 740 308 742 308 742 309 742 319 739 339 742 339 742 340 742 346 739 347 735 346 722 307 725 296 722 294 722 294 722 291 722 281 725 263 723 258 722 257 722 242 723 216 725 214 723 213 722 212 722 212 722 211 722 210 722 205 723 200 725 196 723 189 722 189 722 188 722 188 722 182 723 179 725 171 724 153 722 152 722 115 724 115 734"/></Shape>
+	    <String CONTENT="les Tabaqât de MENAWI, Manuscrit n° 259"
+                    HPOS="115"
+                    VPOS="722"
+                    WIDTH="232"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d96ee4b"
+                    TAGREFS="LT4135"
+                    BASELINE="115 750 349 750" 
+                    HPOS="115"
+                    VPOS="737"
+                    WIDTH="234"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="115 750 115 755 349 755 349 750 349 740 172 737 172 737 171 737 171 737 171 737 168 740 147 740 140 737 139 737 139 737 115 740 115 750"/></Shape>
+	    <String CONTENT="tárikh à la Bibliothèque Nationale du Caire)."
+                    HPOS="115"
+                    VPOS="737"
+                    WIDTH="234"
+                    HEIGHT="18"
+                    WC="0.983725293229024"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2267ca24"
+                    TAGREFS="LT4135"
+                    BASELINE="128 764 349 766" 
+                    HPOS="128"
+                    VPOS="753"
+                    WIDTH="221"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="128 764 128 769 275 773 276 773 349 770 349 766 349 756 282 756 281 755 277 753 277 753 276 753 276 753 128 754 128 764"/></Shape>
+	    <String CONTENT="^(2) Sur Sha&#x27;rãni, voir Encyclopédie de l’Is¬"
+                    HPOS="128"
+                    VPOS="753"
+                    WIDTH="221"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2f35dc7"
+                    TAGREFS="LT4135"
+                    BASELINE="115 781 349 781" 
+                    HPOS="115"
+                    VPOS="771"
+                    WIDTH="234"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="115 781 115 785 138 789 139 789 160 786 161 786 176 789 177 789 189 786 190 786 192 786 226 789 226 789 242 786 243 786 248 786 296 789 296 789 349 786 349 781 349 771 115 771 115 781"/></Shape>
+	    <String CONTENT="lam (1^re éd.), t. IV, p. 329. On pourra y"
+                    HPOS="115"
+                    VPOS="771"
+                    WIDTH="234"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7619724"
+                    TAGREFS="LT4135"
+                    BASELINE="116 795 347 796" 
+                    HPOS="115"
+                    VPOS="784"
+                    WIDTH="232"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="116 795 115 802 346 802 347 796 346 787 318 784 317 784 306 787 304 787 302 787 294 784 294 784 293 784 292 784 287 787 286 788 240 788 235 787 216 784 216 784 202 787 201 787 175 787 174 787 171 784 171 784 170 784 169 784 116 786 116 795"/></Shape>
+	    <String CONTENT="ajouter deux petits ouvrages en arabe :"
+                    HPOS="115"
+                    VPOS="784"
+                    WIDTH="232"
+                    HEIGHT="18"
+                    WC="0.980940190645365"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42fa4683"
+                    TAGREFS="LT4135"
+                    BASELINE="116 811 350 811" 
+                    HPOS="116"
+                    VPOS="798"
+                    WIDTH="234"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="116 811 116 819 252 819 255 822 255 822 256 822 256 822 257 822 350 818 350 811 350 802 338 798 338 798 337 798 309 799 308 799 308 799 304 802 292 798 292 798 291 798 262 802 214 802 207 799 207 799 206 799 206 799 198 802 179 798 179 798 178 798 172 802 168 798 168 798 167 798 144 798 143 798 142 798 137 802 132 798 131 798 131 798 130 798 130 798 116 802 116 811"/></Shape>
+	    <String CONTENT="ash Sha&#x27;rani imâm at-tasawuf fi &#x27;asrihi, du"
+                    HPOS="116"
+                    VPOS="798"
+                    WIDTH="234"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="358"
+                   VPOS="525"
+                   WIDTH="244"
+                   HEIGHT="293"
+                   ID="eSc_textblock_a1f2e088"
+                   TAGREFS="BT10568">
+          <Shape><Polygon POINTS="358 525 358 818 602 818 602 525"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_94b2c3ac"
+                    TAGREFS="LT4135"
+                    BASELINE="367 535 598 536" 
+                    HPOS="365"
+                    VPOS="521"
+                    WIDTH="232"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="366 534 365 541 595 544 597 535 596 521 366 521 366 534"/></Shape>
+	    <String CONTENT="docteur TAWFIK AT-TAWIL (Le Caire, 1945) ;"
+                    HPOS="365"
+                    VPOS="521"
+                    WIDTH="232"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd1aa03e"
+                    TAGREFS="LT4135"
+                    BASELINE="365 552 598 551" 
+                    HPOS="365"
+                    VPOS="539"
+                    WIDTH="233"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="365 552 365 556 406 559 406 559 598 556 598 551 597 541 370 539 370 539 369 539 369 539 365 541 365 552"/></Shape>
+	    <String CONTENT="et : ash-Sha&#x27;rani wa-l-Tasawuf al islami de"
+                    HPOS="365"
+                    VPOS="539"
+                    WIDTH="233"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_036364ca"
+                    TAGREFS="LT4135"
+                    BASELINE="366 567 598 567" 
+                    HPOS="366"
+                    VPOS="554"
+                    WIDTH="232"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="366 567 366 571 597 573 598 567 598 557 588 554 588 554 587 554 561 557 557 557 553 557 532 554 531 554 531 554 524 556 521 557 516 556 504 554 504 554 503 554 503 554 500 556 497 557 471 557 469 556 467 554 466 554 466 554 465 554 465 554 464 554 464 555 463 556 461 558 447 558 441 555 438 554 438 554 437 554 437 554 434 555 427 557 405 555 404 555 404 555 403 555 388 557 366 554 366 567"/></Shape>
+	    <String CONTENT="TAHA &#x27;ABD AL BAQI SORÛR (Le Caire, 1952)."
+                    HPOS="366"
+                    VPOS="554"
+                    WIDTH="232"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4337aac"
+                    TAGREFS="LT4135"
+                    BASELINE="366 582 598 582" 
+                    HPOS="366"
+                    VPOS="570"
+                    WIDTH="232"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="366 582 366 586 427 586 432 589 432 589 433 589 433 590 458 590 458 589 458 589 459 589 462 586 574 589 575 589 598 586 598 582 598 572 575 570 575 570 562 571 549 573 543 571 539 570 538 570 538 570 537 570 537 570 537 570 536 571 534 573 499 573 494 571 493 570 493 570 492 570 492 570 491 570 487 571 478 573 475 571 475 570 475 570 474 570 474 570 472 570 460 572 455 570 453 570 453 570 452 570 452 570 451 570 451 570 446 573 433 570 432 570 432 570 431 570 425 573 421 570 421 570 420 570 420 570 417 570 401 572 366 570 366 582"/></Shape>
+	    <String CONTENT="Voir aussi in A. J. ARBERRY, Le soufisme"
+                    HPOS="366"
+                    VPOS="570"
+                    WIDTH="232"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22abeb04"
+                    TAGREFS="LT4135"
+                    BASELINE="366 598 598 597" 
+                    HPOS="366"
+                    VPOS="584"
+                    WIDTH="232"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="366 598 366 604 545 605 546 605 598 602 598 597 597 586 506 587 502 587 482 584 481 584 454 587 451 588 448 588 430 585 429 585 429 585 422 588 421 588 412 585 411 585 411 585 410 585 397 588 392 585 392 585 391 585 371 585 371 585 370 585 370 585 366 587 366 598"/></Shape>
+	    <String CONTENT="(cahiers du Sud, 1952) le passage consacré"
+                    HPOS="366"
+                    VPOS="584"
+                    WIDTH="232"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f295371"
+                    TAGREFS="LT4135"
+                    BASELINE="365 612 499 613" 
+                    HPOS="365"
+                    VPOS="603"
+                    WIDTH="134"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="365 612 365 617 369 619 369 619 370 619 370 619 498 618 499 613 499 604 365 603 365 612"/></Shape>
+	    <String CONTENT="à Sha&#x27;rani, p. 114 sqq."
+                    HPOS="365"
+                    VPOS="603"
+                    WIDTH="134"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_948c9bc4"
+                    TAGREFS="LT4135"
+                    BASELINE="377 628 598 628" 
+                    HPOS="377"
+                    VPOS="615"
+                    WIDTH="221"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="377 628 377 634 598 634 598 628 598 618 594 615 594 615 593 615 573 615 572 615 572 615 564 619 549 619 509 619 508 619 500 615 499 615 499 615 498 615 487 618 486 619 479 618 452 616 451 616 437 618 431 619 430 618 428 616 428 616 427 616 427 616 426 616 426 616 421 618 419 619 417 618 411 615 410 615 410 615 409 615 404 618 401 615 401 615 400 615 400 615 377 617 377 628"/></Shape>
+	    <String CONTENT="^(3) Voir dans le supplément aux grandes"
+                    HPOS="377"
+                    VPOS="615"
+                    WIDTH="221"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7dedd3c7"
+                    TAGREFS="LT4135"
+                    BASELINE="366 644 598 642" 
+                    HPOS="366"
+                    VPOS="630"
+                    WIDTH="232"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="366 644 366 649 597 650 598 642 597 634 589 630 588 630 588 630 587 630 586 630 586 630 582 633 529 630 528 630 528 630 516 633 511 634 500 634 499 633 496 631 496 631 495 631 495 631 494 631 494 631 492 632 489 634 481 632 470 631 469 631 469 631 465 632 461 634 444 632 431 631 431 631 430 631 429 631 429 631 428 632 426 634 418 632 415 631 414 631 414 631 413 631 413 631 412 632 411 633 408 632 408 631 407 631 407 631 406 631 401 631 391 633 366 631 366 644"/></Shape>
+	    <String CONTENT="Tabaqât la biographie du sheikh Nasir ad¬"
+                    HPOS="366"
+                    VPOS="630"
+                    WIDTH="232"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f043e56"
+                    TAGREFS="LT4135"
+                    BASELINE="365 658 452 658" 
+                    HPOS="365"
+                    VPOS="645"
+                    WIDTH="87"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="365 658 365 664 452 664 452 658 452 649 432 645 432 645 412 648 407 645 406 645 406 645 381 648 373 645 373 645 372 645 372 645 365 648 365 658"/></Shape>
+	    <String CONTENT="Din at-Tabalawi."
+                    HPOS="365"
+                    VPOS="645"
+                    WIDTH="87"
+                    HEIGHT="19"
+                    WC="0.994678720831871"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23e2d5f6"
+                    TAGREFS="LT4135"
+                    BASELINE="377 672 598 674" 
+                    HPOS="376"
+                    VPOS="659"
+                    WIDTH="222"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="377 672 376 677 390 680 391 680 414 678 416 678 417 678 432 681 432 681 472 679 487 679 492 680 500 681 500 682 598 682 598 674 598 662 590 659 589 659 541 659 540 659 540 659 532 662 527 659 526 659 526 659 525 659 377 660 377 672"/></Shape>
+	    <String CONTENT="^(4) Sur l&#x27;histoire de l&#x27;Egypte Mamlouke,"
+                    HPOS="376"
+                    VPOS="659"
+                    WIDTH="222"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e163e75"
+                    TAGREFS="LT4135"
+                    BASELINE="365 689 598 688" 
+                    HPOS="364"
+                    VPOS="676"
+                    WIDTH="234"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="365 689 365 695 598 695 598 688 597 679 538 679 537 679 531 677 530 677 530 677 529 677 529 677 525 679 524 680 490 680 490 679 481 676 481 676 480 676 480 676 479 676 479 677 476 680 469 677 469 677 468 677 429 680 427 680 427 680 422 677 422 677 421 677 421 677 388 679 367 677 366 677 366 677 365 677 365 677 364 678 365 689"/></Shape>
+	    <String CONTENT="voir G. WIET, L’Egypte arabe de la conquête"
+                    HPOS="364"
+                    VPOS="676"
+                    WIDTH="234"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40264afe"
+                    TAGREFS="LT4135"
+                    BASELINE="364 705 598 703" 
+                    HPOS="363"
+                    VPOS="692"
+                    WIDTH="235"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="364 705 364 709 598 712 598 703 597 695 553 692 553 692 552 692 544 695 541 692 541 692 540 692 519 692 518 692 517 692 517 692 513 695 513 695 458 695 456 695 442 692 441 692 421 695 401 692 401 692 400 692 388 695 369 692 368 692 367 692 367 692 363 694 364 705"/></Shape>
+	    <String CONTENT="arabe à la conquête ottomane, t. IV de l&#x27;histoire"
+                    HPOS="363"
+                    VPOS="692"
+                    WIDTH="235"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da7930ab"
+                    TAGREFS="LT4135"
+                    BASELINE="365 720 597 719" 
+                    HPOS="364"
+                    VPOS="707"
+                    WIDTH="233"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="365 720 365 725 596 727 597 719 596 710 371 707 371 707 370 707 364 710 365 720"/></Shape>
+	    <String CONTENT="de la Nation Egyptienne de G. Hanotaux,"
+                    HPOS="364"
+                    VPOS="707"
+                    WIDTH="233"
+                    HEIGHT="20"
+                    WC="0.985339288528149"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfe85ce4"
+                    TAGREFS="LT4135"
+                    BASELINE="365 735 597 736" 
+                    HPOS="364"
+                    VPOS="725"
+                    WIDTH="233"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="365 735 364 740 596 742 597 736 597 726 365 725 365 735"/></Shape>
+	    <String CONTENT="Paris 1937. Sur l’évolution du cadre urbain,"
+                    HPOS="364"
+                    VPOS="725"
+                    WIDTH="233"
+                    HEIGHT="17"
+                    WC="0.979673449198405"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a42bee72"
+                    TAGREFS="LT4135"
+                    BASELINE="365 750 598 750" 
+                    HPOS="365"
+                    VPOS="738"
+                    WIDTH="233"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="365 750 365 756 598 756 598 750 598 741 588 738 587 738 586 738 568 741 567 741 549 738 549 738 533 741 532 741 530 741 515 738 514 738 514 738 504 741 503 741 503 741 498 738 497 738 497 738 496 738 496 738 488 741 486 741 486 741 482 738 481 738 481 738 480 738 466 741 462 741 460 741 451 738 450 738 449 738 449 738 441 741 440 741 439 741 434 738 433 738 433 738 432 738 432 738 432 739 429 740 428 741 425 740 418 739 417 739 417 739 416 739 415 739 413 740 412 741 365 740 365 750"/></Shape>
+	    <String CONTENT="CLERGET, Le Caire, étude de géographie et d’his¬"
+                    HPOS="365"
+                    VPOS="738"
+                    WIDTH="233"
+                    HEIGHT="18"
+                    WC="0.985162580013275"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0122d748"
+                    TAGREFS="LT4135"
+                    BASELINE="364 765 597 766" 
+                    HPOS="363"
+                    VPOS="755"
+                    WIDTH="234"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="364 765 363 770 596 771 597 766 597 755 364 755 364 765"/></Shape>
+	    <String CONTENT="toire économique, Le Caire 1934, t. I, 2° partie,"
+                    HPOS="363"
+                    VPOS="755"
+                    WIDTH="234"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72ac443c"
+                    TAGREFS="LT4135"
+                    BASELINE="364 781 597 780" 
+                    HPOS="364"
+                    VPOS="769"
+                    WIDTH="233"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="364 781 364 787 596 787 597 780 596 772 504 769 504 769 503 769 494 771 487 769 486 769 486 769 485 769 474 772 380 769 380 769 364 773 364 781"/></Shape>
+	    <String CONTENT="surtout le chapitre IV et, sur le cadre monu¬"
+                    HPOS="364"
+                    VPOS="769"
+                    WIDTH="233"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0fca516"
+                    TAGREFS="LT4135"
+                    BASELINE="365 796 598 796" 
+                    HPOS="365"
+                    VPOS="787"
+                    WIDTH="233"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="365 796 365 802 392 805 392 805 393 805 400 803 401 802 455 802 456 803 460 806 460 807 460 807 461 807 461 807 462 807 474 803 500 807 500 807 598 803 598 796 598 787 365 787 365 796"/></Shape>
+	    <String CONTENT="mental, WIET et HAUTECŒUR, Les Mosquées du"
+                    HPOS="365"
+                    VPOS="787"
+                    WIDTH="233"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f65a2fd9"
+                    TAGREFS="LT4135"
+                    BASELINE="362 811 463 811" 
+                    HPOS="362"
+                    VPOS="798"
+                    WIDTH="101"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="362 811 362 817 462 818 463 811 463 801 458 798 457 798 456 798 386 801 371 798 371 798 370 798 362 801 362 811"/></Shape>
+	    <String CONTENT="Caire, Paris 1932."
+                    HPOS="362"
+                    VPOS="798"
+                    WIDTH="101"
+                    HEIGHT="20"
+                    WC="0.977841599120034"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
