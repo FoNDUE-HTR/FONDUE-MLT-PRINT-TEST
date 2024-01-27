@@ -66,8 +66,8 @@ characters:
   - "'"
   - P
   - D
-  - N
   - x
+  - N
   - O
   - z
   - '2'
@@ -180,11 +180,11 @@ title: FONDUE-MLT-PRINT-TEST
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-PRINT-TEST
 volume:
-- count: 148276
+- count: 149482
   metric: characters
-- count: 98
+- count: 99
   metric: files
-- count: 3942
+- count: 3972
   metric: lines
-- count: 336
+- count: 339
   metric: regions
