@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent21__xvi_1774-4466_2006_num_2_1_890_0155_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10571" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10570" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10569" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10567" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10566" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10568" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10565" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10564" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10563" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10562" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4137" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4135" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4136" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="710"
+          HEIGHT="1000"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="710"
+                  HEIGHT="1000">
+        
+        <TextBlock HPOS="108"
+                   VPOS="97"
+                   WIDTH="218"
+                   HEIGHT="22"
+                   ID="eSc_textblock_57d7a1ed"
+                   TAGREFS="BT10563">
+          <Shape><Polygon POINTS="108 97 108 119 326 119 326 97"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8a305805"
+                    TAGREFS="LT4135"
+                    BASELINE="113 108 315 108" 
+                    HPOS="113"
+                    VPOS="95"
+                    WIDTH="202"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="313 101 308 95 302 95 297 95 291 95 286 95 280 95 275 95 269 95 263 95 258 95 252 95 247 95 242 95 226 95 225 95 225 95 219 95 213 95 208 95 202 95 197 95 191 95 189 95 187 95 186 95 186 95 180 95 175 95 169 95 163 95 158 95 152 95 147 95 141 96 136 96 130 96 125 96 119 96 113 99 113 108 113 115 245 114 246 115 250 118 251 118 251 118 252 118 315 115 315 108 313 102 313 101"/></Shape>
+	    <String CONTENT="Seizième Siècle - 2006 - N°2 p. 155-157"
+                    HPOS="113"
+                    VPOS="95"
+                    WIDTH="202"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="96"
+                   VPOS="191"
+                   WIDTH="513"
+                   HEIGHT="708"
+                   ID="eSc_textblock_dd7ba56b"
+                   TAGREFS="BT10562">
+          <Shape><Polygon POINTS="96 191 96 899 609 899 609 191"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c4f42e32"
+                    TAGREFS="LT4136"
+                    BASELINE="217 217 480 217" 
+                    HPOS="217"
+                    VPOS="197"
+                    WIDTH="263"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="473 198 467 197 462 197 456 197 451 197 445 197 440 197 434 197 428 197 423 197 417 197 412 197 406 197 401 197 395 197 390 197 384 197 378 197 373 197 367 197 362 197 356 197 351 197 345 197 340 197 334 197 328 197 323 197 317 197 312 197 306 197 301 197 295 197 290 197 284 197 278 197 273 197 267 197 262 197 256 197 251 197 245 197 240 197 234 197 228 197 223 197 217 200 217 217 217 227 480 227 480 217 480 199 478 199"/></Shape>
+	    <String CONTENT="BIBLIOGRAPIHIE SÉLECTIVE"
+                    HPOS="217"
+                    VPOS="197"
+                    WIDTH="263"
+                    HEIGHT="30"
+                    WC="0.971722102165222"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d2076d7"
+                    TAGREFS="LT4135"
+                    BASELINE="113 271 320 271" 
+                    HPOS="113"
+                    VPOS="255"
+                    WIDTH="207"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="319 260 318 259 286 259 285 258 283 256 280 256 275 256 269 256 264 258 260 260 229 260 223 257 221 256 219 256 213 255 208 255 202 255 197 255 191 255 186 255 180 255 175 255 172 255 168 260 138 260 131 255 130 255 125 255 119 255 113 257 113 271 113 282 320 282 320 271 320 261 319 260"/></Shape>
+	    <String CONTENT="Sources rhétoriques antiques :"
+                    HPOS="113"
+                    VPOS="255"
+                    WIDTH="207"
+                    HEIGHT="27"
+                    WC="0.954956519988275"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_498c912a"
+                    TAGREFS="LT4135"
+                    BASELINE="113 300 545 300" 
+                    HPOS="113"
+                    VPOS="284"
+                    WIDTH="432"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="541 287 536 285 530 285 525 285 519 285 513 285 508 285 502 284 497 284 491 284 486 284 113 284 113 300 113 307 544 306 545 300 542 287 541 287"/></Shape>
+	    <String CONTENT="Aristote, Poétique, trad. fr. R. Dupont-Roc et J. Lallot, Paris, Seuil, 1980."
+                    HPOS="113"
+                    VPOS="284"
+                    WIDTH="432"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c20f3f8"
+                    TAGREFS="LT4135"
+                    BASELINE="113 320 583 320" 
+                    HPOS="113"
+                    VPOS="308"
+                    WIDTH="470"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="580 309 576 308 113 308 113 320 113 330 583 330 583 320 583 310 580 309"/></Shape>
+	    <String CONTENT="Cicéron, De Oratore, éd. et trad. E. Courbaud, Paris, Les Belles-Lettres, 1966."
+                    HPOS="113"
+                    VPOS="308"
+                    WIDTH="470"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a6eda40"
+                    TAGREFS="LT4135"
+                    BASELINE="133 336 203 334" 
+                    HPOS="132"
+                    VPOS="322"
+                    WIDTH="71"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="133 336 133 341 203 339 203 334 202 322 154 322 153 322 132 325 133 336"/></Shape>
+	    <String CONTENT="p. 114-115."
+                    HPOS="132"
+                    VPOS="322"
+                    WIDTH="71"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02248779"
+                    TAGREFS="LT4135"
+                    BASELINE="113 354 584 355" 
+                    HPOS="112"
+                    VPOS="339"
+                    WIDTH="472"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="113 354 112 362 583 362 584 355 583 340 113 339 113 354"/></Shape>
+	    <String CONTENT="Quintilien, Institution oratoire, livre IX,2, 35 ; éd. et trad. J. Cousin, Paris, Les"
+                    HPOS="112"
+                    VPOS="339"
+                    WIDTH="472"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fb00d9e"
+                    TAGREFS="LT4135"
+                    BASELINE="133 370 260 371" 
+                    HPOS="132"
+                    VPOS="356"
+                    WIDTH="128"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="133 370 132 376 258 378 260 371 260 360 252 357 251 357 251 357 225 360 223 360 222 360 193 357 192 357 192 357 183 359 179 356 178 356 178 356 177 356 177 356 176 356 176 357 173 359 141 356 140 356 140 356 133 358 133 370"/></Shape>
+	    <String CONTENT="Belles-Lettres, 1978."
+                    HPOS="132"
+                    VPOS="356"
+                    WIDTH="128"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1253bd65"
+                    TAGREFS="LT4135"
+                    BASELINE="113 410 313 408" 
+                    HPOS="113"
+                    VPOS="395"
+                    WIDTH="200"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="113 410 113 418 313 417 313 408 312 396 113 395 113 410"/></Shape>
+	    <String CONTENT="Études théoriques générales:"
+                    HPOS="113"
+                    VPOS="395"
+                    WIDTH="200"
+                    HEIGHT="23"
+                    WC="0.967958677560091"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69c90e1f"
+                    TAGREFS="LT4135"
+                    BASELINE="114 442 583 442" 
+                    HPOS="114"
+                    VPOS="428"
+                    WIDTH="469"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="581 428 580 428 114 428 114 442 114 450 583 451 583 442 583 431 581 428"/></Shape>
+	    <String CONTENT="Bakhtine, Mikhaïl, Esthétique et théorie du roman, trad. fr. D. Olivier, Paris, Gal¬"
+                    HPOS="114"
+                    VPOS="428"
+                    WIDTH="469"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03256afd"
+                    TAGREFS="LT4135"
+                    BASELINE="133 458 215 457" 
+                    HPOS="133"
+                    VPOS="446"
+                    WIDTH="82"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="133 458 133 464 213 465 215 457 213 446 133 447 133 458"/></Shape>
+	    <String CONTENT="limard, 1978."
+                    HPOS="133"
+                    VPOS="446"
+                    WIDTH="82"
+                    HEIGHT="19"
+                    WC="0.992524243318118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22a5da47"
+                    TAGREFS="LT4135"
+                    BASELINE="113 473 580 472" 
+                    HPOS="113"
+                    VPOS="460"
+                    WIDTH="467"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="113 473 113 481 578 482 580 472 578 460 113 460 113 473"/></Shape>
+	    <String CONTENT="Idem, Esthétique de la création verbale, Moscou, 1979/ Paris, Gallimard, 1984."
+                    HPOS="113"
+                    VPOS="460"
+                    WIDTH="467"
+                    HEIGHT="22"
+                    WC="0.972101899981499"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc7fe73c"
+                    TAGREFS="LT4135"
+                    BASELINE="114 492 583 493" 
+                    HPOS="114"
+                    VPOS="478"
+                    WIDTH="469"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="114 492 114 498 345 498 347 498 370 501 370 501 583 498 583 493 583 483 508 483 507 482 498 479 498 479 497 479 479 482 475 483 445 483 443 482 438 479 438 479 437 479 395 479 394 479 393 479 389 481 386 482 341 482 340 481 336 478 336 478 335 478 335 478 320 481 313 482 312 481 309 478 308 478 308 478 307 478 307 478 302 481 300 482 277 482 275 481 272 478 271 478 271 478 270 478 270 478 263 480 258 482 251 480 241 478 241 478 240 478 234 480 228 482 194 482 188 480 185 478 184 478 183 478 183 478 182 478 181 480 179 481 173 480 167 478 167 478 166 478 166 478 165 478 163 480 160 482 114 480 114 492"/></Shape>
+	    <String CONTENT="Barthes, Roland, Le Degré zéro de l’écriture, suivi de Nouveaux Essais critiques,"
+                    HPOS="114"
+                    VPOS="478"
+                    WIDTH="469"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f1d1dfb9"
+                    TAGREFS="LT4135"
+                    BASELINE="133 509 330 509" 
+                    HPOS="133"
+                    VPOS="495"
+                    WIDTH="197"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="133 509 133 515 330 515 330 509 330 498 319 495 318 495 318 495 241 498 218 495 217 495 203 498 194 495 193 495 193 495 192 495 185 498 172 495 171 495 171 495 170 495 167 498 146 498 140 495 139 495 138 495 138 495 137 495 133 497 133 509"/></Shape>
+	    <String CONTENT="Paris, Seuil, (Coll. Points), 1972."
+                    HPOS="133"
+                    VPOS="495"
+                    WIDTH="197"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45400ca9"
+                    TAGREFS="LT4135"
+                    BASELINE="113 528 584 529" 
+                    HPOS="113"
+                    VPOS="515"
+                    WIDTH="471"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="113 528 113 535 583 537 584 529 583 516 113 515 113 528"/></Shape>
+	    <String CONTENT="Bouillaguet, Annick, L’Ecriture imitative. Pastiche, parodie, collage, Paris, 1996."
+                    HPOS="113"
+                    VPOS="515"
+                    WIDTH="471"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12fbd9d3"
+                    TAGREFS="LT4135"
+                    BASELINE="113 549 535 548" 
+                    HPOS="113"
+                    VPOS="535"
+                    WIDTH="422"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="113 549 113 554 144 557 145 557 179 554 184 554 186 554 196 557 197 557 197 557 198 557 198 557 202 554 203 554 231 554 234 554 259 557 260 557 260 557 271 554 272 554 534 554 535 548 533 536 113 535 113 549"/></Shape>
+	    <String CONTENT="Butor, Michel, La Critique et I’invention, In Critique, 247, pp. 981-995."
+                    HPOS="113"
+                    VPOS="535"
+                    WIDTH="422"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c98d33ae"
+                    TAGREFS="LT4135"
+                    BASELINE="113 568 583 569" 
+                    HPOS="113"
+                    VPOS="555"
+                    WIDTH="470"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="113 568 113 578 583 578 583 569 583 556 113 555 113 568"/></Shape>
+	    <String CONTENT="Compagnon, Antoine, La Seconde Main ou le travail de la citation, Paris,"
+                    HPOS="113"
+                    VPOS="555"
+                    WIDTH="470"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c18bbda"
+                    TAGREFS="LT4135"
+                    BASELINE="133 584 203 584" 
+                    HPOS="133"
+                    VPOS="573"
+                    WIDTH="70"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="133 584 133 590 203 590 203 584 203 573 133 573 133 584"/></Shape>
+	    <String CONTENT="Seuil, 1979."
+                    HPOS="133"
+                    VPOS="573"
+                    WIDTH="70"
+                    HEIGHT="17"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d32ae4e"
+                    TAGREFS="LT4135"
+                    BASELINE="113 604 578 603" 
+                    HPOS="112"
+                    VPOS="587"
+                    WIDTH="466"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="113 604 113 611 577 609 578 603 577 588 112 587 113 604"/></Shape>
+	    <String CONTENT="Dandrey, Patrick, L&#x27;Éloge paradoxal de Gorgias à Molière, Paris, P.U. F., 1997."
+                    HPOS="112"
+                    VPOS="587"
+                    WIDTH="466"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_690c0f56"
+                    TAGREFS="LT4135"
+                    BASELINE="113 624 585 623" 
+                    HPOS="113"
+                    VPOS="611"
+                    WIDTH="472"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="113 624 113 632 166 629 583 630 585 623 583 611 113 612 113 624"/></Shape>
+	    <String CONTENT="Deguy,Michel, « Limitation ou illimitation de l’imitation », in Le Singe à la porte,"
+                    HPOS="113"
+                    VPOS="611"
+                    WIDTH="472"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3dbb6db5"
+                    TAGREFS="LT4135"
+                    BASELINE="134 638 583 639" 
+                    HPOS="133"
+                    VPOS="627"
+                    WIDTH="450"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="134 638 133 647 582 648 583 639 583 628 134 627 134 638"/></Shape>
+	    <String CONTENT="Vers une théorie de la parodie, New York, Berne, Francfort, Peter Lang, 1984,"
+                    HPOS="133"
+                    VPOS="627"
+                    WIDTH="450"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b49b1c05"
+                    TAGREFS="LT4135"
+                    BASELINE="133 656 183 654" 
+                    HPOS="132"
+                    VPOS="641"
+                    WIDTH="51"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="133 656 133 661 183 658 183 654 182 643 170 641 169 641 132 645 133 656"/></Shape>
+	    <String CONTENT="p. 1-11."
+                    HPOS="132"
+                    VPOS="641"
+                    WIDTH="51"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9caf0542"
+                    TAGREFS="LT4135"
+                    BASELINE="113 674 585 673" 
+                    HPOS="113"
+                    VPOS="660"
+                    WIDTH="472"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="113 674 113 681 585 681 585 673 583 660 113 660 113 674"/></Shape>
+	    <String CONTENT="Delepierre, Octave, Essai sur la parodie, in Miscellanies of the Philobiblion"
+                    HPOS="113"
+                    VPOS="660"
+                    WIDTH="472"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c45f31dd"
+                    TAGREFS="LT4135"
+                    BASELINE="133 690 504 689" 
+                    HPOS="133"
+                    VPOS="676"
+                    WIDTH="371"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="133 690 133 696 503 695 504 689 503 679 495 676 494 676 493 676 418 678 415 676 415 676 414 676 374 676 373 676 373 676 372 676 369 678 292 676 292 676 273 679 267 676 266 676 266 676 246 679 242 676 241 676 241 676 240 676 240 676 232 679 208 676 208 676 172 679 166 676 166 676 165 676 147 679 140 676 139 676 138 676 138 676 137 676 133 678 133 690"/></Shape>
+	    <String CONTENT="Society, vol. XII, Londres, Witingham and Wilkins, 1868-1869."
+                    HPOS="133"
+                    VPOS="676"
+                    WIDTH="371"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10af5868"
+                    TAGREFS="LT4135"
+                    BASELINE="113 704 584 706" 
+                    HPOS="113"
+                    VPOS="691"
+                    WIDTH="471"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="113 704 113 713 583 713 584 706 583 693 503 692 503 692 499 692 485 695 477 692 475 692 475 692 474 692 468 692 441 695 413 692 405 691 373 691 373 691 372 691 371 692 363 695 297 692 295 692 295 692 294 692 280 695 265 692 265 692 243 694 239 691 238 691 237 691 237 691 236 691 236 691 234 691 228 694 220 691 217 691 217 691 216 691 216 691 213 691 203 694 113 691 113 704"/></Shape>
+	    <String CONTENT="Idem, La parodie chez les Grecs, chez les Romains et chez les modernes,"
+                    HPOS="113"
+                    VPOS="691"
+                    WIDTH="471"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6cc2a229"
+                    TAGREFS="LT4135"
+                    BASELINE="133 722 367 720" 
+                    HPOS="132"
+                    VPOS="707"
+                    WIDTH="235"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="133 722 133 728 160 728 160 728 163 731 164 731 165 731 165 731 205 728 208 731 209 731 210 731 210 731 268 731 269 731 270 731 273 728 286 731 287 731 305 727 307 727 311 727 358 730 358 730 359 730 367 727 367 720 366 710 318 707 318 707 233 710 211 707 210 707 188 711 137 708 136 708 136 708 135 708 132 710 133 722"/></Shape>
+	    <String CONTENT="Londres, N. Trübner et Cie, 1868-1869."
+                    HPOS="132"
+                    VPOS="707"
+                    WIDTH="235"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_612a3181"
+                    TAGREFS="LT4135"
+                    BASELINE="113 741 584 740" 
+                    HPOS="113"
+                    VPOS="724"
+                    WIDTH="471"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="113 741 113 746 583 746 584 740 583 729 567 724 567 724 531 724 530 724 530 724 529 724 523 728 522 729 510 729 509 728 503 724 503 724 502 724 502 724 483 727 479 724 478 724 478 724 447 724 447 724 446 724 446 724 441 728 440 729 430 729 426 727 415 724 415 724 414 724 413 724 413 724 408 727 406 729 397 729 393 727 383 724 382 724 382 724 381 724 381 724 377 727 375 728 368 727 361 726 361 726 360 726 356 727 347 729 317 729 314 727 312 725 312 725 311 725 311 725 310 725 306 726 298 729 282 726 277 726 276 726 276 726 274 726 268 730 229 730 223 726 222 726 222 726 191 726 191 726 190 726 175 729 164 725 163 725 163 725 113 725 113 741"/></Shape>
+	    <String CONTENT="Duisit, Lionel Satire, parodie, calembour. Esquisse d’une théorie des modes déva¬"
+                    HPOS="113"
+                    VPOS="724"
+                    WIDTH="471"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24079137"
+                    TAGREFS="LT4135"
+                    BASELINE="133 755 584 756" 
+                    HPOS="133"
+                    VPOS="745"
+                    WIDTH="451"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="133 755 133 761 146 764 147 764 191 761 201 764 201 764 370 765 371 765 583 761 584 756 583 746 133 745 133 755"/></Shape>
+	    <String CONTENT="lués, Saratoga (Californie), Anma Libri, 1978 (Stanford French and Italian"
+                    HPOS="133"
+                    VPOS="745"
+                    WIDTH="451"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b12d2e3"
+                    TAGREFS="LT4135"
+                    BASELINE="134 772 204 772" 
+                    HPOS="134"
+                    VPOS="761"
+                    WIDTH="70"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="134 772 134 777 203 778 204 772 204 761 134 761 134 772"/></Shape>
+	    <String CONTENT="sudies, 9)."
+                    HPOS="134"
+                    VPOS="761"
+                    WIDTH="70"
+                    HEIGHT="17"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7873d5eb"
+                    TAGREFS="LT4135"
+                    BASELINE="113 791 468 791" 
+                    HPOS="113"
+                    VPOS="780"
+                    WIDTH="355"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="113 791 113 797 167 801 167 801 168 801 178 798 191 801 191 801 468 797 468 791 468 780 113 780 113 791"/></Shape>
+	    <String CONTENT="Deleuze, Gilles, Différence et répétition, Paris, P.U.F., 1976."
+                    HPOS="113"
+                    VPOS="780"
+                    WIDTH="355"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64debb93"
+                    TAGREFS="LT4135"
+                    BASELINE="113 811 504 811" 
+                    HPOS="113"
+                    VPOS="797"
+                    WIDTH="391"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="113 811 113 820 504 817 504 811 504 797 472 797 471 797 471 797 470 797 467 800 443 797 441 797 440 797 438 797 421 800 389 797 383 797 338 797 338 797 337 797 337 797 337 797 334 800 328 797 327 797 326 797 326 797 325 797 323 797 315 800 277 800 272 797 271 797 270 797 270 797 269 797 267 797 263 800 236 798 222 797 221 797 221 797 217 798 210 800 113 798 113 811"/></Shape>
+	    <String CONTENT="Deleuze, Gilles, Logique du sens, Paris, Editions de Minuit, 1969."
+                    HPOS="113"
+                    VPOS="797"
+                    WIDTH="391"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46bc090f"
+                    TAGREFS="LT4135"
+                    BASELINE="113 831 493 830" 
+                    HPOS="113"
+                    VPOS="816"
+                    WIDTH="380"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="113 831 113 837 492 837 493 830 492 819 480 816 480 816 479 816 454 818 453 818 449 818 357 816 356 816 356 816 351 818 348 819 342 818 330 816 329 816 295 818 271 819 265 818 258 816 257 816 257 816 256 816 255 818 252 819 249 818 245 816 245 816 244 816 243 816 238 818 230 820 222 817 219 817 218 817 218 817 217 817 216 817 211 820 113 817 113 831"/></Shape>
+	    <String CONTENT="Dentith, Simon, Parody, Londres et New York, Routledge, 2000."
+                    HPOS="113"
+                    VPOS="816"
+                    WIDTH="380"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce94d667"
+                    TAGREFS="LT4135"
+                    BASELINE="113 851 583 851" 
+                    HPOS="113"
+                    VPOS="837"
+                    WIDTH="470"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="581 837 113 837 113 851 113 858 583 859 583 851 583 841 581 837"/></Shape>
+	    <String CONTENT="Eichel-Lojkine, Patricia, Préface au dossier sur la parodie réalisé pour Lettres"
+                    HPOS="113"
+                    VPOS="837"
+                    WIDTH="470"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d88ec99"
+                    TAGREFS="LT4135"
+                    BASELINE="133 866 332 866" 
+                    HPOS="133"
+                    VPOS="856"
+                    WIDTH="199"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="133 866 133 874 332 875 332 866 332 856 133 856 133 866"/></Shape>
+	    <String CONTENT="Actuelles, n° 11, mars-avril 1996."
+                    HPOS="133"
+                    VPOS="856"
+                    WIDTH="199"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent21__edyte_1762-4304_2003_num_1_1_867_0115_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10571" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10570" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10569" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10567" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10566" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10568" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10565" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10564" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10563" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10562" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4137" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4135" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4136" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="710"
+          HEIGHT="1011"
+          PHYSICAL_IMG_NR="25"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="710"
+                  HEIGHT="1011">
+        
+        <TextBlock HPOS="46"
+                   VPOS="92"
+                   WIDTH="621"
+                   HEIGHT="798"
+                   ID="eSc_textblock_f9d0b077"
+                   TAGREFS="BT10562">
+          <Shape><Polygon POINTS="46 92 46 890 667 890 667 92"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_eda5c113"
+                    TAGREFS="LT4136"
+                    BASELINE="148 116 563 117" 
+                    HPOS="148"
+                    VPOS="99"
+                    WIDTH="415"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="148 116 148 121 562 122 563 117 562 99 150 99 148 101"/></Shape>
+	    <String CONTENT="LA MÉTAMORPHOSE DES LITS TORRENTIELS"
+                    HPOS="148"
+                    VPOS="99"
+                    WIDTH="415"
+                    HEIGHT="23"
+                    WC="0.990165501027494"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d428e460"
+                    TAGREFS="LT4136"
+                    BASELINE="239 139 473 140" 
+                    HPOS="239"
+                    VPOS="123"
+                    WIDTH="234"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="239 146 472 146 473 140 472 124 239 123 239 139"/></Shape>
+	    <String CONTENT="À LA FIN DU XIX^E SIÈCLE"
+                    HPOS="239"
+                    VPOS="123"
+                    WIDTH="234"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_055374ce"
+                    TAGREFS="LT4136"
+                    BASELINE="161 185 553 187" 
+                    HPOS="161"
+                    VPOS="163"
+                    WIDTH="392"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="161 193 552 192 553 187 552 164 161 163 161 185"/></Shape>
+	    <String CONTENT="UN EFFET DU CHANGEMENT CLIMATIQUE"
+                    HPOS="161"
+                    VPOS="163"
+                    WIDTH="392"
+                    HEIGHT="30"
+                    WC="0.990167872472243"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0768d56"
+                    TAGREFS="LT4136"
+                    BASELINE="245 208 463 209" 
+                    HPOS="244"
+                    VPOS="191"
+                    WIDTH="219"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="244 216 462 217 463 209 462 191 245 192 245 208"/></Shape>
+	    <String CONTENT="OU DU REBOISEMENT ?"
+                    HPOS="244"
+                    VPOS="191"
+                    WIDTH="219"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9eb942a"
+                    TAGREFS="LT4136"
+                    BASELINE="241 249 472 249" 
+                    HPOS="241"
+                    VPOS="233"
+                    WIDTH="231"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="426 233 407 236 241 236 241 249 241 258 472 258 472 249 472 248 471 235"/></Shape>
+	    <String CONTENT="(BASSIN DU HAUT-BEZ, DRÔME)"
+                    HPOS="241"
+                    VPOS="233"
+                    WIDTH="231"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7eef87e8"
+                    TAGREFS="LT4136"
+                    BASELINE="171 331 539 331" 
+                    HPOS="171"
+                    VPOS="319"
+                    WIDTH="368"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="530 320 525 320 519 320 513 320 508 320 502 320 497 320 491 320 485 320 480 320 474 320 469 320 463 320 457 320 452 320 446 320 440 320 435 320 432 320 429 320 424 320 418 320 412 320 407 320 401 320 396 320 390 320 384 319 379 319 373 319 367 319 362 319 358 319 356 320 313 320 310 319 306 319 300 319 294 319 289 319 283 319 278 319 272 319 266 319 261 319 255 319 249 319 244 319 238 319 233 319 227 319 221 320 216 320 210 320 205 321 199 321 193 321 188 321 182 322 176 322 171 322 171 331 171 338 539 339 539 331 539 327 536 320"/></Shape>
+	    <String CONTENT="Par GRÉGOIRE THEVENET^1, LAURENT ASTRADE^2, JEAN-PAUL BRAVARD^1"
+                    HPOS="171"
+                    VPOS="319"
+                    WIDTH="368"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6be08661"
+                    TAGREFS="LT4135"
+                    BASELINE="71 362 480 363" 
+                    HPOS="71"
+                    VPOS="347"
+                    WIDTH="409"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="175 347 175 347 155 351 155 351 153 351 146 348 144 349 139 349 133 349 128 350 122 350 116 351 111 351 105 351 99 352 94 352 88 352 83 353 77 353 71 353 71 362 71 370 479 370 480 363 480 351 472 347 471 347 471 347 447 347 447 347 446 347 445 347 445 347 441 351 431 347 430 347 384 347 383 347 383 347 382 347 376 351 376 352 364 352 364 351 360 348 360 347 359 347 358 347 358 347 357 347 346 350 337 347 336 347 335 347 335 347 334 347 330 351 327 348 326 348 326 348 305 347 305 347 304 347 303 347 303 348 299 351 299 352 283 352 281 351 275 347 274 347 274 347 273 347 272 347 272 347 268 350 264 347 263 347 262 347 178 347 175 347"/></Shape>
+	    <String CONTENT="^¹ - Université Lyon Il, LRGE, UMR 5600, 5, Avenue P. Mendés-France, F 69976 Bron Cedex"
+                    HPOS="71"
+                    VPOS="347"
+                    WIDTH="409"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5986d7e5"
+                    TAGREFS="LT4135"
+                    BASELINE="70 381 635 383" 
+                    HPOS="70"
+                    VPOS="370"
+                    WIDTH="565"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="632 371 631 370 70 370 70 381 70 392 634 394 635 383 635 371 632 371"/></Shape>
+	    <String CONTENT="^2 - Institut de Géographie Alpine, Université Grenoble 1, UMR 5564 (LTHE), 14bis, Avenue Marie Reynoard F 38100 Grenoble"
+                    HPOS="70"
+                    VPOS="370"
+                    WIDTH="565"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef8c684a"
+                    TAGREFS="LT4136"
+                    BASELINE="70 476 119 475" 
+                    HPOS="69"
+                    VPOS="465"
+                    WIDTH="50"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="108 465 103 465 97 465 92 465 86 465 80 465 75 465 69 465 70 476 70 482 119 482 119 475 118 467 114 465"/></Shape>
+	    <String CONTENT="RÉSUMÉ"
+                    HPOS="69"
+                    VPOS="465"
+                    WIDTH="50"
+                    HEIGHT="17"
+                    WC="0.986714035272598"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6cc8c424"
+                    TAGREFS="LT4135"
+                    BASELINE="69 494 644 493" 
+                    HPOS="68"
+                    VPOS="483"
+                    WIDTH="576"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="641 484 635 484 630 484 624 484 619 484 613 484 607 484 602 484 596 484 590 484 585 484 579 484 574 484 568 484 562 484 557 484 551 484 545 484 540 484 536 483 68 484 69 494 69 499 643 498 644 493 642 484 641 484"/></Shape>
+	    <String CONTENT="A l&#x27;instar de la majorité des cours d’eau de I’est de la France, le Bez, un des principaux affluents de la Drôme, connaît une"
+                    HPOS="68"
+                    VPOS="483"
+                    WIDTH="576"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_559ca0bb"
+                    TAGREFS="LT4135"
+                    BASELINE="69 507 643 507" 
+                    HPOS="69"
+                    VPOS="498"
+                    WIDTH="574"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="69 507 69 513 643 512 643 507 643 498 69 498 69 507"/></Shape>
+	    <String CONTENT="incision généralisée de son lit et une contraction de la bande active, liés à un déficit en recharge sédimentaire. Son climat sub¬"
+                    HPOS="69"
+                    VPOS="498"
+                    WIDTH="574"
+                    HEIGHT="15"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8472551"
+                    TAGREFS="LT4135"
+                    BASELINE="69 520 644 520" 
+                    HPOS="69"
+                    VPOS="511"
+                    WIDTH="575"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="69 520 69 525 643 526 644 520 643 511 69 511 69 520"/></Shape>
+	    <String CONTENT="méditerranéen de moyenne montagne, ses sols marno-calcaires, son relief escarpé et son intense occupation humaine font de son"
+                    HPOS="69"
+                    VPOS="511"
+                    WIDTH="575"
+                    HEIGHT="15"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9503fd5"
+                    TAGREFS="LT4135"
+                    BASELINE="69 531 643 533" 
+                    HPOS="69"
+                    VPOS="522"
+                    WIDTH="574"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="69 531 69 538 642 538 643 533 643 525 69 522 69 531"/></Shape>
+	    <String CONTENT="bassin versant un milieu qui a vivement réagi lors de la période de crise érosive du 19^e siècle. Cet article montre comment I’étude"
+                    HPOS="69"
+                    VPOS="522"
+                    WIDTH="574"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af9e3b13"
+                    TAGREFS="LT4135"
+                    BASELINE="69 545 643 546" 
+                    HPOS="68"
+                    VPOS="536"
+                    WIDTH="575"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="69 545 68 550 642 552 643 546 642 538 69 536 69 545"/></Shape>
+	    <String CONTENT="de la métamorphose d’un lit torrentiel permet de préciser le poids relatif des facteurs anthropiques et climatiques, et d’apporter"
+                    HPOS="68"
+                    VPOS="536"
+                    WIDTH="575"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_195b9fdd"
+                    TAGREFS="LT4135"
+                    BASELINE="69 558 643 559" 
+                    HPOS="68"
+                    VPOS="549"
+                    WIDTH="575"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="69 558 68 563 642 565 643 559 643 550 69 549 69 558"/></Shape>
+	    <String CONTENT="un eclairage sur la fin de la période de crise du Petit Age de Glace et sur le début d’une période de stabilisation. Les résultats de"
+                    HPOS="68"
+                    VPOS="549"
+                    WIDTH="575"
+                    HEIGHT="16"
+                    WC="0.982277226274031"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9916500d"
+                    TAGREFS="LT4135"
+                    BASELINE="69 572 643 573" 
+                    HPOS="68"
+                    VPOS="562"
+                    WIDTH="575"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="69 572 68 576 642 579 643 573 642 562 69 562 69 572"/></Shape>
+	    <String CONTENT="l&#x27;étude dendrochronologique des pins sylvestes, visant à déterminer l’âge des terrasses alluviales qui se sont formées lorsque le"
+                    HPOS="68"
+                    VPOS="562"
+                    WIDTH="575"
+                    HEIGHT="17"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f088e05f"
+                    TAGREFS="LT4135"
+                    BASELINE="69 586 644 586" 
+                    HPOS="69"
+                    VPOS="575"
+                    WIDTH="575"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="69 586 69 592 644 592 644 586 643 575 69 576 69 586"/></Shape>
+	    <String CONTENT="cours d’eau a commencé à s&#x27;inciser, mettent en évidence la précocité de l’incision en tête de bassin par rapport aux travaux RTM"
+                    HPOS="69"
+                    VPOS="575"
+                    WIDTH="575"
+                    HEIGHT="17"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b446dfab"
+                    TAGREFS="LT4135"
+                    BASELINE="69 599 643 598" 
+                    HPOS="68"
+                    VPOS="588"
+                    WIDTH="575"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="69 599 69 606 642 606 643 598 642 589 74 588 74 588 73 588 68 590 69 599"/></Shape>
+	    <String CONTENT="et aux changements de mode d&#x27;occupation du territoire. Le reboisement et les travaux de correction ne sont pas à l’origine des"
+                    HPOS="68"
+                    VPOS="588"
+                    WIDTH="575"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f10a25d0"
+                    TAGREFS="LT4135"
+                    BASELINE="69 612 643 612" 
+                    HPOS="69"
+                    VPOS="603"
+                    WIDTH="574"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="69 612 69 617 142 621 142 621 143 621 149 618 279 618 281 618 306 621 307 621 307 621 315 618 316 618 322 618 366 621 366 621 643 618 643 612 642 603 69 603 69 612"/></Shape>
+	    <String CONTENT="changements, mais ils ont inévitablement accéléré le processus de stabilisation des versants de montagne, la variable climatique"
+                    HPOS="69"
+                    VPOS="603"
+                    WIDTH="574"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16c37935"
+                    TAGREFS="LT4135"
+                    BASELINE="69 625 366 625" 
+                    HPOS="69"
+                    VPOS="617"
+                    WIDTH="297"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="69 625 69 634 365 635 366 625 366 617 69 617 69 625"/></Shape>
+	    <String CONTENT="semblant être la principale responsable de la métamorphose du lit."
+                    HPOS="69"
+                    VPOS="617"
+                    WIDTH="297"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b9d31c5"
+                    TAGREFS="LT4135"
+                    BASELINE="69 653 475 654" 
+                    HPOS="69"
+                    VPOS="643"
+                    WIDTH="406"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="69 653 69 662 125 666 126 667 181 667 181 666 181 666 182 666 185 663 185 663 186 663 207 666 208 666 475 665 475 654 475 643 69 643 69 653"/></Shape>
+	    <String CONTENT="MOTS CLÉS: TORRENTIALITÉ, MÉTAMORPHOSE, PETIT AGE DE GLACE, DENDROCHRONOLOGIE, HAUT-DIOS."
+                    HPOS="69"
+                    VPOS="643"
+                    WIDTH="406"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2389a9a1"
+                    TAGREFS="LT4136"
+                    BASELINE="69 715 129 713" 
+                    HPOS="69"
+                    VPOS="700"
+                    WIDTH="60"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="114 702 108 702 102 701 97 701 96 700 72 701 69 703 69 715 69 721 129 720 129 713 124 704 119 702"/></Shape>
+	    <String CONTENT="ABSTRACT"
+                    HPOS="69"
+                    VPOS="700"
+                    WIDTH="60"
+                    HEIGHT="21"
+                    WC="0.992852061986923"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a31dbe77"
+                    TAGREFS="LT4135"
+                    BASELINE="68 732 569 731" 
+                    HPOS="67"
+                    VPOS="720"
+                    WIDTH="502"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="567 723 562 721 303 722 285 722 234 720 234 720 211 722 207 722 189 722 77 720 76 720 76 720 67 722 68 732 68 738 569 738 569 731 567 723 567 723"/></Shape>
+	    <String CONTENT="FLUVIAL METAMORPHOSIS IN THE END OF XIX^e CENTURY: RESULTS OF CLIMATE CHANGES OR EFFECT OF REFORESTATION?"
+                    HPOS="67"
+                    VPOS="720"
+                    WIDTH="502"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5db6845d"
+                    TAGREFS="LT4135"
+                    BASELINE="69 747 643 749" 
+                    HPOS="68"
+                    VPOS="738"
+                    WIDTH="575"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="69 747 68 752 642 754 643 749 643 739 69 738 69 747"/></Shape>
+	    <String CONTENT="The Bez stream, one of the main Drome river tributaries, is characterised by an incision of its bed and a contraction of its active"
+                    HPOS="68"
+                    VPOS="738"
+                    WIDTH="575"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43b905a7"
+                    TAGREFS="LT4135"
+                    BASELINE="69 761 642 761" 
+                    HPOS="69"
+                    VPOS="753"
+                    WIDTH="573"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="642 758 638 753 69 753 69 761 69 767 642 769 642 761 642 753 642 753 642 758"/></Shape>
+	    <String CONTENT="channel as many rivers of the east of France. These are induced by a decrease in the bedload sediment supply. Because of its Medi¬"
+                    HPOS="69"
+                    VPOS="753"
+                    WIDTH="573"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_468eb852"
+                    TAGREFS="LT4135"
+                    BASELINE="69 774 643 775" 
+                    HPOS="68"
+                    VPOS="765"
+                    WIDTH="575"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="69 774 68 779 642 780 643 775 642 765 69 765 69 774"/></Shape>
+	    <String CONTENT="terranean middle mountain climate, its marl and limestone outcrops, its steep relief and also its important human activity, Bez drai¬"
+                    HPOS="68"
+                    VPOS="765"
+                    WIDTH="575"
+                    HEIGHT="15"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ad4aed7"
+                    TAGREFS="LT4135"
+                    BASELINE="68 788 642 788" 
+                    HPOS="68"
+                    VPOS="780"
+                    WIDTH="574"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="68 788 68 793 642 795 642 788 642 780 68 780 68 788"/></Shape>
+	    <String CONTENT="nage basin has been very sensttve to the XIX century erosion crisis. This paper shows the interest of the fluvial morphology study"
+                    HPOS="68"
+                    VPOS="780"
+                    WIDTH="574"
+                    HEIGHT="15"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2182f9c"
+                    TAGREFS="LT4135"
+                    BASELINE="67 800 642 802" 
+                    HPOS="67"
+                    VPOS="791"
+                    WIDTH="575"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="67 800 67 807 642 807 642 802 642 793 67 791 67 800"/></Shape>
+	    <String CONTENT="for a better determining of the part of man and climate since the end of the little ice age and the beginning of its stabilisation. Pine"
+                    HPOS="67"
+                    VPOS="791"
+                    WIDTH="575"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7ef5c20"
+                    TAGREFS="LT4135"
+                    BASELINE="69 812 642 814" 
+                    HPOS="68"
+                    VPOS="804"
+                    WIDTH="574"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="69 812 68 818 640 820 642 814 641 805 69 804 69 812"/></Shape>
+	    <String CONTENT="dendrochronolgy results show an early incision in alluvial terraces due to the RTM works and change in landscape occupations."
+                    HPOS="68"
+                    VPOS="804"
+                    WIDTH="574"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac9073d1"
+                    TAGREFS="LT4135"
+                    BASELINE="69 826 642 827" 
+                    HPOS="68"
+                    VPOS="817"
+                    WIDTH="574"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="69 826 68 833 640 834 642 827 641 818 69 817 69 826"/></Shape>
+	    <String CONTENT="Reafforestation and other works are posterior to the beginning of the stabilisation. Nevertheless, these landscape managements"
+                    HPOS="68"
+                    VPOS="817"
+                    WIDTH="574"
+                    HEIGHT="17"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e6a87b8"
+                    TAGREFS="LT4135"
+                    BASELINE="69 840 607 840" 
+                    HPOS="69"
+                    VPOS="831"
+                    WIDTH="538"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="69 840 69 851 607 851 607 840 607 831 69 831 69 840"/></Shape>
+	    <String CONTENT="have accelerated the stabilisation process. Thus, climate proxy seems to be the main cause of the river bed metamorphose."
+                    HPOS="69"
+                    VPOS="831"
+                    WIDTH="538"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c44ac70"
+                    TAGREFS="LT4135"
+                    BASELINE="68 863 571 862" 
+                    HPOS="67"
+                    VPOS="852"
+                    WIDTH="504"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="68 863 68 875 571 875 571 862 570 852 67 852 68 863"/></Shape>
+	    <String CONTENT="KEY WORDS: TORRENTIALITY, FLUVIAL METAMORPHOSIS, CHANNEL INCISION, LITTLE ICE AGE, DENDROCHRONOLGY, «HAUT DIOIS»"
+                    HPOS="67"
+                    VPOS="852"
+                    WIDTH="504"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="61"
+                   VPOS="959"
+                   WIDTH="277"
+                   HEIGHT="25"
+                   ID="eSc_textblock_6436d726"
+                   TAGREFS="BT10568">
+          <Shape><Polygon POINTS="61 959 61 984 338 984 338 959"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_de9f7227"
+                    TAGREFS="LT4135"
+                    BASELINE="67 974 332 973" 
+                    HPOS="67"
+                    VPOS="962"
+                    WIDTH="265"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="331 966 330 964 325 963 320 963 314 963 308 963 303 963 297 963 292 963 286 963 280 963 275 963 269 963 264 963 258 963 252 963 247 963 241 963 235 963 230 963 224 963 219 963 213 963 207 963 202 963 196 963 190 963 185 963 179 963 174 963 168 963 162 963 157 963 151 963 146 963 140 963 134 963 129 963 123 963 117 963 112 963 106 963 101 963 95 963 89 963 84 963 78 963 73 963 72 962 67 962 67 974 67 986 331 985 332 973 331 972 331 966"/></Shape>
+	    <String CONTENT="Collection EDYTEM - Cahiers de Géographie - n°1 - 2003"
+                    HPOS="67"
+                    VPOS="962"
+                    WIDTH="265"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="611"
+                   VPOS="966"
+                   WIDTH="29"
+                   HEIGHT="17"
+                   ID="eSc_textblock_9d1d97ff"
+                   TAGREFS="BT10564">
+          <Shape><Polygon POINTS="611 966 611 983 640 983 640 966"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4a091e4f"
+                    TAGREFS="LT4135"
+                    BASELINE="620 975 638 974" 
+                    HPOS="620"
+                    VPOS="963"
+                    WIDTH="18"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="630 965 626 963 624 963 620 968 620 975 621 986 638 985 638 974 636 966 630 965"/></Shape>
+	    <String CONTENT="115"
+                    HPOS="620"
+                    VPOS="963"
+                    WIDTH="18"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

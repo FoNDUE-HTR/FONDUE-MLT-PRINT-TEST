@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent21__ahess_0395-2649_2002_num_57_6_280129_t1_1639_0000_1_1639_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10462" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10461" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT10460" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10459" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10458" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10457" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10456" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10445" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10444" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10443" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4085" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4084" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4083" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="710"
+          HEIGHT="1004"
+          PHYSICAL_IMG_NR="25"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="710"
+                  HEIGHT="1004">
+        
+        <TextBlock HPOS="168"
+                   VPOS="54"
+                   WIDTH="322"
+                   HEIGHT="26"
+                   ID="eSc_textblock_cc1cf64b"
+                   TAGREFS="BT10458">
+          <Shape><Polygon POINTS="168 54 168 80 490 80 490 54"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4083"
+                    BASELINE="264 69 388 69" 
+                    HPOS="264"
+                    VPOS="51"
+                    WIDTH="124"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="264 76 388 76 388 69 388 52 264 51 264 69"/></Shape>
+	    <String CONTENT="COMPTES RENDUS"
+                    HPOS="264"
+                    VPOS="51"
+                    WIDTH="124"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="48"
+                   VPOS="265"
+                   WIDTH="276"
+                   HEIGHT="663"
+                   ID="block_0"
+                   TAGREFS="BT10443">
+          <Shape><Polygon POINTS="324 265 324 928 48 928 48 265"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4083"
+                    BASELINE="70 278 184 278" 
+                    HPOS="70"
+                    VPOS="265"
+                    WIDTH="114"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="154 265 148 265 144 265 140 267 94 267 83 265 81 265 75 265 74 265 70 267 70 278 70 284 184 284 184 278 184 267 159 265"/></Shape>
+	    <String CONTENT="Peter Coss (dir.)"
+                    HPOS="70"
+                    VPOS="265"
+                    WIDTH="114"
+                    HEIGHT="19"
+                    WC="0.974966666666667"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4083"
+                    BASELINE="72 295 229 294" 
+                    HPOS="71"
+                    VPOS="281"
+                    WIDTH="158"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="72 300 229 299 229 294 228 283 79 281 78 281 71 284 72 295"/></Shape>
+	    <String CONTENT="The Moral World of the Law"
+                    HPOS="71"
+                    VPOS="281"
+                    WIDTH="158"
+                    HEIGHT="19"
+                    WC="0.956533333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4083"
+                    BASELINE="70 312 312 312" 
+                    HPOS="70"
+                    VPOS="300"
+                    WIDTH="242"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="70 317 311 321 312 312 312 300 70 300 70 312"/></Shape>
+	    <String CONTENT="Cambridge, Cambridge University Press,"
+                    HPOS="70"
+                    VPOS="300"
+                    WIDTH="242"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4083"
+                    BASELINE="72 327 267 327" 
+                    HPOS="72"
+                    VPOS="317"
+                    WIDTH="195"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="72 327 72 335 267 339 267 327 267 317 72 317 72 327"/></Shape>
+	    <String CONTENT="«Past and Present Publications»,"
+                    HPOS="72"
+                    VPOS="317"
+                    WIDTH="195"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4083"
+                    BASELINE="71 343 160 344" 
+                    HPOS="70"
+                    VPOS="333"
+                    WIDTH="90"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="71 343 70 353 159 355 160 344 160 334 71 333 71 343"/></Shape>
+	    <String CONTENT="2000, XI-262 p."
+                    HPOS="70"
+                    VPOS="333"
+                    WIDTH="90"
+                    HEIGHT="22"
+                    WC="0.984266666666667"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4083"
+                    BASELINE="52 377 319 377" 
+                    HPOS="52"
+                    VPOS="359"
+                    WIDTH="267"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="52 377 52 382 319 383 319 377 319 364 300 363 296 359 295 359 294 359 285 364 245 364 241 360 240 360 239 360 227 363 198 359 197 359 191 363 149 363 141 359 140 359 126 359 125 359 119 364 104 364 98 359 97 359 86 359 85 359 84 359 80 363 70 363 58 359 57 359 56 359 52 363 52 377"/></Shape>
+	    <String CONTENT="L’univers juridique et judiciaire construit-il"
+                    HPOS="52"
+                    VPOS="359"
+                    WIDTH="267"
+                    HEIGHT="24"
+                    WC="0.98416"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4083"
+                    BASELINE="53 393 319 393" 
+                    HPOS="53"
+                    VPOS="380"
+                    WIDTH="266"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="53 393 53 399 319 399 319 393 319 383 53 380 53 393"/></Shape>
+	    <String CONTENT="ses propres valeurs ou formalise-t-il la morale"
+                    HPOS="53"
+                    VPOS="380"
+                    WIDTH="266"
+                    HEIGHT="19"
+                    WC="0.977028571428571"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4083"
+                    BASELINE="52 409 318 408" 
+                    HPOS="51"
+                    VPOS="396"
+                    WIDTH="267"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="52 409 52 415 318 413 318 408 317 399 270 396 216 399 199 396 198 396 167 399 157 396 156 396 134 399 104 397 103 397 80 399 77 397 76 397 57 397 56 397 55 397 51 399 52 409"/></Shape>
+	    <String CONTENT="de la société ambiante? C’est cette question"
+                    HPOS="51"
+                    VPOS="396"
+                    WIDTH="267"
+                    HEIGHT="19"
+                    WC="0.997528571428571"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT4083"
+                    BASELINE="52 426 318 426" 
+                    HPOS="52"
+                    VPOS="413"
+                    WIDTH="266"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="52 426 52 431 318 431 318 426 318 416 310 413 309 413 308 413 300 416 212 413 185 416 171 413 170 413 143 416 128 413 103 416 78 413 52 416 52 426"/></Shape>
+	    <String CONTENT="que les organisateurs d’un colloque de la presti¬"
+                    HPOS="52"
+                    VPOS="413"
+                    WIDTH="266"
+                    HEIGHT="18"
+                    WC="0.9551375"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT4083"
+                    BASELINE="53 443 319 441" 
+                    HPOS="52"
+                    VPOS="430"
+                    WIDTH="267"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="53 443 53 449 318 446 319 441 318 432 141 430 140 430 128 432 61 430 60 430 52 433 53 443"/></Shape>
+	    <String CONTENT="gieuse revue Past and Present avaient adressée"
+                    HPOS="52"
+                    VPOS="430"
+                    WIDTH="267"
+                    HEIGHT="19"
+                    WC="0.993885714285714"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT4083"
+                    BASELINE="53 459 319 457" 
+                    HPOS="52"
+                    VPOS="445"
+                    WIDTH="267"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="53 459 53 464 318 463 319 457 318 447 185 445 184 445 170 447 57 445 56 445 55 445 52 447 53 459"/></Shape>
+	    <String CONTENT="à une dizaine d’historiens, dont les domaines"
+                    HPOS="52"
+                    VPOS="445"
+                    WIDTH="267"
+                    HEIGHT="19"
+                    WC="0.990185714285714"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT4083"
+                    BASELINE="53 474 319 475" 
+                    HPOS="52"
+                    VPOS="461"
+                    WIDTH="267"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="53 474 52 480 318 482 319 475 318 465 290 461 289 461 251 464 248 464 246 464 232 461 231 461 223 464 223 465 199 465 199 464 196 461 195 461 194 461 160 464 159 464 152 461 151 461 150 461 140 464 135 461 134 461 133 461 132 461 128 464 126 464 102 461 101 461 53 463 53 474"/></Shape>
+	    <String CONTENT="s&#x27;étendaient de l’Antiquité grecque à l’Afrique"
+                    HPOS="52"
+                    VPOS="461"
+                    WIDTH="267"
+                    HEIGHT="21"
+                    WC="0.968916666666667"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_26"
+                    TAGREFS="LT4083"
+                    BASELINE="52 490 146 491" 
+                    HPOS="51"
+                    VPOS="481"
+                    WIDTH="95"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="52 490 51 495 145 496 146 491 145 482 52 481 52 490"/></Shape>
+	    <String CONTENT="contemporaine."
+                    HPOS="51"
+                    VPOS="481"
+                    WIDTH="95"
+                    HEIGHT="15"
+                    WC="0.9809"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_27"
+                    TAGREFS="LT4083"
+                    BASELINE="70 508 319 507" 
+                    HPOS="70"
+                    VPOS="489"
+                    WIDTH="249"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="70 508 70 513 319 512 319 507 318 493 199 489 198 489 188 492 175 490 174 490 171 493 163 490 162 490 161 490 148 494 147 495 70 495 70 508"/></Shape>
+	    <String CONTENT="Au-delà de son apparente simplicité, le"
+                    HPOS="70"
+                    VPOS="489"
+                    WIDTH="249"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_28"
+                    TAGREFS="LT4083"
+                    BASELINE="52 524 319 524" 
+                    HPOS="52"
+                    VPOS="514"
+                    WIDTH="267"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="52 524 52 529 319 531 319 524 319 514 52 514 52 524"/></Shape>
+	    <String CONTENT="questionnement suggère de dépasser une"
+                    HPOS="52"
+                    VPOS="514"
+                    WIDTH="267"
+                    HEIGHT="17"
+                    WC="0.98186"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_29"
+                    TAGREFS="LT4083"
+                    BASELINE="53 539 319 539" 
+                    HPOS="53"
+                    VPOS="527"
+                    WIDTH="266"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="53 539 53 545 318 546 319 539 319 530 224 527 223 527 223 528 220 530 220 531 142 531 141 530 126 527 125 527 108 530 105 528 105 527 104 527 85 527 84 527 80 530 80 531 53 531 53 539"/></Shape>
+	    <String CONTENT="opposition têtue entre une adhésion à l’émi¬"
+                    HPOS="53"
+                    VPOS="527"
+                    WIDTH="266"
+                    HEIGHT="19"
+                    WC="0.984314285714286"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_30"
+                    TAGREFS="LT4083"
+                    BASELINE="52 556 318 555" 
+                    HPOS="51"
+                    VPOS="546"
+                    WIDTH="267"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="52 556 52 562 318 561 318 555 317 546 51 547 52 556"/></Shape>
+	    <String CONTENT="nence transcendante de la loi (tendance repré¬"
+                    HPOS="51"
+                    VPOS="546"
+                    WIDTH="267"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_31"
+                    TAGREFS="LT4083"
+                    BASELINE="52 573 319 572" 
+                    HPOS="51"
+                    VPOS="560"
+                    WIDTH="268"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="52 573 52 578 318 577 319 572 318 562 76 560 75 560 51 563 52 573"/></Shape>
+	    <String CONTENT="sentée de façon courante en histoire du droit)"
+                    HPOS="51"
+                    VPOS="560"
+                    WIDTH="268"
+                    HEIGHT="18"
+                    WC="0.9799375"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_32"
+                    TAGREFS="LT4083"
+                    BASELINE="53 589 319 589" 
+                    HPOS="53"
+                    VPOS="578"
+                    WIDTH="266"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="53 589 53 595 319 595 319 589 319 578 53 579 53 589"/></Shape>
+	    <String CONTENT="et une description purement contextuelle de"
+                    HPOS="53"
+                    VPOS="578"
+                    WIDTH="266"
+                    HEIGHT="17"
+                    WC="0.9936"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_33"
+                    TAGREFS="LT4083"
+                    BASELINE="53 605 319 604" 
+                    HPOS="52"
+                    VPOS="595"
+                    WIDTH="267"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="53 605 53 611 318 610 319 604 317 595 52 595 53 605"/></Shape>
+	    <String CONTENT="la justice (réduction sociologique ou anthropo¬"
+                    HPOS="52"
+                    VPOS="595"
+                    WIDTH="267"
+                    HEIGHT="16"
+                    WC="0.99395"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_34"
+                    TAGREFS="LT4083"
+                    BASELINE="52 622 319 621" 
+                    HPOS="51"
+                    VPOS="609"
+                    WIDTH="268"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="52 622 52 627 318 626 319 621 318 611 54 609 53 609 52 609 52 610 51 610 52 622"/></Shape>
+	    <String CONTENT="logique de l’exercice du droit à un processus,"
+                    HPOS="51"
+                    VPOS="609"
+                    WIDTH="268"
+                    HEIGHT="18"
+                    WC="0.99955"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_35"
+                    TAGREFS="LT4083"
+                    BASELINE="53 638 319 637" 
+                    HPOS="52"
+                    VPOS="625"
+                    WIDTH="267"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="53 638 53 643 319 642 319 637 318 627 57 625 56 625 55 625 52 627 53 638"/></Shape>
+	    <String CONTENT="à une variante du contrôle social). Le titre"
+                    HPOS="52"
+                    VPOS="625"
+                    WIDTH="267"
+                    HEIGHT="18"
+                    WC="0.9787375"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_36"
+                    TAGREFS="LT4083"
+                    BASELINE="52 655 319 653" 
+                    HPOS="51"
+                    VPOS="640"
+                    WIDTH="268"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="52 655 52 660 318 659 319 653 318 644 252 640 251 640 243 643 234 640 233 640 217 644 179 641 147 644 141 641 140 641 139 641 131 644 56 642 55 642 51 644 52 655"/></Shape>
+	    <String CONTENT="de l’ouvrage, Le monde moral du droit, se ré¬"
+                    HPOS="51"
+                    VPOS="640"
+                    WIDTH="268"
+                    HEIGHT="20"
+                    WC="0.992022222222222"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_37"
+                    TAGREFS="LT4083"
+                    BASELINE="52 671 319 670" 
+                    HPOS="51"
+                    VPOS="659"
+                    WIDTH="268"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="52 671 52 677 319 676 319 670 318 659 51 660 52 671"/></Shape>
+	    <String CONTENT="fère assez précisément à un article célèbre"
+                    HPOS="51"
+                    VPOS="659"
+                    WIDTH="268"
+                    HEIGHT="18"
+                    WC="0.992042857142857"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_38"
+                    TAGREFS="LT4083"
+                    BASELINE="53 687 319 687" 
+                    HPOS="53"
+                    VPOS="676"
+                    WIDTH="266"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="53 687 53 692 319 693 319 687 319 676 53 676 53 687"/></Shape>
+	    <String CONTENT="d’Edward P. Thompson^1, qui montrait de"
+                    HPOS="53"
+                    VPOS="676"
+                    WIDTH="266"
+                    HEIGHT="17"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_39"
+                    TAGREFS="LT4083"
+                    BASELINE="52 704 319 703" 
+                    HPOS="51"
+                    VPOS="693"
+                    WIDTH="268"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="52 704 52 709 184 712 185 712 197 708 198 708 202 711 203 711 204 711 221 708 223 708 261 708 267 711 268 711 269 711 319 708 319 703 318 693 51 693 52 704"/></Shape>
+	    <String CONTENT="façon saisissante que des processus apparem¬"
+                    HPOS="51"
+                    VPOS="693"
+                    WIDTH="268"
+                    HEIGHT="19"
+                    WC="0.9944"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_40"
+                    TAGREFS="LT4083"
+                    BASELINE="52 720 319 719" 
+                    HPOS="51"
+                    VPOS="707"
+                    WIDTH="268"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="52 720 52 726 318 726 319 719 317 708 234 710 232 708 229 707 228 707 185 707 184 707 176 710 173 710 168 710 152 707 139 710 137 710 134 707 133 707 93 707 51 711 52 720"/></Shape>
+	    <String CONTENT="ment désordonnés – des émeutes – supposent"
+                    HPOS="51"
+                    VPOS="707"
+                    WIDTH="268"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_41"
+                    TAGREFS="LT4083"
+                    BASELINE="53 736 319 736" 
+                    HPOS="53"
+                    VPOS="723"
+                    WIDTH="266"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="53 736 53 741 319 742 319 736 319 727 300 723 299 723 291 726 199 723 198 723 198 724 195 727 170 727 150 723 149 723 131 726 125 723 124 723 123 723 105 726 83 723 53 726 53 736"/></Shape>
+	    <String CONTENT="un régime de valeurs qui s’opposaient terme"
+                    HPOS="53"
+                    VPOS="723"
+                    WIDTH="266"
+                    HEIGHT="19"
+                    WC="0.9787"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_42"
+                    TAGREFS="LT4083"
+                    BASELINE="53 753 319 751" 
+                    HPOS="52"
+                    VPOS="741"
+                    WIDTH="267"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="53 753 53 759 318 757 319 751 317 741 52 741 53 753"/></Shape>
+	    <String CONTENT="à terme à celui que produisaient des cultures"
+                    HPOS="52"
+                    VPOS="741"
+                    WIDTH="267"
+                    HEIGHT="18"
+                    WC="0.9953625"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_43"
+                    TAGREFS="LT4083"
+                    BASELINE="52 769 318 768" 
+                    HPOS="51"
+                    VPOS="756"
+                    WIDTH="267"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="52 769 52 775 318 774 318 768 317 759 184 756 149 759 54 756 53 756 53 757 52 757 51 757 52 769"/></Shape>
+	    <String CONTENT="dominantes. Le propos du colloque, soigneu¬"
+                    HPOS="51"
+                    VPOS="756"
+                    WIDTH="267"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_44"
+                    TAGREFS="LT4083"
+                    BASELINE="53 784 319 785" 
+                    HPOS="52"
+                    VPOS="772"
+                    WIDTH="267"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="53 784 52 789 64 793 65 793 318 790 319 785 318 773 302 775 291 773 290 773 289 773 280 775 267 773 265 773 264 773 243 773 175 775 171 774 166 772 165 772 164 772 158 774 153 775 145 774 133 772 132 772 53 774 53 784"/></Shape>
+	    <String CONTENT="sement balisé par Peter Coss et épilogué par"
+                    HPOS="52"
+                    VPOS="772"
+                    WIDTH="267"
+                    HEIGHT="21"
+                    WC="0.99345"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_45"
+                    TAGREFS="LT4083"
+                    BASELINE="52 802 319 801" 
+                    HPOS="51"
+                    VPOS="788"
+                    WIDTH="268"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="52 802 52 808 318 808 319 801 318 792 290 788 289 788 288 788 283 791 175 789 174 789 171 792 55 789 54 789 51 791 52 802"/></Shape>
+	    <String CONTENT="Chris Wickham, consistait donc à mesurer des"
+                    HPOS="51"
+                    VPOS="788"
+                    WIDTH="268"
+                    HEIGHT="20"
+                    WC="0.985071428571429"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_46"
+                    TAGREFS="LT4083"
+                    BASELINE="52 817 319 818" 
+                    HPOS="51"
+                    VPOS="808"
+                    WIDTH="268"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="52 817 51 823 56 826 57 826 58 826 137 823 189 826 319 823 319 818 319 809 52 808 52 817"/></Shape>
+	    <String CONTENT="écarts ou des proximités entre les univers"
+                    HPOS="51"
+                    VPOS="808"
+                    WIDTH="268"
+                    HEIGHT="18"
+                    WC="0.997471428571429"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_47"
+                    TAGREFS="LT4083"
+                    BASELINE="53 835 319 834" 
+                    HPOS="52"
+                    VPOS="821"
+                    WIDTH="267"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="53 835 53 841 319 840 319 834 318 824 260 821 241 824 228 821 227 821 205 824 190 821 189 821 184 824 184 825 141 825 112 825 106 822 105 822 52 825 53 835"/></Shape>
+	    <String CONTENT="moraux de la justice et de la vie ordinaire, au"
+                    HPOS="52"
+                    VPOS="821"
+                    WIDTH="267"
+                    HEIGHT="20"
+                    WC="0.97774"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_48"
+                    TAGREFS="LT4083"
+                    BASELINE="52 851 319 851" 
+                    HPOS="52"
+                    VPOS="838"
+                    WIDTH="267"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="52 851 52 859 319 858 319 851 319 841 168 838 167 838 137 841 134 841 131 841 101 838 100 838 78 841 66 838 65 838 52 841 52 851"/></Shape>
+	    <String CONTENT="plus près du monde juridique, au contact"
+                    HPOS="52"
+                    VPOS="838"
+                    WIDTH="267"
+                    HEIGHT="21"
+                    WC="0.991114285714286"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_49"
+                    TAGREFS="LT4083"
+                    BASELINE="53 867 221 867" 
+                    HPOS="52"
+                    VPOS="855"
+                    WIDTH="169"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="53 867 53 873 219 874 221 867 219 858 117 855 116 855 107 858 99 855 98 855 97 855 89 858 66 855 65 855 52 858 53 867"/></Shape>
+	    <String CONTENT="même des parties en procès."
+                    HPOS="52"
+                    VPOS="855"
+                    WIDTH="169"
+                    HEIGHT="19"
+                    WC="0.98728"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_50"
+                    TAGREFS="LT4083"
+                    BASELINE="70 884 319 884" 
+                    HPOS="70"
+                    VPOS="872"
+                    WIDTH="249"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="70 884 70 889 319 891 319 884 319 873 70 872 70 884"/></Shape>
+	    <String CONTENT="Cet encadrement précis ne peut empêcher,"
+                    HPOS="70"
+                    VPOS="872"
+                    WIDTH="249"
+                    HEIGHT="19"
+                    WC="0.978983333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_51"
+                    TAGREFS="LT4083"
+                    BASELINE="52 901 319 900" 
+                    HPOS="51"
+                    VPOS="887"
+                    WIDTH="268"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="52 901 52 906 318 906 319 900 318 890 192 887 191 887 183 890 86 888 85 888 51 891 52 901"/></Shape>
+	    <String CONTENT="cependant, que le résultat ne constitue une"
+                    HPOS="51"
+                    VPOS="887"
+                    WIDTH="268"
+                    HEIGHT="19"
+                    WC="0.971471428571429"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_52"
+                    TAGREFS="LT4083"
+                    BASELINE="53 916 319 916" 
+                    HPOS="53"
+                    VPOS="907"
+                    WIDTH="266"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="53 916 53 923 92 927 93 927 128 923 193 923 202 927 203 927 235 923 319 923 319 916 319 907 53 907 53 916"/></Shape>
+	    <String CONTENT="anthologie d’études de cas, où les différents"
+                    HPOS="53"
+                    VPOS="907"
+                    WIDTH="266"
+                    HEIGHT="20"
+                    WC="0.989342857142857"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="331"
+                   VPOS="268"
+                   WIDTH="281"
+                   HEIGHT="661"
+                   ID="block_1"
+                   TAGREFS="BT10443">
+          <Shape><Polygon POINTS="612 268 612 929 331 929 331 268"/></Shape>
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT4083"
+                    BASELINE="334 278 603 278" 
+                    HPOS="334"
+                    VPOS="268"
+                    WIDTH="269"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="602 268 597 268 591 268 586 268 580 268 574 268 569 268 563 268 558 268 552 268 547 268 541 268 535 268 530 268 524 268 519 268 513 268 507 268 502 268 496 268 491 268 485 268 480 268 474 268 468 268 463 268 457 268 452 268 446 268 440 268 435 268 429 268 424 268 418 268 413 268 407 268 401 268 396 268 390 268 385 268 379 268 373 268 368 268 362 268 357 268 351 268 346 268 340 268 334 268 334 278 334 285 603 284 603 278 603 268 602 268"/></Shape>
+	    <String CONTENT="auteurs ne se conforment pas toujours à l’en¬"
+                    HPOS="334"
+                    VPOS="268"
+                    WIDTH="269"
+                    HEIGHT="17"
+                    WC="0.9948"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT4083"
+                    BASELINE="335 294 604 295" 
+                    HPOS="334"
+                    VPOS="283"
+                    WIDTH="270"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="335 294 334 300 456 300 457 300 472 303 603 300 604 295 603 283 335 283 335 294"/></Shape>
+	    <String CONTENT="semble des requêtes des organisateurs. Le"
+                    HPOS="334"
+                    VPOS="283"
+                    WIDTH="270"
+                    HEIGHT="20"
+                    WC="0.959716666666667"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT4083"
+                    BASELINE="334 311 604 310" 
+                    HPOS="334"
+                    VPOS="300"
+                    WIDTH="270"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="334 311 334 318 603 317 604 310 602 300 334 301 334 311"/></Shape>
+	    <String CONTENT="médiéviste Paul Hyams est sans doute celui"
+                    HPOS="334"
+                    VPOS="300"
+                    WIDTH="270"
+                    HEIGHT="18"
+                    WC="0.971857142857143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT4083"
+                    BASELINE="335 328 603 327" 
+                    HPOS="334"
+                    VPOS="316"
+                    WIDTH="269"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="335 328 335 333 603 332 603 327 602 317 334 316 335 328"/></Shape>
+	    <String CONTENT="qui se tient au plus près du propos, en obser¬"
+                    HPOS="334"
+                    VPOS="316"
+                    WIDTH="269"
+                    HEIGHT="17"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT4083"
+                    BASELINE="335 344 604 344" 
+                    HPOS="335"
+                    VPOS="332"
+                    WIDTH="269"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="335 344 335 349 365 353 366 353 375 350 377 350 378 350 387 353 388 353 389 353 394 350 395 350 400 350 418 353 430 351 437 350 499 351 540 353 541 353 545 352 557 350 565 353 566 353 567 353 568 353 572 350 580 353 581 353 582 353 583 353 589 350 603 353 604 344 603 332 335 334 335 344"/></Shape>
+	    <String CONTENT="vant le développement du due process dans le"
+                    HPOS="335"
+                    VPOS="332"
+                    WIDTH="269"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT4083"
+                    BASELINE="334 360 603 361" 
+                    HPOS="334"
+                    VPOS="349"
+                    WIDTH="269"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="334 360 334 366 336 368 337 368 338 368 603 365 603 361 603 351 334 349 334 360"/></Shape>
+	    <String CONTENT="droit commun européen à partir du XII^e siècle."
+                    HPOS="334"
+                    VPOS="349"
+                    WIDTH="269"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT4083"
+                    BASELINE="334 377 604 377" 
+                    HPOS="334"
+                    VPOS="367"
+                    WIDTH="270"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="334 377 334 382 603 384 604 377 604 367 334 367 334 377"/></Shape>
+	    <String CONTENT="Le due process (ou juste procédure due à"
+                    HPOS="334"
+                    VPOS="367"
+                    WIDTH="270"
+                    HEIGHT="17"
+                    WC="0.9868"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT4083"
+                    BASELINE="334 392 603 393" 
+                    HPOS="334"
+                    VPOS="380"
+                    WIDTH="269"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="334 392 334 397 348 401 603 400 603 393 603 384 592 380 591 380 511 383 473 383 472 382 471 380 470 380 469 380 468 380 463 382 460 383 453 382 441 380 440 380 433 382 428 383 420 381 411 380 410 380 406 381 401 383 334 380 334 392"/></Shape>
+	    <String CONTENT="chacun), expression anglaise du XIV^e siècle,"
+                    HPOS="334"
+                    VPOS="380"
+                    WIDTH="269"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT4083"
+                    BASELINE="334 409 603 408" 
+                    HPOS="334"
+                    VPOS="396"
+                    WIDTH="269"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="334 409 334 415 603 414 603 408 602 399 587 396 586 396 579 398 560 396 544 398 536 396 535 396 522 398 516 396 515 396 514 396 509 398 473 396 472 396 466 399 339 396 338 396 337 396 334 398 334 409"/></Shape>
+	    <String CONTENT="évoque l’ambition de donner à l’individu les"
+                    HPOS="334"
+                    VPOS="396"
+                    WIDTH="269"
+                    HEIGHT="19"
+                    WC="0.981514285714286"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT4083"
+                    BASELINE="335 426 604 426" 
+                    HPOS="335"
+                    VPOS="416"
+                    WIDTH="269"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="335 426 335 433 604 433 604 426 604 416 335 416 335 426"/></Shape>
+	    <String CONTENT="garanties d’une protection juridique fondée"
+                    HPOS="335"
+                    VPOS="416"
+                    WIDTH="269"
+                    HEIGHT="17"
+                    WC="0.96756"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT4083"
+                    BASELINE="335 442 603 442" 
+                    HPOS="335"
+                    VPOS="430"
+                    WIDTH="268"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="335 442 335 448 603 448 603 442 603 433 582 430 553 432 524 430 523 430 515 432 480 430 479 430 466 432 462 430 461 430 431 430 430 430 429 430 426 433 389 433 384 430 383 430 382 430 335 432 335 442"/></Shape>
+	    <String CONTENT="sur quelques principes fondamentaux d’ins¬"
+                    HPOS="335"
+                    VPOS="430"
+                    WIDTH="268"
+                    HEIGHT="18"
+                    WC="0.99648"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24"
+                    TAGREFS="LT4083"
+                    BASELINE="334 457 604 459" 
+                    HPOS="334"
+                    VPOS="447"
+                    WIDTH="270"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="334 457 334 462 343 466 344 466 603 464 604 459 603 449 334 447 334 457"/></Shape>
+	    <String CONTENT="truction et de jugement. P. Hyams montre"
+                    HPOS="334"
+                    VPOS="447"
+                    WIDTH="270"
+                    HEIGHT="19"
+                    WC="0.987528571428571"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_25"
+                    TAGREFS="LT4083"
+                    BASELINE="334 474 604 475" 
+                    HPOS="334"
+                    VPOS="462"
+                    WIDTH="270"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="334 474 334 480 603 480 604 475 603 462 475 465 334 462 334 474"/></Shape>
+	    <String CONTENT="comment cette exigence se construisit à partir"
+                    HPOS="334"
+                    VPOS="462"
+                    WIDTH="270"
+                    HEIGHT="18"
+                    WC="0.985657142857143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_53"
+                    TAGREFS="LT4083"
+                    BASELINE="335 490 604 491" 
+                    HPOS="334"
+                    VPOS="480"
+                    WIDTH="270"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="335 490 334 495 603 496 604 491 603 480 335 480 335 490"/></Shape>
+	    <String CONTENT="du XII^e siècle par l’interaction entre le droit"
+                    HPOS="334"
+                    VPOS="480"
+                    WIDTH="270"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_54"
+                    TAGREFS="LT4083"
+                    BASELINE="334 507 603 506" 
+                    HPOS="334"
+                    VPOS="495"
+                    WIDTH="269"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="334 507 334 513 602 514 603 506 602 495 334 498 334 507"/></Shape>
+	    <String CONTENT="romain et le droit canonique, manifestée par"
+                    HPOS="334"
+                    VPOS="495"
+                    WIDTH="269"
+                    HEIGHT="19"
+                    WC="0.986"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_55"
+                    TAGREFS="LT4083"
+                    BASELINE="334 524 603 522" 
+                    HPOS="334"
+                    VPOS="510"
+                    WIDTH="269"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="334 524 334 532 603 529 603 522 602 513 514 510 513 510 512 510 507 513 476 510 475 510 470 513 347 511 346 511 334 514 334 524"/></Shape>
+	    <String CONTENT="certaines maximes (ou règles de droit univer¬"
+                    HPOS="334"
+                    VPOS="510"
+                    WIDTH="269"
+                    HEIGHT="22"
+                    WC="0.979471428571429"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_56"
+                    TAGREFS="LT4083"
+                    BASELINE="335 539 603 539" 
+                    HPOS="335"
+                    VPOS="531"
+                    WIDTH="268"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="335 539 335 547 603 547 603 539 603 531 335 531 335 539"/></Shape>
+	    <String CONTENT="selles) fort répandues en des discours divers,"
+                    HPOS="335"
+                    VPOS="531"
+                    WIDTH="268"
+                    HEIGHT="16"
+                    WC="0.984842857142857"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_57"
+                    TAGREFS="LT4083"
+                    BASELINE="335 555 603 556" 
+                    HPOS="334"
+                    VPOS="546"
+                    WIDTH="269"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="335 555 334 561 602 562 603 556 603 547 335 546 335 555"/></Shape>
+	    <String CONTENT="malgré le statut incertain de leur énonciation."
+                    HPOS="334"
+                    VPOS="546"
+                    WIDTH="269"
+                    HEIGHT="16"
+                    WC="0.958642857142857"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_58"
+                    TAGREFS="LT4083"
+                    BASELINE="335 573 604 573" 
+                    HPOS="335"
+                    VPOS="561"
+                    WIDTH="269"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="335 573 335 577 603 578 604 573 604 563 335 561 335 573"/></Shape>
+	    <String CONTENT="Sur l’apport des canonistes, l’auteur se réfère"
+                    HPOS="335"
+                    VPOS="561"
+                    WIDTH="269"
+                    HEIGHT="17"
+                    WC="0.992571428571429"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_59"
+                    TAGREFS="LT4083"
+                    BASELINE="334 589 603 587" 
+                    HPOS="334"
+                    VPOS="575"
+                    WIDTH="269"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="334 589 334 595 603 594 603 587 602 578 555 578 549 575 548 575 539 578 528 575 527 575 526 575 522 578 479 578 469 575 468 575 452 578 411 576 410 576 405 578 389 576 388 576 334 579 334 589"/></Shape>
+	    <String CONTENT="aux travaux de Brian Tierney, qui voit l’émer¬"
+                    HPOS="334"
+                    VPOS="575"
+                    WIDTH="269"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_60"
+                    TAGREFS="LT4083"
+                    BASELINE="335 605 604 604" 
+                    HPOS="334"
+                    VPOS="595"
+                    WIDTH="270"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="335 605 335 612 603 610 604 604 602 595 334 595 335 605"/></Shape>
+	    <String CONTENT="gence de la notion de droits naturels indivi¬"
+                    HPOS="334"
+                    VPOS="595"
+                    WIDTH="270"
+                    HEIGHT="17"
+                    WC="0.9995125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_61"
+                    TAGREFS="LT4083"
+                    BASELINE="335 621 603 620" 
+                    HPOS="334"
+                    VPOS="611"
+                    WIDTH="269"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="335 621 335 627 603 626 603 620 602 611 334 611 335 621"/></Shape>
+	    <String CONTENT="duels chez les premiers décrétistes, à la fin du"
+                    HPOS="334"
+                    VPOS="611"
+                    WIDTH="269"
+                    HEIGHT="16"
+                    WC="0.964122222222222"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_62"
+                    TAGREFS="LT4083"
+                    BASELINE="335 638 604 638" 
+                    HPOS="335"
+                    VPOS="628"
+                    WIDTH="269"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="335 638 335 644 604 644 604 638 604 628 335 628 335 638"/></Shape>
+	    <String CONTENT="XII^e siècle. On pourrait ajouter que ce fut dans"
+                    HPOS="335"
+                    VPOS="628"
+                    WIDTH="269"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_63"
+                    TAGREFS="LT4083"
+                    BASELINE="335 653 604 654" 
+                    HPOS="334"
+                    VPOS="642"
+                    WIDTH="270"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="335 653 334 659 603 660 604 654 603 642 335 643 335 653"/></Shape>
+	    <String CONTENT="le droit canonique que se construisirent les"
+                    HPOS="334"
+                    VPOS="642"
+                    WIDTH="270"
+                    HEIGHT="18"
+                    WC="0.994742857142857"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_64"
+                    TAGREFS="LT4083"
+                    BASELINE="334 670 604 671" 
+                    HPOS="334"
+                    VPOS="659"
+                    WIDTH="270"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="334 670 334 678 603 678 604 671 603 659 334 659 334 670"/></Shape>
+	    <String CONTENT="premiers essais systématiques de rédaction de"
+                    HPOS="334"
+                    VPOS="659"
+                    WIDTH="270"
+                    HEIGHT="19"
+                    WC="0.986366666666667"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_65"
+                    TAGREFS="LT4083"
+                    BASELINE="335 686 603 687" 
+                    HPOS="334"
+                    VPOS="676"
+                    WIDTH="269"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="335 686 334 692 602 693 603 687 603 677 335 676 335 686"/></Shape>
+	    <String CONTENT="manuels de procédure, peut-être moins en rai¬"
+                    HPOS="334"
+                    VPOS="676"
+                    WIDTH="269"
+                    HEIGHT="17"
+                    WC="0.9684"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_66"
+                    TAGREFS="LT4083"
+                    BASELINE="335 702 603 703" 
+                    HPOS="334"
+                    VPOS="691"
+                    WIDTH="269"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="335 702 334 708 602 709 603 703 603 691 335 691 335 702"/></Shape>
+	    <String CONTENT="son de l’évangélisme chrétien que de la néces¬"
+                    HPOS="334"
+                    VPOS="691"
+                    WIDTH="269"
+                    HEIGHT="18"
+                    WC="0.9890625"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_67"
+                    TAGREFS="LT4083"
+                    BASELINE="335 720 603 720" 
+                    HPOS="335"
+                    VPOS="709"
+                    WIDTH="268"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="335 720 335 726 603 725 603 720 603 709 335 709 335 720"/></Shape>
+	    <String CONTENT="sité de s’armer dans les durs conflits de juri¬"
+                    HPOS="335"
+                    VPOS="709"
+                    WIDTH="268"
+                    HEIGHT="17"
+                    WC="0.987744444444444"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_68"
+                    TAGREFS="LT4083"
+                    BASELINE="335 736 603 736" 
+                    HPOS="335"
+                    VPOS="723"
+                    WIDTH="268"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="335 736 335 742 602 742 603 736 603 726 335 723 335 736"/></Shape>
+	    <String CONTENT="diction entre les cours religieuses et laïques."
+                    HPOS="335"
+                    VPOS="723"
+                    WIDTH="268"
+                    HEIGHT="19"
+                    WC="0.995328571428571"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_69"
+                    TAGREFS="LT4083"
+                    BASELINE="336 753 604 753" 
+                    HPOS="336"
+                    VPOS="742"
+                    WIDTH="268"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="336 753 336 759 604 759 604 753 604 742 336 742 336 753"/></Shape>
+	    <String CONTENT="Mais à cette morale juridique de l’équité"
+                    HPOS="336"
+                    VPOS="742"
+                    WIDTH="268"
+                    HEIGHT="17"
+                    WC="0.984057142857143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_70"
+                    TAGREFS="LT4083"
+                    BASELINE="336 769 604 769" 
+                    HPOS="336"
+                    VPOS="756"
+                    WIDTH="268"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="336 769 336 775 603 777 604 769 603 756 336 758 336 769"/></Shape>
+	    <String CONTENT="s&#x27;oppose l’exigence de l’ordre (ordre civil qui"
+                    HPOS="336"
+                    VPOS="756"
+                    WIDTH="268"
+                    HEIGHT="21"
+                    WC="0.991528571428571"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_71"
+                    TAGREFS="LT4083"
+                    BASELINE="334 786 603 785" 
+                    HPOS="334"
+                    VPOS="772"
+                    WIDTH="269"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="334 786 334 794 362 791 468 793 487 790 602 793 603 785 602 775 568 772 520 775 510 772 509 772 492 775 473 772 472 772 466 775 435 773 434 773 392 775 384 773 383 773 382 773 377 775 366 773 365 773 364 773 363 773 361 775 352 773 351 773 334 776 334 786"/></Shape>
+	    <String CONTENT="appelle la répression, ordre religieux qui sus¬"
+                    HPOS="334"
+                    VPOS="772"
+                    WIDTH="269"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_72"
+                    TAGREFS="LT4083"
+                    BASELINE="334 802 603 802" 
+                    HPOS="334"
+                    VPOS="789"
+                    WIDTH="269"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="334 802 334 809 603 807 603 802 603 792 590 789 589 789 571 792 567 789 566 789 565 789 564 789 559 792 557 792 510 789 509 789 502 792 501 792 496 792 463 789 462 789 456 791 455 792 451 791 433 789 432 789 418 791 414 792 411 791 403 789 402 789 401 789 390 791 386 792 334 791 334 802"/></Shape>
+	    <String CONTENT="cite des législations d’exception contre l&#x27;hé¬"
+                    HPOS="334"
+                    VPOS="789"
+                    WIDTH="269"
+                    HEIGHT="20"
+                    WC="0.978783333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_73"
+                    TAGREFS="LT4083"
+                    BASELINE="334 817 604 818" 
+                    HPOS="334"
+                    VPOS="807"
+                    WIDTH="270"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="334 817 334 823 339 826 340 826 341 826 440 823 469 826 603 823 604 818 603 808 334 807 334 817"/></Shape>
+	    <String CONTENT="résie). Il faut savoir gré à P. Hyams d’avoir"
+                    HPOS="334"
+                    VPOS="807"
+                    WIDTH="270"
+                    HEIGHT="19"
+                    WC="0.966733333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_74"
+                    TAGREFS="LT4083"
+                    BASELINE="335 833 604 834" 
+                    HPOS="334"
+                    VPOS="824"
+                    WIDTH="270"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="335 833 334 841 603 841 604 834 603 824 335 824 335 833"/></Shape>
+	    <String CONTENT="ouvert la question importante et difficile de"
+                    HPOS="334"
+                    VPOS="824"
+                    WIDTH="270"
+                    HEIGHT="17"
+                    WC="0.991414285714286"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_75"
+                    TAGREFS="LT4083"
+                    BASELINE="334 852 603 851" 
+                    HPOS="334"
+                    VPOS="841"
+                    WIDTH="269"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="334 852 334 857 602 858 603 851 602 841 334 841 334 852"/></Shape>
+	    <String CONTENT="la concomitance de ces deux mouvements au"
+                    HPOS="334"
+                    VPOS="841"
+                    WIDTH="269"
+                    HEIGHT="17"
+                    WC="0.992728571428571"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_76"
+                    TAGREFS="LT4083"
+                    BASELINE="336 867 603 866" 
+                    HPOS="335"
+                    VPOS="854"
+                    WIDTH="268"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="336 867 336 874 602 874 603 866 602 857 582 854 581 854 571 857 520 857 519 857 515 854 514 854 513 854 512 854 512 855 509 857 489 854 488 854 478 857 477 857 476 857 461 855 460 855 459 855 456 857 453 857 444 855 443 855 335 856 336 867"/></Shape>
+	    <String CONTENT="XIII^e siècle: en effet, les historiens de la léga¬"
+                    HPOS="335"
+                    VPOS="854"
+                    WIDTH="268"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_77"
+                    TAGREFS="LT4083"
+                    BASELINE="335 883 603 884" 
+                    HPOS="334"
+                    VPOS="871"
+                    WIDTH="269"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="335 883 334 889 602 890 603 884 602 874 335 871 335 883"/></Shape>
+	    <String CONTENT="lité équitable et les historiens de la répression"
+                    HPOS="334"
+                    VPOS="871"
+                    WIDTH="269"
+                    HEIGHT="19"
+                    WC="0.93755"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_78"
+                    TAGREFS="LT4083"
+                    BASELINE="334 901 603 899" 
+                    HPOS="333"
+                    VPOS="887"
+                    WIDTH="270"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="334 901 334 906 602 905 603 899 602 889 511 887 510 887 502 890 500 890 490 890 426 887 425 887 424 887 421 890 420 891 333 891 334 901"/></Shape>
+	    <String CONTENT="cultivent leurs jardins à part. Une autre origi¬"
+                    HPOS="333"
+                    VPOS="887"
+                    WIDTH="270"
+                    HEIGHT="19"
+                    WC="0.9598375"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_79"
+                    TAGREFS="LT4083"
+                    BASELINE="334 916 603 915" 
+                    HPOS="334"
+                    VPOS="903"
+                    WIDTH="269"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="334 916 334 923 411 923 420 928 421 928 421 929 434 929 434 928 435 928 438 924 477 923 480 923 484 923 508 923 516 928 517 928 554 928 555 928 567 923 572 927 572 928 573 928 593 928 594 928 603 922 603 915 602 907 579 907 573 903 572 903 571 903 564 906 525 903 524 903 499 906 490 903 489 903 488 903 487 903 483 906 472 904 471 904 462 907 350 904 349 904 334 908 334 916"/></Shape>
+	    <String CONTENT="nalité de P. Hyams est de conjuguer le jus"
+                    HPOS="334"
+                    VPOS="903"
+                    WIDTH="269"
+                    HEIGHT="26"
+                    WC="0.9864"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="634"
+                   VPOS="897"
+                   WIDTH="43"
+                   HEIGHT="22"
+                   ID="eSc_textblock_fe5e17d6"
+                   TAGREFS="BT10444">
+          <Shape><Polygon POINTS="634 897 634 919 677 919 677 897 663 897"/></Shape>
+          
+          
+          <TextLine ID="line_80"
+                    TAGREFS="LT4083"
+                    BASELINE="638 913 673 913" 
+                    HPOS="638"
+                    VPOS="899"
+                    WIDTH="35"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="638 913 638 931 673 931 673 913 673 899 638 899 638 913"/></Shape>
+	    <String CONTENT="1639"
+                    HPOS="638"
+                    VPOS="899"
+                    WIDTH="35"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent21__bd6t5327085n_f342_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10571" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10570" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10569" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10567" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10566" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10568" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10565" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10564" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10563" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10562" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4137" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4135" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4136" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="400"
+          HEIGHT="640"
+          PHYSICAL_IMG_NR="23"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="400"
+                  HEIGHT="640">
+        
+        <TextBlock HPOS="46"
+                   VPOS="39"
+                   WIDTH="18"
+                   HEIGHT="9"
+                   ID="eSc_textblock_34af0295"
+                   TAGREFS="BT10564">
+          <Shape><Polygon POINTS="46 39 46 48 64 48 64 39"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c9f60024"
+                    TAGREFS="LT4135"
+                    BASELINE="48 44 64 44" 
+                    HPOS="48"
+                    VPOS="36"
+                    WIDTH="16"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="62 38 58 38 55 38 51 38 51 36 48 36 48 44 48 50 64 50 64 44 63 40 62 38"/></Shape>
+	    <String CONTENT="302"
+                    HPOS="48"
+                    VPOS="36"
+                    WIDTH="16"
+                    HEIGHT="14"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="168"
+                   VPOS="38"
+                   WIDTH="75"
+                   HEIGHT="11"
+                   ID="eSc_textblock_066176e7"
+                   TAGREFS="BT10563">
+          <Shape><Polygon POINTS="168 38 168 49 243 49 243 38"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dfac65a5"
+                    TAGREFS="LT4136"
+                    BASELINE="170 44 241 45" 
+                    HPOS="169"
+                    VPOS="36"
+                    WIDTH="72"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="234 37 230 37 227 37 223 37 220 37 216 37 213 36 204 36 202 36 201 36 175 36 173 36 170 38 170 44 169 50 240 50 241 45 239 40 237 37"/></Shape>
+	    <String CONTENT="25 FÉVRIER 1972"
+                    HPOS="169"
+                    VPOS="36"
+                    WIDTH="72"
+                    HEIGHT="14"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="39"
+                   VPOS="66"
+                   WIDTH="333"
+                   HEIGHT="515"
+                   ID="eSc_textblock_26f603a4"
+                   TAGREFS="BT10562">
+          <Shape><Polygon POINTS="39 66 39 581 372 581 372 66"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ef44ac20"
+                    TAGREFS="LT4135"
+                    BASELINE="55 78 364 78" 
+                    HPOS="55"
+                    VPOS="69"
+                    WIDTH="309"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="343 71 339 71 336 71 332 71 328 71 325 71 321 71 318 71 314 71 311 71 307 71 304 71 300 71 296 71 293 71 289 71 286 71 282 71 279 70 275 70 272 70 268 70 264 70 261 70 257 70 254 70 250 70 247 70 243 70 240 70 236 70 232 70 229 70 225 70 222 70 218 70 215 70 211 70 208 70 204 70 200 70 197 70 193 69 190 69 186 69 183 69 179 69 176 69 172 69 168 69 165 69 161 69 158 69 154 69 151 69 147 69 144 69 55 69 55 78 55 83 364 82 364 78 343 71 343 71"/></Shape>
+	    <String CONTENT="M. Aklilou en est ensuite venu aux problèmes politiques. Confirmant"
+                    HPOS="55"
+                    VPOS="69"
+                    WIDTH="309"
+                    HEIGHT="14"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de111f82"
+                    TAGREFS="LT4135"
+                    BASELINE="46 89 365 89" 
+                    HPOS="46"
+                    VPOS="80"
+                    WIDTH="319"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="46 89 46 93 364 94 365 89 365 82 223 80 222 80 213 82 210 80 210 80 210 80 192 80 191 80 182 82 179 80 179 80 178 80 157 80 157 80 145 82 131 80 130 80 117 82 108 80 108 80 78 82 67 80 67 80 67 80 63 82 58 80 58 80 57 80 46 82 46 89"/></Shape>
+	    <String CONTENT="en tout point les propos de M. Minasse Haile, il a insisté à son tour sur"
+                    HPOS="46"
+                    VPOS="80"
+                    WIDTH="319"
+                    HEIGHT="14"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b577dda4"
+                    TAGREFS="LT4135"
+                    BASELINE="46 100 365 100" 
+                    HPOS="46"
+                    VPOS="91"
+                    WIDTH="319"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="46 100 46 104 365 105 365 100 364 91 358 93 342 91 342 91 341 91 341 91 327 93 270 91 269 91 268 91 268 91 260 93 237 92 237 92 237 92 231 94 199 94 194 91 193 91 193 91 193 91 185 93 163 91 163 91 162 91 162 91 148 93 129 91 129 91 128 91 97 93 71 91 70 91 70 91 70 91 66 93 46 91 46 100"/></Shape>
+	    <String CONTENT="l’inquiétude que faisait naître l&#x27;aide apportée par les Soviétiques à divers"
+                    HPOS="46"
+                    VPOS="91"
+                    WIDTH="319"
+                    HEIGHT="14"
+                    WC="0.981273023434627"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40bb5c47"
+                    TAGREFS="LT4135"
+                    BASELINE="46 112 364 111" 
+                    HPOS="46"
+                    VPOS="102"
+                    WIDTH="318"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="46 112 46 116 363 115 364 111 363 103 318 104 307 103 299 102 299 102 299 102 295 103 290 104 287 103 285 102 285 102 284 102 284 102 284 102 283 103 280 104 266 103 259 102 259 102 258 102 258 102 257 103 254 104 198 104 194 103 194 102 193 102 193 102 193 102 192 103 185 104 174 103 169 102 169 102 166 103 157 104 121 103 114 102 113 102 111 103 97 104 87 103 86 102 85 102 46 102 46 112"/></Shape>
+	    <String CONTENT="pays arabes. Au-delà même des vues stratégiques propres à l&#x27;Union sovié¬"
+                    HPOS="46"
+                    VPOS="102"
+                    WIDTH="318"
+                    HEIGHT="14"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00f40957"
+                    TAGREFS="LT4135"
+                    BASELINE="47 122 364 123" 
+                    HPOS="46"
+                    VPOS="113"
+                    WIDTH="318"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="47 122 46 126 56 129 57 129 86 127 87 127 92 130 92 130 92 130 93 130 102 127 103 127 103 127 108 129 108 129 109 129 139 128 152 127 155 128 161 130 161 130 162 130 162 130 162 130 165 128 166 127 199 127 204 128 210 130 210 130 210 130 364 130 364 123 364 114 296 116 285 114 283 114 283 114 283 114 282 114 279 116 262 116 253 114 253 114 252 114 252 114 249 114 230 115 227 114 226 114 226 114 226 114 224 114 209 115 203 114 201 113 201 113 200 113 200 113 200 113 199 114 196 115 185 114 184 114 184 114 183 114 171 115 161 114 159 113 158 113 158 113 157 114 151 115 140 114 137 113 137 113 137 113 136 113 136 114 132 116 67 116 47 114 47 122"/></Shape>
+	    <String CONTENT="tique, ces pays pouvaient se trouver, du fait de l&#x27;aide ainsi reçue, encouragés"
+                    HPOS="46"
+                    VPOS="113"
+                    WIDTH="318"
+                    HEIGHT="17"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_319affd4"
+                    TAGREFS="LT4135"
+                    BASELINE="47 133 209 133" 
+                    HPOS="46"
+                    VPOS="125"
+                    WIDTH="163"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="47 133 47 138 208 139 209 133 208 127 46 125 47 133"/></Shape>
+	    <String CONTENT="à des actions hostiles contre son pays."
+                    HPOS="46"
+                    VPOS="125"
+                    WIDTH="163"
+                    HEIGHT="14"
+                    WC="0.988915319740772"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_580ab4a4"
+                    TAGREFS="LT4135"
+                    BASELINE="54 146 364 145" 
+                    HPOS="54"
+                    VPOS="132"
+                    WIDTH="310"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="54 146 54 150 60 152 60 152 60 152 61 152 65 150 66 150 83 150 84 150 87 152 87 152 87 152 88 152 88 152 93 150 93 150 138 150 139 150 143 152 143 152 144 152 162 151 163 151 163 151 165 150 166 150 171 150 192 152 193 152 203 150 209 149 214 150 221 151 222 152 253 152 253 151 253 151 256 150 258 149 263 150 268 151 268 151 269 151 273 150 277 149 280 150 283 151 283 151 283 151 291 150 297 150 305 150 317 151 317 151 364 150 364 145 364 135 359 132 359 132 359 132 218 132 217 132 217 132 208 136 207 137 133 137 132 137 127 134 127 134 126 134 126 134 115 137 99 134 99 134 99 134 93 137 70 135 70 135 54 137 54 146"/></Shape>
+	    <String CONTENT="Le Scerétaire d’État a alors exposé les principes qui guident notre poli¬"
+                    HPOS="54"
+                    VPOS="132"
+                    WIDTH="310"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee4fdf67"
+                    TAGREFS="LT4135"
+                    BASELINE="46 157 364 157" 
+                    HPOS="46"
+                    VPOS="148"
+                    WIDTH="318"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="46 157 46 159 55 161 55 161 146 160 206 162 206 162 364 160 364 157 364 148 350 150 294 148 293 148 281 150 276 148 275 148 275 148 275 148 274 148 271 150 249 150 244 148 243 148 243 148 230 150 212 148 212 148 212 148 206 150 201 148 201 148 201 148 200 148 200 148 190 150 161 148 159 148 159 148 158 148 152 150 111 150 96 148 96 148 95 148 95 148 84 150 78 148 77 148 77 148 77 148 72 150 65 148 65 148 64 148 64 148 64 148 61 150 46 148 46 157"/></Shape>
+	    <String CONTENT="tique d’amitié avec le monde arabe. Notre but était précisément, a-t-il"
+                    HPOS="46"
+                    VPOS="148"
+                    WIDTH="318"
+                    HEIGHT="14"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22c97e25"
+                    TAGREFS="LT4135"
+                    BASELINE="46 168 364 168" 
+                    HPOS="46"
+                    VPOS="159"
+                    WIDTH="318"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="46 168 46 173 364 172 364 168 364 161 349 159 349 159 349 159 348 159 345 161 345 161 307 159 307 159 307 159 301 161 301 161 263 161 262 161 258 159 257 159 238 159 238 159 238 159 237 159 235 161 234 161 213 161 211 161 205 159 205 159 189 159 188 159 188 159 188 159 185 161 184 161 178 161 157 159 157 159 123 159 123 159 123 159 121 160 120 161 119 160 118 159 117 159 117 159 116 159 46 160 46 168"/></Shape>
+	    <String CONTENT="souligné, de ne pas laisser les pays arabes en tête-à-tête avec Moscou, sans"
+                    HPOS="46"
+                    VPOS="159"
+                    WIDTH="318"
+                    HEIGHT="14"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98f300b5"
+                    TAGREFS="LT4135"
+                    BASELINE="46 179 364 179" 
+                    HPOS="46"
+                    VPOS="170"
+                    WIDTH="318"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="46 179 46 183 364 184 364 179 364 172 357 170 357 170 356 170 331 172 224 170 224 170 224 170 218 172 163 172 158 170 158 170 120 170 120 170 120 170 115 172 96 170 96 170 79 172 51 170 51 170 51 170 46 172 46 179"/></Shape>
+	    <String CONTENT="amitiés occidentales. Ainsi notre politique à l&#x27;égard du monde arabe répon¬"
+                    HPOS="46"
+                    VPOS="170"
+                    WIDTH="318"
+                    HEIGHT="14"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7425f9e9"
+                    TAGREFS="LT4135"
+                    BASELINE="46 190 365 190" 
+                    HPOS="46"
+                    VPOS="181"
+                    WIDTH="319"
+                    HEIGHT="13">
+            <Shape><Polygon POINTS="46 190 46 194 364 194 365 190 364 181 46 181 46 190"/></Shape>
+	    <String CONTENT="dait-elle aux préoccupations de l’Éthiopie. M. Aklilou s&#x27;en est félicité et il a"
+                    HPOS="46"
+                    VPOS="181"
+                    WIDTH="319"
+                    HEIGHT="13"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f43dd1f5"
+                    TAGREFS="LT4135"
+                    BASELINE="46 201 365 201" 
+                    HPOS="46"
+                    VPOS="195"
+                    WIDTH="319"
+                    HEIGHT="12">
+            <Shape><Polygon POINTS="46 201 46 205 62 207 63 207 128 207 128 207 128 207 128 207 131 205 133 207 134 207 134 207 134 207 135 207 142 205 180 207 181 207 321 205 338 207 338 207 365 205 365 201 365 195 46 195 46 201"/></Shape>
+	    <String CONTENT="observé que son gouvernement approuvait pleinement, par exemple, nos"
+                    HPOS="46"
+                    VPOS="195"
+                    WIDTH="319"
+                    HEIGHT="12"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25a5d454"
+                    TAGREFS="LT4135"
+                    BASELINE="46 212 364 211" 
+                    HPOS="46"
+                    VPOS="203"
+                    WIDTH="318"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="46 212 46 216 363 217 364 211 363 205 224 203 223 203 213 205 210 203 210 203 210 203 209 203 209 203 204 205 129 203 129 203 128 203 122 205 110 203 109 203 109 203 109 203 105 205 76 205 54 203 54 203 54 203 46 205 46 212"/></Shape>
+	    <String CONTENT="efforts en vue d’apaiser le différend entre le Tchad et la Libye. « Mais était-"
+                    HPOS="46"
+                    VPOS="203"
+                    WIDTH="318"
+                    HEIGHT="14"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b2560ce"
+                    TAGREFS="LT4135"
+                    BASELINE="46 222 357 223" 
+                    HPOS="46"
+                    VPOS="213"
+                    WIDTH="311"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="46 222 46 226 56 229 57 229 69 227 93 229 93 229 113 229 113 229 114 229 114 229 116 227 122 229 122 229 123 229 137 227 195 229 195 229 195 229 201 227 201 227 202 227 219 229 219 230 241 230 241 229 242 229 242 229 244 227 249 229 249 229 250 229 250 229 257 227 264 229 264 229 264 229 265 229 269 227 280 229 280 229 280 229 288 227 288 227 289 227 300 229 300 229 356 227 357 223 356 216 331 214 331 214 331 214 324 215 323 216 293 216 292 215 289 214 289 214 289 214 280 215 278 215 275 215 266 214 266 214 258 215 256 215 243 215 215 214 215 214 214 214 212 215 210 215 208 215 202 213 201 213 201 213 183 215 175 215 169 214 157 213 157 213 151 214 148 215 46 214 46 222"/></Shape>
+	    <String CONTENT="il possible de prévoir ce que ce Kadhafi était capable d’entreprendre? »."
+                    HPOS="46"
+                    VPOS="213"
+                    WIDTH="311"
+                    HEIGHT="17"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d554d21"
+                    TAGREFS="LT4135"
+                    BASELINE="54 236 365 236" 
+                    HPOS="54"
+                    VPOS="228"
+                    WIDTH="311"
+                    HEIGHT="13">
+            <Shape><Polygon POINTS="54 236 54 239 364 241 365 236 365 228 54 228 54 236"/></Shape>
+	    <String CONTENT="s&#x27;agissant de Djibouti, le Premier ministre ne pouvait manquer de"
+                    HPOS="54"
+                    VPOS="228"
+                    WIDTH="311"
+                    HEIGHT="13"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e4f4f27"
+                    TAGREFS="LT4135"
+                    BASELINE="46 247 364 247" 
+                    HPOS="46"
+                    VPOS="237"
+                    WIDTH="318"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="46 247 46 251 364 252 364 247 364 240 347 237 347 237 347 237 339 239 339 239 339 239 318 237 275 237 275 237 275 237 271 239 271 239 264 239 226 237 225 237 225 237 221 239 221 239 220 239 217 237 216 237 216 237 207 239 204 239 203 239 200 237 200 237 169 237 169 237 169 237 166 239 165 239 158 239 144 237 144 237 143 237 140 238 139 239 46 238 46 247"/></Shape>
+	    <String CONTENT="reprendre les arguments de son ministre des Affaires étrangères."
+                    HPOS="46"
+                    VPOS="237"
+                    WIDTH="318"
+                    HEIGHT="15"
+                    WC="0.958730629899285"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f09ab62b"
+                    TAGREFS="LT4135"
+                    BASELINE="46 258 365 258" 
+                    HPOS="46"
+                    VPOS="249"
+                    WIDTH="319"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="46 258 46 262 364 263 365 258 364 249 358 251 349 249 349 249 348 249 348 249 348 249 345 251 317 249 316 249 315 249 315 249 305 251 288 249 287 249 287 249 286 249 268 251 250 249 248 249 248 249 246 249 227 251 219 249 218 249 218 249 216 249 204 251 189 249 187 249 187 249 185 249 173 251 46 249 46 258"/></Shape>
+	    <String CONTENT="M. Bourges lui a confirmé que nos vues sur ces problèmes s&#x27;accordaient"
+                    HPOS="46"
+                    VPOS="249"
+                    WIDTH="319"
+                    HEIGHT="14"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84b4cfed"
+                    TAGREFS="LT4135"
+                    BASELINE="46 269 365 269" 
+                    HPOS="46"
+                    VPOS="260"
+                    WIDTH="319"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="46 269 46 274 56 273 158 274 204 274 204 274 208 273 212 272 364 272 365 269 364 260 51 260 50 260 50 260 46 262 46 269"/></Shape>
+	    <String CONTENT="parfaitement avec celles des responsables éthiopiens et lui a indiqué quel"
+                    HPOS="46"
+                    VPOS="260"
+                    WIDTH="319"
+                    HEIGHT="14"
+                    WC="0.976403409713193"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a485694b"
+                    TAGREFS="LT4135"
+                    BASELINE="46 279 365 280" 
+                    HPOS="46"
+                    VPOS="270"
+                    WIDTH="319"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="46 279 46 283 364 285 365 280 364 273 348 271 348 271 347 271 338 273 327 271 295 271 295 271 295 271 290 273 290 273 286 273 241 271 241 271 226 273 224 273 224 273 219 271 219 271 201 270 201 270 187 273 187 273 163 270 162 270 46 272 46 279"/></Shape>
+	    <String CONTENT="nous étions tout disposés à mener à bien, en commun, des réalisations"
+                    HPOS="46"
+                    VPOS="270"
+                    WIDTH="319"
+                    HEIGHT="15"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2cef6408"
+                    TAGREFS="LT4135"
+                    BASELINE="46 291 365 291" 
+                    HPOS="46"
+                    VPOS="282"
+                    WIDTH="319"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="46 291 46 297 365 297 365 291 365 284 329 282 329 282 244 284 240 282 240 282 209 282 208 282 192 284 189 282 189 282 188 282 188 282 154 284 142 282 141 282 141 282 132 284 96 284 87 282 86 282 86 282 75 284 59 282 59 282 46 284 46 291"/></Shape>
+	    <String CONTENT="industrielles dans le TFAl. Le Secrétaire d’État entendait ainsi faciliter la"
+                    HPOS="46"
+                    VPOS="282"
+                    WIDTH="319"
+                    HEIGHT="15"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94e8441f"
+                    TAGREFS="LT4135"
+                    BASELINE="46 302 364 302" 
+                    HPOS="45"
+                    VPOS="294"
+                    WIDTH="319"
+                    HEIGHT="13">
+            <Shape><Polygon POINTS="46 302 45 305 56 307 57 307 364 306 364 302 364 294 46 294 46 302"/></Shape>
+	    <String CONTENT="négociation que poursuit cette ambassade au sujet de la construction d&#x27;une"
+                    HPOS="45"
+                    VPOS="294"
+                    WIDTH="319"
+                    HEIGHT="13"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02e54941"
+                    TAGREFS="LT4135"
+                    BASELINE="46 313 268 313" 
+                    HPOS="46"
+                    VPOS="304"
+                    WIDTH="222"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="46 313 46 320 67 317 89 317 92 320 92 320 93 320 93 320 93 320 94 320 98 317 102 319 102 319 103 319 117 317 120 319 121 320 121 320 121 320 122 320 122 320 123 320 123 319 125 317 140 317 142 319 142 319 142 319 142 319 143 319 143 319 144 319 146 317 148 319 148 320 149 320 149 320 150 320 150 320 152 319 155 318 268 318 268 313 267 306 238 304 237 304 221 305 220 306 203 306 203 305 201 304 201 304 200 304 200 304 200 304 199 304 193 305 193 305 193 305 179 304 179 304 161 305 156 306 143 306 142 305 141 304 141 304 141 304 140 304 140 304 129 305 125 306 121 305 112 304 111 304 111 304 108 305 107 306 104 305 97 304 97 304 46 305 46 313"/></Shape>
+	    <String CONTENT="raffinerie de pétrole franco-éthiopienne à Djibouti."
+                    HPOS="46"
+                    VPOS="304"
+                    WIDTH="222"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7147e61a"
+                    TAGREFS="LT4135"
+                    BASELINE="54 325 365 326" 
+                    HPOS="53"
+                    VPOS="317"
+                    WIDTH="312"
+                    HEIGHT="12">
+            <Shape><Polygon POINTS="54 325 53 328 364 329 365 326 364 317 54 317 54 325"/></Shape>
+	    <String CONTENT="Au moment où M. Bourges prenait congé de lui, M.Aklilou a évoqué la"
+                    HPOS="53"
+                    VPOS="317"
+                    WIDTH="312"
+                    HEIGHT="12"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d99d2a6"
+                    TAGREFS="LT4135"
+                    BASELINE="46 337 364 337" 
+                    HPOS="46"
+                    VPOS="327"
+                    WIDTH="318"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="46 337 46 342 174 342 175 342 186 341 192 340 194 341 198 342 198 342 198 342 207 341 211 340 214 341 220 342 220 342 259 341 269 340 271 341 281 342 282 342 282 342 286 340 286 340 313 340 316 340 357 342 357 342 358 342 364 340 364 337 364 329 342 329 340 328 337 327 337 327 337 327 319 327 319 327 318 327 312 328 308 329 304 328 297 327 296 327 296 327 290 328 286 329 281 328 276 327 276 327 270 328 264 329 256 328 247 327 247 327 246 327 246 327 244 328 243 328 242 328 240 327 240 327 239 327 231 328 216 329 209 328 205 327 204 327 204 327 202 327 199 329 170 327 168 327 168 327 168 327 164 329 133 329 116 327 113 327 113 327 113 327 112 327 105 329 92 329 86 327 86 327 85 327 46 327 46 337"/></Shape>
+	    <String CONTENT="possibilité pour l&#x27;Empereur de rencontrer M. le Président de la République"
+                    HPOS="46"
+                    VPOS="327"
+                    WIDTH="318"
+                    HEIGHT="15"
+                    WC="0.964363507636182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c7ee900"
+                    TAGREFS="LT4135"
+                    BASELINE="46 348 364 347" 
+                    HPOS="45"
+                    VPOS="338"
+                    WIDTH="319"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="46 348 46 353 363 354 364 347 363 340 307 340 307 340 303 338 303 338 302 338 280 340 279 340 279 340 267 338 267 338 251 340 250 340 249 340 240 338 205 338 205 338 204 338 204 338 202 340 202 340 201 340 196 339 196 339 195 339 195 339 190 340 189 340 171 340 120 339 120 339 45 340 46 348"/></Shape>
+	    <String CONTENT="lors d’un voyage en Europe au mois de juin. J&#x27;en ai rendu compte par télé¬"
+                    HPOS="45"
+                    VPOS="338"
+                    WIDTH="319"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b157c6a"
+                    TAGREFS="LT4135"
+                    BASELINE="46 359 118 358" 
+                    HPOS="46"
+                    VPOS="349"
+                    WIDTH="72"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="46 359 46 369 118 369 118 358 117 349 69 351 65 351 52 350 52 350 51 350 46 352 46 359"/></Shape>
+	    <String CONTENT="gramme séparé."
+                    HPOS="46"
+                    VPOS="349"
+                    WIDTH="72"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f72fad68"
+                    TAGREFS="LT4136"
+                    BASELINE="164 377 363 377" 
+                    HPOS="164"
+                    VPOS="364"
+                    WIDTH="199"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="164 380 363 382 363 377 363 364 164 364 164 377"/></Shape>
+	    <String CONTENT="(Afrique-Levant. Afrique 1971-1972, Éthiopie,"
+                    HPOS="164"
+                    VPOS="364"
+                    WIDTH="199"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b06af30"
+                    TAGREFS="LT4136"
+                    BASELINE="106 388 364 388" 
+                    HPOS="106"
+                    VPOS="376"
+                    WIDTH="258"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="272 377 271 378 267 380 253 378 250 378 248 378 235 380 229 378 228 378 225 380 221 378 221 377 220 377 217 377 204 380 176 378 175 378 171 381 146 381 134 376 133 376 106 376 106 388 106 395 364 395 364 388 364 380 355 378 351 379 348 380 342 379 335 378 322 379 313 380 311 379 308 378 307 378 306 379 304 380 295 379 292 378 290 379 282 380 277 379 275 377 273 377"/></Shape>
+	    <String CONTENT="Relations avec Ia France, Généralités, Et-6. 1, 47QONT/63)"
+                    HPOS="106"
+                    VPOS="376"
+                    WIDTH="258"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f319d145"
+                    TAGREFS="LT4136"
+                    BASELINE="193 423 219 423" 
+                    HPOS="193"
+                    VPOS="412"
+                    WIDTH="26"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="215 412 193 412 193 423 193 427 219 427 219 423 218 415 218 414"/></Shape>
+	    <String CONTENT="109"
+                    HPOS="193"
+                    VPOS="412"
+                    WIDTH="26"
+                    HEIGHT="15"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0be7c3a1"
+                    TAGREFS="LT4135"
+                    BASELINE="47 442 330 443" 
+                    HPOS="47"
+                    VPOS="430"
+                    WIDTH="283"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="328 434 324 434 321 434 317 434 296 434 296 434 295 434 292 434 289 433 289 433 288 434 288 434 261 434 260 434 256 433 253 433 250 432 248 432 246 434 246 434 243 434 223 432 222 432 222 432 216 434 214 432 213 432 213 432 212 432 204 434 203 434 195 430 195 430 176 430 175 430 172 430 168 430 164 430 161 430 157 430 154 431 150 431 147 431 143 431 140 431 136 432 132 432 129 432 125 432 122 432 119 432 115 433 113 433 96 433 93 433 90 433 86 433 83 433 79 433 76 433 72 434 68 434 65 434 61 434 58 434 54 434 51 434 47 434 47 442 47 448 127 446 146 449 148 449 149 449 151 449 163 446 167 449 167 449 168 449 168 449 169 449 179 446 190 449 190 449 191 449 193 449 219 446 222 449 222 449 222 449 223 449 224 449 297 447 304 449 304 449 305 449 329 449 330 443 329 434 328 434"/></Shape>
+	    <String CONTENT="M. SEYDOUX DE CLAUSONNE, AMBASSADEUR DE FRANCE A MOSCOU."
+                    HPOS="47"
+                    VPOS="430"
+                    WIDTH="283"
+                    HEIGHT="19"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ad3c43c"
+                    TAGREFS="LT4135"
+                    BASELINE="65 453 300 454" 
+                    HPOS="65"
+                    VPOS="446"
+                    WIDTH="235"
+                    HEIGHT="13">
+            <Shape><Polygon POINTS="65 453 65 458 300 459 300 454 300 446 65 446 65 453"/></Shape>
+	    <String CONTENT="A M. SCHUMANN, MINISTRE DES AFFAIRES ETRANGERES."
+                    HPOS="65"
+                    VPOS="446"
+                    WIDTH="235"
+                    HEIGHT="13"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb4f950b"
+                    TAGREFS="LT4135"
+                    BASELINE="48 473 129 473" 
+                    HPOS="47"
+                    VPOS="460"
+                    WIDTH="82"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="48 473 48 481 52 482 52 482 52 482 53 482 54 481 56 480 76 481 89 481 89 481 90 481 90 481 92 480 92 480 93 480 95 482 95 482 96 482 96 482 125 482 125 482 126 482 126 482 129 480 129 473 128 460 47 461 48 473"/></Shape>
+	    <String CONTENT="T. n^os 1358 à 1367."
+                    HPOS="47"
+                    VPOS="460"
+                    WIDTH="82"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d34f2ecc"
+                    TAGREFS="LT4136"
+                    BASELINE="255 473 363 474" 
+                    HPOS="254"
+                    VPOS="459"
+                    WIDTH="109"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="354 463 351 462 347 462 344 461 340 461 338 460 312 459 296 461 294 461 293 461 291 459 290 459 255 460 255 473 254 481 363 482 363 474 359 464 358 464"/></Shape>
+	    <String CONTENT="Moscou. 25 février 1972."
+                    HPOS="254"
+                    VPOS="459"
+                    WIDTH="109"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_342c2858"
+                    TAGREFS="LT4135"
+                    BASELINE="54 490 98 490" 
+                    HPOS="54"
+                    VPOS="480"
+                    WIDTH="44"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="54 490 54 497 98 497 98 490 98 482 54 480 54 490"/></Shape>
+	    <String CONTENT="Réservé."
+                    HPOS="54"
+                    VPOS="480"
+                    WIDTH="44"
+                    HEIGHT="17"
+                    WC="0.984639108181"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_edf27400"
+                    TAGREFS="LT4136"
+                    BASELINE="304 490 363 491" 
+                    HPOS="303"
+                    VPOS="480"
+                    WIDTH="60"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="303 498 363 498 363 491 363 483 355 480 354 480 350 482 349 482 347 482 341 480 340 480 340 481 339 481 338 482 337 481 336 480 335 480 328 481 319 482 317 480 316 480 304 480 304 490"/></Shape>
+	    <String CONTENT="(Reçu: 16 h. 21)"
+                    HPOS="303"
+                    VPOS="480"
+                    WIDTH="60"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34c69b85"
+                    TAGREFS="LT4135"
+                    BASELINE="54 510 247 510" 
+                    HPOS="54"
+                    VPOS="500"
+                    WIDTH="193"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="54 510 54 515 247 515 247 510 247 500 54 500 54 510"/></Shape>
+	    <String CONTENT="Entretien de M.Alphand avec M.Gromyko"
+                    HPOS="54"
+                    VPOS="500"
+                    WIDTH="193"
+                    HEIGHT="15"
+                    WC="0.971389293670654"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5f1e6f0"
+                    TAGREFS="LT4135"
+                    BASELINE="54 530 364 530" 
+                    HPOS="54"
+                    VPOS="517"
+                    WIDTH="310"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="360 518 356 518 353 518 349 518 346 518 342 518 339 518 335 518 332 518 328 518 324 517 321 517 317 517 314 517 310 517 307 517 303 517 54 517 54 530 54 534 364 534 364 530 362 519 360 518"/></Shape>
+	    <String CONTENT="À l&#x27;occasion de l&#x27;entretien que M. Alphand a eu le 25 février avec"
+                    HPOS="54"
+                    VPOS="517"
+                    WIDTH="310"
+                    HEIGHT="17"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5eb0c015"
+                    TAGREFS="LT4135"
+                    BASELINE="47 541 365 541" 
+                    HPOS="46"
+                    VPOS="531"
+                    WIDTH="319"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="47 541 46 544 219 546 219 546 365 545 365 541 364 533 72 533 47 531 47 541"/></Shape>
+	    <String CONTENT="M. Gomyko, le ministre des Affaires étrangères soviétique a tout d’abord"
+                    HPOS="46"
+                    VPOS="531"
+                    WIDTH="319"
+                    HEIGHT="15"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1fdc6bb"
+                    TAGREFS="LT4135"
+                    BASELINE="46 552 364 553" 
+                    HPOS="46"
+                    VPOS="544"
+                    WIDTH="318"
+                    HEIGHT="13">
+            <Shape><Polygon POINTS="46 552 46 555 55 557 55 557 364 557 364 553 364 545 46 544 46 552"/></Shape>
+	    <String CONTENT="exprimé le désir de saoir comment l&#x27;on voyait, du côté français, l&#x27;évolution"
+                    HPOS="46"
+                    VPOS="544"
+                    WIDTH="318"
+                    HEIGHT="13"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a89a24d3"
+                    TAGREFS="LT4135"
+                    BASELINE="46 563 365 564" 
+                    HPOS="46"
+                    VPOS="554"
+                    WIDTH="319"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="46 563 46 566 50 568 50 568 51 568 127 567 155 568 155 568 364 567 365 564 364 556 338 555 338 555 338 555 337 555 336 556 335 556 333 556 331 555 331 555 330 555 330 555 327 556 324 557 319 556 313 555 313 555 292 555 264 557 252 555 245 554 244 554 244 554 244 554 243 555 241 556 222 556 215 555 211 554 211 554 208 555 201 556 199 555 198 554 198 554 198 554 186 554 186 554 185 554 183 555 178 556 161 555 155 554 155 554 150 555 139 556 131 555 126 554 126 554 126 554 124 555 118 556 73 556 65 554 63 554 62 554 62 554 61 554 57 556 46 554 46 563"/></Shape>
+	    <String CONTENT="de la situation en Europe. M. Alphand a rappelé, comme il l&#x27;avait fait la"
+                    HPOS="46"
+                    VPOS="554"
+                    WIDTH="319"
+                    HEIGHT="14"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c85ffd5e"
+                    TAGREFS="LT4135"
+                    BASELINE="46 573 364 574" 
+                    HPOS="46"
+                    VPOS="564"
+                    WIDTH="318"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="46 573 46 584 364 586 364 574 364 566 298 565 297 565 289 566 284 567 276 566 264 565 264 565 239 566 225 567 216 566 196 564 196 564 196 564 191 566 189 567 150 567 144 566 115 564 115 564 82 566 76 567 74 566 65 564 64 564 46 566 46 573"/></Shape>
+	    <String CONTENT="veille devant M. Kovalev (mon télégramme n° 1287)^1, que les vues et les"
+                    HPOS="46"
+                    VPOS="564"
+                    WIDTH="318"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="54"
+                   VPOS="590"
+                   WIDTH="64"
+                   HEIGHT="13"
+                   ID="eSc_textblock_42e2319a"
+                   TAGREFS="BT10568">
+          <Shape><Polygon POINTS="54 590 54 603 118 603 118 590"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_52b25681"
+                    TAGREFS="LT4135"
+                    BASELINE="61 597 115 597" 
+                    HPOS="61"
+                    VPOS="587"
+                    WIDTH="54"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="114 596 111 589 96 587 96 587 61 589 61 597 61 603 79 602 80 603 84 607 84 607 84 607 85 607 85 608 97 608 97 607 98 607 98 607 98 607 102 603 115 603 115 597 115 595 114 596"/></Shape>
+	    <String CONTENT="Non reproduit."
+                    HPOS="61"
+                    VPOS="587"
+                    WIDTH="54"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
