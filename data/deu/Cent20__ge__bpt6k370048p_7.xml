@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent20__ge__bpt6k370048p_7.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10584" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10583" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10582" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10581" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10580" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT4143" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4142" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4141" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1024"
+          HEIGHT="1477"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1024"
+                  HEIGHT="1477">
+        
+        <TextBlock HPOS="756"
+                   VPOS="70"
+                   WIDTH="16"
+                   HEIGHT="21"
+                   ID="eSc_textblock_7f627add"
+                   TAGREFS="BT10583">
+          <Shape><Polygon POINTS="756 70 756 91 772 91 772 70"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dbd19ca0"
+                    TAGREFS="LT4141"
+                    BASELINE="758 86 770 86" 
+                    HPOS="757"
+                    VPOS="70"
+                    WIDTH="11"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="757 70 757 84 757 102 768 102 768 84 768 70 757 70"/></Shape>
+	    <String CONTENT="5"
+                    HPOS="757"
+                    VPOS="70"
+                    WIDTH="11"
+                    HEIGHT="32"
+                    WC="0.891373753547668"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="309"
+                   VPOS="62"
+                   WIDTH="339"
+                   HEIGHT="26"
+                   ID="eSc_textblock_965d4764"
+                   TAGREFS="BT10582">
+          <Shape><Polygon POINTS="309 62 309 88 648 88 648 62"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_704bd823"
+                    TAGREFS="LT4142"
+                    BASELINE="315 78 646 78" 
+                    HPOS="315"
+                    VPOS="62"
+                    WIDTH="331"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="602 62 594 62 586 62 578 62 572 62 569 64 564 62 561 62 553 62 549 62 547 63 545 62 537 62 532 62 529 64 524 62 520 62 512 62 510 62 504 65 429 65 426 62 422 62 413 62 405 62 397 62 393 62 373 64 370 62 364 62 356 62 350 62 347 63 341 62 339 62 331 62 323 62 315 66 315 78 315 85 646 85 646 78 646 65 621 65 618 62 610 62"/></Shape>
+	    <String CONTENT="Die Freudsche psychoanalytische Methode"
+                    HPOS="315"
+                    VPOS="62"
+                    WIDTH="331"
+                    HEIGHT="23"
+                    WC="0.977432145522191"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="173"
+                   VPOS="100"
+                   WIDTH="601"
+                   HEIGHT="870"
+                   ID="eSc_textblock_42d3034d"
+                   TAGREFS="BT10581">
+          <Shape><Polygon POINTS="173 100 173 970 774 970 774 100"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_52097d1b"
+                    TAGREFS="LT4141"
+                    BASELINE="183 116 773 118" 
+                    HPOS="182"
+                    VPOS="99"
+                    WIDTH="591"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="182 122 187 127 187 128 188 128 188 128 189 128 242 123 295 123 325 123 326 123 335 127 335 127 336 127 369 123 378 123 380 123 385 128 386 128 387 128 388 129 479 129 479 128 480 128 492 125 500 123 534 126 577 129 578 130 622 130 622 129 623 129 624 129 625 128 629 124 642 128 647 128 648 128 656 128 690 124 707 128 711 129 711 129 712 130 772 130 773 118 772 105 688 100 687 100 686 100 685 100 681 104 679 106 611 106 577 103 534 100 533 100 532 100 532 100 528 102 524 105 514 102 504 100 503 100 502 100 501 100 495 102 486 105 468 102 454 100 454 100 453 100 452 100 450 101 445 105 423 105 413 101 408 100 407 100 406 100 398 101 379 105 354 100 343 99 342 99 341 99 337 100 327 104 304 100 295 99 294 99 293 99 293 99 292 100 287 105 220 105 209 99 208 99 207 99 206 99 206 99 205 99 195 104 183 99 183 116 182 122"/></Shape>
+	    <String CONTENT="indem er sie ohne andersartige Beeinflussung eine bequeme"
+                    HPOS="182"
+                    VPOS="99"
+                    WIDTH="591"
+                    HEIGHT="31"
+                    WC="0.992773678219109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45ffc43f"
+                    TAGREFS="LT4141"
+                    BASELINE="183 144 772 144" 
+                    HPOS="183"
+                    VPOS="127"
+                    WIDTH="589"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="183 144 183 155 772 151 772 144 772 130 183 127 183 144"/></Shape>
+	    <String CONTENT="Rückenlage auf einem Ruhebett einnehmen läßt, während er"
+                    HPOS="183"
+                    VPOS="127"
+                    WIDTH="589"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee51e062"
+                    TAGREFS="LT4141"
+                    BASELINE="182 170 771 170" 
+                    HPOS="182"
+                    VPOS="156"
+                    WIDTH="589"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="182 170 182 177 770 179 771 170 771 156 182 156 182 170"/></Shape>
+	    <String CONTENT="selbst, ihrem Anblick entzogen, auf einem Stuhle hinter ihnen"
+                    HPOS="182"
+                    VPOS="156"
+                    WIDTH="589"
+                    HEIGHT="23"
+                    WC="0.992325843357649"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c50daf7"
+                    TAGREFS="LT4141"
+                    BASELINE="182 195 772 197" 
+                    HPOS="181"
+                    VPOS="177"
+                    WIDTH="591"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="182 195 181 201 771 204 772 197 771 183 750 178 749 178 730 182 729 182 725 182 665 178 664 178 663 178 662 178 658 182 656 183 576 183 573 182 564 178 563 178 562 178 535 181 528 182 524 181 514 178 513 178 512 178 479 181 463 182 434 180 378 177 328 177 327 177 326 177 326 177 323 179 321 181 314 179 305 177 304 177 303 177 293 179 283 181 182 178 182 195"/></Shape>
+	    <String CONTENT="sitzt. Auch den Verschluß der Augen fordert er von ihnen nicht"
+                    HPOS="181"
+                    VPOS="177"
+                    WIDTH="591"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5593b85d"
+                    TAGREFS="LT4141"
+                    BASELINE="182 223 772 223" 
+                    HPOS="182"
+                    VPOS="205"
+                    WIDTH="590"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="182 223 182 229 193 235 194 235 195 235 218 230 253 230 266 235 266 235 267 236 293 236 293 235 294 235 295 235 303 230 323 235 324 235 325 235 357 230 397 235 398 236 459 236 459 235 459 235 460 235 466 230 485 235 486 235 486 235 521 230 536 235 537 235 537 236 564 236 564 235 565 235 566 235 572 230 598 235 599 236 633 236 633 235 634 235 635 235 641 230 655 235 656 235 656 236 763 236 763 235 764 235 765 235 772 230 772 223 772 210 749 205 748 205 748 205 747 205 742 210 712 210 707 205 706 205 705 205 704 205 703 205 702 205 695 210 664 205 663 205 662 205 647 210 612 205 611 205 566 210 559 205 558 205 557 205 556 205 555 205 555 205 550 210 543 205 542 205 541 205 541 205 540 205 522 210 505 205 505 205 504 205 503 205 491 210 450 210 367 205 367 205 366 205 365 205 358 210 353 205 352 205 351 205 279 205 278 205 277 205 276 205 270 210 223 210 206 205 206 205 205 205 182 210 182 223"/></Shape>
+	    <String CONTENT="und vermeidet jede Berührung sowie jede andere Prozedur, die"
+                    HPOS="182"
+                    VPOS="205"
+                    WIDTH="590"
+                    HEIGHT="31"
+                    WC="0.993690107689529"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_397012c3"
+                    TAGREFS="LT4141"
+                    BASELINE="182 247 772 249" 
+                    HPOS="181"
+                    VPOS="233"
+                    WIDTH="591"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="182 247 181 255 184 258 184 259 185 259 186 259 187 259 214 256 226 260 227 260 228 260 771 256 772 249 771 235 182 233 182 247"/></Shape>
+	    <String CONTENT="an Hypnose mahnen könnte. Eine solche Sitzung verläuft also"
+                    HPOS="181"
+                    VPOS="233"
+                    WIDTH="591"
+                    HEIGHT="27"
+                    WC="0.973795012372439"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d8b3bb2"
+                    TAGREFS="LT4141"
+                    BASELINE="183 274 771 275" 
+                    HPOS="182"
+                    VPOS="257"
+                    WIDTH="589"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="183 274 182 279 496 285 497 285 771 281 771 275 771 260 183 257 183 274"/></Shape>
+	    <String CONTENT="wie ein Gespräch zwischen zwei gleich wachen Personen, von"
+                    HPOS="182"
+                    VPOS="257"
+                    WIDTH="589"
+                    HEIGHT="28"
+                    WC="0.979971752328388"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7c7b547"
+                    TAGREFS="LT4141"
+                    BASELINE="183 299 771 301" 
+                    HPOS="182"
+                    VPOS="282"
+                    WIDTH="589"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="183 299 182 306 770 308 771 301 771 288 735 283 734 283 734 283 722 287 711 283 710 283 709 283 689 287 688 287 685 287 654 283 653 283 652 283 643 287 642 287 638 283 638 283 637 283 636 283 614 286 609 287 485 287 484 286 480 282 479 282 478 282 477 282 183 283 183 299"/></Shape>
+	    <String CONTENT="denen die eine sich jede Muskelanstrengung und jeden ablenken¬"
+                    HPOS="182"
+                    VPOS="282"
+                    WIDTH="589"
+                    HEIGHT="26"
+                    WC="0.97400783819537"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e53557c2"
+                    TAGREFS="LT4141"
+                    BASELINE="182 325 771 328" 
+                    HPOS="181"
+                    VPOS="309"
+                    WIDTH="590"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="182 325 181 332 190 338 191 338 192 338 192 338 227 333 256 338 257 338 293 334 347 338 348 338 374 333 390 339 391 339 392 340 435 340 435 339 436 339 436 339 436 338 442 333 459 339 460 339 461 339 462 339 479 333 663 340 664 340 771 334 771 328 770 314 578 314 574 313 564 310 564 310 563 310 562 310 552 313 549 314 546 313 534 310 533 310 532 310 532 310 522 313 518 314 515 313 501 310 500 310 500 310 479 313 473 314 468 313 456 310 455 310 454 310 454 310 453 310 450 313 448 315 380 315 373 313 351 309 350 309 349 309 339 313 338 313 337 313 323 309 322 309 321 309 182 312 182 325"/></Shape>
+	    <String CONTENT="den Sinneseindruck erspart, die sie in der Konzentration ihrer"
+                    HPOS="181"
+                    VPOS="309"
+                    WIDTH="590"
+                    HEIGHT="31"
+                    WC="0.991344811454896"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d843bbc"
+                    TAGREFS="LT4141"
+                    BASELINE="183 352 771 354" 
+                    HPOS="183"
+                    VPOS="337"
+                    WIDTH="588"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="183 352 183 363 771 363 771 354 771 338 183 337 183 352"/></Shape>
+	    <String CONTENT="Aufmerksamkeit auf ihre eigene seelische Tätigkeit stören könnten."
+                    HPOS="183"
+                    VPOS="337"
+                    WIDTH="588"
+                    HEIGHT="26"
+                    WC="0.977017071799956"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6861e424"
+                    TAGREFS="LT4141"
+                    BASELINE="202 379 773 379" 
+                    HPOS="202"
+                    VPOS="361"
+                    WIDTH="571"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="202 379 202 385 772 387 773 379 773 365 291 361 290 361 271 365 253 361 252 361 252 361 229 365 208 361 207 361 206 361 206 361 202 363 202 379"/></Shape>
+	    <String CONTENT="Da das Hypnotisiertwerden, trotz aller Geschicklichkeit des"
+                    HPOS="202"
+                    VPOS="361"
+                    WIDTH="571"
+                    HEIGHT="26"
+                    WC="0.985985626608638"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c34bfc3a"
+                    TAGREFS="LT4141"
+                    BASELINE="181 406 772 406" 
+                    HPOS="181"
+                    VPOS="386"
+                    WIDTH="591"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="181 406 181 412 772 412 772 406 772 393 732 393 725 387 725 386 725 386 724 386 723 386 722 386 709 393 652 393 646 387 646 386 645 386 644 386 643 386 642 386 629 392 547 386 546 386 546 386 524 392 518 386 517 386 516 386 515 386 514 386 493 392 486 386 486 386 485 386 484 386 483 386 482 386 477 391 470 386 469 386 468 386 424 386 423 386 422 386 405 392 392 386 391 386 390 386 390 386 374 392 362 386 362 386 361 386 360 386 349 392 343 386 342 386 341 386 322 386 321 386 321 386 309 393 288 393 278 386 277 386 276 386 275 386 241 390 193 386 192 386 192 386 181 391 181 406"/></Shape>
+	    <String CONTENT="Arztes, bekanntlich in der Willkür des Patienten liegt, und eine"
+                    HPOS="181"
+                    VPOS="386"
+                    WIDTH="591"
+                    HEIGHT="26"
+                    WC="0.981502884167891"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f1e8cbfb"
+                    TAGREFS="LT4141"
+                    BASELINE="181 431 771 433" 
+                    HPOS="180"
+                    VPOS="414"
+                    WIDTH="591"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="181 431 180 440 770 442 771 433 771 420 756 415 755 415 754 415 753 415 745 419 542 415 541 415 523 419 520 419 513 419 452 414 451 414 450 414 436 418 405 414 404 414 181 417 181 431"/></Shape>
+	    <String CONTENT="große Anzahl neurotischer Personen durch kein Verfahren in"
+                    HPOS="180"
+                    VPOS="414"
+                    WIDTH="591"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6daf243e"
+                    TAGREFS="LT4141"
+                    BASELINE="181 458 772 458" 
+                    HPOS="181"
+                    VPOS="443"
+                    WIDTH="591"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="181 458 181 468 772 468 772 458 772 444 181 443 181 458"/></Shape>
+	    <String CONTENT="Hypnose zu versetzen ist, so war durch den Verzicht auf die"
+                    HPOS="181"
+                    VPOS="443"
+                    WIDTH="591"
+                    HEIGHT="25"
+                    WC="0.980474250801539"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7b9902b"
+                    TAGREFS="LT4141"
+                    BASELINE="181 484 771 483" 
+                    HPOS="180"
+                    VPOS="465"
+                    WIDTH="591"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="181 484 181 489 431 493 431 493 432 493 450 489 581 493 582 493 610 489 628 493 629 493 629 493 656 489 685 493 686 493 708 489 763 493 764 493 765 493 766 493 771 488 771 483 770 469 321 465 320 465 296 469 279 465 278 465 277 465 257 469 228 465 227 465 226 465 216 469 184 465 183 465 183 465 182 465 182 466 181 466 180 466 181 484"/></Shape>
+	    <String CONTENT="Hypnose die Anwendbarkeit des Verfahrens auf eine unein¬"
+                    HPOS="180"
+                    VPOS="465"
+                    WIDTH="591"
+                    HEIGHT="28"
+                    WC="0.985907912254333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6bb7192b"
+                    TAGREFS="LT4141"
+                    BASELINE="182 509 771 511" 
+                    HPOS="182"
+                    VPOS="491"
+                    WIDTH="589"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="182 509 182 520 295 516 317 520 333 521 334 521 372 519 416 516 421 519 426 521 427 521 486 522 486 522 487 522 495 518 496 517 498 518 502 522 503 522 504 522 505 523 569 523 569 522 592 518 596 517 608 518 670 522 670 522 696 517 697 517 699 517 717 522 718 522 719 522 720 522 720 522 729 517 730 517 771 517 771 511 771 498 757 492 757 492 756 492 755 492 738 498 725 492 724 492 723 492 688 498 670 492 669 492 668 492 667 492 650 497 628 492 627 492 626 492 625 492 618 498 580 498 556 498 555 498 549 492 548 492 547 492 528 492 527 492 526 492 525 492 518 498 509 498 490 498 488 498 471 491 470 491 469 491 468 491 447 496 418 492 417 492 417 492 416 492 409 497 409 498 361 498 361 497 354 492 354 491 353 491 353 491 335 491 335 491 334 491 333 491 326 497 326 498 280 498 280 497 270 491 270 491 269 491 268 491 182 496 182 509"/></Shape>
+	    <String CONTENT="geschränkte Anzahl von Kranken gesichert. Anderseits fiel die"
+                    HPOS="182"
+                    VPOS="491"
+                    WIDTH="589"
+                    HEIGHT="32"
+                    WC="0.972021979670371"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74d7ae23"
+                    TAGREFS="LT4141"
+                    BASELINE="182 535 772 536" 
+                    HPOS="181"
+                    VPOS="519"
+                    WIDTH="591"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="182 535 181 543 771 544 772 536 771 523 182 519 182 535"/></Shape>
+	    <String CONTENT="Erweiterung des Bewußtseins weg, welche dem Arzt gerade jenes"
+                    HPOS="181"
+                    VPOS="519"
+                    WIDTH="591"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb03e76d"
+                    TAGREFS="LT4141"
+                    BASELINE="182 562 771 563" 
+                    HPOS="182"
+                    VPOS="547"
+                    WIDTH="589"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="182 562 182 571 771 571 771 563 771 548 182 547 182 562"/></Shape>
+	    <String CONTENT="psychische Material an Erinnerungen und Vorstellungen geliefert"
+                    HPOS="182"
+                    VPOS="547"
+                    WIDTH="589"
+                    HEIGHT="24"
+                    WC="0.983099619547526"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cce50994"
+                    TAGREFS="LT4141"
+                    BASELINE="182 586 771 589" 
+                    HPOS="181"
+                    VPOS="571"
+                    WIDTH="590"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="182 586 181 593 219 598 220 598 332 594 342 594 345 594 379 599 380 599 381 599 391 594 405 599 406 599 407 599 482 594 575 599 576 599 577 599 578 599 585 595 631 595 637 599 638 599 638 599 639 599 771 594 771 589 771 575 182 571 182 586"/></Shape>
+	    <String CONTENT="hatte, mit dessen Hilfe sich die Umsetzung der Symptome und"
+                    HPOS="181"
+                    VPOS="571"
+                    WIDTH="590"
+                    HEIGHT="28"
+                    WC="0.98878293320284"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bca57c4d"
+                    TAGREFS="LT4141"
+                    BASELINE="180 612 771 615" 
+                    HPOS="179"
+                    VPOS="600"
+                    WIDTH="592"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="180 612 179 619 230 626 231 626 302 626 302 626 303 626 303 626 309 621 330 626 331 626 332 626 348 621 376 626 377 626 411 621 436 626 436 627 495 627 495 626 496 626 512 621 548 626 549 626 550 626 568 621 580 627 581 627 582 628 613 628 613 627 614 627 615 627 620 622 631 627 632 627 633 627 633 627 655 622 688 627 689 627 770 621 771 615 771 603 180 600 180 612"/></Shape>
+	    <String CONTENT="die Befreiung der Affekte vollziehen ließ. Wenn für diesen Aus¬"
+                    HPOS="179"
+                    VPOS="600"
+                    WIDTH="592"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af324d7e"
+                    TAGREFS="LT4141"
+                    BASELINE="181 640 771 641" 
+                    HPOS="180"
+                    VPOS="626"
+                    WIDTH="591"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="181 640 180 649 770 649 771 641 771 628 181 626 181 640"/></Shape>
+	    <String CONTENT="fall kein Ersatz zu schaffen war, konnte auch von einer thera¬"
+                    HPOS="180"
+                    VPOS="626"
+                    WIDTH="591"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e92fa95"
+                    TAGREFS="LT4141"
+                    BASELINE="181 665 546 667" 
+                    HPOS="180"
+                    VPOS="650"
+                    WIDTH="366"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="181 665 180 674 546 673 546 667 546 653 181 650 181 665"/></Shape>
+	    <String CONTENT="peutischen Einwirkung keine Rede sein."
+                    HPOS="180"
+                    VPOS="650"
+                    WIDTH="366"
+                    HEIGHT="24"
+                    WC="0.985778510570526"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_628cedd9"
+                    TAGREFS="LT4141"
+                    BASELINE="201 692 771 694" 
+                    HPOS="200"
+                    VPOS="674"
+                    WIDTH="571"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="201 692 200 699 507 704 508 704 771 699 771 694 770 678 726 681 711 677 702 676 701 676 700 676 699 676 697 677 693 681 656 681 651 676 650 676 649 676 648 676 647 676 647 676 642 676 629 680 616 676 612 676 611 676 610 676 610 676 609 676 608 676 603 681 571 681 546 676 541 676 541 676 540 676 537 676 521 681 505 676 504 676 503 676 502 676 501 676 500 676 489 681 482 676 481 675 480 675 479 675 478 675 462 676 391 680 384 675 383 675 382 675 357 675 356 675 355 675 354 675 346 681 312 681 287 675 286 675 285 675 284 675 279 681 233 681 201 674 201 692"/></Shape>
+	    <String CONTENT="Einen solchen völlig ausreichenden Ersatz fand nun Freud"
+                    HPOS="200"
+                    VPOS="674"
+                    WIDTH="571"
+                    HEIGHT="30"
+                    WC="0.99609934551674"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ace9258d"
+                    TAGREFS="LT4141"
+                    BASELINE="181 717 771 721" 
+                    HPOS="180"
+                    VPOS="701"
+                    WIDTH="591"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="180 724 215 730 216 730 342 727 347 731 348 731 348 731 349 731 371 727 461 731 462 731 463 731 475 727 480 731 480 731 481 731 482 731 482 731 607 727 624 731 624 731 625 731 656 728 764 732 765 732 766 732 766 732 771 728 771 721 771 708 720 704 720 704 661 707 640 708 633 706 619 703 618 703 617 703 583 706 568 707 558 705 541 703 541 703 540 703 539 703 537 705 534 707 531 705 526 703 525 703 524 703 523 703 517 705 511 707 497 704 483 703 482 703 482 703 481 703 479 704 475 707 430 704 398 702 397 702 374 704 329 706 312 703 305 701 304 701 283 702 229 705 217 701 216 701 215 701 215 701 214 701 213 701 198 705 182 701 181 717 180 724"/></Shape>
+	    <String CONTENT="in den Einfällen der Kranken, das heisst in den ungewollten,"
+                    HPOS="180"
+                    VPOS="701"
+                    WIDTH="591"
+                    HEIGHT="31"
+                    WC="0.980199341891242"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d67ef9c"
+                    TAGREFS="LT4141"
+                    BASELINE="181 745 771 745" 
+                    HPOS="181"
+                    VPOS="731"
+                    WIDTH="590"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="181 745 181 754 770 754 771 745 770 731 181 731 181 745"/></Shape>
+	    <String CONTENT="meist als störend empfundenen und darum unter gewöhnlichen"
+                    HPOS="181"
+                    VPOS="731"
+                    WIDTH="590"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca7c5b8c"
+                    TAGREFS="LT4141"
+                    BASELINE="182 770 771 772" 
+                    HPOS="181"
+                    VPOS="753"
+                    WIDTH="590"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="182 770 181 777 769 779 771 772 770 759 741 754 740 754 739 754 727 758 726 758 693 754 693 754 668 758 665 759 596 759 594 757 588 754 587 754 587 754 586 754 585 754 574 757 572 758 558 757 512 754 511 754 487 757 477 758 471 756 456 753 455 753 397 753 396 753 395 753 394 753 390 756 388 757 382 756 365 753 364 753 182 754 182 770"/></Shape>
+	    <String CONTENT="Verhältnissen beseitigten Gedanken, die den Zusammenhang einer"
+                    HPOS="181"
+                    VPOS="753"
+                    WIDTH="590"
+                    HEIGHT="26"
+                    WC="0.99016872568736"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b120786b"
+                    TAGREFS="LT4141"
+                    BASELINE="180 795 770 798" 
+                    HPOS="179"
+                    VPOS="780"
+                    WIDTH="591"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="180 795 179 802 225 809 225 809 316 804 327 809 328 809 377 809 378 810 419 810 419 809 420 809 421 809 426 804 436 809 437 809 438 809 439 809 459 804 523 809 523 809 593 805 600 810 601 810 601 810 602 810 769 804 770 798 770 786 762 781 762 781 761 781 760 781 733 786 686 781 685 781 684 781 684 781 679 786 678 786 636 786 632 785 618 781 617 781 616 781 586 785 573 786 531 786 529 784 526 781 525 781 524 781 523 781 448 783 391 785 385 782 377 780 376 780 376 780 375 780 374 780 371 782 367 784 353 782 336 780 335 780 324 781 312 784 180 781 180 795"/></Shape>
+	    <String CONTENT="beabsichtigten Darstellung zu durchkreuzen pflegen. Um sich"
+                    HPOS="179"
+                    VPOS="780"
+                    WIDTH="591"
+                    HEIGHT="30"
+                    WC="0.989075950646805"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66397f06"
+                    TAGREFS="LT4141"
+                    BASELINE="180 823 769 824" 
+                    HPOS="179"
+                    VPOS="809"
+                    WIDTH="590"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="180 823 179 831 767 832 769 824 768 811 180 809 180 823"/></Shape>
+	    <String CONTENT="dieser Einfälle zu bemächtigen, fordert er die Kranken auf, sich"
+                    HPOS="179"
+                    VPOS="809"
+                    WIDTH="590"
+                    HEIGHT="23"
+                    WC="0.986021696618109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a15cd04"
+                    TAGREFS="LT4141"
+                    BASELINE="180 849 769 850" 
+                    HPOS="179"
+                    VPOS="833"
+                    WIDTH="590"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="180 849 179 855 247 860 247 860 248 860 266 856 266 856 292 860 293 861 436 861 436 860 459 856 461 856 466 856 544 861 545 861 546 861 560 857 599 861 600 861 601 861 615 857 768 857 769 850 768 836 180 833 180 849"/></Shape>
+	    <String CONTENT="in ihren Mitteilungen gehen zu lassen, „wie man es etwa in"
+                    HPOS="179"
+                    VPOS="833"
+                    WIDTH="590"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be0abacf"
+                    TAGREFS="LT4141"
+                    BASELINE="179 875 769 877" 
+                    HPOS="179"
+                    VPOS="860"
+                    WIDTH="590"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="179 875 179 881 223 886 224 886 418 882 512 887 513 887 768 882 769 877 767 860 179 860 179 875"/></Shape>
+	    <String CONTENT="einem Gespräche tut, bei welchem man aus dem Hundertsten in"
+                    HPOS="179"
+                    VPOS="860"
+                    WIDTH="590"
+                    HEIGHT="27"
+                    WC="0.993436562021573"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a62a36b9"
+                    TAGREFS="LT4141"
+                    BASELINE="180 902 770 902" 
+                    HPOS="180"
+                    VPOS="886"
+                    WIDTH="590"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="180 902 180 911 232 911 238 915 239 915 240 915 241 915 284 911 285 911 296 915 297 915 298 915 339 911 341 911 344 911 399 915 400 915 463 911 468 911 469 911 485 915 486 915 486 916 527 916 527 915 528 915 528 915 532 911 533 911 534 911 552 915 553 915 554 915 569 911 570 911 576 915 577 915 578 915 578 915 769 911 770 902 769 891 730 891 730 890 725 886 724 886 723 886 722 886 569 888 491 890 484 888 477 886 477 886 476 886 475 886 471 887 467 890 448 887 432 886 431 886 421 887 405 890 362 887 344 886 343 886 331 887 298 890 286 887 284 886 283 886 282 886 275 886 242 890 235 886 234 886 234 886 180 886 180 902"/></Shape>
+	    <String CONTENT="das Tausendste gerät.“ Er schärft ihnen, ehe er sie zur detaillierten"
+                    HPOS="180"
+                    VPOS="886"
+                    WIDTH="590"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee502313"
+                    TAGREFS="LT4141"
+                    BASELINE="179 927 769 929" 
+                    HPOS="179"
+                    VPOS="913"
+                    WIDTH="590"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="179 927 179 935 767 937 769 929 768 916 179 913 179 927"/></Shape>
+	    <String CONTENT="Erzählung ihrer Krankengeschichte auffordert, ein, alles mit zu"
+                    HPOS="179"
+                    VPOS="913"
+                    WIDTH="590"
+                    HEIGHT="24"
+                    WC="0.983524945564568"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25ba80ee"
+                    TAGREFS="LT4141"
+                    BASELINE="180 952 769 955" 
+                    HPOS="179"
+                    VPOS="939"
+                    WIDTH="590"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="766 941 180 939 180 952 179 963 183 966 183 967 183 967 184 967 185 967 348 962 518 962 537 968 537 968 538 968 564 964 571 969 572 969 573 969 573 969 768 963 769 955 768 953 766 941"/></Shape>
+	    <String CONTENT="sagen, was ihnen dabei durch den Kopf geht, auch wenn sie"
+                    HPOS="179"
+                    VPOS="939"
+                    WIDTH="590"
+                    HEIGHT="30"
+                    WC="0.993241645787892"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="622"
+                   VPOS="1449"
+                   WIDTH="397"
+                   HEIGHT="23"
+                   ID="eSc_textblock_7632ba6b"
+                   TAGREFS="BT10584">
+          <Shape><Polygon POINTS="622 1449 622 1472 1019 1472 1019 1449"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
