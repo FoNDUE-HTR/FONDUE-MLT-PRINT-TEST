@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "FONDUE-MLT-PRINT-TEST"
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - family-names: Gabay
+    given-names: Simon
+    email: simon.gabay@unige.ch
+    affiliation: Geneva University
+    orcid: https://orcid.org/0000-0001-9094-4475
+  - family-names: Sagot
+    given-names: Benoît
+    email: benoit.sagot@inria.fr
+    affiliation: INRIA Paris
+    orcid: https://orcid.org/0000-0001-8957-9503
+  - family-names: Bawden
+    given-names: Rachel
+    email: rachel.bawden@inria.fr
+    affiliation: INRIA Paris
+    orcid: https://orcid.org/0000-0001-9553-1768
+  - family-names: Clérice
+    given-names: Thibault
+    email: thibault.clerice@inria.fr
+    affiliation: INRIA Paris
+    orcid: https://orcid.org/0000-0003-1852-9204
+keywords:
+  - HTR
+  - contemporary
+  - prints
+version: 1.0
+date-released: 2024-01-27
