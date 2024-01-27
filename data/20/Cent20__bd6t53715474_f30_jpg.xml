@@ -52,6 +52,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="264"
+                   VPOS="104"
+                   WIDTH="404"
+                   HEIGHT="23"
+                   ID="eSc_textblock_7e83fbfb"
+                   TAGREFS="BT10563">
+          <Shape><Polygon POINTS="264 104 264 127 668 127 668 104"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_560ae4df"
+                    TAGREFS="LT4136"
+                    BASELINE="267 114 664 116" 
+                    HPOS="266"
+                    VPOS="103"
+                    WIDTH="398"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="653 106 646 106 640 106 633 106 626 106 620 106 613 106 606 106 600 106 593 106 586 106 580 106 573 106 566 106 560 106 553 106 546 106 540 106 533 106 526 106 520 106 513 106 506 106 500 106 493 106 486 106 480 106 473 106 466 106 460 106 453 106 446 106 440 106 433 106 426 106 420 106 413 106 406 106 400 106 393 106 386 106 380 106 373 106 366 106 360 106 353 106 346 106 340 106 333 106 326 106 320 106 313 106 306 106 300 106 293 106 286 106 280 106 273 107 268 112 267 114 266 133 290 140 291 140 292 140 293 140 300 135 318 134 329 134 332 135 359 141 360 141 390 138 465 141 466 141 467 141 471 138 476 135 504 135 512 139 514 140 515 140 516 140 518 139 531 135 546 140 552 142 553 142 554 142 568 140 614 136 621 141 621 142 622 142 623 142 624 142 630 138 636 142 637 142 638 142 638 143 663 143 664 116 663 103 660 103 660 114"/></Shape>
+	    <String CONTENT="PRODUCTION ET CONSOMMIATION DES ENGRAIS CHIMIQUES"
+                    HPOS="266"
+                    VPOS="103"
+                    WIDTH="398"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="147"
                    VPOS="143"
                    WIDTH="638"
@@ -78,40 +105,6 @@
 
           
           
-          <TextLine ID="eSc_line_2b2d88e7"
-                    TAGREFS="LT4135"
-                    BASELINE="576 220 628 221" 
-                    HPOS="575"
-                    VPOS="213"
-                    WIDTH="53"
-                    HEIGHT="16">
-            <Shape><Polygon POINTS="622 213 616 213 609 213 602 213 596 213 589 213 582 213 576 219 576 220 575 229 627 227 628 221 626 215 622 213"/></Shape>
-	    <String CONTENT="Importa¬"
-                    HPOS="575"
-                    VPOS="213"
-                    WIDTH="53"
-                    HEIGHT="16"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_830ebc03"
-                    TAGREFS="LT4135"
-                    BASELINE="644 221 697 221" 
-                    HPOS="644"
-                    VPOS="213"
-                    WIDTH="53"
-                    HEIGHT="21">
-            <Shape><Polygon POINTS="691 213 684 213 678 213 671 213 664 213 658 213 651 213 644 220 644 221 644 234 660 231 696 234 697 221 697 217 691 213"/></Shape>
-	    <String CONTENT="Exporta¬"
-                    HPOS="644"
-                    VPOS="213"
-                    WIDTH="53"
-                    HEIGHT="21"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_e8b8e722"
                     TAGREFS="LT4135"
                     BASELINE="306 227 351 226" 
@@ -125,23 +118,6 @@
                     VPOS="217"
                     WIDTH="46"
                     HEIGHT="18"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_61c91e94"
-                    TAGREFS="LT4135"
-                    BASELINE="704 222 769 220" 
-                    HPOS="704"
-                    VPOS="209"
-                    WIDTH="65"
-                    HEIGHT="24">
-            <Shape><Polygon POINTS="764 216 757 213 750 213 744 213 737 213 730 213 724 213 717 213 710 213 704 215 704 222 704 232 768 233 769 220 767 209 763 209 764 216"/></Shape>
-	    <String CONTENT="Consomma¬"
-                    HPOS="704"
-                    VPOS="209"
-                    WIDTH="65"
-                    HEIGHT="24"></String>
           </TextLine>
 
           
@@ -163,6 +139,23 @@
 
           
           
+          <TextLine ID="eSc_line_2b2d88e7"
+                    TAGREFS="LT4135"
+                    BASELINE="576 220 628 221" 
+                    HPOS="575"
+                    VPOS="213"
+                    WIDTH="53"
+                    HEIGHT="16">
+            <Shape><Polygon POINTS="622 213 616 213 609 213 602 213 596 213 589 213 582 213 576 219 576 220 575 229 627 227 628 221 626 215 622 213"/></Shape>
+	    <String CONTENT="Importa¬"
+                    HPOS="575"
+                    VPOS="213"
+                    WIDTH="53"
+                    HEIGHT="16"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_cb72eaa0"
                     TAGREFS="LT4135"
                     BASELINE="586 235 614 234" 
@@ -180,6 +173,23 @@
 
           
           
+          <TextLine ID="eSc_line_830ebc03"
+                    TAGREFS="LT4135"
+                    BASELINE="644 221 697 221" 
+                    HPOS="644"
+                    VPOS="213"
+                    WIDTH="53"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="691 213 684 213 678 213 671 213 664 213 658 213 651 213 644 220 644 221 644 234 660 231 696 234 697 221 697 217 691 213"/></Shape>
+	    <String CONTENT="Exporta¬"
+                    HPOS="644"
+                    VPOS="213"
+                    WIDTH="53"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_9b3c6de1"
                     TAGREFS="LT4135"
                     BASELINE="655 236 682 236" 
@@ -193,6 +203,23 @@
                     VPOS="225"
                     WIDTH="27"
                     HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61c91e94"
+                    TAGREFS="LT4135"
+                    BASELINE="704 222 769 220" 
+                    HPOS="704"
+                    VPOS="209"
+                    WIDTH="65"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="764 216 757 213 750 213 744 213 737 213 730 213 724 213 717 213 710 213 704 215 704 222 704 232 768 233 769 220 767 209 763 209 764 216"/></Shape>
+	    <String CONTENT="Consomma¬"
+                    HPOS="704"
+                    VPOS="209"
+                    WIDTH="65"
+                    HEIGHT="24"></String>
           </TextLine>
 
           
@@ -1098,57 +1125,6 @@
 
           
           
-          <TextLine ID="eSc_line_41a4f709"
-                    TAGREFS="LT4135"
-                    BASELINE="576 493 629 493" 
-                    HPOS="576"
-                    VPOS="483"
-                    WIDTH="53"
-                    HEIGHT="22">
-            <Shape><Polygon POINTS="622 486 616 483 602 483 596 484 589 484 582 484 576 493 576 505 629 502 629 493 627 490 622 486"/></Shape>
-	    <String CONTENT="Importa¬"
-                    HPOS="576"
-                    VPOS="483"
-                    WIDTH="53"
-                    HEIGHT="22"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_21e66ae3"
-                    TAGREFS="LT4135"
-                    BASELINE="644 492 696 494" 
-                    HPOS="643"
-                    VPOS="485"
-                    WIDTH="53"
-                    HEIGHT="19">
-            <Shape><Polygon POINTS="690 485 684 485 677 485 670 485 664 485 657 485 650 485 644 485 644 492 643 504 695 502 696 494 696 485 690 485"/></Shape>
-	    <String CONTENT="Exporta¬"
-                    HPOS="643"
-                    VPOS="485"
-                    WIDTH="53"
-                    HEIGHT="19"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_5084446b"
-                    TAGREFS="LT4135"
-                    BASELINE="705 494 769 492" 
-                    HPOS="704"
-                    VPOS="483"
-                    WIDTH="65"
-                    HEIGHT="23">
-            <Shape><Polygon POINTS="764 490 758 485 751 485 744 485 738 485 731 485 724 485 718 485 711 485 704 485 705 494 705 506 738 501 768 504 769 492 767 483 764 483 764 490"/></Shape>
-	    <String CONTENT="Consomma¬"
-                    HPOS="704"
-                    VPOS="483"
-                    WIDTH="65"
-                    HEIGHT="23"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_af064377"
                     TAGREFS="LT4135"
                     BASELINE="306 500 351 500" 
@@ -1183,6 +1159,23 @@
 
           
           
+          <TextLine ID="eSc_line_41a4f709"
+                    TAGREFS="LT4135"
+                    BASELINE="576 493 629 493" 
+                    HPOS="576"
+                    VPOS="483"
+                    WIDTH="53"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="622 486 616 483 602 483 596 484 589 484 582 484 576 493 576 505 629 502 629 493 627 490 622 486"/></Shape>
+	    <String CONTENT="Importa¬"
+                    HPOS="576"
+                    VPOS="483"
+                    WIDTH="53"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_e00bcd14"
                     TAGREFS="LT4135"
                     BASELINE="586 508 613 506" 
@@ -1196,6 +1189,23 @@
                     VPOS="498"
                     WIDTH="29"
                     HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21e66ae3"
+                    TAGREFS="LT4135"
+                    BASELINE="644 492 696 494" 
+                    HPOS="643"
+                    VPOS="485"
+                    WIDTH="53"
+                    HEIGHT="19">
+            <Shape><Polygon POINTS="690 485 684 485 677 485 670 485 664 485 657 485 650 485 644 485 644 492 643 504 695 502 696 494 696 485 690 485"/></Shape>
+	    <String CONTENT="Exporta¬"
+                    HPOS="643"
+                    VPOS="485"
+                    WIDTH="53"
+                    HEIGHT="19"></String>
           </TextLine>
 
           
@@ -1217,6 +1227,23 @@
 
           
           
+          <TextLine ID="eSc_line_5084446b"
+                    TAGREFS="LT4135"
+                    BASELINE="705 494 769 492" 
+                    HPOS="704"
+                    VPOS="483"
+                    WIDTH="65"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="764 490 758 485 751 485 744 485 738 485 731 485 724 485 718 485 711 485 704 485 705 494 705 506 738 501 768 504 769 492 767 483 764 483 764 490"/></Shape>
+	    <String CONTENT="Consomma¬"
+                    HPOS="704"
+                    VPOS="483"
+                    WIDTH="65"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_af8621c7"
                     TAGREFS="LT4135"
                     BASELINE="723 508 749 507" 
@@ -1225,7 +1252,7 @@
                     WIDTH="27"
                     HEIGHT="20">
             <Shape><Polygon POINTS="723 508 723 514 748 516 749 507 748 497 722 496 723 508"/></Shape>
-	    <String CONTENT="ion."
+	    <String CONTENT="tion."
                     HPOS="722"
                     VPOS="496"
                     WIDTH="27"
@@ -2135,57 +2162,6 @@
 
           
           
-          <TextLine ID="eSc_line_aad8d1c2"
-                    TAGREFS="LT4135"
-                    BASELINE="575 788 628 787" 
-                    HPOS="574"
-                    VPOS="778"
-                    WIDTH="54"
-                    HEIGHT="18">
-            <Shape><Polygon POINTS="621 778 580 778 574 784 575 788 575 796 627 796 628 787 627 784 621 778"/></Shape>
-	    <String CONTENT="Importa¬"
-                    HPOS="574"
-                    VPOS="778"
-                    WIDTH="54"
-                    HEIGHT="18"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_c99fb325"
-                    TAGREFS="LT4135"
-                    BASELINE="644 788 697 788" 
-                    HPOS="644"
-                    VPOS="778"
-                    WIDTH="53"
-                    HEIGHT="18">
-            <Shape><Polygon POINTS="691 779 684 779 678 778 671 778 664 778 658 778 651 778 645 785 644 788 644 796 697 795 697 788 696 779 691 779"/></Shape>
-	    <String CONTENT="Exporta¬"
-                    HPOS="644"
-                    VPOS="778"
-                    WIDTH="53"
-                    HEIGHT="18"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_74d7ad52"
-                    TAGREFS="LT4135"
-                    BASELINE="705 788 768 788" 
-                    HPOS="705"
-                    VPOS="779"
-                    WIDTH="63"
-                    HEIGHT="17">
-            <Shape><Polygon POINTS="765 780 758 780 752 780 745 780 738 780 732 780 725 780 718 780 712 780 705 779 705 788 705 796 768 796 768 788 768 785 765 780"/></Shape>
-	    <String CONTENT="Consomma¬"
-                    HPOS="705"
-                    VPOS="779"
-                    WIDTH="63"
-                    HEIGHT="17"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_51bcc414"
                     TAGREFS="LT4135"
                     BASELINE="306 795 352 795" 
@@ -2203,18 +2179,18 @@
 
           
           
-          <TextLine ID="eSc_line_8c626fee"
+          <TextLine ID="eSc_line_aad8d1c2"
                     TAGREFS="LT4135"
-                    BASELINE="500 795 562 795" 
-                    HPOS="500"
-                    VPOS="786"
-                    WIDTH="62"
+                    BASELINE="575 788 628 787" 
+                    HPOS="574"
+                    VPOS="778"
+                    WIDTH="54"
                     HEIGHT="18">
-            <Shape><Polygon POINTS="560 786 554 786 547 786 540 786 534 786 527 786 520 786 514 786 507 786 500 790 500 795 500 803 562 804 562 795 562 790 560 786"/></Shape>
-	    <String CONTENT="Production."
-                    HPOS="500"
-                    VPOS="786"
-                    WIDTH="62"
+            <Shape><Polygon POINTS="621 778 580 778 574 784 575 788 575 796 627 796 628 787 627 784 621 778"/></Shape>
+	    <String CONTENT="Importa¬"
+                    HPOS="574"
+                    VPOS="778"
+                    WIDTH="54"
                     HEIGHT="18"></String>
           </TextLine>
 
@@ -2237,6 +2213,23 @@
 
           
           
+          <TextLine ID="eSc_line_c99fb325"
+                    TAGREFS="LT4135"
+                    BASELINE="644 788 697 788" 
+                    HPOS="644"
+                    VPOS="778"
+                    WIDTH="53"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="691 779 684 779 678 778 671 778 664 778 658 778 651 778 645 785 644 788 644 796 697 795 697 788 696 779 691 779"/></Shape>
+	    <String CONTENT="Exporta¬"
+                    HPOS="644"
+                    VPOS="778"
+                    WIDTH="53"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_9fe25ca4"
                     TAGREFS="LT4135"
                     BASELINE="655 802 684 802" 
@@ -2254,6 +2247,23 @@
 
           
           
+          <TextLine ID="eSc_line_74d7ad52"
+                    TAGREFS="LT4135"
+                    BASELINE="705 788 768 788" 
+                    HPOS="705"
+                    VPOS="779"
+                    WIDTH="63"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="765 780 758 780 752 780 745 780 738 780 732 780 725 780 718 780 712 780 705 779 705 788 705 796 768 796 768 788 768 785 765 780"/></Shape>
+	    <String CONTENT="Consomma¬"
+                    HPOS="705"
+                    VPOS="779"
+                    WIDTH="63"
+                    HEIGHT="17"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_c7b0342e"
                     TAGREFS="LT4135"
                     BASELINE="722 802 750 801" 
@@ -2266,6 +2276,23 @@
                     HPOS="722"
                     VPOS="792"
                     WIDTH="28"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c626fee"
+                    TAGREFS="LT4135"
+                    BASELINE="500 795 562 795" 
+                    HPOS="500"
+                    VPOS="786"
+                    WIDTH="62"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="560 786 554 786 547 786 540 786 534 786 527 786 520 786 514 786 507 786 500 790 500 795 500 803 562 804 562 795 562 790 560 786"/></Shape>
+	    <String CONTENT="Production."
+                    HPOS="500"
+                    VPOS="786"
+                    WIDTH="62"
                     HEIGHT="18"></String>
           </TextLine>
 
@@ -3150,33 +3177,6 @@
                     HPOS="196"
                     VPOS="993"
                     WIDTH="199"
-                    HEIGHT="40"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="264"
-                   VPOS="104"
-                   WIDTH="404"
-                   HEIGHT="23"
-                   ID="eSc_textblock_7e83fbfb"
-                   TAGREFS="BT10563">
-          <Shape><Polygon POINTS="264 104 264 127 668 127 668 104"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_560ae4df"
-                    TAGREFS="LT4136"
-                    BASELINE="267 114 664 116" 
-                    HPOS="266"
-                    VPOS="103"
-                    WIDTH="398"
-                    HEIGHT="40">
-            <Shape><Polygon POINTS="653 106 646 106 640 106 633 106 626 106 620 106 613 106 606 106 600 106 593 106 586 106 580 106 573 106 566 106 560 106 553 106 546 106 540 106 533 106 526 106 520 106 513 106 506 106 500 106 493 106 486 106 480 106 473 106 466 106 460 106 453 106 446 106 440 106 433 106 426 106 420 106 413 106 406 106 400 106 393 106 386 106 380 106 373 106 366 106 360 106 353 106 346 106 340 106 333 106 326 106 320 106 313 106 306 106 300 106 293 106 286 106 280 106 273 107 268 112 267 114 266 133 290 140 291 140 292 140 293 140 300 135 318 134 329 134 332 135 359 141 360 141 390 138 465 141 466 141 467 141 471 138 476 135 504 135 512 139 514 140 515 140 516 140 518 139 531 135 546 140 552 142 553 142 554 142 568 140 614 136 621 141 621 142 622 142 623 142 624 142 630 138 636 142 637 142 638 142 638 143 663 143 664 116 663 103 660 103 660 114"/></Shape>
-	    <String CONTENT="PRODUCTION ET CONSOMMIATION DES ENGRAIS CHIMIQUES"
-                    HPOS="266"
-                    VPOS="103"
-                    WIDTH="398"
                     HEIGHT="40"></String>
           </TextLine>
 
