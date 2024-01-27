@@ -1,0 +1,2357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent20__es__A_RES_45_212.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10589" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10588" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10587" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10586" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10585" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4146" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4145" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4144" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4319"
+          HEIGHT="5555"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4319"
+                  HEIGHT="5555">
+        
+        <TextBlock HPOS="1036"
+                   VPOS="303"
+                   WIDTH="1963"
+                   HEIGHT="80"
+                   ID="eSc_textblock_94ada551"
+                   TAGREFS="BT10586">
+          <Shape><Polygon POINTS="1036 317 1040 383 1090 383 2999 367 2999 303"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_25d55460"
+                    TAGREFS="LT4145"
+                    BASELINE="1052 354 2985 333" 
+                    HPOS="1049"
+                    VPOS="293"
+                    WIDTH="1936"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2948 293 1049 311 1052 354 1052 379 2982 357 2985 333 2979 305 2963 299"/></Shape>
+	    <String CONTENT="V. Resoluciones aprobadas sobre la base de los informes de la Segunda Comisión"
+                    HPOS="1049"
+                    VPOS="293"
+                    WIDTH="1936"
+                    HEIGHT="86"
+                    WC="0.978960714008235"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3584"
+                   VPOS="290"
+                   WIDTH="123"
+                   HEIGHT="67"
+                   ID="eSc_textblock_3c2c203d"
+                   TAGREFS="BT10587">
+          <Shape><Polygon POINTS="3584 290 3584 357 3677 357 3707 357 3707 290"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_88709a81"
+                    TAGREFS="LT4144"
+                    BASELINE="3596 330 3698 330" 
+                    HPOS="3596"
+                    VPOS="287"
+                    WIDTH="102"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="3689 302 3658 296 3627 290 3612 287 3596 287 3596 330 3596 354 3698 354 3698 330 3698 305 3689 302"/></Shape>
+	    <String CONTENT="165"
+                    HPOS="3596"
+                    VPOS="287"
+                    WIDTH="102"
+                    HEIGHT="67"
+                    WC="0.999838749567668"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="292"
+                   VPOS="427"
+                   WIDTH="1694"
+                   HEIGHT="4482"
+                   ID="eSc_textblock_0f15800f"
+                   TAGREFS="BT10585">
+          <Shape><Polygon POINTS="292 427 292 4909 1986 4909 1986 427"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bc587762"
+                    TAGREFS="LT4144"
+                    BASELINE="330 484 1969 466" 
+                    HPOS="327"
+                    VPOS="422"
+                    WIDTH="1642"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="330 484 330 509 1969 490 1969 466 1960 422 327 438 330 484"/></Shape>
+	    <String CONTENT="máticos, que ha terminado su primer informe de eva¬"
+                    HPOS="327"
+                    VPOS="422"
+                    WIDTH="1642"
+                    HEIGHT="87"
+                    WC="0.986593319819524"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab63dce1"
+                    TAGREFS="LT4144"
+                    BASELINE="327 555 586 555" 
+                    HPOS="327"
+                    VPOS="512"
+                    WIDTH="259"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="327 555 327 586 586 586 586 555 586 512 327 512 327 555"/></Shape>
+	    <String CONTENT="luación,"
+                    HPOS="327"
+                    VPOS="512"
+                    WIDTH="259"
+                    HEIGHT="74"
+                    WC="0.993068827523126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de03a6fb"
+                    TAGREFS="LT4144"
+                    BASELINE="388 648 1963 629" 
+                    HPOS="385"
+                    VPOS="580"
+                    WIDTH="1578"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="388 648 388 672 1960 654 1963 629 1957 586 919 580 916 580 608 598 419 586 416 586 413 586 385 598 388 648"/></Shape>
+	    <String CONTENT="Observando también las conclusiones y recomenda¬"
+                    HPOS="385"
+                    VPOS="580"
+                    WIDTH="1578"
+                    HEIGHT="92"
+                    WC="0.982061979722004"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c6382e89"
+                    TAGREFS="LT4144"
+                    BASELINE="330 715 1960 700" 
+                    HPOS="327"
+                    VPOS="660"
+                    WIDTH="1633"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="330 715 330 740 1957 725 1960 700 1951 660 327 672 330 715"/></Shape>
+	    <String CONTENT="ciones pertinentes sobre cambios climáticos aproba¬"
+                    HPOS="327"
+                    VPOS="660"
+                    WIDTH="1633"
+                    HEIGHT="80"
+                    WC="0.996094482449385"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7734d4b"
+                    TAGREFS="LT4144"
+                    BASELINE="330 790 1960 768" 
+                    HPOS="327"
+                    VPOS="728"
+                    WIDTH="1633"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="330 790 330 811 1960 790 1960 768 1951 728 327 746 330 790"/></Shape>
+	    <String CONTENT="das en diversas reuniones intergubernamentales du¬"
+                    HPOS="327"
+                    VPOS="728"
+                    WIDTH="1633"
+                    HEIGHT="83"
+                    WC="0.991173338890076"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cafd808f"
+                    TAGREFS="LT4144"
+                    BASELINE="330 861 679 851" 
+                    HPOS="327"
+                    VPOS="805"
+                    WIDTH="352"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="330 861 330 888 676 888 679 851 669 805 327 811 330 861"/></Shape>
+	    <String CONTENT="rante 1990,"
+                    HPOS="327"
+                    VPOS="805"
+                    WIDTH="352"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e17fa061"
+                    TAGREFS="LT4144"
+                    BASELINE="388 950 1969 932" 
+                    HPOS="385"
+                    VPOS="879"
+                    WIDTH="1584"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="388 950 388 975 1969 953 1969 932 1963 888 1188 879 1185 879 1182 879 1179 879 1154 894 419 888 416 888 413 888 385 901 388 950"/></Shape>
+	    <String CONTENT="Observando además el hecho de que la mayor parte"
+                    HPOS="385"
+                    VPOS="879"
+                    WIDTH="1584"
+                    HEIGHT="96"
+                    WC="0.989381717175854"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33a1a466"
+                    TAGREFS="LT4144"
+                    BASELINE="333 1021 1963 1002" 
+                    HPOS="330"
+                    VPOS="959"
+                    WIDTH="1633"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="333 1021 333 1049 1960 1030 1963 1002 1954 959 330 975 333 1021"/></Shape>
+	    <String CONTENT="de la emisión actual de contaminantes en el medio am¬"
+                    HPOS="330"
+                    VPOS="959"
+                    WIDTH="1633"
+                    HEIGHT="90"
+                    WC="0.983460047730693"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61f2d50a"
+                    TAGREFS="LT4144"
+                    BASELINE="333 1092 1960 1073" 
+                    HPOS="330"
+                    VPOS="1030"
+                    WIDTH="1630"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="333 1092 333 1117 1957 1098 1960 1073 1951 1030 330 1043 333 1092"/></Shape>
+	    <String CONTENT="biente se origina en los países desarrollados y recono¬"
+                    HPOS="330"
+                    VPOS="1030"
+                    WIDTH="1630"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c6817e5"
+                    TAGREFS="LT4144"
+                    BASELINE="330 1160 1963 1148" 
+                    HPOS="327"
+                    VPOS="1107"
+                    WIDTH="1636"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="330 1160 330 1181 1963 1169 1963 1148 1954 1107 327 1117 330 1160"/></Shape>
+	    <String CONTENT="ciendo que a estos países les incumbe, por tanto, la"
+                    HPOS="327"
+                    VPOS="1107"
+                    WIDTH="1636"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a8cb61f"
+                    TAGREFS="LT4144"
+                    BASELINE="330 1234 1960 1212" 
+                    HPOS="327"
+                    VPOS="1163"
+                    WIDTH="1633"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="330 1234 330 1265 1960 1237 1960 1212 1954 1169 1256 1163 1253 1163 327 1188 330 1234"/></Shape>
+	    <String CONTENT="principal responsabilidad en la lucha contra la contami¬"
+                    HPOS="327"
+                    VPOS="1163"
+                    WIDTH="1633"
+                    HEIGHT="102"
+                    WC="0.990199660616262"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dac5402a"
+                    TAGREFS="LT4144"
+                    BASELINE="333 1302 564 1299" 
+                    HPOS="330"
+                    VPOS="1243"
+                    WIDTH="234"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="333 1302 333 1330 564 1327 564 1299 558 1259 441 1243 438 1243 330 1259 333 1302"/></Shape>
+	    <String CONTENT="nación,"
+                    HPOS="330"
+                    VPOS="1243"
+                    WIDTH="234"
+                    HEIGHT="87"
+                    WC="0.997629314661026"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e4fd8a9"
+                    TAGREFS="LT4144"
+                    BASELINE="385 1394 1969 1376" 
+                    HPOS="382"
+                    VPOS="1333"
+                    WIDTH="1587"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="385 1394 385 1419 1969 1401 1969 1376 1963 1336 651 1333 648 1333 645 1333 642 1333 642 1336 639 1336 629 1348 432 1336 429 1336 426 1336 382 1351 385 1394"/></Shape>
+	    <String CONTENT="Acogiendo con agrado el hecho de que varios países"
+                    HPOS="382"
+                    VPOS="1333"
+                    WIDTH="1587"
+                    HEIGHT="86"
+                    WC="0.958045580807854"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf6f043a"
+                    TAGREFS="LT4144"
+                    BASELINE="336 1468 1963 1450" 
+                    HPOS="333"
+                    VPOS="1401"
+                    WIDTH="1630"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="336 1468 336 1506 1960 1475 1963 1450 1954 1401 333 1422 336 1468"/></Shape>
+	    <String CONTENT="y una organización de integración económica regional"
+                    HPOS="333"
+                    VPOS="1401"
+                    WIDTH="1630"
+                    HEIGHT="105"
+                    WC="0.983781836249612"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6d5babe"
+                    TAGREFS="LT4144"
+                    BASELINE="336 1533 1963 1518" 
+                    HPOS="333"
+                    VPOS="1478"
+                    WIDTH="1630"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="336 1533 336 1558 1960 1543 1963 1518 1954 1478 333 1490 336 1533"/></Shape>
+	    <String CONTENT="han adoptado ya medidas o contraído compromisos"
+                    HPOS="333"
+                    VPOS="1478"
+                    WIDTH="1630"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9670d110"
+                    TAGREFS="LT4144"
+                    BASELINE="333 1604 1963 1586" 
+                    HPOS="330"
+                    VPOS="1539"
+                    WIDTH="1633"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="333 1604 333 1632 1960 1614 1963 1586 1954 1539 330 1555 333 1604"/></Shape>
+	    <String CONTENT="concretos para hacer frente al problema de los cambios"
+                    HPOS="330"
+                    VPOS="1539"
+                    WIDTH="1633"
+                    HEIGHT="93"
+                    WC="0.981822114299845"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbdfec9b"
+                    TAGREFS="LT4144"
+                    BASELINE="333 1675 1963 1657" 
+                    HPOS="330"
+                    VPOS="1614"
+                    WIDTH="1633"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="333 1675 333 1700 1960 1685 1963 1657 1954 1614 330 1629 333 1675"/></Shape>
+	    <String CONTENT="climáticos y sus efectos mediante la estabilización o la"
+                    HPOS="330"
+                    VPOS="1614"
+                    WIDTH="1633"
+                    HEIGHT="86"
+                    WC="0.992900986095955"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_672ca13c"
+                    TAGREFS="LT4144"
+                    BASELINE="333 1746 1963 1728" 
+                    HPOS="330"
+                    VPOS="1685"
+                    WIDTH="1633"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="333 1746 333 1774 1960 1755 1963 1728 1954 1685 330 1700 333 1746"/></Shape>
+	    <String CONTENT="reducción de las emisiones nocivas para el medio am¬"
+                    HPOS="330"
+                    VPOS="1685"
+                    WIDTH="1633"
+                    HEIGHT="89"
+                    WC="0.986485983965532"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b34cb8b"
+                    TAGREFS="LT4144"
+                    BASELINE="333 1814 1966 1799" 
+                    HPOS="330"
+                    VPOS="1752"
+                    WIDTH="1636"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="333 1814 333 1836 1966 1820 1966 1799 1960 1759 981 1752 978 1752 330 1771 333 1814"/></Shape>
+	    <String CONTENT="biente de los gases de efecto de invernadero, y que"
+                    HPOS="330"
+                    VPOS="1752"
+                    WIDTH="1636"
+                    HEIGHT="84"
+                    WC="0.997352846697265"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_56beaa98"
+                    TAGREFS="LT4144"
+                    BASELINE="333 1885 1960 1870" 
+                    HPOS="330"
+                    VPOS="1826"
+                    WIDTH="1630"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="333 1885 333 1910 1960 1891 1960 1870 1951 1826 330 1839 333 1885"/></Shape>
+	    <String CONTENT="otros países están considerando la posibilidad de ha¬"
+                    HPOS="330"
+                    VPOS="1826"
+                    WIDTH="1630"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32c6331c"
+                    TAGREFS="LT4144"
+                    BASELINE="333 1953 518 1959" 
+                    HPOS="330"
+                    VPOS="1907"
+                    WIDTH="188"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="333 1953 330 1978 512 1984 518 1959 515 1913 333 1907 333 1953"/></Shape>
+	    <String CONTENT="cerlo,"
+                    HPOS="330"
+                    VPOS="1907"
+                    WIDTH="188"
+                    HEIGHT="77"
+                    WC="0.997834314902624"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1edd211b"
+                    TAGREFS="LT4144"
+                    BASELINE="392 2046 1969 2027" 
+                    HPOS="388"
+                    VPOS="1984"
+                    WIDTH="1581"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="392 2046 392 2073 1966 2055 1969 2027 1960 1984 388 1999 392 2046"/></Shape>
+	    <String CONTENT="Observando que, de conformidad con el párrafo 10 de"
+                    HPOS="388"
+                    VPOS="1984"
+                    WIDTH="1581"
+                    HEIGHT="89"
+                    WC="0.991853592487482"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_edf1007e"
+                    TAGREFS="LT4144"
+                    BASELINE="333 2120 1963 2104" 
+                    HPOS="330"
+                    VPOS="2055"
+                    WIDTH="1633"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="333 2120 333 2144 1960 2129 1963 2104 1957 2061 654 2055 651 2055 648 2055 592 2070 342 2058 339 2058 336 2058 333 2058 333 2061 330 2061 333 2120"/></Shape>
+	    <String CONTENT="la resolución 44/207 de la Asamblea General, la resolu¬"
+                    HPOS="330"
+                    VPOS="2055"
+                    WIDTH="1633"
+                    HEIGHT="89"
+                    WC="0.983569624168532"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c2177da"
+                    TAGREFS="LT4144"
+                    BASELINE="336 2191 1963 2175" 
+                    HPOS="333"
+                    VPOS="2123"
+                    WIDTH="1630"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="336 2191 336 2215 1960 2200 1963 2175 1957 2129 657 2123 654 2123 333 2141 336 2191"/></Shape>
+	    <String CONTENT="ción 4 (EC-XLII) del Consejo Ejecutivo de la Organi¬"
+                    HPOS="333"
+                    VPOS="2123"
+                    WIDTH="1630"
+                    HEIGHT="92"
+                    WC="0.986189803987179"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0c941c4"
+                    TAGREFS="LT4144"
+                    BASELINE="336 2259 1963 2243" 
+                    HPOS="333"
+                    VPOS="2200"
+                    WIDTH="1630"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="336 2259 336 2286 1960 2277 1963 2243 1954 2200 333 2212 336 2259"/></Shape>
+	    <String CONTENT="zación Meteorológica Mundial, de 22 de junio de 1990,"
+                    HPOS="333"
+                    VPOS="2200"
+                    WIDTH="1630"
+                    HEIGHT="86"
+                    WC="0.980510594628074"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_183480ca"
+                    TAGREFS="LT4144"
+                    BASELINE="336 2333 1966 2311" 
+                    HPOS="333"
+                    VPOS="2265"
+                    WIDTH="1633"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="336 2333 336 2367 1963 2339 1966 2311 1960 2268 799 2265 796 2265 333 2286 336 2333"/></Shape>
+	    <String CONTENT="y la decisión SS.II/3, de 3 de agosto de 1990, adoptada"
+                    HPOS="333"
+                    VPOS="2265"
+                    WIDTH="1633"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_245254ab"
+                    TAGREFS="LT4144"
+                    BASELINE="336 2400 1966 2382" 
+                    HPOS="333"
+                    VPOS="2339"
+                    WIDTH="1633"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="336 2400 336 2428 1963 2410 1966 2382 1957 2339 333 2354 336 2400"/></Shape>
+	    <String CONTENT="por el Consejo de Administración del Programa de las"
+                    HPOS="333"
+                    VPOS="2339"
+                    WIDTH="1633"
+                    HEIGHT="89"
+                    WC="0.989193947810047"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da70d0f0"
+                    TAGREFS="LT4144"
+                    BASELINE="336 2468 1966 2450" 
+                    HPOS="333"
+                    VPOS="2410"
+                    WIDTH="1633"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="336 2468 336 2496 1963 2478 1966 2450 1957 2410 333 2425 336 2468"/></Shape>
+	    <String CONTENT="Naciones Unidas para el Medio Ambiente en su segun¬"
+                    HPOS="333"
+                    VPOS="2410"
+                    WIDTH="1633"
+                    HEIGHT="86"
+                    WC="0.998494740794687"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8349c34c"
+                    TAGREFS="LT4144"
+                    BASELINE="336 2539 1969 2524" 
+                    HPOS="333"
+                    VPOS="2481"
+                    WIDTH="1636"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="336 2539 336 2561 1966 2546 1969 2524 1960 2481 333 2493 336 2539"/></Shape>
+	    <String CONTENT="do período extraordinario de sesiones^82, el Grupo de"
+                    HPOS="333"
+                    VPOS="2481"
+                    WIDTH="1636"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4b81db0"
+                    TAGREFS="LT4144"
+                    BASELINE="336 2610 1966 2592" 
+                    HPOS="333"
+                    VPOS="2549"
+                    WIDTH="1633"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="336 2610 336 2638 1963 2620 1966 2592 1957 2549 333 2564 336 2610"/></Shape>
+	    <String CONTENT="trabajo especial de representantes de los gobiernos en¬"
+                    HPOS="333"
+                    VPOS="2549"
+                    WIDTH="1633"
+                    HEIGHT="89"
+                    WC="0.978399360179901"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8018330d"
+                    TAGREFS="LT4144"
+                    BASELINE="333 2678 1969 2663" 
+                    HPOS="330"
+                    VPOS="2617"
+                    WIDTH="1639"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="333 2678 333 2706 1966 2691 1969 2663 1960 2617 330 2629 333 2678"/></Shape>
+	    <String CONTENT="cargado de preparar las negociaciones para la celebra¬"
+                    HPOS="330"
+                    VPOS="2617"
+                    WIDTH="1639"
+                    HEIGHT="89"
+                    WC="0.997858614833267"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d1e6f6c"
+                    TAGREFS="LT4144"
+                    BASELINE="333 2752 1969 2734" 
+                    HPOS="330"
+                    VPOS="2691"
+                    WIDTH="1639"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="333 2752 333 2774 1969 2755 1969 2734 1960 2691 330 2706 333 2752"/></Shape>
+	    <String CONTENT="ción de una convención general sobre los cambios cli¬"
+                    HPOS="330"
+                    VPOS="2691"
+                    WIDTH="1639"
+                    HEIGHT="83"
+                    WC="0.995016869631681"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5522d018"
+                    TAGREFS="LT4144"
+                    BASELINE="336 2820 1966 2805" 
+                    HPOS="333"
+                    VPOS="2762"
+                    WIDTH="1633"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="336 2820 336 2848 1963 2833 1966 2805 1957 2762 333 2774 336 2820"/></Shape>
+	    <String CONTENT="máticos se reunió en Ginebra del 24 al 26 de septiembre"
+                    HPOS="333"
+                    VPOS="2762"
+                    WIDTH="1633"
+                    HEIGHT="86"
+                    WC="0.982910384211624"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab6a2bd7"
+                    TAGREFS="LT4144"
+                    BASELINE="333 2888 1858 2876" 
+                    HPOS="330"
+                    VPOS="2823"
+                    WIDTH="1528"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="333 2888 333 2916 1855 2913 1858 2876 1852 2836 1117 2823 1114 2823 1111 2823 1108 2823 1083 2839 364 2829 361 2829 358 2829 330 2842 333 2888"/></Shape>
+	    <String CONTENT="de 1990 y formuló una serie de recomendaciones^83,"
+                    HPOS="330"
+                    VPOS="2823"
+                    WIDTH="1528"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1bbc6471"
+                    TAGREFS="LT4144"
+                    BASELINE="395 2981 1972 2965" 
+                    HPOS="392"
+                    VPOS="2925"
+                    WIDTH="1580"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="395 2981 395 3008 1969 2993 1972 2965 1963 2925 392 2937 395 2981"/></Shape>
+	    <String CONTENT="Reconociendo la constante necesidad de realizar in¬"
+                    HPOS="392"
+                    VPOS="2925"
+                    WIDTH="1580"
+                    HEIGHT="83"
+                    WC="0.98621600632574"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_760488a9"
+                    TAGREFS="LT4144"
+                    BASELINE="336 3052 1969 3039" 
+                    HPOS="333"
+                    VPOS="2996"
+                    WIDTH="1636"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="336 3052 336 3079 1966 3067 1969 3039 1960 2996 333 3005 336 3052"/></Shape>
+	    <String CONTENT="vestigaciones científicas sobre las fuentes y los efectos"
+                    HPOS="333"
+                    VPOS="2996"
+                    WIDTH="1636"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88c98992"
+                    TAGREFS="LT4144"
+                    BASELINE="336 3120 1969 3110" 
+                    HPOS="333"
+                    VPOS="3070"
+                    WIDTH="1636"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="336 3120 336 3144 1969 3135 1969 3110 1960 3070 333 3076 336 3120"/></Shape>
+	    <String CONTENT="de los cambios climáticos y sus posibles repercusiones"
+                    HPOS="333"
+                    VPOS="3070"
+                    WIDTH="1636"
+                    HEIGHT="74"
+                    WC="0.987995392625982"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f84f31c"
+                    TAGREFS="LT4144"
+                    BASELINE="336 3194 1966 3181" 
+                    HPOS="333"
+                    VPOS="3138"
+                    WIDTH="1633"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="336 3194 336 3218 1963 3209 1966 3181 1957 3138 333 3147 336 3194"/></Shape>
+	    <String CONTENT="adversas, incluidas las consecuencias socioeconómicas,"
+                    HPOS="333"
+                    VPOS="3138"
+                    WIDTH="1633"
+                    HEIGHT="80"
+                    WC="0.99402162920345"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6fbfe0f4"
+                    TAGREFS="LT4144"
+                    BASELINE="339 3268 1963 3252" 
+                    HPOS="336"
+                    VPOS="3206"
+                    WIDTH="1627"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="339 3268 339 3302 1960 3277 1963 3252 1954 3206 336 3218 339 3268"/></Shape>
+	    <String CONTENT="y la eficacia de las posibles estrategias de respuesta, y"
+                    HPOS="336"
+                    VPOS="3206"
+                    WIDTH="1627"
+                    HEIGHT="96"
+                    WC="0.975046496642263"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9cd7e35e"
+                    TAGREFS="LT4144"
+                    BASELINE="336 3333 1966 3320" 
+                    HPOS="333"
+                    VPOS="3277"
+                    WIDTH="1633"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="336 3333 336 3360 1963 3348 1966 3320 1957 3277 333 3286 336 3333"/></Shape>
+	    <String CONTENT="reconociendo también la importancia de que los países"
+                    HPOS="333"
+                    VPOS="3277"
+                    WIDTH="1633"
+                    HEIGHT="83"
+                    WC="0.989785334196958"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bead70b1"
+                    TAGREFS="LT4144"
+                    BASELINE="336 3407 1966 3391" 
+                    HPOS="333"
+                    VPOS="3345"
+                    WIDTH="1633"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="336 3407 336 3434 1963 3419 1966 3391 1960 3348 657 3345 654 3345 333 3360 336 3407"/></Shape>
+	    <String CONTENT="en desarrollo participen activamente y la necesidad de"
+                    HPOS="333"
+                    VPOS="3345"
+                    WIDTH="1633"
+                    HEIGHT="89"
+                    WC="0.998225890927845"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be7fc0dd"
+                    TAGREFS="LT4144"
+                    BASELINE="336 3478 1966 3462" 
+                    HPOS="333"
+                    VPOS="3419"
+                    WIDTH="1633"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="336 3478 336 3511 1963 3487 1966 3462 1957 3419 333 3431 336 3478"/></Shape>
+	    <String CONTENT="prestarles asistencia y colaborar con ellos en las inves¬"
+                    HPOS="333"
+                    VPOS="3419"
+                    WIDTH="1633"
+                    HEIGHT="92"
+                    WC="0.993226787500214"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69d8a339"
+                    TAGREFS="LT4144"
+                    BASELINE="336 3549 1500 3539" 
+                    HPOS="333"
+                    VPOS="3481"
+                    WIDTH="1167"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="336 3549 336 3573 1497 3567 1500 3539 1494 3496 1108 3481 1105 3481 1102 3481 1099 3481 1077 3496 373 3487 370 3487 367 3487 333 3499 336 3549"/></Shape>
+	    <String CONTENT="tigaciones y medidas relativas al clima,"
+                    HPOS="333"
+                    VPOS="3481"
+                    WIDTH="1167"
+                    HEIGHT="92"
+                    WC="0.988280194997788"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9ba7c96"
+                    TAGREFS="LT4144"
+                    BASELINE="398 3641 1972 3629" 
+                    HPOS="395"
+                    VPOS="3579"
+                    WIDTH="1577"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="398 3641 398 3666 1969 3653 1972 3629 1966 3586 419 3579 416 3579 413 3579 410 3579 395 3589 398 3641"/></Shape>
+	    <String CONTENT="1. Decide establecer un solo proceso de negociacio¬"
+                    HPOS="395"
+                    VPOS="3579"
+                    WIDTH="1577"
+                    HEIGHT="87"
+                    WC="0.993076479902454"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36dc82b3"
+                    TAGREFS="LT4144"
+                    BASELINE="336 3715 1972 3700" 
+                    HPOS="333"
+                    VPOS="3657"
+                    WIDTH="1639"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="336 3715 336 3734 657 3749 660 3749 1972 3718 1972 3700 1963 3657 333 3669 336 3715"/></Shape>
+	    <String CONTENT="nes intergubernamentales bajo los auspicios de la"
+                    HPOS="333"
+                    VPOS="3657"
+                    WIDTH="1639"
+                    HEIGHT="92"
+                    WC="0.993898040177871"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f42707e"
+                    TAGREFS="LT4144"
+                    BASELINE="336 3783 1966 3768" 
+                    HPOS="333"
+                    VPOS="3728"
+                    WIDTH="1633"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="336 3783 336 3814 1963 3799 1966 3768 1957 3728 333 3740 336 3783"/></Shape>
+	    <String CONTENT="Asamblea General, apoyado por el Programa de las Na¬"
+                    HPOS="333"
+                    VPOS="3728"
+                    WIDTH="1633"
+                    HEIGHT="86"
+                    WC="0.991822667993032"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9760cbc9"
+                    TAGREFS="LT4144"
+                    BASELINE="336 3854 1966 3842" 
+                    HPOS="333"
+                    VPOS="3799"
+                    WIDTH="1633"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="336 3854 336 3879 1963 3866 1966 3842 1957 3799 333 3808 336 3854"/></Shape>
+	    <String CONTENT="ciones Unidas para el Medio Ambiente y la Organiza¬"
+                    HPOS="333"
+                    VPOS="3799"
+                    WIDTH="1633"
+                    HEIGHT="80"
+                    WC="0.979536959937975"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4aa4fb8"
+                    TAGREFS="LT4144"
+                    BASELINE="336 3925 1963 3910" 
+                    HPOS="333"
+                    VPOS="3866"
+                    WIDTH="1630"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="336 3925 336 3953 1960 3937 1963 3910 1954 3866 333 3879 336 3925"/></Shape>
+	    <String CONTENT="ción Meteorológica Mundial, para que un Comité In¬"
+                    HPOS="333"
+                    VPOS="3866"
+                    WIDTH="1630"
+                    HEIGHT="87"
+                    WC="0.987826463186516"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_721515f6"
+                    TAGREFS="LT4144"
+                    BASELINE="336 3996 1966 3984" 
+                    HPOS="333"
+                    VPOS="3940"
+                    WIDTH="1633"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="336 3996 336 4021 1963 4008 1966 3984 1957 3940 333 3950 336 3996"/></Shape>
+	    <String CONTENT="tergubernamental de Negociación prepare una conven¬"
+                    HPOS="333"
+                    VPOS="3940"
+                    WIDTH="1633"
+                    HEIGHT="81"
+                    WC="0.991004046339255"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bcc129b7"
+                    TAGREFS="LT4144"
+                    BASELINE="336 4064 1966 4052" 
+                    HPOS="333"
+                    VPOS="4008"
+                    WIDTH="1633"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="336 4064 336 4089 1963 4076 1966 4052 1957 4008 333 4018 336 4064"/></Shape>
+	    <String CONTENT="ción general eficaz sobre los cambios climáticos, que"
+                    HPOS="333"
+                    VPOS="4008"
+                    WIDTH="1633"
+                    HEIGHT="81"
+                    WC="0.979642594944347"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c14e1e75"
+                    TAGREFS="LT4144"
+                    BASELINE="336 4135 1969 4119" 
+                    HPOS="333"
+                    VPOS="4076"
+                    WIDTH="1636"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="336 4135 336 4160 1966 4144 1969 4119 1960 4076 333 4089 336 4135"/></Shape>
+	    <String CONTENT="contenga los compromisos apropiados, y los instrumen¬"
+                    HPOS="333"
+                    VPOS="4076"
+                    WIDTH="1636"
+                    HEIGHT="84"
+                    WC="0.989837360831926"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e52ae6c1"
+                    TAGREFS="LT4144"
+                    BASELINE="339 4203 1972 4190" 
+                    HPOS="336"
+                    VPOS="4147"
+                    WIDTH="1636"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="339 4203 339 4231 1969 4218 1972 4190 1963 4147 336 4156 339 4203"/></Shape>
+	    <String CONTENT="tos conexos que se puedan convenir, teniendo en cuen¬"
+                    HPOS="336"
+                    VPOS="4147"
+                    WIDTH="1636"
+                    HEIGHT="84"
+                    WC="0.975752727040705"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd7bd064"
+                    TAGREFS="LT4144"
+                    BASELINE="339 4274 1969 4258" 
+                    HPOS="336"
+                    VPOS="4218"
+                    WIDTH="1633"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="339 4274 339 4302 1966 4286 1969 4258 1960 4218 336 4231 339 4274"/></Shape>
+	    <String CONTENT="ta las propuestas que podrían presentar los Estados"
+                    HPOS="336"
+                    VPOS="4218"
+                    WIDTH="1633"
+                    HEIGHT="84"
+                    WC="0.989978849887848"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da308a2d"
+                    TAGREFS="LT4144"
+                    BASELINE="339 4345 1972 4329" 
+                    HPOS="336"
+                    VPOS="4289"
+                    WIDTH="1636"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="339 4345 339 4382 1969 4357 1972 4329 1963 4289 336 4302 339 4345"/></Shape>
+	    <String CONTENT="participantes en el proceso de negociaciones, la labor"
+                    HPOS="336"
+                    VPOS="4289"
+                    WIDTH="1636"
+                    HEIGHT="93"
+                    WC="0.998561416511182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70ef8460"
+                    TAGREFS="LT4144"
+                    BASELINE="336 4416 1969 4403" 
+                    HPOS="333"
+                    VPOS="4360"
+                    WIDTH="1636"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="336 4416 336 4440 1966 4428 1969 4403 1960 4360 333 4369 336 4416"/></Shape>
+	    <String CONTENT="del Grupo Intergubernamental de Expertos sobre Cam¬"
+                    HPOS="333"
+                    VPOS="4360"
+                    WIDTH="1636"
+                    HEIGHT="80"
+                    WC="0.985714806061165"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eda58214"
+                    TAGREFS="LT4144"
+                    BASELINE="339 4484 1969 4474" 
+                    HPOS="336"
+                    VPOS="4431"
+                    WIDTH="1633"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="339 4484 339 4508 1966 4499 1969 4474 1960 4431 336 4437 339 4484"/></Shape>
+	    <String CONTENT="bios Climáticos y los resultados alcanzados en las reu¬"
+                    HPOS="336"
+                    VPOS="4431"
+                    WIDTH="1633"
+                    HEIGHT="77"
+                    WC="0.998212843069008"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cec031b"
+                    TAGREFS="LT4144"
+                    BASELINE="339 4558 1969 4545" 
+                    HPOS="336"
+                    VPOS="4499"
+                    WIDTH="1633"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="339 4558 339 4582 1966 4570 1969 4545 1960 4499 336 4508 339 4558"/></Shape>
+	    <String CONTENT="niones internacionales sobre el tema, incluida la Segun¬"
+                    HPOS="336"
+                    VPOS="4499"
+                    WIDTH="1633"
+                    HEIGHT="83"
+                    WC="0.983436261968953"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0708f520"
+                    TAGREFS="LT4144"
+                    BASELINE="336 4629 1552 4619" 
+                    HPOS="333"
+                    VPOS="4561"
+                    WIDTH="1219"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="336 4629 336 4656 1549 4647 1552 4619 1546 4576 1151 4561 1148 4561 1145 4561 1142 4561 1114 4576 750 4564 747 4564 744 4564 740 4564 716 4579 373 4567 370 4567 367 4567 333 4579 336 4629"/></Shape>
+	    <String CONTENT="da Conferencia Mundial sobre el Clima;"
+                    HPOS="333"
+                    VPOS="4561"
+                    WIDTH="1219"
+                    HEIGHT="95"
+                    WC="0.994350717255944"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04e18718"
+                    TAGREFS="LT4144"
+                    BASELINE="401 4724 1975 4709" 
+                    HPOS="398"
+                    VPOS="4663"
+                    WIDTH="1577"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="401 4724 401 4743 1633 4749 1636 4749 1639 4749 1701 4734 1929 4746 1932 4746 1935 4746 1975 4727 1975 4709 1969 4666 413 4663 410 4663 407 4663 404 4663 404 4666 401 4666 398 4666 401 4724"/></Shape>
+	    <String CONTENT="2. Decide que la composición del Comité Intergu¬"
+                    HPOS="398"
+                    VPOS="4663"
+                    WIDTH="1577"
+                    HEIGHT="86"
+                    WC="0.990413392782211"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03abad8e"
+                    TAGREFS="LT4144"
+                    BASELINE="339 4792 1972 4777" 
+                    HPOS="336"
+                    VPOS="4737"
+                    WIDTH="1636"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="339 4792 339 4820 1969 4805 1972 4777 1963 4737 336 4746 339 4792"/></Shape>
+	    <String CONTENT="bernamental de Negociación esté abierto a todos los"
+                    HPOS="336"
+                    VPOS="4737"
+                    WIDTH="1636"
+                    HEIGHT="83"
+                    WC="0.973295992275454"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c30936c0"
+                    TAGREFS="LT4144"
+                    BASELINE="339 4863 1972 4848" 
+                    HPOS="336"
+                    VPOS="4801"
+                    WIDTH="1636"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="339 4863 339 4891 1969 4879 1972 4848 1966 4805 660 4801 657 4801 336 4817 339 4863"/></Shape>
+	    <String CONTENT="Estados Miembros de las Naciones Unidas o miembros"
+                    HPOS="336"
+                    VPOS="4801"
+                    WIDTH="1636"
+                    HEIGHT="90"
+                    WC="0.981854550838471"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2034"
+                   VPOS="427"
+                   WIDTH="1686"
+                   HEIGHT="4529"
+                   ID="eSc_textblock_3b278d2e"
+                   TAGREFS="BT10585">
+          <Shape><Polygon POINTS="2034 427 2034 4956 3720 4956 3720 427"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fc25a756"
+                    TAGREFS="LT4144"
+                    BASELINE="2056 469 3695 444" 
+                    HPOS="2052"
+                    VPOS="401"
+                    WIDTH="1643"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="2056 469 2056 493 3695 469 3695 444 3686 401 2052 422 2056 469"/></Shape>
+	    <String CONTENT="de los organismos especializados y que participen tam¬"
+                    HPOS="2052"
+                    VPOS="401"
+                    WIDTH="1643"
+                    HEIGHT="92"
+                    WC="0.983671724796295"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbb0c666"
+                    TAGREFS="LT4144"
+                    BASELINE="2062 536 3692 521" 
+                    HPOS="2059"
+                    VPOS="478"
+                    WIDTH="1633"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2062 536 2062 561 3689 546 3692 521 3683 478 2059 490 2062 536"/></Shape>
+	    <String CONTENT="bién en él observadores de conformidad con la práctica"
+                    HPOS="2059"
+                    VPOS="478"
+                    WIDTH="1633"
+                    HEIGHT="83"
+                    WC="0.974545661817517"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b28c0715"
+                    TAGREFS="LT4144"
+                    BASELINE="2059 604 3173 598" 
+                    HPOS="2056"
+                    VPOS="555"
+                    WIDTH="1117"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2059 604 2059 632 3170 626 3173 598 3164 555 2056 558 2059 604"/></Shape>
+	    <String CONTENT="establecida de la Asamblea General;"
+                    HPOS="2056"
+                    VPOS="555"
+                    WIDTH="1117"
+                    HEIGHT="77"
+                    WC="0.996676095894405"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_761255cc"
+                    TAGREFS="LT4144"
+                    BASELINE="2127 703 3692 685" 
+                    HPOS="2123"
+                    VPOS="644"
+                    WIDTH="1569"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2127 703 2127 731 3689 712 3692 685 3683 644 2123 660 2127 703"/></Shape>
+	    <String CONTENT="3. Acoge con satisfacción la organización de proce¬"
+                    HPOS="2123"
+                    VPOS="644"
+                    WIDTH="1569"
+                    HEIGHT="87"
+                    WC="0.99134883228338"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35ba5eb6"
+                    TAGREFS="LT4144"
+                    BASELINE="2062 777 3695 759" 
+                    HPOS="2059"
+                    VPOS="709"
+                    WIDTH="1636"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2062 777 2062 799 3695 780 3695 759 3686 709 2059 731 2062 777"/></Shape>
+	    <String CONTENT="sos preparatorios de base amplia en el plano nacional"
+                    HPOS="2059"
+                    VPOS="709"
+                    WIDTH="1636"
+                    HEIGHT="90"
+                    WC="0.992115948560103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db8ba159"
+                    TAGREFS="LT4144"
+                    BASELINE="2062 845 3692 827" 
+                    HPOS="2059"
+                    VPOS="786"
+                    WIDTH="1633"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2062 845 2062 873 3689 854 3692 827 3683 786 2059 802 2062 845"/></Shape>
+	    <String CONTENT="en los que participen, en la forma que proceda, la co¬"
+                    HPOS="2059"
+                    VPOS="786"
+                    WIDTH="1633"
+                    HEIGHT="87"
+                    WC="0.990234642117112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ced30a86"
+                    TAGREFS="LT4144"
+                    BASELINE="2065 913 3692 898" 
+                    HPOS="2062"
+                    VPOS="854"
+                    WIDTH="1630"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2065 913 2065 941 3689 925 3692 898 3683 854 2062 867 2065 913"/></Shape>
+	    <String CONTENT="munidad científica, la industria, los sindicatos, las orga¬"
+                    HPOS="2062"
+                    VPOS="854"
+                    WIDTH="1630"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_601da8a5"
+                    TAGREFS="LT4144"
+                    BASELINE="2062 987 3695 969" 
+                    HPOS="2059"
+                    VPOS="925"
+                    WIDTH="1636"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2062 987 2062 1012 3695 993 3695 969 3686 925 2059 941 2062 987"/></Shape>
+	    <String CONTENT="nizaciones no gubernamentales y otros grupos interesa¬"
+                    HPOS="2059"
+                    VPOS="925"
+                    WIDTH="1636"
+                    HEIGHT="87"
+                    WC="0.987748574327539"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7e8f68d"
+                    TAGREFS="LT4144"
+                    BASELINE="2065 1052 2207 1058" 
+                    HPOS="2062"
+                    VPOS="1006"
+                    WIDTH="145"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2065 1052 2062 1077 2201 1083 2207 1058 2207 1012 2065 1006 2065 1052"/></Shape>
+	    <String CONTENT="dos;"
+                    HPOS="2062"
+                    VPOS="1006"
+                    WIDTH="145"
+                    HEIGHT="77"
+                    WC="0.997061774134636"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0580f63a"
+                    TAGREFS="LT4144"
+                    BASELINE="2130 1157 3695 1135" 
+                    HPOS="2127"
+                    VPOS="1095"
+                    WIDTH="1568"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2130 1157 2130 1181 3692 1160 3695 1135 3689 1095 2364 1095 2361 1095 2244 1111 2148 1098 2145 1098 2142 1098 2139 1098 2127 1104 2130 1157"/></Shape>
+	    <String CONTENT="4. Decide que el primer periodo de sesiones de ne¬"
+                    HPOS="2127"
+                    VPOS="1095"
+                    WIDTH="1568"
+                    HEIGHT="86"
+                    WC="0.987766506671905"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d0ab857"
+                    TAGREFS="LT4144"
+                    BASELINE="2065 1225 3698 1206" 
+                    HPOS="2062"
+                    VPOS="1163"
+                    WIDTH="1636"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2065 1225 2065 1262 3695 1231 3698 1206 3689 1163 2062 1178 2065 1225"/></Shape>
+	    <String CONTENT="gociación se celebre en Washington, D.C., en febrero"
+                    HPOS="2062"
+                    VPOS="1163"
+                    WIDTH="1636"
+                    HEIGHT="99"
+                    WC="0.984216278454043"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe42dfc9"
+                    TAGREFS="LT4144"
+                    BASELINE="2059 1296 3701 1280" 
+                    HPOS="2056"
+                    VPOS="1234"
+                    WIDTH="1645"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2059 1296 2059 1317 3701 1302 3701 1280 3692 1234 2056 1246 2059 1296"/></Shape>
+	    <String CONTENT="de 1991 y que, a reserva de que se revise el calendario"
+                    HPOS="2056"
+                    VPOS="1234"
+                    WIDTH="1645"
+                    HEIGHT="83"
+                    WC="0.987139887159521"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06dac6f4"
+                    TAGREFS="LT4144"
+                    BASELINE="2062 1370 3698 1351" 
+                    HPOS="2059"
+                    VPOS="1305"
+                    WIDTH="1639"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2062 1370 2062 1391 3695 1373 3698 1351 3692 1308 2340 1305 2337 1305 2333 1305 2330 1305 2306 1320 2105 1308 2102 1308 2099 1308 2059 1323 2062 1370"/></Shape>
+	    <String CONTENT="al final de cada período de sesiones de negociación y"
+                    HPOS="2059"
+                    VPOS="1305"
+                    WIDTH="1639"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a740dca9"
+                    TAGREFS="LT4144"
+                    BASELINE="2065 1435 3695 1416" 
+                    HPOS="2062"
+                    VPOS="1376"
+                    WIDTH="1633"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="2065 1435 2065 1465 3692 1447 3695 1416 3686 1376 2062 1391 2065 1435"/></Shape>
+	    <String CONTENT="teniendo en cuenta el calendario de otras reuniones in¬"
+                    HPOS="2062"
+                    VPOS="1376"
+                    WIDTH="1633"
+                    HEIGHT="89"
+                    WC="0.987972457842393"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6df1cf41"
+                    TAGREFS="LT4144"
+                    BASELINE="2065 1506 3698 1490" 
+                    HPOS="2062"
+                    VPOS="1447"
+                    WIDTH="1636"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2065 1506 2065 1530 3695 1515 3698 1490 3689 1447 2062 1459 2065 1506"/></Shape>
+	    <String CONTENT="tergubernamentales sobre cuestiones de medio ambien¬"
+                    HPOS="2062"
+                    VPOS="1447"
+                    WIDTH="1636"
+                    HEIGHT="83"
+                    WC="0.985464247373434"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23b5c178"
+                    TAGREFS="LT4144"
+                    BASELINE="2065 1577 3698 1558" 
+                    HPOS="2062"
+                    VPOS="1515"
+                    WIDTH="1636"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2065 1577 2065 1601 3695 1583 3698 1558 3689 1515 2062 1530 2065 1577"/></Shape>
+	    <String CONTENT="te y desarrollo, en particular los períodos de sesiones"
+                    HPOS="2062"
+                    VPOS="1515"
+                    WIDTH="1636"
+                    HEIGHT="86"
+                    WC="0.996336112064975"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3597cd94"
+                    TAGREFS="LT4144"
+                    BASELINE="2065 1644 3698 1629" 
+                    HPOS="2062"
+                    VPOS="1583"
+                    WIDTH="1636"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2065 1644 2065 1669 3695 1654 3698 1629 3692 1586 2386 1583 2383 1583 2062 1598 2065 1644"/></Shape>
+	    <String CONTENT="del Comité Preparatorio de la Conferencia de las Na¬"
+                    HPOS="2062"
+                    VPOS="1583"
+                    WIDTH="1636"
+                    HEIGHT="86"
+                    WC="0.986752453840004"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0aaa8546"
+                    TAGREFS="LT4144"
+                    BASELINE="2065 1718 3698 1700" 
+                    HPOS="2062"
+                    VPOS="1654"
+                    WIDTH="1636"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="2065 1718 2065 1743 3695 1725 3698 1700 3692 1657 2333 1654 2330 1654 2062 1672 2065 1718"/></Shape>
+	    <String CONTENT="ciones Unidas sobre el Medio Ambiente y el Desarro¬"
+                    HPOS="2062"
+                    VPOS="1654"
+                    WIDTH="1636"
+                    HEIGHT="89"
+                    WC="0.993692360672296"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa44c1d8"
+                    TAGREFS="LT4144"
+                    BASELINE="2065 1789 3698 1771" 
+                    HPOS="2062"
+                    VPOS="1728"
+                    WIDTH="1636"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2065 1789 2065 1814 3695 1796 3698 1771 3689 1728 2062 1740 2065 1789"/></Shape>
+	    <String CONTENT="llo, las reuniones posteriores se celebren en Ginebra y"
+                    HPOS="2062"
+                    VPOS="1728"
+                    WIDTH="1636"
+                    HEIGHT="86"
+                    WC="0.990907406806946"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42cd17dd"
+                    TAGREFS="LT4144"
+                    BASELINE="2065 1857 3698 1839" 
+                    HPOS="2062"
+                    VPOS="1799"
+                    WIDTH="1636"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2065 1857 2065 1885 3695 1867 3698 1839 3689 1799 2062 1814 2065 1857"/></Shape>
+	    <String CONTENT="en Nairobi en mayo/junio, septiembre y noviembre/di¬"
+                    HPOS="2062"
+                    VPOS="1799"
+                    WIDTH="1636"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34437a73"
+                    TAGREFS="LT4144"
+                    BASELINE="2062 1928 3698 1910" 
+                    HPOS="2059"
+                    VPOS="1867"
+                    WIDTH="1639"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2062 1928 2062 1953 3698 1934 3698 1910 3689 1867 2059 1882 2062 1928"/></Shape>
+	    <String CONTENT="ciembre de 1991 y según proceda, entre enero y junio"
+                    HPOS="2059"
+                    VPOS="1867"
+                    WIDTH="1639"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7304530d"
+                    TAGREFS="LT4144"
+                    BASELINE="2062 1999 2330 1999" 
+                    HPOS="2062"
+                    VPOS="1934"
+                    WIDTH="268"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="2062 1999 2062 2021 2327 2027 2330 1999 2330 1953 2250 1934 2247 1934 2062 1950 2062 1999"/></Shape>
+	    <String CONTENT="de 1992;"
+                    HPOS="2062"
+                    VPOS="1934"
+                    WIDTH="268"
+                    HEIGHT="93"
+                    WC="0.996511846780777"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bcf7d815"
+                    TAGREFS="LT4144"
+                    BASELINE="2133 2095 3701 2076" 
+                    HPOS="2130"
+                    VPOS="2018"
+                    WIDTH="1571"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="2133 2095 2133 2120 3698 2101 3701 2076 3695 2033 3436 2018 3432 2018 3429 2018 3399 2033 3176 2021 3173 2021 2908 2039 2145 2033 2142 2033 2139 2033 2136 2033 2136 2036 2133 2036 2130 2036 2133 2095"/></Shape>
+	    <String CONTENT="5. Autoriza al Secretario General de las Naciones"
+                    HPOS="2130"
+                    VPOS="2018"
+                    WIDTH="1571"
+                    HEIGHT="102"
+                    WC="0.993670684950692"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc727cf2"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 2163 3701 2151" 
+                    HPOS="2065"
+                    VPOS="2107"
+                    WIDTH="1636"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2068 2163 2068 2191 3698 2178 3701 2151 3692 2107 2065 2117 2068 2163"/></Shape>
+	    <String CONTENT="Unidas a que, con la asistencia del Director Ejecutivo"
+                    HPOS="2065"
+                    VPOS="2107"
+                    WIDTH="1636"
+                    HEIGHT="84"
+                    WC="0.984536162129155"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66a49fe6"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 2234 3701 2222" 
+                    HPOS="2065"
+                    VPOS="2178"
+                    WIDTH="1636"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2068 2234 2068 2259 3698 2246 3701 2222 3692 2178 2065 2188 2068 2234"/></Shape>
+	    <String CONTENT="del Programa de las Naciones Unidas para el Medio"
+                    HPOS="2065"
+                    VPOS="2178"
+                    WIDTH="1636"
+                    HEIGHT="81"
+                    WC="0.997851033600009"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8edd17df"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 2308 3701 2289" 
+                    HPOS="2065"
+                    VPOS="2246"
+                    WIDTH="1636"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2068 2308 2068 2336 3698 2317 3701 2289 3692 2246 2065 2262 2068 2308"/></Shape>
+	    <String CONTENT="Ambiente y del Secretario General de la Organización"
+                    HPOS="2065"
+                    VPOS="2246"
+                    WIDTH="1636"
+                    HEIGHT="90"
+                    WC="0.996909514913019"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6fddea60"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 2376 3701 2360" 
+                    HPOS="2068"
+                    VPOS="2317"
+                    WIDTH="1633"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2071 2376 2071 2404 3698 2388 3701 2360 3692 2317 2068 2326 2071 2376"/></Shape>
+	    <String CONTENT="Meteorológica Mundial, en espera de que se establezca"
+                    HPOS="2068"
+                    VPOS="2317"
+                    WIDTH="1633"
+                    HEIGHT="87"
+                    WC="0.978833455730368"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ddcc43c"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 2447 3701 2428" 
+                    HPOS="2068"
+                    VPOS="2388"
+                    WIDTH="1633"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2071 2447 2071 2475 3698 2456 3701 2428 3692 2388 2068 2397 2071 2447"/></Shape>
+	    <String CONTENT="la secretaría ad hoc del Comité Intergubernamental de"
+                    HPOS="2068"
+                    VPOS="2388"
+                    WIDTH="1633"
+                    HEIGHT="87"
+                    WC="0.980267358909954"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d34b75f"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 2518 3701 2499" 
+                    HPOS="2068"
+                    VPOS="2453"
+                    WIDTH="1633"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2071 2518 2071 2539 3701 2521 3701 2499 3692 2453 2068 2465 2071 2518"/></Shape>
+	    <String CONTENT="Negociación, convoque con carácter extraordinario el"
+                    HPOS="2068"
+                    VPOS="2453"
+                    WIDTH="1633"
+                    HEIGHT="86"
+                    WC="0.989766640795602"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_288df1a2"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 2589 3698 2573" 
+                    HPOS="2065"
+                    VPOS="2530"
+                    WIDTH="1633"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="2068 2589 2068 2623 3695 2598 3698 2573 3689 2530 2065 2542 2068 2589"/></Shape>
+	    <String CONTENT="primer periodo de sesiones del Comité Interguberna¬"
+                    HPOS="2065"
+                    VPOS="2530"
+                    WIDTH="1633"
+                    HEIGHT="93"
+                    WC="0.992956355214119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02fd4706"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 2657 3698 2644" 
+                    HPOS="2065"
+                    VPOS="2601"
+                    WIDTH="1633"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2068 2657 2068 2678 3695 2666 3698 2644 3689 2601 2065 2610 2068 2657"/></Shape>
+	    <String CONTENT="mental de Negociación, que se celebrará en Washing¬"
+                    HPOS="2065"
+                    VPOS="2601"
+                    WIDTH="1633"
+                    HEIGHT="77"
+                    WC="0.994856046055848"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47322d2a"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 2725 3701 2709" 
+                    HPOS="2065"
+                    VPOS="2669"
+                    WIDTH="1636"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2068 2725 2068 2752 3698 2737 3701 2709 3692 2669 2065 2681 2068 2725"/></Shape>
+	    <String CONTENT="ton, D.C., en febrero de 1991, los periodos de sesiones"
+                    HPOS="2065"
+                    VPOS="2669"
+                    WIDTH="1636"
+                    HEIGHT="83"
+                    WC="0.97010154615749"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2455909d"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 2799 3701 2783" 
+                    HPOS="2065"
+                    VPOS="2740"
+                    WIDTH="1636"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="2068 2799 2068 2836 3701 2808 3701 2783 3692 2740 2065 2752 2068 2799"/></Shape>
+	    <String CONTENT="posteriores del Comité serán convocados por la secre¬"
+                    HPOS="2065"
+                    VPOS="2740"
+                    WIDTH="1636"
+                    HEIGHT="96"
+                    WC="0.996090747009624"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5cf3f810"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 2870 2463 2870" 
+                    HPOS="2068"
+                    VPOS="2826"
+                    WIDTH="395"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2068 2870 2068 2897 2463 2897 2463 2870 2463 2826 2068 2826 2068 2870"/></Shape>
+	    <String CONTENT="taría ad hoc;"
+                    HPOS="2068"
+                    VPOS="2826"
+                    WIDTH="395"
+                    HEIGHT="71"
+                    WC="0.979859241417476"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_676a660e"
+                    TAGREFS="LT4144"
+                    BASELINE="2133 2965 3701 2950" 
+                    HPOS="2130"
+                    VPOS="2894"
+                    WIDTH="1571"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="2133 2965 2133 2990 3698 2975 3701 2950 3695 2910 3383 2894 3380 2894 3377 2894 3374 2894 3374 2897 3358 2910 2151 2907 2148 2907 2145 2907 2142 2907 2130 2916 2133 2965"/></Shape>
+	    <String CONTENT="6. Decide que cada uno de los períodos de sesiones"
+                    HPOS="2130"
+                    VPOS="2894"
+                    WIDTH="1571"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5414549"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 3036 3701 3021" 
+                    HPOS="2065"
+                    VPOS="2975"
+                    WIDTH="1636"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2068 3036 2068 3061 3701 3045 3701 3021 3695 2981 2716 2975 2713 2975 2065 2993 2068 3036"/></Shape>
+	    <String CONTENT="de negociación tendrá una duración máxima de dos se¬"
+                    HPOS="2065"
+                    VPOS="2975"
+                    WIDTH="1636"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b3c34fdd"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 3104 2293 3101" 
+                    HPOS="2065"
+                    VPOS="3061"
+                    WIDTH="228"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2068 3104 2068 3132 2293 3129 2293 3101 2284 3061 2065 3061 2068 3104"/></Shape>
+	    <String CONTENT="manas;"
+                    HPOS="2065"
+                    VPOS="3061"
+                    WIDTH="228"
+                    HEIGHT="71"
+                    WC="0.997382332881292"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_141fdf20"
+                    TAGREFS="LT4144"
+                    BASELINE="2136 3203 3704 3187" 
+                    HPOS="2133"
+                    VPOS="3144"
+                    WIDTH="1571"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2136 3203 2136 3224 3565 3231 3568 3231 3704 3209 3704 3187 3695 3144 2133 3154 2136 3203"/></Shape>
+	    <String CONTENT="7. Considera que las negociaciones para la prepara¬"
+                    HPOS="2133"
+                    VPOS="3144"
+                    WIDTH="1571"
+                    HEIGHT="87"
+                    WC="0.986381011850694"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53962239"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 3271 3701 3258" 
+                    HPOS="2065"
+                    VPOS="3218"
+                    WIDTH="1636"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2068 3271 2068 3299 3698 3286 3701 3258 3692 3218 2065 3228 2068 3271"/></Shape>
+	    <String CONTENT="ción de una convención general eficaz sobre los cam¬"
+                    HPOS="2065"
+                    VPOS="3218"
+                    WIDTH="1636"
+                    HEIGHT="81"
+                    WC="0.998129533396827"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9765c50"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 3342 3698 3333" 
+                    HPOS="2065"
+                    VPOS="3292"
+                    WIDTH="1633"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="2068 3342 2068 3370 3695 3363 3698 3333 3689 3292 2065 3299 2068 3342"/></Shape>
+	    <String CONTENT="bios climáticos, que contenga compromisos apropiados,"
+                    HPOS="2065"
+                    VPOS="3292"
+                    WIDTH="1633"
+                    HEIGHT="78"
+                    WC="0.986326544373124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34b96159"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 3416 3704 3403" 
+                    HPOS="2065"
+                    VPOS="3360"
+                    WIDTH="1639"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="2068 3416 2068 3453 3701 3431 3704 3403 3695 3360 2065 3370 2068 3416"/></Shape>
+	    <String CONTENT="y los instrumentos jurídicos conexos que se puedan con¬"
+                    HPOS="2065"
+                    VPOS="3360"
+                    WIDTH="1639"
+                    HEIGHT="93"
+                    WC="0.977888474506991"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_642b25b2"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 3487 3704 3474" 
+                    HPOS="2065"
+                    VPOS="3431"
+                    WIDTH="1639"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2068 3487 2068 3511 3701 3499 3704 3474 3695 3431 2065 3441 2068 3487"/></Shape>
+	    <String CONTENT="venir, deberían terminarse antes de la Conferencia de"
+                    HPOS="2065"
+                    VPOS="3431"
+                    WIDTH="1639"
+                    HEIGHT="80"
+                    WC="0.982668434028272"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c32a0a2"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 3558 3701 3545" 
+                    HPOS="2068"
+                    VPOS="3502"
+                    WIDTH="1633"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2071 3558 2071 3586 3698 3573 3701 3545 3692 3502 2068 3511 2071 3558"/></Shape>
+	    <String CONTENT="las Naciones Unidas sobre el Medio Ambiente y el De¬"
+                    HPOS="2068"
+                    VPOS="3502"
+                    WIDTH="1633"
+                    HEIGHT="84"
+                    WC="0.99569538808786"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e82fc7e3"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 3626 3701 3613" 
+                    HPOS="2065"
+                    VPOS="3573"
+                    WIDTH="1636"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2068 3626 2068 3657 3698 3644 3701 3613 3692 3573 2065 3582 2068 3626"/></Shape>
+	    <String CONTENT="sarrollo, que se celebrará en junio de 1992, y abrirse a"
+                    HPOS="2065"
+                    VPOS="3573"
+                    WIDTH="1636"
+                    HEIGHT="84"
+                    WC="0.980995873610179"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d46f6206"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 3703 3047 3694" 
+                    HPOS="2065"
+                    VPOS="3647"
+                    WIDTH="982"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2068 3703 2068 3724 3047 3715 3047 3694 3037 3647 2065 3653 2068 3703"/></Shape>
+	    <String CONTENT="la firma durante la Conferencia;"
+                    HPOS="2065"
+                    VPOS="3647"
+                    WIDTH="982"
+                    HEIGHT="77"
+                    WC="0.990228025242686"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_550a9874"
+                    TAGREFS="LT4144"
+                    BASELINE="2130 3799 3701 3783" 
+                    HPOS="2127"
+                    VPOS="3743"
+                    WIDTH="1574"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2130 3799 2130 3826 3698 3811 3701 3783 3692 3743 2127 3755 2130 3799"/></Shape>
+	    <String CONTENT="8. Reafirma los principios enunciados en sus resolu¬"
+                    HPOS="2127"
+                    VPOS="3743"
+                    WIDTH="1574"
+                    HEIGHT="83"
+                    WC="0.987789776462775"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d56149cb"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 3873 3701 3854" 
+                    HPOS="2065"
+                    VPOS="3811"
+                    WIDTH="1636"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2068 3873 2068 3894 3701 3876 3701 3854 3695 3814 2337 3811 2333 3811 2065 3829 2068 3873"/></Shape>
+	    <String CONTENT="ciones 44/207 y 44/228, que tienen en cuenta las preo¬"
+                    HPOS="2065"
+                    VPOS="3811"
+                    WIDTH="1636"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94d27c89"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 3940 3698 3928" 
+                    HPOS="2068"
+                    VPOS="3885"
+                    WIDTH="1630"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2071 3940 2071 3968 3695 3956 3698 3928 3689 3885 2068 3894 2071 3940"/></Shape>
+	    <String CONTENT="cupaciones de todos los Estados y las necesidades espe¬"
+                    HPOS="2068"
+                    VPOS="3885"
+                    WIDTH="1630"
+                    HEIGHT="83"
+                    WC="0.985798834670674"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0d57451"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 4011 3096 4002" 
+                    HPOS="2065"
+                    VPOS="3962"
+                    WIDTH="1031"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2068 4011 2068 4039 3093 4030 3096 4002 3087 3962 2065 3968 2068 4011"/></Shape>
+	    <String CONTENT="cíficas de los países en desarrollo;"
+                    HPOS="2065"
+                    VPOS="3962"
+                    WIDTH="1031"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7761dd33"
+                    TAGREFS="LT4144"
+                    BASELINE="2139 4107 3701 4092" 
+                    HPOS="2136"
+                    VPOS="4048"
+                    WIDTH="1565"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2139 4107 2139 4132 3698 4116 3701 4092 3692 4048 2136 4061 2139 4107"/></Shape>
+	    <String CONTENT="9. Toma nota de la Declaración Ministerial aproba¬"
+                    HPOS="2136"
+                    VPOS="4048"
+                    WIDTH="1565"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_842787d3"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 4178 3701 4163" 
+                    HPOS="2068"
+                    VPOS="4119"
+                    WIDTH="1633"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2071 4178 2071 4206 3698 4194 3701 4163 3692 4119 2068 4132 2071 4178"/></Shape>
+	    <String CONTENT="da en la Segunda Conferencia Mundial sobre el Clima,"
+                    HPOS="2068"
+                    VPOS="4119"
+                    WIDTH="1633"
+                    HEIGHT="87"
+                    WC="0.981675999668928"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b485fbcf"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 4249 3701 4234" 
+                    HPOS="2068"
+                    VPOS="4190"
+                    WIDTH="1633"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2071 4249 2071 4274 3701 4258 3701 4234 3692 4190 2068 4203 2071 4249"/></Shape>
+	    <String CONTENT="celebrada en Ginebra del 29 de octubre al 7 de noviem¬"
+                    HPOS="2068"
+                    VPOS="4190"
+                    WIDTH="1633"
+                    HEIGHT="84"
+                    WC="0.972846359014511"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bfde86c4"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 4320 2494 4308" 
+                    HPOS="2068"
+                    VPOS="4265"
+                    WIDTH="426"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2071 4320 2071 4339 2374 4348 2377 4348 2494 4326 2494 4308 2485 4265 2068 4271 2071 4320"/></Shape>
+	    <String CONTENT="bre de 1990^84;"
+                    HPOS="2068"
+                    VPOS="4265"
+                    WIDTH="426"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5697cae"
+                    TAGREFS="LT4144"
+                    BASELINE="2139 4419 3704 4403" 
+                    HPOS="2136"
+                    VPOS="4354"
+                    WIDTH="1568"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2139 4419 2139 4440 3701 4425 3704 4403 3698 4360 2448 4354 2445 4354 2441 4354 2377 4369 2154 4357 2151 4357 2148 4357 2145 4357 2145 4360 2136 4366 2139 4419"/></Shape>
+	    <String CONTENT="10. Decide establecer un fondo especial de contri¬"
+                    HPOS="2136"
+                    VPOS="4354"
+                    WIDTH="1568"
+                    HEIGHT="86"
+                    WC="0.993299804925919"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70770283"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 4490 3704 4474" 
+                    HPOS="2068"
+                    VPOS="4431"
+                    WIDTH="1636"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2071 4490 2071 4514 3701 4499 3704 4474 3695 4431 2068 4440 2071 4490"/></Shape>
+	    <String CONTENT="buciones voluntarias, administrado por el jefe de la se¬"
+                    HPOS="2068"
+                    VPOS="4431"
+                    WIDTH="1636"
+                    HEIGHT="83"
+                    WC="0.994313506143434"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a64be3a9"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 4561 3704 4548" 
+                    HPOS="2068"
+                    VPOS="4499"
+                    WIDTH="1636"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2071 4561 2071 4585 3701 4573 3704 4548 3695 4499 2068 4511 2071 4561"/></Shape>
+	    <String CONTENT="cretaría ad hoc bajo la autoridad del Secretario General"
+                    HPOS="2068"
+                    VPOS="4499"
+                    WIDTH="1636"
+                    HEIGHT="86"
+                    WC="0.989413688057347"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45e15cdd"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 4626 3704 4616" 
+                    HPOS="2068"
+                    VPOS="4576"
+                    WIDTH="1636"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2071 4626 2071 4656 3701 4647 3704 4616 3695 4576 2068 4582 2071 4626"/></Shape>
+	    <String CONTENT="de las Naciones Unidas, para asegurar que los países en"
+                    HPOS="2068"
+                    VPOS="4576"
+                    WIDTH="1636"
+                    HEIGHT="80"
+                    WC="0.993680735783918"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_584bce1e"
+                    TAGREFS="LT4144"
+                    BASELINE="2068 4703 3704 4687" 
+                    HPOS="2065"
+                    VPOS="4641"
+                    WIDTH="1639"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2068 4703 2068 4727 3701 4712 3704 4687 3695 4641 2065 4653 2068 4703"/></Shape>
+	    <String CONTENT="desarrollo, en particular los menos adelantados así co¬"
+                    HPOS="2065"
+                    VPOS="4641"
+                    WIDTH="1639"
+                    HEIGHT="86"
+                    WC="0.986048632434436"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99e4a032"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 4777 3704 4761" 
+                    HPOS="2068"
+                    VPOS="4718"
+                    WIDTH="1636"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2071 4777 2071 4801 3701 4786 3704 4761 3695 4718 2068 4731 2071 4777"/></Shape>
+	    <String CONTENT="mo los pequeños Estados insulares en desarrollo, pue¬"
+                    HPOS="2068"
+                    VPOS="4718"
+                    WIDTH="1636"
+                    HEIGHT="83"
+                    WC="0.992700944344203"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2d03fd0"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 4842 3701 4829" 
+                    HPOS="2068"
+                    VPOS="4789"
+                    WIDTH="1633"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2071 4842 2071 4869 3698 4857 3701 4829 3692 4789 2068 4798 2071 4842"/></Shape>
+	    <String CONTENT="dan participar plena y eficazmente en el proceso de ne¬"
+                    HPOS="2068"
+                    VPOS="4789"
+                    WIDTH="1633"
+                    HEIGHT="80"
+                    WC="0.994129985029047"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a668ba64"
+                    TAGREFS="LT4144"
+                    BASELINE="2071 4913 3704 4897" 
+                    HPOS="2068"
+                    VPOS="4857"
+                    WIDTH="1636"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2071 4913 2071 4947 3704 4925 3704 4897 3695 4857 2068 4869 2071 4913"/></Shape>
+	    <String CONTENT="gociación, e invita a los gobiernos, a las organizaciones"
+                    HPOS="2068"
+                    VPOS="4857"
+                    WIDTH="1636"
+                    HEIGHT="90"
+                    WC="0.987999266591565"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="381"
+                   VPOS="4943"
+                   WIDTH="1076"
+                   HEIGHT="134"
+                   ID="eSc_textblock_ebfd3ea3"
+                   TAGREFS="BT10588">
+          <Shape><Polygon POINTS="381 4943 381 5077 1457 5077 1457 4943"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6cd5eecb"
+                    TAGREFS="LT4144"
+                    BASELINE="392 4984 1450 4984" 
+                    HPOS="392"
+                    VPOS="4916"
+                    WIDTH="1058"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="392 4984 392 5018 1450 5018 1450 4984 1450 4947 713 4947 691 4922 685 4919 685 4916 682 4916 679 4916 392 4916 392 4984"/></Shape>
+	    <String CONTENT="82 Ibid., Suplemento No. 25, (A/35/25), anexo."
+                    HPOS="392"
+                    VPOS="4916"
+                    WIDTH="1058"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98d22d4c"
+                    TAGREFS="LT4144"
+                    BASELINE="398 5039 882 5048" 
+                    HPOS="395"
+                    VPOS="4993"
+                    WIDTH="487"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="867 5005 398 4993 398 5039 395 5067 876 5076 882 5048 879 5042 867 5005"/></Shape>
+	    <String CONTENT="83 A/45/696, anexo I."
+                    HPOS="395"
+                    VPOS="4993"
+                    WIDTH="487"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2109"
+                   VPOS="4997"
+                   WIDTH="712"
+                   HEIGHT="70"
+                   ID="eSc_textblock_fcd66536"
+                   TAGREFS="BT10588">
+          <Shape><Polygon POINTS="2109 4997 2109 5067 2821 5067 2821 4997"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1746ab7e"
+                    TAGREFS="LT4144"
+                    BASELINE="2120 5027 2812 5033" 
+                    HPOS="2117"
+                    VPOS="4956"
+                    WIDTH="695"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="2806 4990 2488 4990 2438 4971 2404 4959 2401 4959 2120 4956 2120 5027 2117 5058 2806 5064 2812 5033 2809 5021 2806 4990"/></Shape>
+	    <String CONTENT="84 A/45/696/Add. l. anexo lll."
+                    HPOS="2117"
+                    VPOS="4956"
+                    WIDTH="695"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
