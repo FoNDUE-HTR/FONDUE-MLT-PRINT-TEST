@@ -34,6 +34,77 @@
           <Shape><Polygon POINTS="29 37 71 4068 876 4068 876 35"/></Shape>
           
           
+          <TextLine ID="eSc_line_446fc187"
+                    TAGREFS="LT4095"
+                    BASELINE="215 90 592 86" 
+                    HPOS="213"
+                    VPOS="54"
+                    WIDTH="379"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="553 54 530 54 508 54 485 54 462 54 440 54 417 54 394 54 372 54 349 54 326 54 303 54 281 54 258 54 235 54 213 54 215 90 215 113 589 108 592 86 585 58 576 54"/></Shape>
+	    <String CONTENT="(Communication.)"
+                    HPOS="213"
+                    VPOS="54"
+                    WIDTH="379"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd9f595d"
+                    TAGREFS="LT4095"
+                    BASELINE="77 154 746 154" 
+                    HPOS="77"
+                    VPOS="117"
+                    WIDTH="669"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="86 117 77 138 77 154 77 181 744 185 746 154 744 138 737 117"/></Shape>
+	    <String CONTENT="Marie Saline Nov. le 22eme 1894"
+                    HPOS="77"
+                    VPOS="117"
+                    WIDTH="669"
+                    HEIGHT="68"
+                    WC="0.971595279632076"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_07cffb3f"
+                    TAGREFS="LT4095"
+                    BASELINE="222 212 544 212" 
+                    HPOS="222"
+                    VPOS="167"
+                    WIDTH="322"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="222 249 544 237 544 212 544 176 222 167 222 212"/></Shape>
+	    <String CONTENT="Mo lami Fiston"
+                    HPOS="222"
+                    VPOS="167"
+                    WIDTH="322"
+                    HEIGHT="82"
+                    WC="0.954949140548706"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afadf773"
+                    TAGREFS="LT4095"
+                    BASELINE="517 271 794 265" 
+                    HPOS="514"
+                    VPOS="224"
+                    WIDTH="280"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="773 224 514 226 517 271 517 292 794 292 794 265 791 260 787 260"/></Shape>
+	    <String CONTENT="Sa vous crai?"
+                    HPOS="514"
+                    VPOS="224"
+                    WIDTH="280"
+                    HEIGHT="68"
+                    WC="0.987068332158602"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_00266fd6"
                     TAGREFS="LT4094"
                     BASELINE="40 326 794 321" 
@@ -41,7 +112,7 @@
                     VPOS="269"
                     WIDTH="756"
                     HEIGHT="86">
-            <Shape><Polygon POINTS="61 276 38 289 40 326 40 348 789 355 794 321 789 287 551 287 551 285 490 269 487 269 485 269 483 269 419 285 412 287 403 285 349 271 347 271 344 271 281 285 272 287 265 285 197 271 68 271 61 276"/></Shape>
+            <Shape><Polygon POINTS="38 289 40 326 40 348 789 355 794 321 789 287 551 287 551 285 490 269 487 269 485 269 483 269 419 285 412 287 403 285 349 271 347 271 344 271 281 285 272 287 265 285 197 271 68 271 61 276"/></Shape>
 	    <String CONTENT="Nou tai gagnain gro lexkurzion avan"
                     HPOS="38"
                     VPOS="269"
@@ -1200,81 +1271,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_446fc187"
-                    TAGREFS="LT4095"
-                    BASELINE="215 90 592 86" 
-                    HPOS="213"
-                    VPOS="54"
-                    WIDTH="379"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="553 54 530 54 508 54 485 54 462 54 440 54 417 54 394 54 372 54 349 54 326 54 303 54 281 54 258 54 235 54 213 54 215 90 215 113 589 108 592 86 585 58 576 54"/></Shape>
-	    <String CONTENT="(Communication.)"
-                    HPOS="213"
-                    VPOS="54"
-                    WIDTH="379"
-                    HEIGHT="59"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_dd9f595d"
-                    TAGREFS="LT4095"
-                    BASELINE="77 154 746 154" 
-                    HPOS="77"
-                    VPOS="117"
-                    WIDTH="669"
-                    HEIGHT="68">
-            <Shape><Polygon POINTS="86 117 77 138 77 154 77 181 744 185 746 154 744 138 737 117"/></Shape>
-	    <String CONTENT="Marie Saline Nov. le 22eme 1894"
-                    HPOS="77"
-                    VPOS="117"
-                    WIDTH="669"
-                    HEIGHT="68"
-                    WC="0.971595279632076"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_07cffb3f"
-                    TAGREFS="LT4095"
-                    BASELINE="222 212 544 212" 
-                    HPOS="222"
-                    VPOS="167"
-                    WIDTH="322"
-                    HEIGHT="82">
-            <Shape><Polygon POINTS="222 249 544 237 544 212 544 176 222 167 222 212"/></Shape>
-	    <String CONTENT="Mo lami Fiston"
-                    HPOS="222"
-                    VPOS="167"
-                    WIDTH="322"
-                    HEIGHT="82"
-                    WC="0.954949140548706"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_afadf773"
-                    TAGREFS="LT4095"
-                    BASELINE="517 271 794 265" 
-                    HPOS="514"
-                    VPOS="224"
-                    WIDTH="280"
-                    HEIGHT="68">
-            <Shape><Polygon POINTS="773 224 514 226 517 271 517 292 794 292 794 265 791 260 787 260"/></Shape>
-	    <String CONTENT="Sa vous crai?"
-                    HPOS="514"
-                    VPOS="224"
-                    WIDTH="280"
-                    HEIGHT="68"
-                    WC="0.987068332158602"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
