@@ -1,0 +1,1666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent20__ca__139079-155306-1-CE.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10596" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10595" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10594" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10591" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10590" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10593" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10592" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT4149" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4148" LABEL="HeadingZone" DESCRIPTION="line type HeadingZone"/><OtherTag ID="LT4147" LABEL="DefaultZone" DESCRIPTION="line type DefaultZone"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3760"
+          HEIGHT="5246"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3760"
+                  HEIGHT="5246">
+        
+        <TextBlock HPOS="1415"
+                   VPOS="410"
+                   WIDTH="771"
+                   HEIGHT="110"
+                   ID="eSc_textblock_9dd7ecd7"
+                   TAGREFS="BT10593">
+          <Shape><Polygon POINTS="1417 410 1415 511 2186 520 2186 412"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bdf8328b"
+                    TAGREFS="LT4148"
+                    BASELINE="1416 466 2188 475" 
+                    HPOS="1413"
+                    VPOS="402"
+                    WIDTH="775"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="2145 416 2116 416 2086 413 2057 413 2028 413 1999 410 1970 410 1941 410 1912 408 1882 408 1853 408 1842 405 1457 402 1445 408 1416 416 1416 466 1413 515 2186 512 2188 475 2183 431 2174 416"/></Shape>
+	    <String CONTENT="ARS MEDICA"
+                    HPOS="1413"
+                    VPOS="402"
+                    WIDTH="775"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3062"
+                   VPOS="430"
+                   WIDTH="131"
+                   HEIGHT="84"
+                   ID="eSc_textblock_499878f5"
+                   TAGREFS="BT10592">
+          <Shape><Polygon POINTS="3062 430 3062 514 3193 514 3193 430"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b85fc892"
+                    TAGREFS="LT4147"
+                    BASELINE="3057 477 3188 472" 
+                    HPOS="3057"
+                    VPOS="419"
+                    WIDTH="131"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="3171 419 3142 419 3112 419 3083 419 3063 440 3057 477 3060 553 3188 524 3188 472 3185 445 3171 419"/></Shape>
+	    <String CONTENT="337"
+                    HPOS="3057"
+                    VPOS="419"
+                    WIDTH="131"
+                    HEIGHT="134"
+                    WC="0.998253126939138"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="379"
+                   VPOS="561"
+                   WIDTH="1403"
+                   HEIGHT="3952"
+                   ID="eSc_textblock_f55fac88"
+                   TAGREFS="BT10591">
+          <Shape><Polygon POINTS="379 561 379 4510 1782 4513 1779 561"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a3854b9b"
+                    TAGREFS="LT4147"
+                    BASELINE="413 635 1767 647" 
+                    HPOS="406"
+                    VPOS="563"
+                    WIDTH="1360"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1718 563 1674 563 1630 563 1587 563 1543 563 1499 563 1455 563 1412 563 1368 563 1324 563 1281 563 1237 563 1193 563 1149 563 1106 563 1062 563 1018 563 974 563 931 563 887 563 843 563 800 563 756 563 712 563 668 563 625 563 581 563 537 563 494 563 450 563 410 563 410 633 406 677 1761 677 1766 642 1757 563 1718 563"/></Shape>
+	    <String CONTENT="la Fisio-Patología de tan grave padeci¬"
+                    HPOS="406"
+                    VPOS="563"
+                    WIDTH="1360"
+                    HEIGHT="114"
+                    WC="0.989940096437931"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_07c31142"
+                    TAGREFS="LT4147"
+                    BASELINE="413 716 1767 729" 
+                    HPOS="406"
+                    VPOS="651"
+                    WIDTH="1360"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="410 712 406 765 1757 773 1766 725 1761 651 410 651 410 712"/></Shape>
+	    <String CONTENT="miento. Y así, es la teoría tóxica la más"
+                    HPOS="406"
+                    VPOS="651"
+                    WIDTH="1360"
+                    HEIGHT="122"
+                    WC="0.975309660699632"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b865c0cb"
+                    TAGREFS="LT4147"
+                    BASELINE="410 810 1767 821" 
+                    HPOS="402"
+                    VPOS="738"
+                    WIDTH="1364"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="406 808 402 856 1761 856 1766 817 1761 747 406 738 406 808"/></Shape>
+	    <String CONTENT="antigua y por más investigadores susten¬"
+                    HPOS="402"
+                    VPOS="738"
+                    WIDTH="1364"
+                    HEIGHT="118"
+                    WC="0.987603468138997"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50e2f903"
+                    TAGREFS="LT4147"
+                    BASELINE="413 897 1767 907" 
+                    HPOS="406"
+                    VPOS="830"
+                    WIDTH="1360"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="410 896 406 939 1757 948 1766 904 1761 839 410 830 410 896"/></Shape>
+	    <String CONTENT="tada (AMUSATE, 1839, REICHEL, 1886,"
+                    HPOS="406"
+                    VPOS="830"
+                    WIDTH="1360"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db1470e3"
+                    TAGREFS="LT4147"
+                    BASELINE="413 985 1767 996" 
+                    HPOS="406"
+                    VPOS="913"
+                    WIDTH="1360"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="410 983 406 1018 1757 1027 1766 992 1761 922 410 913 410 983"/></Shape>
+	    <String CONTENT="KIRSTEIN, 1887, ALBARRÁN y CAUSSADE,"
+                    HPOS="406"
+                    VPOS="913"
+                    WIDTH="1360"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_464fa7ae"
+                    TAGREFS="LT4147"
+                    BASELINE="431 1072 1767 1082" 
+                    HPOS="424"
+                    VPOS="1001"
+                    WIDTH="1342"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="428 1071 424 1110 1757 1132 1766 1079 1761 1014 428 1001 428 1071"/></Shape>
+	    <String CONTENT="1928, SUGITO, NOLF, CIBULSQUI, 1887,"
+                    HPOS="424"
+                    VPOS="1001"
+                    WIDTH="1342"
+                    HEIGHT="131"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a5b1b50"
+                    TAGREFS="LT4147"
+                    BASELINE="413 1159 1767 1172" 
+                    HPOS="406"
+                    VPOS="1092"
+                    WIDTH="1360"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="410 1158 406 1197 1757 1206 1766 1171 1761 1106 410 1092 410 1158"/></Shape>
+	    <String CONTENT="TARCHANOFF, VONKAUTZ, etc, etc.), sin"
+                    HPOS="406"
+                    VPOS="1092"
+                    WIDTH="1360"
+                    HEIGHT="114"
+                    WC="0.979048136118296"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbdbb416"
+                    TAGREFS="LT4147"
+                    BASELINE="416 1247 1767 1259" 
+                    HPOS="410"
+                    VPOS="1184"
+                    WIDTH="1356"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="415 1245 410 1294 1761 1294 1766 1254 1761 1184 415 1184 415 1245"/></Shape>
+	    <String CONTENT="hallar substratum anatómico, como re¬"
+                    HPOS="410"
+                    VPOS="1184"
+                    WIDTH="1356"
+                    HEIGHT="110"
+                    WC="0.990229884260579"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3371a289"
+                    TAGREFS="LT4147"
+                    BASELINE="425 1340 1767 1346" 
+                    HPOS="419"
+                    VPOS="1272"
+                    WIDTH="1347"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="424 1337 419 1377 1757 1381 1766 1342 1761 1276 424 1272 424 1337"/></Shape>
+	    <String CONTENT="sume SUGITO, en las necropsias de los ani¬"
+                    HPOS="419"
+                    VPOS="1272"
+                    WIDTH="1347"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc60c383"
+                    TAGREFS="LT4147"
+                    BASELINE="413 1425 1767 1433" 
+                    HPOS="406"
+                    VPOS="1359"
+                    WIDTH="1360"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="410 1420 406 1473 1761 1468 1766 1429 1761 1368 410 1359 410 1420"/></Shape>
+	    <String CONTENT="males de experimentación, al decir que"
+                    HPOS="406"
+                    VPOS="1359"
+                    WIDTH="1360"
+                    HEIGHT="114"
+                    WC="0.993872657800332"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45a010f5"
+                    TAGREFS="LT4147"
+                    BASELINE="413 1515 1329 1515" 
+                    HPOS="413"
+                    VPOS="1460"
+                    WIDTH="916"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="413 1515 413 1559 1329 1553 1329 1515 1329 1463 413 1460 413 1515"/></Shape>
+	    <String CONTENT="nada de especial encuentra."
+                    HPOS="413"
+                    VPOS="1460"
+                    WIDTH="916"
+                    HEIGHT="99"
+                    WC="0.995620573008502"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68ed9d4a"
+                    TAGREFS="LT4147"
+                    BASELINE="483 1608 1767 1622" 
+                    HPOS="476"
+                    VPOS="1538"
+                    WIDTH="1290"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="480 1604 476 1652 1757 1656 1766 1621 1761 1551 480 1538 480 1604"/></Shape>
+	    <String CONTENT="NOLF piensa en el papel de la pared"
+                    HPOS="476"
+                    VPOS="1538"
+                    WIDTH="1290"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19de4fc9"
+                    TAGREFS="LT4147"
+                    BASELINE="413 1696 1780 1710" 
+                    HPOS="410"
+                    VPOS="1626"
+                    WIDTH="1370"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="413 1696 410 1728 1775 1742 1780 1710 1780 1655 1687 1655 1687 1652 1673 1640 1673 1637 1670 1637 1667 1637 1664 1637 1571 1649 1550 1652 1439 1652 1436 1649 1425 1637 1425 1635 1422 1635 1419 1635 1416 1635 1285 1646 1241 1649 1235 1646 1215 1632 1212 1632 1209 1632 1206 1632 1203 1632 1154 1643 1139 1646 1104 1643 985 1632 982 1632 979 1632 976 1632 964 1640 958 1646 944 1640 909 1629 906 1629 760 1629 757 1629 754 1629 752 1629 752 1632 743 1637 737 1643 693 1637 606 1626 603 1626 413 1632 413 1696"/></Shape>
+	    <String CONTENT="intestinal en la absorción de los produc¬"
+                    HPOS="410"
+                    VPOS="1626"
+                    WIDTH="1370"
+                    HEIGHT="116"
+                    WC="0.9889081461089"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5bd63dd5"
+                    TAGREFS="LT4147"
+                    BASELINE="413 1789 1769 1798" 
+                    HPOS="410"
+                    VPOS="1719"
+                    WIDTH="1359"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="413 1789 410 1824 1766 1824 1769 1798 1766 1739 413 1719 413 1789"/></Shape>
+	    <String CONTENT="tos tóxicos sin tener en cuenta, como acer¬"
+                    HPOS="410"
+                    VPOS="1719"
+                    WIDTH="1359"
+                    HEIGHT="105"
+                    WC="0.993660921400244"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44c23a3e"
+                    TAGREFS="LT4147"
+                    BASELINE="413 1873 1772 1882" 
+                    HPOS="410"
+                    VPOS="1815"
+                    WIDTH="1362"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="413 1873 410 1908 1766 1917 1772 1882 1769 1824 413 1815 413 1873"/></Shape>
+	    <String CONTENT="tadamente dice BOTTIN, que el intestino"
+                    HPOS="410"
+                    VPOS="1815"
+                    WIDTH="1362"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c28a160"
+                    TAGREFS="LT4147"
+                    BASELINE="413 1964 1777 1973" 
+                    HPOS="410"
+                    VPOS="1908"
+                    WIDTH="1367"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="413 1964 410 2008 1775 2005 1777 1973 1777 1917 413 1908 413 1964"/></Shape>
+	    <String CONTENT="de la obstrucción no es semejante al nor¬"
+                    HPOS="410"
+                    VPOS="1908"
+                    WIDTH="1367"
+                    HEIGHT="100"
+                    WC="0.99067152539889"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce55f018"
+                    TAGREFS="LT4147"
+                    BASELINE="416 2048 1777 2063" 
+                    HPOS="413"
+                    VPOS="1981"
+                    WIDTH="1364"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="416 2048 413 2095 1775 2095 1777 2063 1775 2010 1614 1993 1611 1993 1483 2005 1439 1990 1436 1990 1434 1990 1256 2002 1232 1987 1230 1987 1227 1987 1224 1987 1221 1987 1180 2002 1139 1987 1136 1987 1133 1987 1130 1987 1093 2002 1090 2002 1043 1987 1040 1987 1037 1987 1034 1987 988 2002 982 2002 964 1987 961 1987 958 1987 956 1987 731 1999 690 1999 684 1999 638 1981 635 1981 632 1981 629 1981 591 1996 545 1981 542 1981 539 1981 416 1993 416 2048"/></Shape>
+	    <String CONTENT="mal, sino que en él pueden haber altera¬"
+                    HPOS="413"
+                    VPOS="1981"
+                    WIDTH="1364"
+                    HEIGHT="114"
+                    WC="0.989845696018963"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0492b504"
+                    TAGREFS="LT4147"
+                    BASELINE="410 2142 1777 2150" 
+                    HPOS="408"
+                    VPOS="2083"
+                    WIDTH="1369"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="410 2142 408 2177 1772 2194 1777 2150 1775 2092 410 2083 410 2142"/></Shape>
+	    <String CONTENT="ciones que le hagan permeable a ciertas"
+                    HPOS="408"
+                    VPOS="2083"
+                    WIDTH="1369"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec71063f"
+                    TAGREFS="LT4147"
+                    BASELINE="413 2226 1769 2238" 
+                    HPOS="410"
+                    VPOS="2171"
+                    WIDTH="1359"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="413 2226 410 2276 1766 2276 1769 2238 1766 2182 413 2171 413 2226"/></Shape>
+	    <String CONTENT="substancias a las que normalmente no lo"
+                    HPOS="410"
+                    VPOS="2171"
+                    WIDTH="1359"
+                    HEIGHT="105"
+                    WC="0.970622869638296"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b684be6"
+                    TAGREFS="LT4147"
+                    BASELINE="413 2314 565 2322" 
+                    HPOS="410"
+                    VPOS="2264"
+                    WIDTH="155"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="413 2314 410 2357 559 2363 565 2322 562 2276 413 2264 413 2314"/></Shape>
+	    <String CONTENT="sea."
+                    HPOS="410"
+                    VPOS="2264"
+                    WIDTH="155"
+                    HEIGHT="99"
+                    WC="0.998400017619133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4acb13c1"
+                    TAGREFS="LT4147"
+                    BASELINE="483 2421 1781 2427" 
+                    HPOS="476"
+                    VPOS="2338"
+                    WIDTH="1303"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="480 2417 476 2452 1770 2456 1779 2426 1775 2351 480 2338 480 2417"/></Shape>
+	    <String CONTENT="LAUWERS y BARACZ hablan de una cau¬"
+                    HPOS="476"
+                    VPOS="2338"
+                    WIDTH="1303"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d436237"
+                    TAGREFS="LT4147"
+                    BASELINE="413 2503 1781 2512" 
+                    HPOS="406"
+                    VPOS="2435"
+                    WIDTH="1373"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="410 2500 406 2535 1770 2544 1779 2509 1766 2435 410 2435 410 2500"/></Shape>
+	    <String CONTENT="sa infecciosa y encuentran en los anima¬"
+                    HPOS="406"
+                    VPOS="2435"
+                    WIDTH="1373"
+                    HEIGHT="109"
+                    WC="0.988996514678001"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_016d28da"
+                    TAGREFS="LT4147"
+                    BASELINE="425 2596 1781 2602" 
+                    HPOS="419"
+                    VPOS="2509"
+                    WIDTH="1360"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="1744 2526 424 2509 424 2592 419 2627 1770 2631 1779 2601 1775 2583 1744 2526"/></Shape>
+	    <String CONTENT="les de experimentación, con obstrucción"
+                    HPOS="419"
+                    VPOS="2509"
+                    WIDTH="1360"
+                    HEIGHT="122"
+                    WC="0.994880307011488"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_554f37a7"
+                    TAGREFS="LT4147"
+                    BASELINE="425 2681 1781 2688" 
+                    HPOS="419"
+                    VPOS="2609"
+                    WIDTH="1360"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="424 2679 419 2714 1770 2719 1779 2684 1775 2623 424 2609 424 2679"/></Shape>
+	    <String CONTENT="simple o segmentaria, una peritonitis con"
+                    HPOS="419"
+                    VPOS="2609"
+                    WIDTH="1360"
+                    HEIGHT="110"
+                    WC="0.981577146344069"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_165c1ab6"
+                    TAGREFS="LT4147"
+                    BASELINE="431 2771 1758 2777" 
+                    HPOS="424"
+                    VPOS="2697"
+                    WIDTH="1333"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="428 2767 424 2806 1748 2810 1757 2776 1753 2714 428 2697 428 2767"/></Shape>
+	    <String CONTENT="distensión de la pared intestinal, infla¬"
+                    HPOS="424"
+                    VPOS="2697"
+                    WIDTH="1333"
+                    HEIGHT="113"
+                    WC="0.982411713827224"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d71dc53"
+                    TAGREFS="LT4147"
+                    BASELINE="416 2856 1758 2864" 
+                    HPOS="410"
+                    VPOS="2793"
+                    WIDTH="1347"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="415 2854 410 2898 1748 2902 1757 2863 1753 2802 415 2793 415 2854"/></Shape>
+	    <String CONTENT="mación y aun gangrena de su pared, que"
+                    HPOS="410"
+                    VPOS="2793"
+                    WIDTH="1347"
+                    HEIGHT="109"
+                    WC="0.999201702765929"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7708b6bf"
+                    TAGREFS="LT4147"
+                    BASELINE="416 2946 1758 2952" 
+                    HPOS="410"
+                    VPOS="2872"
+                    WIDTH="1347"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="415 2942 410 2985 1748 3003 1757 2950 1753 2889 415 2872 415 2942"/></Shape>
+	    <String CONTENT="a veces conduce a la perforación. Quien"
+                    HPOS="410"
+                    VPOS="2872"
+                    WIDTH="1347"
+                    HEIGHT="131"
+                    WC="0.976499445736408"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_992379b8"
+                    TAGREFS="LT4147"
+                    BASELINE="419 3031 1761 3041" 
+                    HPOS="410"
+                    VPOS="2955"
+                    WIDTH="1347"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="415 3029 410 3068 1748 3077 1757 3038 1753 2977 415 2955 415 3029"/></Shape>
+	    <String CONTENT="habla de irritaciones reflejas del simpá¬"
+                    HPOS="410"
+                    VPOS="2955"
+                    WIDTH="1347"
+                    HEIGHT="122"
+                    WC="0.991485500619525"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f20cf732"
+                    TAGREFS="LT4147"
+                    BASELINE="422 3121 1746 3133" 
+                    HPOS="415"
+                    VPOS="3051"
+                    WIDTH="1329"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="419 3116 415 3160 1735 3169 1744 3130 1740 3068 419 3051 419 3116"/></Shape>
+	    <String CONTENT="tico y trastornos circulatorios consecu¬"
+                    HPOS="415"
+                    VPOS="3051"
+                    WIDTH="1329"
+                    HEIGHT="118"
+                    WC="0.980712319910526"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5494b793"
+                    TAGREFS="LT4147"
+                    BASELINE="419 3211 1761 3220" 
+                    HPOS="410"
+                    VPOS="3134"
+                    WIDTH="1347"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="415 3208 410 3248 1748 3261 1757 3217 1753 3151 415 3134 415 3208"/></Shape>
+	    <String CONTENT="tivos (LEICHTESTERN en 1870 y KUKULA"
+                    HPOS="410"
+                    VPOS="3134"
+                    WIDTH="1347"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac91e9d0"
+                    TAGREFS="LT4147"
+                    BASELINE="419 3296 1758 3305" 
+                    HPOS="410"
+                    VPOS="3235"
+                    WIDTH="1347"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="415 3291 410 3339 1748 3348 1757 3304 1753 3235 415 3235 415 3291"/></Shape>
+	    <String CONTENT="en 1901), quien de una congestión del"
+                    HPOS="410"
+                    VPOS="3235"
+                    WIDTH="1347"
+                    HEIGHT="113"
+                    WC="0.995248771027515"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_096dc89f"
+                    TAGREFS="LT4147"
+                    BASELINE="422 3386 1764 3406" 
+                    HPOS="415"
+                    VPOS="3309"
+                    WIDTH="1346"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="419 3383 415 3427 1753 3440 1761 3405 1761 3344 419 3309 419 3383"/></Shape>
+	    <String CONTENT="área de inervación del esplácnico, cau¬"
+                    HPOS="415"
+                    VPOS="3309"
+                    WIDTH="1346"
+                    HEIGHT="131"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f0b7740"
+                    TAGREFS="LT4147"
+                    BASELINE="422 3474 1758 3491" 
+                    HPOS="415"
+                    VPOS="3396"
+                    WIDTH="1342"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="419 3471 415 3519 1748 3532 1757 3488 1753 3427 419 3396 419 3471"/></Shape>
+	    <String CONTENT="sante de una anemia cerebral (BRAUN y"
+                    HPOS="415"
+                    VPOS="3396"
+                    WIDTH="1342"
+                    HEIGHT="136"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e96922df"
+                    TAGREFS="LT4147"
+                    BASELINE="425 3561 1113 3573" 
+                    HPOS="422"
+                    VPOS="3497"
+                    WIDTH="691"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="425 3561 422 3602 1107 3622 1113 3573 1107 3514 609 3514 588 3500 585 3500 582 3500 425 3497 425 3561"/></Shape>
+	    <String CONTENT="BORUTTEN en 1908)."
+                    HPOS="422"
+                    VPOS="3497"
+                    WIDTH="691"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a74aee8f"
+                    TAGREFS="LT4147"
+                    BASELINE="486 3660 1767 3674" 
+                    HPOS="480"
+                    VPOS="3589"
+                    WIDTH="1286"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="485 3659 480 3698 1757 3711 1766 3672 1761 3597 485 3589 485 3659"/></Shape>
+	    <String CONTENT="HARTWELL, HOGUET, BECKMANN, MAC"
+                    HPOS="480"
+                    VPOS="3589"
+                    WIDTH="1286"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9788d98c"
+                    TAGREFS="LT4147"
+                    BASELINE="425 3745 921 3762 1767 3768" 
+                    HPOS="419"
+                    VPOS="3672"
+                    WIDTH="1347"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="424 3742 419 3785 1757 3812 1766 3764 1761 3702 424 3672 424 3742"/></Shape>
+	    <String CONTENT="LEAN y ANDRIES, defienden la deshidra¬"
+                    HPOS="419"
+                    VPOS="3672"
+                    WIDTH="1347"
+                    HEIGHT="140"
+                    WC="0.993739760235736"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_254ef234"
+                    TAGREFS="LT4147"
+                    BASELINE="437 3835 1769 3852" 
+                    HPOS="428"
+                    VPOS="3764"
+                    WIDTH="1338"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="432 3833 428 3868 1757 3886 1766 3851 1761 3790 432 3764 432 3833"/></Shape>
+	    <String CONTENT="tación tisular como causa de muerte en"
+                    HPOS="428"
+                    VPOS="3764"
+                    WIDTH="1338"
+                    HEIGHT="122"
+                    WC="0.995204541927729"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61fe2669"
+                    TAGREFS="LT4147"
+                    BASELINE="425 3922 1130 3943 1769 3947" 
+                    HPOS="419"
+                    VPOS="3847"
+                    WIDTH="1347"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="424 3921 419 3960 1757 3982 1766 3943 1766 3882 424 3847 424 3921"/></Shape>
+	    <String CONTENT="la oclusión intestinal y ha sido el prin¬"
+                    HPOS="419"
+                    VPOS="3847"
+                    WIDTH="1347"
+                    HEIGHT="135"
+                    WC="0.97883555434999"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e76e75d2"
+                    TAGREFS="LT4147"
+                    BASELINE="422 4010 1160 4033 1769 4038" 
+                    HPOS="415"
+                    VPOS="3951"
+                    WIDTH="1351"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="419 4008 415 4048 1757 4074 1766 4035 1761 3973 419 3951 419 4008"/></Shape>
+	    <String CONTENT="cipio de numerosas experiencias que"
+                    HPOS="415"
+                    VPOS="3951"
+                    WIDTH="1351"
+                    HEIGHT="123"
+                    WC="0.979806409563337"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6b3b803"
+                    TAGREFS="LT4147"
+                    BASELINE="422 4094 1171 4123 1769 4126" 
+                    HPOS="415"
+                    VPOS="4026"
+                    WIDTH="1351"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="419 4091 415 4135 1757 4166 1766 4122 1761 4065 419 4026 419 4091"/></Shape>
+	    <String CONTENT="abrieron el camino para averiguar la dis¬"
+                    HPOS="415"
+                    VPOS="4026"
+                    WIDTH="1351"
+                    HEIGHT="140"
+                    WC="0.987634621015409"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71171630"
+                    TAGREFS="LT4147"
+                    BASELINE="425 4185 1072 4211 1769 4215" 
+                    HPOS="419"
+                    VPOS="4118"
+                    WIDTH="1347"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="424 4183 419 4227 1757 4253 1766 4214 1761 4157 424 4118 424 4183"/></Shape>
+	    <String CONTENT="minución de los cloruros y aumento de"
+                    HPOS="419"
+                    VPOS="4118"
+                    WIDTH="1347"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1055512"
+                    TAGREFS="LT4147"
+                    BASELINE="425 4272 1072 4301 1784 4304" 
+                    HPOS="419"
+                    VPOS="4214"
+                    WIDTH="1364"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="1775 4297 1748 4240 424 4214 424 4271 419 4314 1775 4341 1783 4301 1779 4297 1775 4297"/></Shape>
+	    <String CONTENT="la urea en la sangre de los individuos afec¬"
+                    HPOS="419"
+                    VPOS="4214"
+                    WIDTH="1364"
+                    HEIGHT="127"
+                    WC="0.994234102693471"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e2885c0"
+                    TAGREFS="LT4147"
+                    BASELINE="425 4360 1145 4392 1784 4395" 
+                    HPOS="419"
+                    VPOS="4288"
+                    WIDTH="1364"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="1775 4389 1748 4327 424 4288 424 4358 419 4406 1775 4463 1783 4393 1779 4389 1775 4389"/></Shape>
+	    <String CONTENT="tos de oclusión intestinal (HADEN, ORR,"
+                    HPOS="419"
+                    VPOS="4288"
+                    WIDTH="1364"
+                    HEIGHT="175"
+                    WC="0.989716167747974"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80ce5ea5"
+                    TAGREFS="LT4147"
+                    BASELINE="422 4444 717 4462" 
+                    HPOS="416"
+                    VPOS="4389"
+                    WIDTH="301"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="422 4444 416 4494 524 4499 553 4520 591 4549 594 4549 597 4549 600 4552 711 4552 717 4462 717 4394 422 4389 422 4444"/></Shape>
+	    <String CONTENT="etcétera)."
+                    HPOS="416"
+                    VPOS="4389"
+                    WIDTH="301"
+                    HEIGHT="163"
+                    WC="0.966771407560869"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1812"
+                   VPOS="573"
+                   WIDTH="1391"
+                   HEIGHT="3958"
+                   ID="eSc_textblock_e4f483f4"
+                   TAGREFS="BT10591">
+          <Shape><Polygon POINTS="1818 573 1812 4531 3203 4528 3203 573"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cb6d1a0b"
+                    TAGREFS="LT4147"
+                    BASELINE="1856 647 3188 658" 
+                    HPOS="1853"
+                    VPOS="579"
+                    WIDTH="1335"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="1856 647 1853 679 2853 705 2856 705 3185 690 3188 658 3188 594 1856 579 1856 647"/></Shape>
+	    <String CONTENT="SCHMIEDEN y SCHEELE, en 1922, pien¬"
+                    HPOS="1853"
+                    VPOS="579"
+                    WIDTH="1335"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97e402a8"
+                    TAGREFS="LT4147"
+                    BASELINE="1836 730 3188 743" 
+                    HPOS="1827"
+                    VPOS="660"
+                    WIDTH="1360"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 725 1827 773 3178 778 3187 738 3187 677 1831 660 1831 725"/></Shape>
+	    <String CONTENT="san en los trastornos del dinamismo car¬"
+                    HPOS="1827"
+                    VPOS="660"
+                    WIDTH="1360"
+                    HEIGHT="118"
+                    WC="0.984032249450684"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c66919cf"
+                    TAGREFS="LT4147"
+                    BASELINE="1836 822 3182 833" 
+                    HPOS="1827"
+                    VPOS="760"
+                    WIDTH="1351"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1831 821 1827 865 3174 865 3178 830 3174 769 1831 760 1831 821"/></Shape>
+	    <String CONTENT="díaco debidos a la oclusión intestinal y"
+                    HPOS="1827"
+                    VPOS="760"
+                    WIDTH="1351"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9557245"
+                    TAGREFS="LT4147"
+                    BASELINE="1836 908 3185 918" 
+                    HPOS="1827"
+                    VPOS="839"
+                    WIDTH="1355"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="1831 904 1827 948 3174 966 3182 913 3178 852 1831 839 1831 904"/></Shape>
+	    <String CONTENT="WHITE y FANDER, en 1930, dicen que la"
+                    HPOS="1827"
+                    VPOS="839"
+                    WIDTH="1355"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_216916c6"
+                    TAGREFS="LT4147"
+                    BASELINE="1836 997 3185 1008" 
+                    HPOS="1827"
+                    VPOS="926"
+                    WIDTH="1355"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1831 996 1827 1036 3174 1040 3182 1005 3178 939 1831 926 1831 996"/></Shape>
+	    <String CONTENT="muerte sería debida a la pérdida del lí¬"
+                    HPOS="1827"
+                    VPOS="926"
+                    WIDTH="1355"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35cb5466"
+                    TAGREFS="LT4147"
+                    BASELINE="1836 1082 3182 1092" 
+                    HPOS="1827"
+                    VPOS="1014"
+                    WIDTH="1351"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="1831 1079 1827 1136 3174 1136 3178 1088 3174 1018 1831 1014 1831 1079"/></Shape>
+	    <String CONTENT="quido intestinal y de las sales, fundán¬"
+                    HPOS="1827"
+                    VPOS="1014"
+                    WIDTH="1351"
+                    HEIGHT="122"
+                    WC="0.993517481699222"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c30a791"
+                    TAGREFS="LT4147"
+                    BASELINE="1836 1173 3185 1186" 
+                    HPOS="1827"
+                    VPOS="1106"
+                    WIDTH="1355"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="1831 1171 1827 1210 3174 1219 3182 1184 3178 1123 1831 1106 1831 1171"/></Shape>
+	    <String CONTENT="dose en la prolongación de la vida en los"
+                    HPOS="1827"
+                    VPOS="1106"
+                    WIDTH="1355"
+                    HEIGHT="113"
+                    WC="0.996423041536694"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_229d000b"
+                    TAGREFS="LT4147"
+                    BASELINE="1836 1261 3185 1273" 
+                    HPOS="1827"
+                    VPOS="1193"
+                    WIDTH="1355"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 1259 1827 1311 3178 1311 3182 1272 3178 1206 1831 1193 1831 1259"/></Shape>
+	    <String CONTENT="animales afectos de dicha dolencia, por"
+                    HPOS="1827"
+                    VPOS="1193"
+                    WIDTH="1355"
+                    HEIGHT="118"
+                    WC="0.985305798359406"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a73bb9e0"
+                    TAGREFS="LT4147"
+                    BASELINE="1836 1346 3185 1358" 
+                    HPOS="1827"
+                    VPOS="1280"
+                    WIDTH="1355"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 1342 1827 1390 3174 1398 3182 1355 3178 1289 1831 1280 1831 1342"/></Shape>
+	    <String CONTENT="la reposición, mediante sonda, de los lí¬"
+                    HPOS="1827"
+                    VPOS="1280"
+                    WIDTH="1355"
+                    HEIGHT="118"
+                    WC="0.987499871919321"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae33f0f6"
+                    TAGREFS="LT4147"
+                    BASELINE="1836 1436 2427 1442" 
+                    HPOS="1827"
+                    VPOS="1359"
+                    WIDTH="599"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="1831 1433 1827 1481 2417 1486 2426 1438 2422 1377 1831 1359 1831 1433"/></Shape>
+	    <String CONTENT="quidos vomitados."
+                    HPOS="1827"
+                    VPOS="1359"
+                    WIDTH="599"
+                    HEIGHT="127"
+                    WC="0.991568323443918"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e57a455"
+                    TAGREFS="LT4147"
+                    BASELINE="1900 1538 3182 1550" 
+                    HPOS="1897"
+                    VPOS="1471"
+                    WIDTH="1285"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1900 1538 1897 1567 3177 1579 3182 1550 3182 1483 1900 1471 1900 1538"/></Shape>
+	    <String CONTENT="Paralelamente a esta falange de inves¬"
+                    HPOS="1897"
+                    VPOS="1471"
+                    WIDTH="1285"
+                    HEIGHT="108"
+                    WC="0.982586968886225"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9dd3a2c6"
+                    TAGREFS="LT4147"
+                    BASELINE="1836 1623 3182 1637" 
+                    HPOS="1827"
+                    VPOS="1543"
+                    WIDTH="1351"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="1831 1621 1827 1656 3169 1669 3178 1635 3174 1569 1831 1543 1831 1621"/></Shape>
+	    <String CONTENT="tigadores marcha la experimentación en"
+                    HPOS="1827"
+                    VPOS="1543"
+                    WIDTH="1351"
+                    HEIGHT="126"
+                    WC="0.973821357274667"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d5e12f64"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 1710 3182 1725" 
+                    HPOS="1827"
+                    VPOS="1639"
+                    WIDTH="1351"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="1831 1709 1827 1744 3169 1766 3178 1722 3174 1652 1831 1639 1831 1709"/></Shape>
+	    <String CONTENT="lo referente a las pancreatitis. SEIDEL, en"
+                    HPOS="1827"
+                    VPOS="1639"
+                    WIDTH="1351"
+                    HEIGHT="127"
+                    WC="0.966049204039019"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_794a9ce3"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 1798 3185 1812" 
+                    HPOS="1827"
+                    VPOS="1726"
+                    WIDTH="1355"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 1796 1827 1831 3174 1844 3182 1809 3182 1739 1831 1726 1831 1796"/></Shape>
+	    <String CONTENT="1910, después de sus trabajos, sienta las"
+                    HPOS="1827"
+                    VPOS="1726"
+                    WIDTH="1355"
+                    HEIGHT="118"
+                    WC="0.983770475501106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec011023"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 1888 3182 1903" 
+                    HPOS="1827"
+                    VPOS="1801"
+                    WIDTH="1351"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="1831 1884 1827 1927 3169 1932 3178 1901 3174 1831 1831 1801 1831 1884"/></Shape>
+	    <String CONTENT="bases de la teoría del reflujo del conteni¬"
+                    HPOS="1827"
+                    VPOS="1801"
+                    WIDTH="1351"
+                    HEIGHT="131"
+                    WC="0.990280044349757"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aeeede02"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 1975 3179 1990" 
+                    HPOS="1827"
+                    VPOS="1901"
+                    WIDTH="1351"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="1831 1971 1827 2010 3169 2024 3178 1989 3174 1919 1831 1901 1831 1971"/></Shape>
+	    <String CONTENT="do duodenal a las vías pancreáticas en"
+                    HPOS="1827"
+                    VPOS="1901"
+                    WIDTH="1351"
+                    HEIGHT="123"
+                    WC="0.992775937914848"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e1f2406"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 2063 3182 2077" 
+                    HPOS="1827"
+                    VPOS="1989"
+                    WIDTH="1351"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 2059 1827 2094 3169 2107 3178 2076 3174 2002 1831 1989 1831 2059"/></Shape>
+	    <String CONTENT="la producción de la pancreatitis hemo¬"
+                    HPOS="1827"
+                    VPOS="1989"
+                    WIDTH="1351"
+                    HEIGHT="118"
+                    WC="0.975714998367505"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80bb69c8"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 2153 3182 2168" 
+                    HPOS="1827"
+                    VPOS="2072"
+                    WIDTH="1351"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="1831 2150 1827 2185 3169 2198 3178 2163 3174 2098 1831 2072 1831 2150"/></Shape>
+	    <String CONTENT="rrágica, que son compartidas en 1920, por"
+                    HPOS="1827"
+                    VPOS="2072"
+                    WIDTH="1351"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_623d9395"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 2244 3179 2255" 
+                    HPOS="1827"
+                    VPOS="2168"
+                    WIDTH="1351"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1831 2242 1827 2273 3169 2282 3178 2251 3174 2190 1831 2168 1831 2242"/></Shape>
+	    <String CONTENT="BROCQ y BINET. Realiza una gastroduo¬"
+                    HPOS="1827"
+                    VPOS="2168"
+                    WIDTH="1351"
+                    HEIGHT="114"
+                    WC="0.991726404911763"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2fa3ef2"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 2328 3177 2351" 
+                    HPOS="1827"
+                    VPOS="2247"
+                    WIDTH="1347"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="1831 2325 1827 2360 3165 2386 3174 2347 3169 2264 1831 2247 1831 2325"/></Shape>
+	    <String CONTENT="denotomía, previa exclusión del píloro, y,"
+                    HPOS="1827"
+                    VPOS="2247"
+                    WIDTH="1347"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8170eb6"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 2427 3174 2433" 
+                    HPOS="1827"
+                    VPOS="2343"
+                    WIDTH="1342"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 2426 1827 2452 3161 2461 3169 2430 3165 2365 1831 2343 1831 2426"/></Shape>
+	    <String CONTENT="al cabo de un mes, la ligadura mediana¬"
+                    HPOS="1827"
+                    VPOS="2343"
+                    WIDTH="1342"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b31b4006"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 2509 3182 2518" 
+                    HPOS="1827"
+                    VPOS="2439"
+                    WIDTH="1351"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 2504 1827 2557 3174 2557 3178 2513 3174 2452 1831 2439 1831 2504"/></Shape>
+	    <String CONTENT="mente apretada en el duodeno, por de¬"
+                    HPOS="1827"
+                    VPOS="2439"
+                    WIDTH="1351"
+                    HEIGHT="118"
+                    WC="0.986484567861299"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d9ca87c"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 2599 3179 2608" 
+                    HPOS="1827"
+                    VPOS="2522"
+                    WIDTH="1351"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="1831 2596 1827 2640 3169 2644 3178 2605 3174 2539 1831 2522 1831 2596"/></Shape>
+	    <String CONTENT="bajo de la fístula gastro-intestinal. A las"
+                    HPOS="1827"
+                    VPOS="2522"
+                    WIDTH="1351"
+                    HEIGHT="122"
+                    WC="0.980881161310456"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_288c6dcb"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 2688 3168 2695" 
+                    HPOS="1827"
+                    VPOS="2614"
+                    WIDTH="1338"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 2684 1827 2732 3161 2732 3165 2692 3161 2627 1831 2614 1831 2684"/></Shape>
+	    <String CONTENT="24 ó 48 horas aparece el síndrome de la"
+                    HPOS="1827"
+                    VPOS="2614"
+                    WIDTH="1338"
+                    HEIGHT="118"
+                    WC="0.984463983919562"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46934204"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 2777 3171 2783" 
+                    HPOS="1827"
+                    VPOS="2706"
+                    WIDTH="1342"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1831 2776 1827 2810 3161 2815 3169 2780 3165 2710 1831 2706 1831 2776"/></Shape>
+	    <String CONTENT="pancreatitis hemorrágica con esteato-ne¬"
+                    HPOS="1827"
+                    VPOS="2706"
+                    WIDTH="1342"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01454682"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 2865 3177 2873" 
+                    HPOS="1827"
+                    VPOS="2793"
+                    WIDTH="1347"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="1831 2863 1827 2907 3165 2915 3174 2872 3165 2793 1831 2793 1831 2863"/></Shape>
+	    <String CONTENT="crosis, que SEIDEL interpreta por pene¬"
+                    HPOS="1827"
+                    VPOS="2793"
+                    WIDTH="1347"
+                    HEIGHT="122"
+                    WC="0.987461640284612"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04e5f512"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 2952 3177 2958" 
+                    HPOS="1827"
+                    VPOS="2889"
+                    WIDTH="1347"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1831 2950 1827 3003 3169 3003 3174 2955 3169 2889 1831 2889 1831 2950"/></Shape>
+	    <String CONTENT="tración del contenido duodenal favore¬"
+                    HPOS="1827"
+                    VPOS="2889"
+                    WIDTH="1347"
+                    HEIGHT="114"
+                    WC="0.990336554172711"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f92c9425"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 3041 3179 3051" 
+                    HPOS="1827"
+                    VPOS="2968"
+                    WIDTH="1351"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 3038 1827 3082 3169 3086 3178 3047 3178 2985 1831 2968 1831 3038"/></Shape>
+	    <String CONTENT="cida, según OPIE, por el hecho de no"
+                    HPOS="1827"
+                    VPOS="2968"
+                    WIDTH="1351"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d991811"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 3133 3177 3135" 
+                    HPOS="1827"
+                    VPOS="3055"
+                    WIDTH="1347"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="1831 3130 1827 3169 3165 3178 3174 3134 3169 3068 1831 3055 1831 3130"/></Shape>
+	    <String CONTENT="tener el canal de Santorini su orificio pro¬"
+                    HPOS="1827"
+                    VPOS="3055"
+                    WIDTH="1347"
+                    HEIGHT="123"
+                    WC="0.994972281835296"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf162a09"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 3220 3179 3229" 
+                    HPOS="1827"
+                    VPOS="3147"
+                    WIDTH="1351"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 3217 1827 3261 3169 3265 3178 3226 3174 3165 1831 3147 1831 3217"/></Shape>
+	    <String CONTENT="tegido, como el de WIRSUNG, por una"
+                    HPOS="1827"
+                    VPOS="3147"
+                    WIDTH="1351"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b1c2643"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 3305 2095 3307" 
+                    HPOS="1831"
+                    VPOS="3248"
+                    WIDTH="263"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="1831 3304 1831 3361 2094 3361 2094 3304 2094 3248 1831 3248 1831 3304"/></Shape>
+	    <String CONTENT="válvula."
+                    HPOS="1831"
+                    VPOS="3248"
+                    WIDTH="263"
+                    HEIGHT="113"
+                    WC="0.993504007657369"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20927bf5"
+                    TAGREFS="LT4147"
+                    BASELINE="1850 3409 3174 3424" 
+                    HPOS="1847"
+                    VPOS="3331"
+                    WIDTH="1327"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="1850 3409 1847 3436 1917 3453 1920 3453 2200 3444 2253 3444 3168 3465 3174 3424 3174 3360 2964 3360 2958 3357 2911 3339 2908 3339 2742 3339 2739 3339 2736 3339 2734 3339 2734 3342 2722 3354 2719 3354 2661 3354 2107 3331 2104 3331 1850 3342 1850 3409"/></Shape>
+	    <String CONTENT="En 1920 LEVEUF y DEL VALLE y"
+                    HPOS="1847"
+                    VPOS="3331"
+                    WIDTH="1327"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_faea9234"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 3491 3179 3508" 
+                    HPOS="1827"
+                    VPOS="3418"
+                    WIDTH="1351"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="1831 3488 1827 3541 3169 3549 3178 3506 3178 3440 1831 3418 1831 3488"/></Shape>
+	    <String CONTENT="BRIAND dicen de la importancia del es¬"
+                    HPOS="1827"
+                    VPOS="3418"
+                    WIDTH="1351"
+                    HEIGHT="131"
+                    WC="0.99436354637146"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18bf426b"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 3587 3179 3596" 
+                    HPOS="1827"
+                    VPOS="3519"
+                    WIDTH="1351"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1831 3584 1827 3624 3169 3628 3178 3593 3174 3532 1831 3519 1831 3584"/></Shape>
+	    <String CONTENT="tasis crónico del duodeno en la produc¬"
+                    HPOS="1827"
+                    VPOS="3519"
+                    WIDTH="1351"
+                    HEIGHT="109"
+                    WC="0.995760731399059"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35957ab3"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 3675 3179 3689" 
+                    HPOS="1827"
+                    VPOS="3602"
+                    WIDTH="1351"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 3672 1827 3715 3169 3720 3178 3685 3174 3619 1831 3602 1831 3672"/></Shape>
+	    <String CONTENT="ción de pancreatitis, llevando a cabo, es¬"
+                    HPOS="1827"
+                    VPOS="3602"
+                    WIDTH="1351"
+                    HEIGHT="118"
+                    WC="0.99154555520346"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9094c75f"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 3768 3179 3777" 
+                    HPOS="1827"
+                    VPOS="3689"
+                    WIDTH="1351"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 3764 1827 3803 3169 3807 3178 3772 3174 3707 1831 3689 1831 3764"/></Shape>
+	    <String CONTENT="tos últimos, trabajos experimentales fun¬"
+                    HPOS="1827"
+                    VPOS="3689"
+                    WIDTH="1351"
+                    HEIGHT="118"
+                    WC="0.983448174737749"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbb8489d"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 3853 3171 3870" 
+                    HPOS="1827"
+                    VPOS="3772"
+                    WIDTH="1342"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="1831 3851 1827 3882 3161 3903 3169 3868 3165 3790 1831 3772 1831 3851"/></Shape>
+	    <String CONTENT="dados en la reducción, en un punto a"
+                    HPOS="1827"
+                    VPOS="3772"
+                    WIDTH="1342"
+                    HEIGHT="131"
+                    WC="0.989080912358052"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c5002fc"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 3948 3174 3957" 
+                    HPOS="1827"
+                    VPOS="3873"
+                    WIDTH="1342"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="1831 3947 1827 3982 3161 4000 3169 3956 3165 3886 1831 3873 1831 3947"/></Shape>
+	    <String CONTENT="quince centímetros por debajo del píloro,"
+                    HPOS="1827"
+                    VPOS="3873"
+                    WIDTH="1342"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14ddb0ea"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 4038 3177 4048" 
+                    HPOS="1827"
+                    VPOS="3960"
+                    WIDTH="1347"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="1831 4035 1827 4074 3165 4087 3174 4043 3169 3978 1831 3960 1831 4035"/></Shape>
+	    <String CONTENT="de la luz duodenal y provocando así una"
+                    HPOS="1827"
+                    VPOS="3960"
+                    WIDTH="1347"
+                    HEIGHT="127"
+                    WC="0.975511486828327"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66358032"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 4126 3177 4132" 
+                    HPOS="1827"
+                    VPOS="4048"
+                    WIDTH="1347"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 4122 1827 4161 3165 4166 3174 4131 3169 4065 1831 4048 1831 4122"/></Shape>
+	    <String CONTENT="dilatación y estasis crónico consecutivo;"
+                    HPOS="1827"
+                    VPOS="4048"
+                    WIDTH="1347"
+                    HEIGHT="118"
+                    WC="0.98883171691451"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_683bf708"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 4215 3177 4223" 
+                    HPOS="1827"
+                    VPOS="4135"
+                    WIDTH="1347"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 4214 1827 4253 3169 4253 3174 4218 3169 4153 1831 4135 1831 4214"/></Shape>
+	    <String CONTENT="encontraron una dilatación de los cana¬"
+                    HPOS="1827"
+                    VPOS="4135"
+                    WIDTH="1347"
+                    HEIGHT="118"
+                    WC="0.993076492846012"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1bccd45"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 4304 3174 4310" 
+                    HPOS="1827"
+                    VPOS="4227"
+                    WIDTH="1342"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1831 4301 1827 4345 3165 4341 3169 4306 3165 4240 1831 4227 1831 4301"/></Shape>
+	    <String CONTENT="les excretores del páncreas y lesiones, no"
+                    HPOS="1827"
+                    VPOS="4227"
+                    WIDTH="1342"
+                    HEIGHT="118"
+                    WC="0.987377876459166"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_56f22489"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 4395 3174 4400" 
+                    HPOS="1833"
+                    VPOS="4322"
+                    WIDTH="1341"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="3168 4348 3171 4360 3174 4400 3171 4438 2929 4459 2923 4459 2879 4441 2658 4453 2655 4453 2588 4438 2550 4456 2541 4456 2474 4435 1833 4439 1834 4339 2054 4339 2095 4333 2156 4322 2165 4322 2183 4333 2194 4342 2206 4333 2221 4325 2232 4325 2256 4336 2273 4342 2392 4336 2599 4327 2605 4327 2637 4342 2649 4345 2681 4342 2792 4327 2795 4327"/></Shape>
+	    <String CONTENT="constantes, de necrosis y nódulos fibro¬"
+                    HPOS="1833"
+                    VPOS="4322"
+                    WIDTH="1341"
+                    HEIGHT="137"
+                    WC="0.977086320156004"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8072195b"
+                    TAGREFS="LT4147"
+                    BASELINE="1833 4488 2142 4482" 
+                    HPOS="1827"
+                    VPOS="4424"
+                    WIDTH="310"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="1831 4485 1831 4550 2133 4542 2137 4480 2129 4424 1827 4424 1831 4485"/></Shape>
+	    <String CONTENT="calcáreos."
+                    HPOS="1827"
+                    VPOS="4424"
+                    WIDTH="310"
+                    HEIGHT="126"
+                    WC="0.991986253044822"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

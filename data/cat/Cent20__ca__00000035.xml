@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent20__ca__00000035.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10596" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10595" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10594" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10591" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10590" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10593" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10592" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT4149" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4148" LABEL="HeadingZone" DESCRIPTION="line type HeadingZone"/><OtherTag ID="LT4147" LABEL="DefaultZone" DESCRIPTION="line type DefaultZone"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2960"
+          HEIGHT="4569"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2960"
+                  HEIGHT="4569">
+        
+        <TextBlock HPOS="128"
+                   VPOS="318"
+                   WIDTH="2555"
+                   HEIGHT="3971"
+                   ID="eSc_textblock_8373d6f8"
+                   TAGREFS="BT10591">
+          <Shape><Polygon POINTS="128 325 128 944 128 4289 2683 4289 2683 318"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_25390167"
+                    TAGREFS="LT4147"
+                    BASELINE="317 456 2629 461" 
+                    HPOS="314"
+                    VPOS="416"
+                    WIDTH="2315"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2624 439 2604 418 317 416 317 456 314 474 2624 479 2629 461 2627 421 2624 418 2624 439"/></Shape>
+	    <String CONTENT="La influència d’aquest esquema, simplista però eficaç, va ser considerable sobre les cièn¬"
+                    HPOS="314"
+                    VPOS="416"
+                    WIDTH="2315"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4197ac42"
+                    TAGREFS="LT4147"
+                    BASELINE="208 540 2629 540" 
+                    HPOS="208"
+                    VPOS="484"
+                    WIDTH="2421"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2624 500 2444 500 2424 484 2421 484 2419 484 2416 484 2414 484 2386 497 2355 484 2353 484 2350 484 2348 484 2322 497 2117 484 2114 484 2112 484 2076 497 2046 484 2043 484 2041 484 2038 484 2035 484 2013 500 1810 500 1749 484 1746 484 1744 484 1741 484 1718 500 1576 500 1533 484 1530 484 1528 484 1525 484 1495 497 1309 484 1307 484 1304 484 1259 497 1210 484 1208 484 819 484 817 484 814 484 769 497 748 484 746 484 743 484 599 484 596 484 510 497 416 484 413 484 319 497 256 484 253 484 251 484 208 497 208 540 208 555 2627 558 2629 540 2629 517 2624 500"/></Shape>
+	    <String CONTENT="cies socials, sobretot sobre la lingüística. L’analogia entre l’esquema de Shannon i el que va"
+                    HPOS="208"
+                    VPOS="484"
+                    WIDTH="2421"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81da8bbd"
+                    TAGREFS="LT4147"
+                    BASELINE="208 616 2627 609" 
+                    HPOS="208"
+                    VPOS="555"
+                    WIDTH="2419"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="208 593 208 616 208 642 2624 629 2627 609 2622 568 1949 555 1947 555 1507 568 1502 568 1500 568 1380 555 1378 555 1375 555 1373 555 1353 568 1050 555 1048 555 218 571 208 593"/></Shape>
+	    <String CONTENT="proposar el lingüista Roman Jakobson^15 l’any 1960, a partir d’una reflexió molt anterior de Bül¬"
+                    HPOS="208"
+                    VPOS="555"
+                    WIDTH="2419"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3808370b"
+                    TAGREFS="LT4147"
+                    BASELINE="210 690 908 682" 
+                    HPOS="208"
+                    VPOS="632"
+                    WIDTH="700"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="208 649 210 690 210 708 908 703 908 682 901 644 586 644 548 632 545 632 543 632 540 632 495 644 441 632 439 632 436 632 332 634 330 634 327 634 327 637 314 647 220 634 218 634 208 649"/></Shape>
+	    <String CONTENT="her (1930), és sorprenent:"
+                    HPOS="208"
+                    VPOS="632"
+                    WIDTH="700"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89d137ce"
+                    TAGREFS="LT4147"
+                    BASELINE="225 1550 746 1550" 
+                    HPOS="225"
+                    VPOS="1512"
+                    WIDTH="521"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="228 1538 225 1550 225 1573 746 1573 746 1550 746 1512 246 1512 228 1538"/></Shape>
+	    <String CONTENT="(R. Jakobson, 1869)"
+                    HPOS="225"
+                    VPOS="1512"
+                    WIDTH="521"
+                    HEIGHT="61"
+                    WC="0.987915327674464"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b338ac37"
+                    TAGREFS="LT4147"
+                    BASELINE="324 1748 2640 1748" 
+                    HPOS="324"
+                    VPOS="1705"
+                    WIDTH="2316"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="324 1748 324 1771 2637 1771 2640 1748 2637 1708 324 1705 324 1748"/></Shape>
+	    <String CONTENT="Notem que, en el plantejament de R. Jakobson, s’evacua la noció d’informació de la teoria"
+                    HPOS="324"
+                    VPOS="1705"
+                    WIDTH="2316"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6034ea3"
+                    TAGREFS="LT4147"
+                    BASELINE="213 1827 2640 1822" 
+                    HPOS="210"
+                    VPOS="1774"
+                    WIDTH="2430"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="213 1827 213 1847 2637 1842 2640 1822 2635 1784 238 1774 236 1774 233 1774 210 1784 213 1827"/></Shape>
+	    <String CONTENT="de la comunicació de Shannon i, per contra, es conserven els aspectes més tècnics i la forma"
+                    HPOS="210"
+                    VPOS="1774"
+                    WIDTH="2430"
+                    HEIGHT="73"
+                    WC="0.98727644807414"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92a156ad"
+                    TAGREFS="LT4147"
+                    BASELINE="218 1906 2637 1901" 
+                    HPOS="215"
+                    VPOS="1850"
+                    WIDTH="2422"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="218 1906 218 1924 2635 1918 2637 1901 2632 1860 286 1850 284 1850 215 1863 218 1906"/></Shape>
+	    <String CONTENT="més general de l’esquema, és a dir, dues, tres o quatre capses relligades per unes fletxes dirigi¬"
+                    HPOS="215"
+                    VPOS="1850"
+                    WIDTH="2422"
+                    HEIGHT="74"
+                    WC="0.988683257699013"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8308bf04"
+                    TAGREFS="LT4147"
+                    BASELINE="215 1979 2640 1979" 
+                    HPOS="215"
+                    VPOS="1939"
+                    WIDTH="2425"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="215 1979 215 2000 2640 2000 2640 1979 2640 1939 215 1939 215 1979"/></Shape>
+	    <String CONTENT="des d’esquerra a dreta. El que podem demanar-nos és per què aquest esquema tan senzill ha"
+                    HPOS="215"
+                    VPOS="1939"
+                    WIDTH="2425"
+                    HEIGHT="61"
+                    WC="0.983242611308674"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35ef19c4"
+                    TAGREFS="LT4147"
+                    BASELINE="218 2050 2635 2056" 
+                    HPOS="215"
+                    VPOS="2007"
+                    WIDTH="2420"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="218 2050 215 2066 2629 2076 2635 2056 2632 2012 218 2007 218 2050"/></Shape>
+	    <String CONTENT="esdevingut el model de la comunicació de les ciències socials als Estats Units i a Europa, i,"
+                    HPOS="215"
+                    VPOS="2007"
+                    WIDTH="2420"
+                    HEIGHT="69"
+                    WC="0.996424329908271"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dba023e2"
+                    TAGREFS="LT4147"
+                    BASELINE="215 2132 2640 2124" 
+                    HPOS="213"
+                    VPOS="2076"
+                    WIDTH="2427"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="215 2132 215 2152 2637 2144 2640 2124 2635 2086 1023 2076 1020 2076 1017 2076 984 2089 284 2078 281 2078 213 2091 215 2132"/></Shape>
+	    <String CONTENT="més particularment, la base de la teoria de la comunicació dels lingüistes: el famós face"
+                    HPOS="213"
+                    VPOS="2076"
+                    WIDTH="2427"
+                    HEIGHT="76"
+                    WC="0.988245703199858"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9dbbe27"
+                    TAGREFS="LT4147"
+                    BASELINE="218 2208 434 2208" 
+                    HPOS="218"
+                    VPOS="2157"
+                    WIDTH="216"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="218 2208 218 2228 434 2228 434 2208 434 2172 309 2157 307 2157 218 2170 218 2208"/></Shape>
+	    <String CONTENT="to face."
+                    HPOS="218"
+                    VPOS="2157"
+                    WIDTH="216"
+                    HEIGHT="71"
+                    WC="0.985210478305817"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52ca3b11"
+                    TAGREFS="LT4147"
+                    BASELINE="307 2287 2642 2276" 
+                    HPOS="304"
+                    VPOS="2231"
+                    WIDTH="2338"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="307 2287 307 2304 2640 2294 2642 2276 2637 2236 342 2231 340 2231 337 2231 304 2243 307 2287"/></Shape>
+	    <String CONTENT="S’han fet moltes crítiques i retrets i s’han proposat modificacions a aquest esquema, però"
+                    HPOS="304"
+                    VPOS="2231"
+                    WIDTH="2338"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fda096f5"
+                    TAGREFS="LT4147"
+                    BASELINE="220 2358 2640 2353" 
+                    HPOS="218"
+                    VPOS="2302"
+                    WIDTH="2422"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="220 2358 220 2378 2637 2373 2640 2353 2635 2312 454 2302 451 2302 218 2314 220 2358"/></Shape>
+	    <String CONTENT="sempre s’ha conservat la parella emissor/receptor, cosa que, de fet, no s’allunya fonamental¬"
+                    HPOS="218"
+                    VPOS="2302"
+                    WIDTH="2422"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d65315f6"
+                    TAGREFS="LT4147"
+                    BASELINE="218 2434 2640 2426" 
+                    HPOS="215"
+                    VPOS="2378"
+                    WIDTH="2425"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="218 2434 218 2457 2637 2449 2640 2426 2635 2388 1066 2378 1063 2378 215 2393 218 2434"/></Shape>
+	    <String CONTENT="ment del model telegràfic/telefònic de la comunicació, que representa una simplificació mecani¬"
+                    HPOS="215"
+                    VPOS="2378"
+                    WIDTH="2425"
+                    HEIGHT="79"
+                    WC="0.986673793407402"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4387e19b"
+                    TAGREFS="LT4147"
+                    BASELINE="220 2507 1421 2507" 
+                    HPOS="220"
+                    VPOS="2469"
+                    WIDTH="1201"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="220 2507 220 2530 1421 2530 1421 2507 1421 2469 220 2469 220 2507"/></Shape>
+	    <String CONTENT="cista i estrictament lineal del fet comunicatiu."
+                    HPOS="220"
+                    VPOS="2469"
+                    WIDTH="1201"
+                    HEIGHT="61"
+                    WC="0.985572084784508"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a00d9601"
+                    TAGREFS="LT4147"
+                    BASELINE="327 2589 2645 2578" 
+                    HPOS="324"
+                    VPOS="2528"
+                    WIDTH="2321"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="327 2589 327 2609 2642 2599 2645 2578 2640 2538 1485 2528 1482 2528 1480 2528 1452 2540 355 2533 352 2533 350 2533 324 2543 327 2589"/></Shape>
+	    <String CONTENT="Al contrari, el model de la nova comunicació proposat pel Grup de Palo Alto, serà molt"
+                    HPOS="324"
+                    VPOS="2528"
+                    WIDTH="2321"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f63c2482"
+                    TAGREFS="LT4147"
+                    BASELINE="220 2662 2642 2650" 
+                    HPOS="213"
+                    VPOS="2589"
+                    WIDTH="2427"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="217 2661 217 2688 2636 2672 2640 2646 2628 2589 213 2611 217 2661"/></Shape>
+	    <String CONTENT="diferent. L’antropòleg nord-americà Gregory Bateson^16 i un equip de psiquiatres, Don Jackson^17"
+                    HPOS="213"
+                    VPOS="2589"
+                    WIDTH="2427"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66f47c69"
+                    TAGREFS="LT4147"
+                    BASELINE="223 2738 2645 2728" 
+                    HPOS="220"
+                    VPOS="2688"
+                    WIDTH="2425"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="223 2738 223 2756 2642 2746 2645 2728 2637 2688 220 2690 223 2738"/></Shape>
+	    <String CONTENT="i Paul Watzaliwck,^18 van tractar de definir, entorn dels anys 60-70, aquest nou model a partir"
+                    HPOS="220"
+                    VPOS="2688"
+                    WIDTH="2425"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5700f75c"
+                    TAGREFS="LT4147"
+                    BASELINE="220 2809 2645 2804" 
+                    HPOS="218"
+                    VPOS="2766"
+                    WIDTH="2427"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="220 2809 220 2832 2642 2827 2645 2804 2637 2766 218 2769 220 2809"/></Shape>
+	    <String CONTENT="d’unes experiències, a primera vista, tan estranyes com insòlites, sobre els diàlegs d’un ventrí¬"
+                    HPOS="218"
+                    VPOS="2766"
+                    WIDTH="2427"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_319c1cef"
+                    TAGREFS="LT4147"
+                    BASELINE="220 2891 2645 2881" 
+                    HPOS="218"
+                    VPOS="2827"
+                    WIDTH="2427"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="220 2891 220 2911 2642 2901 2645 2881 2640 2840 2066 2827 2063 2827 2061 2827 2028 2840 2005 2840 1434 2830 1431 2830 1429 2830 1426 2830 1406 2842 1403 2842 1363 2842 870 2832 868 2832 218 2845 220 2891"/></Shape>
+	    <String CONTENT="loc amb els seus ninots, i la comunicació desviant patològica d’un esquizofrènic amb els seus"
+                    HPOS="218"
+                    VPOS="2827"
+                    WIDTH="2427"
+                    HEIGHT="84"
+                    WC="0.988247264797489"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b8d4d91"
+                    TAGREFS="LT4147"
+                    BASELINE="223 2964 484 2959" 
+                    HPOS="220"
+                    VPOS="2906"
+                    WIDTH="264"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="223 2964 223 2982 482 2980 484 2959 479 2921 350 2906 347 2906 345 2906 289 2921 241 2908 238 2908 236 2908 233 2908 231 2908 231 2911 220 2919 223 2964"/></Shape>
+	    <String CONTENT="familiars."
+                    HPOS="220"
+                    VPOS="2906"
+                    WIDTH="264"
+                    HEIGHT="76"
+                    WC="0.97580292224884"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef8b01e4"
+                    TAGREFS="LT4147"
+                    BASELINE="330 3040 2650 3030" 
+                    HPOS="327"
+                    VPOS="2982"
+                    WIDTH="2323"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="330 3040 330 3061 2647 3051 2650 3030 2645 2987 352 2982 350 2982 347 2982 345 2982 327 2990 330 3040"/></Shape>
+	    <String CONTENT="D’altra banda, els antropòlegs i lingüistes Ray Birdwhistell^19 i Edward T. Hall^20 tracten"
+                    HPOS="327"
+                    VPOS="2982"
+                    WIDTH="2323"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_097993a9"
+                    TAGREFS="LT4147"
+                    BASELINE="220 3117 2645 3104" 
+                    HPOS="218"
+                    VPOS="3058"
+                    WIDTH="2427"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="220 3117 220 3137 2642 3124 2645 3104 2637 3058 218 3073 220 3117"/></Shape>
+	    <String CONTENT="d’incorporar l’estudi de la gestualitat (kinèsica) ì de l’espai interpersonal (proxèmica), i fins i"
+                    HPOS="218"
+                    VPOS="3058"
+                    WIDTH="2427"
+                    HEIGHT="79"
+                    WC="0.993173005534153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4489cd68"
+                    TAGREFS="LT4147"
+                    BASELINE="223 3188 2650 3183" 
+                    HPOS="220"
+                    VPOS="3137"
+                    WIDTH="2430"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="223 3188 223 3210 2647 3205 2650 3183 2637 3137 220 3147 223 3188"/></Shape>
+	    <String CONTENT="tot el llenguatge silenciós, a un esquema global de la comunicació que no menystingui o ignori"
+                    HPOS="220"
+                    VPOS="3137"
+                    WIDTH="2430"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f73f65e"
+                    TAGREFS="LT4147"
+                    BASELINE="223 3266 1281 3266" 
+                    HPOS="223"
+                    VPOS="3228"
+                    WIDTH="1058"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="223 3266 223 3287 1281 3287 1281 3266 1281 3228 223 3228 223 3266"/></Shape>
+	    <String CONTENT="els sistemes de comunicació no verbals."
+                    HPOS="223"
+                    VPOS="3228"
+                    WIDTH="1058"
+                    HEIGHT="59"
+                    WC="0.985837677121162"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1f96008"
+                    TAGREFS="LT4147"
+                    BASELINE="335 3342 2650 3335" 
+                    HPOS="332"
+                    VPOS="3282"
+                    WIDTH="2318"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="335 3342 335 3363 2647 3355 2650 3335 2645 3294 1891 3282 1888 3282 1553 3294 1137 3284 1134 3284 1132 3284 1094 3297 365 3287 363 3287 360 3287 332 3297 335 3342"/></Shape>
+	    <String CONTENT="Aquest grup inicial s’ha enfortit entre els anys 1965 i 1975 i no ha esdevingut una xarxa"
+                    HPOS="332"
+                    VPOS="3282"
+                    WIDTH="2318"
+                    HEIGHT="81"
+                    WC="0.988806825675321"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c6aeac75"
+                    TAGREFS="LT4147"
+                    BASELINE="225 3419 2645 3414" 
+                    HPOS="223"
+                    VPOS="3360"
+                    WIDTH="2422"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="225 3419 225 3441 2642 3441 2645 3414 2640 3373 1713 3360 1711 3360 223 3373 225 3419"/></Shape>
+	    <String CONTENT="institucional com molts d’altres, ans més aviat una xarxa intellectual, teòrica i metodològica,"
+                    HPOS="223"
+                    VPOS="3360"
+                    WIDTH="2422"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cedbc442"
+                    TAGREFS="LT4147"
+                    BASELINE="225 3492 2645 3482" 
+                    HPOS="223"
+                    VPOS="3444"
+                    WIDTH="2422"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="225 3492 225 3515 2642 3505 2645 3482 2637 3444 223 3452 225 3492"/></Shape>
+	    <String CONTENT="anomenada humoristicament el col·legi invisible (invisible per als altres i sobretot per a les insti¬"
+                    HPOS="223"
+                    VPOS="3444"
+                    WIDTH="2422"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f46422c"
+                    TAGREFS="LT4147"
+                    BASELINE="228 3566 2650 3561" 
+                    HPOS="225"
+                    VPOS="3523"
+                    WIDTH="2425"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="228 3566 228 3589 2647 3584 2650 3561 2642 3523 225 3525 228 3566"/></Shape>
+	    <String CONTENT="tucions acadèmiques), Avui, existeix als Estats Units una nova generació d’investigadors que"
+                    HPOS="225"
+                    VPOS="3523"
+                    WIDTH="2425"
+                    HEIGHT="66"
+                    WC="0.994765479513939"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_deb41d41"
+                    TAGREFS="LT4147"
+                    BASELINE="225 3642 2647 3637" 
+                    HPOS="223"
+                    VPOS="3599"
+                    WIDTH="2424"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="225 3642 225 3665 2645 3662 2647 3637 2640 3599 223 3601 225 3642"/></Shape>
+	    <String CONTENT="continua i aprofundeix aquesta perspectiva de recerca de la comunicació anomenada orquestral,"
+                    HPOS="223"
+                    VPOS="3599"
+                    WIDTH="2424"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b306769"
+                    TAGREFS="LT4147"
+                    BASELINE="228 3716 2652 3711" 
+                    HPOS="225"
+                    VPOS="3672"
+                    WIDTH="2427"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="228 3716 228 3741 2650 3736 2652 3711 2645 3672 225 3675 228 3716"/></Shape>
+	    <String CONTENT="és à dir, multidireccional ì multifacètica, oposada a la comunicació lineal, mecanicista del cara"
+                    HPOS="225"
+                    VPOS="3672"
+                    WIDTH="2427"
+                    HEIGHT="69"
+                    WC="0.979260531126284"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed07b33b"
+                    TAGREFS="LT4147"
+                    BASELINE="225 3797 439 3797" 
+                    HPOS="225"
+                    VPOS="3761"
+                    WIDTH="214"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="225 3797 225 3815 439 3815 439 3797 439 3761 225 3761 225 3797"/></Shape>
+	    <String CONTENT="a cara."
+                    HPOS="225"
+                    VPOS="3761"
+                    WIDTH="214"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d0fc3ca"
+                    TAGREFS="LT4147"
+                    BASELINE="337 3873 2652 3863" 
+                    HPOS="335"
+                    VPOS="3810"
+                    WIDTH="2317"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="337 3873 337 3891 2650 3888 2652 3863 2647 3825 2170 3810 2167 3810 2165 3810 2132 3822 2099 3810 2096 3810 2094 3810 2091 3810 2089 3810 2066 3825 1992 3812 1990 3812 1792 3825 1766 3812 1764 3812 1561 3812 1558 3812 1441 3827 1101 3815 1099 3815 1096 3815 1068 3827 446 3817 444 3817 441 3817 396 3830 370 3817 368 3817 365 3817 363 3817 335 3830 337 3873"/></Shape>
+	    <String CONTENT="A Catalunya, alguns especialistes com Jordi Berrio, Domènech Bernardó i Josep"
+                    HPOS="335"
+                    VPOS="3810"
+                    WIDTH="2317"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77a2d350"
+                    TAGREFS="LT4147"
+                    BASELINE="225 3949 2652 3939" 
+                    HPOS="223"
+                    VPOS="3886"
+                    WIDTH="2429"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="225 3949 225 3969 2650 3959 2652 3939 2650 3901 2607 3886 2604 3886 2602 3886 2256 3898 2190 3886 2188 3886 2185 3886 2134 3898 2094 3886 2091 3886 2089 3886 2086 3886 2023 3901 1855 3888 1853 3888 1850 3888 1817 3901 1492 3888 1490 3888 1287 3903 1213 3891 1210 3891 1208 3891 1175 3903 736 3893 733 3893 731 3893 728 3893 705 3906 246 3893 243 3893 241 3893 238 3893 223 3903 225 3949"/></Shape>
+	    <String CONTENT="Gifreu treballen, d’alguns anys ençà, principalment sobre la comunicació mediàtica (els"
+                    HPOS="223"
+                    VPOS="3886"
+                    WIDTH="2429"
+                    HEIGHT="83"
+                    WC="0.986879019946842"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e41eb00c"
+                    TAGREFS="LT4147"
+                    BASELINE="228 4020 2652 4015" 
+                    HPOS="225"
+                    VPOS="3964"
+                    WIDTH="2427"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="228 4020 228 4041 2650 4035 2652 4015 2647 3980 1807 3964 1804 3964 1802 3964 1777 3977 1609 3964 1606 3964 1530 3977 1462 3964 1459 3964 1335 3980 1274 3967 1271 3967 1188 3980 827 3967 825 3967 766 3980 728 3967 726 3967 723 3967 515 3980 477 3967 474 3967 472 3967 365 3980 294 3967 291 3967 289 3967 225 3982 228 4020"/></Shape>
+	    <String CONTENT="mitjans de comunicació de masses i la relació amb l’ús lingüístic), més que no pas en"
+                    HPOS="225"
+                    VPOS="3964"
+                    WIDTH="2427"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ca59013"
+                    TAGREFS="LT4147"
+                    BASELINE="228 4091 2645 4091" 
+                    HPOS="228"
+                    VPOS="4053"
+                    WIDTH="2417"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="228 4091 228 4117 2645 4117 2645 4091 2645 4053 228 4053 228 4091"/></Shape>
+	    <String CONTENT="direcció de les ciències socials com ho fan, i ho acabem d’indicar més amunt, als Estats Units."
+                    HPOS="228"
+                    VPOS="4053"
+                    WIDTH="2417"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3529104b"
+                    TAGREFS="LT4147"
+                    BASELINE="231 4173 2652 4165" 
+                    HPOS="228"
+                    VPOS="4114"
+                    WIDTH="2424"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="231 4173 231 4195 2650 4188 2652 4165 2647 4127 1881 4114 1878 4114 1804 4127 1794 4129 228 4129 231 4173"/></Shape>
+	    <String CONTENT="I és segurament una llàstima que aquesta perspectiva d’estudi no s’hagi difós més entre"
+                    HPOS="228"
+                    VPOS="4114"
+                    WIDTH="2424"
+                    HEIGHT="81"
+                    WC="0.987930312261477"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32f2a5dc"
+                    TAGREFS="LT4147"
+                    BASELINE="231 4241 495 4246" 
+                    HPOS="228"
+                    VPOS="4206"
+                    WIDTH="267"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="231 4241 228 4266 489 4272 495 4246 492 4211 231 4206 231 4241"/></Shape>
+	    <String CONTENT="nosaltres."
+                    HPOS="228"
+                    VPOS="4206"
+                    WIDTH="267"
+                    HEIGHT="66"
+                    WC="0.998665261268616"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="285"
+                   VPOS="759"
+                   WIDTH="2369"
+                   HEIGHT="740"
+                   ID="eSc_textblock_b9fed53a"
+                   TAGREFS="BT10594">
+          <Shape><Polygon POINTS="285 759 285 1499 2654 1499 2654 759"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_28072638"
+                    TAGREFS="LT4147"
+                    BASELINE="1388 916 1627 911" 
+                    HPOS="1386"
+                    VPOS="863"
+                    WIDTH="241"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1388 916 1388 929 1627 923 1627 911 1622 873 1406 863 1403 863 1401 863 1398 863 1386 870 1388 916"/></Shape>
+	    <String CONTENT="Context"
+                    HPOS="1386"
+                    VPOS="863"
+                    WIDTH="241"
+                    HEIGHT="66"
+                    WC="0.999418190547398"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a27a37b"
+                    TAGREFS="LT4147"
+                    BASELINE="1388 989 1650 989" 
+                    HPOS="1388"
+                    VPOS="951"
+                    WIDTH="262"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1388 989 1388 1010 1650 1010 1650 989 1650 951 1388 951 1388 989"/></Shape>
+	    <String CONTENT="Contacte"
+                    HPOS="1388"
+                    VPOS="951"
+                    WIDTH="262"
+                    HEIGHT="59"
+                    WC="0.999920248985291"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3210f76c"
+                    TAGREFS="LT4147"
+                    BASELINE="484 1147 881 1151" 
+                    HPOS="480"
+                    VPOS="1081"
+                    WIDTH="400"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="483 1146 480 1161 872 1165 880 1149 880 1081 483 1081 483 1146"/></Shape>
+	    <String CONTENT="DESTINADOR"
+                    HPOS="480"
+                    VPOS="1081"
+                    WIDTH="400"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc4e0fd2"
+                    TAGREFS="LT4147"
+                    BASELINE="1403 1149 1751 1149" 
+                    HPOS="1403"
+                    VPOS="1104"
+                    WIDTH="348"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1403 1149 1403 1170 1751 1170 1751 1149 1749 1104 1403 1104 1403 1149"/></Shape>
+	    <String CONTENT="MlSSATGE"
+                    HPOS="1403"
+                    VPOS="1104"
+                    WIDTH="348"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c90abf20"
+                    TAGREFS="LT4147"
+                    BASELINE="2191 1161 2570 1161" 
+                    HPOS="2190"
+                    VPOS="1039"
+                    WIDTH="377"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="2190 1157 2190 1180 2563 1191 2567 1157 2567 1039 2190 1039 2190 1157"/></Shape>
+	    <String CONTENT="DESTINARI"
+                    HPOS="2190"
+                    VPOS="1039"
+                    WIDTH="377"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_48a7056d"
+                    TAGREFS="LT4147"
+                    BASELINE="462 1264 908 1259" 
+                    HPOS="459"
+                    VPOS="1218"
+                    WIDTH="449"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="462 1264 462 1284 906 1281 908 1259 901 1218 459 1220 462 1264"/></Shape>
+	    <String CONTENT="(Funció Emotiva)"
+                    HPOS="459"
+                    VPOS="1218"
+                    WIDTH="449"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9bc0b5f"
+                    TAGREFS="LT4147"
+                    BASELINE="2145 1266 2614 1266" 
+                    HPOS="2145"
+                    VPOS="1231"
+                    WIDTH="469"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="2145 1266 2145 1289 2614 1289 2614 1266 2614 1231 2145 1231 2145 1266"/></Shape>
+	    <String CONTENT="(Funció Conativa)"
+                    HPOS="2145"
+                    VPOS="1231"
+                    WIDTH="469"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_172cf877"
+                    TAGREFS="LT4147"
+                    BASELINE="1388 1355 1538 1347" 
+                    HPOS="1386"
+                    VPOS="1299"
+                    WIDTH="152"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1388 1355 1388 1370 1485 1380 1487 1380 1490 1380 1538 1363 1538 1347 1533 1307 1424 1299 1421 1299 1419 1299 1386 1309 1388 1355"/></Shape>
+	    <String CONTENT="codi"
+                    HPOS="1386"
+                    VPOS="1299"
+                    WIDTH="152"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6d32701"
+                    TAGREFS="LT4147"
+                    BASELINE="1386 1424 1698 1421" 
+                    HPOS="1383"
+                    VPOS="1378"
+                    WIDTH="315"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1386 1424 1386 1441 1662 1454 1665 1454 1667 1454 1698 1439 1698 1421 1690 1378 1383 1378 1386 1424"/></Shape>
+	    <String CONTENT="(metaling.)"
+                    HPOS="1383"
+                    VPOS="1378"
+                    WIDTH="315"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2562"
+                   VPOS="4338"
+                   WIDTH="99"
+                   HEIGHT="100"
+                   ID="eSc_textblock_e2fc1805"
+                   TAGREFS="BT10592">
+          <Shape><Polygon POINTS="2562 4338 2562 4438 2661 4438 2661 4338"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cfa6bc1e"
+                    TAGREFS="LT4147"
+                    BASELINE="2569 4396 2650 4388" 
+                    HPOS="2561"
+                    VPOS="4338"
+                    WIDTH="89"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="2640 4363 2624 4343 2591 4338 2589 4338 2586 4338 2561 4350 2569 4396 2569 4416 2650 4416 2650 4388 2645 4371 2640 4363"/></Shape>
+	    <String CONTENT="33"
+                    HPOS="2561"
+                    VPOS="4338"
+                    WIDTH="89"
+                    HEIGHT="78"
+                    WC="0.999695181846619"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
