@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1894_01_dec_plutus.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10481" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4095" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4094" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="946"
+          HEIGHT="4078"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="946"
+                  HEIGHT="4078">
+        
+        <TextBlock HPOS="29"
+                   VPOS="35"
+                   WIDTH="847"
+                   HEIGHT="4033"
+                   ID="eSc_textblock_a7b2d108"
+                   TAGREFS="BT10481">
+          <Shape><Polygon POINTS="29 37 71 4068 876 4068 876 35"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_00266fd6"
+                    TAGREFS="LT4094"
+                    BASELINE="40 326 794 321" 
+                    HPOS="38"
+                    VPOS="269"
+                    WIDTH="756"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="61 276 38 289 40 326 40 348 789 355 794 321 789 287 551 287 551 285 490 269 487 269 485 269 483 269 419 285 412 287 403 285 349 271 347 271 344 271 281 285 272 287 265 285 197 271 68 271 61 276"/></Shape>
+	    <String CONTENT="Nou tai gagnain gro lexkurzion avan"
+                    HPOS="38"
+                    VPOS="269"
+                    WIDTH="756"
+                    HEIGHT="86"
+                    WC="0.980870267323085"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1722475e"
+                    TAGREFS="LT4094"
+                    BASELINE="36 385 796 378" 
+                    HPOS="34"
+                    VPOS="339"
+                    WIDTH="762"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="36 385 36 416 322 403 791 410 796 378 791 344 61 339 58 339 56 339 34 348 36 385"/></Shape>
+	    <String CONTENT="zier, épi molai di vou, nou tai proche"
+                    HPOS="34"
+                    VPOS="339"
+                    WIDTH="762"
+                    HEIGHT="77"
+                    WC="0.9842572196936"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e51177ea"
+                    TAGREFS="LT4094"
+                    BASELINE="36 444 803 437" 
+                    HPOS="34"
+                    VPOS="394"
+                    WIDTH="769"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="36 444 36 471 800 459 803 437 796 394 34 401 36 444"/></Shape>
+	    <String CONTENT="perdi Mamzel Kasimir. Vous konai so"
+                    HPOS="34"
+                    VPOS="394"
+                    WIDTH="769"
+                    HEIGHT="77"
+                    WC="0.99002263886588"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba575e62"
+                    TAGREFS="LT4094"
+                    BASELINE="38 496 803 496" 
+                    HPOS="38"
+                    VPOS="455"
+                    WIDTH="765"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="38 496 38 516 800 525 803 496 803 462 38 455 38 496"/></Shape>
+	    <String CONTENT="la djeule si gro, ain ti souri tai kolai"
+                    HPOS="38"
+                    VPOS="455"
+                    WIDTH="765"
+                    HEIGHT="70"
+                    WC="0.987629988789558"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6897ebd"
+                    TAGREFS="LT4094"
+                    BASELINE="38 550 803 555" 
+                    HPOS="36"
+                    VPOS="502"
+                    WIDTH="767"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="36 577 800 577 803 555 798 512 503 518 446 507 444 507 442 507 440 507 437 507 419 518 397 507 394 505 392 505 390 505 372 505 272 516 240 505 238 505 235 505 233 505 231 505 215 518 83 518 40 502 38 550 36 577"/></Shape>
+	    <String CONTENT="dans so la gorje, li tapai montrai"
+                    HPOS="36"
+                    VPOS="502"
+                    WIDTH="767"
+                    HEIGHT="75"
+                    WC="0.981159616919125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fde10068"
+                    TAGREFS="LT4094"
+                    BASELINE="43 609 800 609" 
+                    HPOS="43"
+                    VPOS="568"
+                    WIDTH="757"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="43 609 43 629 798 638 800 609 798 568 43 575 43 609"/></Shape>
+	    <String CONTENT="moon komon ye valai fromage si ain"
+                    HPOS="43"
+                    VPOS="568"
+                    WIDTH="757"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_688600df"
+                    TAGREFS="LT4094"
+                    BASELINE="47 668 803 661" 
+                    HPOS="45"
+                    VPOS="623"
+                    WIDTH="758"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="47 668 47 700 117 684 165 697 167 697 170 697 265 695 267 695 269 695 269 693 281 684 372 693 374 693 376 693 378 693 378 690 390 681 426 693 428 693 431 693 433 693 455 681 562 693 571 693 573 693 576 693 578 693 594 679 614 693 617 693 619 693 621 693 623 693 628 693 669 679 696 690 700 693 703 693 705 693 800 688 803 661 798 623 115 623 113 623 45 634 47 668"/></Shape>
+	    <String CONTENT="gro shiko, kon ti baite la sotai"
+                    HPOS="45"
+                    VPOS="623"
+                    WIDTH="758"
+                    HEIGHT="77"
+                    WC="0.986922081559896"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12089bb0"
+                    TAGREFS="LT4094"
+                    BASELINE="43 724 807 724" 
+                    HPOS="43"
+                    VPOS="681"
+                    WIDTH="764"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="43 724 43 743 805 745 807 724 805 681 43 681 43 724"/></Shape>
+	    <String CONTENT="dan so trap. Si setai pa, ain doctair"
+                    HPOS="43"
+                    VPOS="681"
+                    WIDTH="764"
+                    HEIGHT="64"
+                    WC="0.987658379851161"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b749ddf"
+                    TAGREFS="LT4094"
+                    BASELINE="47 777 803 783" 
+                    HPOS="45"
+                    VPOS="729"
+                    WIDTH="758"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="47 777 45 795 798 808 803 783 800 743 47 729 47 777"/></Shape>
+	    <String CONTENT="Voudou ki tai la, mo di vou Fiston,"
+                    HPOS="45"
+                    VPOS="729"
+                    WIDTH="758"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_873f8080"
+                    TAGREFS="LT4094"
+                    BASELINE="43 833 809 838" 
+                    HPOS="40"
+                    VPOS="792"
+                    WIDTH="769"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="43 833 40 851 805 865 809 838 807 799 43 792 43 833"/></Shape>
+	    <String CONTENT="li tai gone wa. Mai li tai resistai li:"
+                    HPOS="40"
+                    VPOS="792"
+                    WIDTH="769"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61d6c5a5"
+                    TAGREFS="LT4094"
+                    BASELINE="45 890 809 894" 
+                    HPOS="43"
+                    VPOS="845"
+                    WIDTH="766"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="43 917 807 913 809 894 807 860 431 860 417 851 410 847 408 847 406 847 403 847 308 849 88 856 47 845 45 890 43 917"/></Shape>
+	    <String CONTENT="doctair la vini avek ain gro morso"
+                    HPOS="43"
+                    VPOS="845"
+                    WIDTH="766"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53f5fae6"
+                    TAGREFS="LT4094"
+                    BASELINE="45 951 814 951" 
+                    HPOS="45"
+                    VPOS="910"
+                    WIDTH="769"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="45 951 45 974 814 974 814 951 812 910 45 913 45 951"/></Shape>
+	    <String CONTENT="pain mayi, épi souri la, tournai so la"
+                    HPOS="45"
+                    VPOS="910"
+                    WIDTH="769"
+                    HEIGHT="64"
+                    WC="0.990672409534454"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d289251"
+                    TAGREFS="LT4094"
+                    BASELINE="45 1003 814 1008" 
+                    HPOS="43"
+                    VPOS="969"
+                    WIDTH="771"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="45 1003 43 1021 809 1030 814 1008 812 974 45 969 45 1003"/></Shape>
+	    <String CONTENT="tchai kom nou zote tai jwai kon nou"
+                    HPOS="43"
+                    VPOS="969"
+                    WIDTH="771"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88b3baf9"
+                    TAGREFS="LT4094"
+                    BASELINE="45 1064 814 1064" 
+                    HPOS="45"
+                    VPOS="1017"
+                    WIDTH="769"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="45 1064 45 1096 814 1096 814 1064 814 1021 45 1017 45 1064"/></Shape>
+	    <String CONTENT="zote tai piti, li fai ain kilbute. Mo di"
+                    HPOS="45"
+                    VPOS="1017"
+                    WIDTH="769"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6b326dc"
+                    TAGREFS="LT4094"
+                    BASELINE="47 1121 812 1116" 
+                    HPOS="45"
+                    VPOS="1082"
+                    WIDTH="767"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="47 1121 49 1155 97 1144 809 1144 812 1116 805 1082 45 1085 47 1121"/></Shape>
+	    <String CONTENT="vou ti baite la ye gagnain sprite kom"
+                    HPOS="45"
+                    VPOS="1082"
+                    WIDTH="767"
+                    HEIGHT="73"
+                    WC="0.981805435709051"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec282df4"
+                    TAGREFS="LT4094"
+                    BASELINE="52 1175 816 1180" 
+                    HPOS="47"
+                    VPOS="1128"
+                    WIDTH="766"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="51 1172 47 1206 809 1206 813 1179 809 1135 51 1128 51 1172"/></Shape>
+	    <String CONTENT="gro moon. Eh bin pou di vou Peleri¬"
+                    HPOS="47"
+                    VPOS="1128"
+                    WIDTH="766"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f692588"
+                    TAGREFS="LT4094"
+                    BASELINE="47 1232 816 1236" 
+                    HPOS="45"
+                    VPOS="1189"
+                    WIDTH="771"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="45 1255 812 1257 816 1236 814 1203 440 1203 435 1196 433 1191 431 1191 431 1189 428 1189 426 1189 424 1189 274 1193 61 1198 54 1189 47 1232 45 1255"/></Shape>
+	    <String CONTENT="ne, Noon, Azemi, Minaite, Alice,"
+                    HPOS="45"
+                    VPOS="1189"
+                    WIDTH="771"
+                    HEIGHT="68"
+                    WC="0.99906755797565"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d0801dd"
+                    TAGREFS="LT4094"
+                    BASELINE="47 1286 814 1291" 
+                    HPOS="45"
+                    VPOS="1241"
+                    WIDTH="769"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="47 1286 45 1314 812 1311 814 1291 809 1248 106 1252 47 1241 47 1286"/></Shape>
+	    <String CONTENT="Pompadorai, Mima, Tilaite épi Jéri¬"
+                    HPOS="45"
+                    VPOS="1241"
+                    WIDTH="769"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a42fdc13"
+                    TAGREFS="LT4094"
+                    BASELINE="47 1345 818 1350" 
+                    HPOS="45"
+                    VPOS="1311"
+                    WIDTH="773"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="47 1345 45 1363 814 1372 818 1350 816 1316 47 1311 47 1345"/></Shape>
+	    <String CONTENT="fol avek Fifine tai la, sai tou moon"
+                    HPOS="45"
+                    VPOS="1311"
+                    WIDTH="773"
+                    HEIGHT="61"
+                    WC="0.986363147695859"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1894f372"
+                    TAGREFS="LT4094"
+                    BASELINE="47 1409 818 1409" 
+                    HPOS="47"
+                    VPOS="1363"
+                    WIDTH="771"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="47 1409 47 1434 818 1429 818 1409 818 1375 47 1363 47 1409"/></Shape>
+	    <String CONTENT="toi to konai. Nou tai gagnai ain la¬"
+                    HPOS="47"
+                    VPOS="1363"
+                    WIDTH="771"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21ed0e66"
+                    TAGREFS="LT4094"
+                    BASELINE="47 1465 818 1465" 
+                    HPOS="47"
+                    VPOS="1420"
+                    WIDTH="771"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="47 1465 47 1481 117 1495 120 1497 229 1497 229 1495 231 1495 233 1495 233 1493 245 1483 328 1495 331 1495 333 1495 365 1483 367 1483 412 1495 415 1495 417 1495 818 1483 818 1465 818 1434 47 1420 47 1465"/></Shape>
+	    <String CONTENT="kordaion ain tambour epi ain"
+                    HPOS="47"
+                    VPOS="1420"
+                    WIDTH="771"
+                    HEIGHT="77"
+                    WC="0.965887950999396"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_86e01eac"
+                    TAGREFS="LT4094"
+                    BASELINE="47 1520 823 1526" 
+                    HPOS="45"
+                    VPOS="1470"
+                    WIDTH="778"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="47 1520 45 1538 65 1549 68 1549 70 1551 176 1551 176 1549 179 1549 181 1549 181 1547 190 1538 192 1538 208 1538 333 1551 335 1551 403 1542 426 1540 440 1542 471 1551 474 1551 476 1551 821 1549 823 1526 823 1488 737 1477 735 1477 732 1477 730 1477 721 1483 710 1493 569 1493 508 1479 476 1474 474 1474 471 1474 460 1479 433 1488 292 1474 258 1472 256 1472 254 1472 251 1472 251 1474 238 1488 165 1488 151 1474 151 1472 149 1472 147 1472 145 1472 142 1472 113 1481 47 1470 47 1520"/></Shape>
+	    <String CONTENT="bitain ki jwai kom ain braz"
+                    HPOS="45"
+                    VPOS="1470"
+                    WIDTH="778"
+                    HEIGHT="81"
+                    WC="0.981966729517336"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0deb4b2d"
+                    TAGREFS="LT4094"
+                    BASELINE="49 1574 823 1583" 
+                    HPOS="47"
+                    VPOS="1526"
+                    WIDTH="776"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="47 1594 818 1604 823 1583 818 1538 81 1540 52 1526 49 1574 47 1594"/></Shape>
+	    <String CONTENT="baine ye pelai sa lamonika."
+                    HPOS="47"
+                    VPOS="1526"
+                    WIDTH="776"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7d42ba5"
+                    TAGREFS="LT4094"
+                    BASELINE="52 1631 821 1635" 
+                    HPOS="49"
+                    VPOS="1581"
+                    WIDTH="772"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="52 1631 49 1649 88 1662 90 1662 93 1662 818 1653 821 1635 818 1590 52 1581 52 1631"/></Shape>
+	    <String CONTENT="Sa Fiston setai la misik, Jaine pense"
+                    HPOS="49"
+                    VPOS="1581"
+                    WIDTH="772"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc2da1c0"
+                    TAGREFS="LT4094"
+                    BASELINE="52 1687 825 1694" 
+                    HPOS="49"
+                    VPOS="1653"
+                    WIDTH="776"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="823 1662 821 1658 52 1653 52 1687 49 1708 821 1715 825 1694 823 1660 823 1662"/></Shape>
+	    <String CONTENT="la yé, ki tai dansai si ain plafon yé"
+                    HPOS="49"
+                    VPOS="1653"
+                    WIDTH="776"
+                    HEIGHT="62"
+                    WC="0.97862989627398"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84ff9e9a"
+                    TAGREFS="LT4094"
+                    BASELINE="49 1746 821 1751" 
+                    HPOS="47"
+                    VPOS="1701"
+                    WIDTH="774"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="47 1776 818 1776 821 1751 821 1717 460 1717 424 1708 397 1703 394 1703 292 1705 74 1712 54 1701 49 1746 47 1776"/></Shape>
+	    <String CONTENT="pelai zairbe tai crai yé tapai montai"
+                    HPOS="47"
+                    VPOS="1701"
+                    WIDTH="774"
+                    HEIGHT="75"
+                    WC="0.983685153095346"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0efaff18"
+                    TAGREFS="LT4094"
+                    BASELINE="52 1798 821 1805" 
+                    HPOS="49"
+                    VPOS="1764"
+                    WIDTH="772"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="52 1798 49 1821 74 1832 77 1832 79 1832 222 1823 308 1835 310 1835 818 1826 821 1805 821 1771 52 1764 52 1798"/></Shape>
+	    <String CONTENT="dans siail, et mamzel la yé? sa mo di"
+                    HPOS="49"
+                    VPOS="1764"
+                    WIDTH="772"
+                    HEIGHT="71"
+                    WC="0.985589667370445"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_93c9e60b"
+                    TAGREFS="LT4094"
+                    BASELINE="54 1857 821 1862" 
+                    HPOS="52"
+                    VPOS="1816"
+                    WIDTH="769"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="54 1857 52 1878 816 1887 821 1862 821 1828 54 1816 54 1857"/></Shape>
+	    <String CONTENT="vou, setai ton sa nou tai kapab fai pou"
+                    HPOS="52"
+                    VPOS="1816"
+                    WIDTH="769"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88f28294"
+                    TAGREFS="LT4094"
+                    BASELINE="54 1914 821 1921" 
+                    HPOS="52"
+                    VPOS="1875"
+                    WIDTH="769"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="812 1875 54 1875 54 1914 52 1932 83 1946 86 1946 88 1946 533 1939 562 1950 564 1950 567 1950 818 1939 821 1921 816 1882 812 1875"/></Shape>
+	    <String CONTENT="fai yé kitai mai ta laire ye woir setai"
+                    HPOS="52"
+                    VPOS="1875"
+                    WIDTH="769"
+                    HEIGHT="75"
+                    WC="0.958856672048569"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_003d87dc"
+                    TAGREFS="LT4094"
+                    BASELINE="54 1973 818 1977" 
+                    HPOS="52"
+                    VPOS="1932"
+                    WIDTH="766"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="54 1973 52 2000 816 1995 818 1977 816 1943 54 1932 54 1973"/></Shape>
+	    <String CONTENT="tan pou kouri la maison ye give up"
+                    HPOS="52"
+                    VPOS="1932"
+                    WIDTH="766"
+                    HEIGHT="68"
+                    WC="0.981298373026006"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc555d3c"
+                    TAGREFS="LT4094"
+                    BASELINE="54 2032 825 2041" 
+                    HPOS="52"
+                    VPOS="1991"
+                    WIDTH="773"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="54 2032 52 2052 821 2068 825 2041 823 1995 54 1991 54 2032"/></Shape>
+	    <String CONTENT="nou fai ye boi lalisaite,epi limon nade"
+                    HPOS="52"
+                    VPOS="1991"
+                    WIDTH="773"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7dc22b6b"
+                    TAGREFS="LT4094"
+                    BASELINE="56 2093 821 2100" 
+                    HPOS="54"
+                    VPOS="2048"
+                    WIDTH="767"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="54 2113 816 2120 821 2100 818 2068 735 2054 732 2054 601 2061 548 2063 544 2059 537 2054 537 2052 535 2052 533 2052 530 2052 372 2054 102 2061 58 2048 56 2093 54 2113"/></Shape>
+	    <String CONTENT="vooz pou ye pa tonrdi la taite, Mam¬"
+                    HPOS="54"
+                    VPOS="2048"
+                    WIDTH="767"
+                    HEIGHT="72"
+                    WC="0.996233796079954"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bdc504df"
+                    TAGREFS="LT4094"
+                    BASELINE="56 2152 823 2159" 
+                    HPOS="54"
+                    VPOS="2104"
+                    WIDTH="769"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="54 2170 818 2186 823 2159 818 2116 83 2116 58 2104 56 2152 54 2170"/></Shape>
+	    <String CONTENT="zel Alice Pompadorai tai di, Mishiai"
+                    HPOS="54"
+                    VPOS="2104"
+                    WIDTH="769"
+                    HEIGHT="82"
+                    WC="0.986079757412275"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cb35759"
+                    TAGREFS="LT4094"
+                    BASELINE="54 2208 828 2215" 
+                    HPOS="52"
+                    VPOS="2161"
+                    WIDTH="776"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="54 2208 52 2224 122 2238 124 2238 825 2233 828 2215 828 2177 215 2163 213 2163 206 2163 117 2172 54 2161 54 2208"/></Shape>
+	    <String CONTENT="Plutus? molai raimairsion vou epi"
+                    HPOS="52"
+                    VPOS="2161"
+                    WIDTH="776"
+                    HEIGHT="77"
+                    WC="0.987737987980698"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b313a849"
+                    TAGREFS="LT4094"
+                    BASELINE="56 2263 828 2274" 
+                    HPOS="54"
+                    VPOS="2215"
+                    WIDTH="774"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="54 2283 70 2292 72 2292 74 2292 249 2297 251 2297 485 2288 503 2299 505 2299 508 2299 510 2299 573 2290 769 2304 771 2304 825 2290 828 2274 828 2240 775 2227 773 2227 771 2227 676 2233 653 2236 648 2233 637 2224 635 2224 632 2224 630 2224 580 2231 551 2236 537 2231 521 2222 519 2222 517 2222 514 2222 487 2229 465 2233 254 2222 251 2222 249 2222 229 2231 217 2220 215 2217 213 2217 210 2217 208 2217 192 2220 115 2229 58 2215 56 2263 54 2283"/></Shape>
+	    <String CONTENT="komitai la (pou mo sai tehairmaine"
+                    HPOS="54"
+                    VPOS="2215"
+                    WIDTH="774"
+                    HEIGHT="89"
+                    WC="0.968740759526982"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1cf126dd"
+                    TAGREFS="LT4094"
+                    BASELINE="56 2322 830 2331" 
+                    HPOS="54"
+                    VPOS="2285"
+                    WIDTH="776"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="56 2322 54 2342 825 2358 830 2331 828 2290 56 2285 56 2322"/></Shape>
+	    <String CONTENT="jaine mamzel ki tai la) Na jamais bliai"
+                    HPOS="54"
+                    VPOS="2285"
+                    WIDTH="776"
+                    HEIGHT="73"
+                    WC="0.994165833179767"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be094bca"
+                    TAGREFS="LT4094"
+                    BASELINE="56 2381 830 2385" 
+                    HPOS="54"
+                    VPOS="2347"
+                    WIDTH="776"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="56 2381 54 2401 825 2415 830 2385 828 2349 56 2347 56 2381"/></Shape>
+	    <String CONTENT="jou si la, epi daimain á soir; mo vitai"
+                    HPOS="54"
+                    VPOS="2347"
+                    WIDTH="776"
+                    HEIGHT="68"
+                    WC="0.996900126338005"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58123315"
+                    TAGREFS="LT4094"
+                    BASELINE="61 2435 825 2444" 
+                    HPOS="58"
+                    VPOS="2390"
+                    WIDTH="767"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="61 2435 58 2453 90 2464 93 2464 821 2469 825 2444 823 2406 61 2390 61 2435"/></Shape>
+	    <String CONTENT="vou zote pou vini kotai shai moin."
+                    HPOS="58"
+                    VPOS="2390"
+                    WIDTH="767"
+                    HEIGHT="79"
+                    WC="0.984445755972582"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_07080e21"
+                    TAGREFS="LT4094"
+                    BASELINE="61 2492 825 2501" 
+                    HPOS="58"
+                    VPOS="2444"
+                    WIDTH="767"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="61 2492 58 2519 821 2530 825 2501 823 2467 548 2451 546 2451 499 2455 444 2462 403 2453 381 2449 378 2449 342 2451 256 2460 238 2449 235 2446 233 2446 231 2446 229 2446 210 2449 129 2458 61 2444 61 2492"/></Shape>
+	    <String CONTENT="Ma palai nonsai mo marie age. Vou"
+                    HPOS="58"
+                    VPOS="2444"
+                    WIDTH="767"
+                    HEIGHT="86"
+                    WC="0.968046219059915"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_401ed687"
+                    TAGREFS="LT4094"
+                    BASELINE="58 2555 828 2555" 
+                    HPOS="58"
+                    VPOS="2510"
+                    WIDTH="770"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="818 2519 58 2510 58 2555 58 2575 825 2582 828 2555 828 2535 818 2519"/></Shape>
+	    <String CONTENT="konai mo fai mo mash si lexkursion la"
+                    HPOS="58"
+                    VPOS="2510"
+                    WIDTH="770"
+                    HEIGHT="72"
+                    WC="0.985150532142536"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12e9f389"
+                    TAGREFS="LT4094"
+                    BASELINE="61 2609 832 2614" 
+                    HPOS="58"
+                    VPOS="2562"
+                    WIDTH="774"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="61 2609 58 2637 828 2639 832 2614 828 2571 517 2578 499 2566 496 2566 494 2566 492 2566 490 2566 462 2578 306 2564 299 2564 297 2564 294 2564 292 2564 276 2578 181 2578 170 2566 170 2564 167 2564 165 2564 61 2562 61 2609"/></Shape>
+	    <String CONTENT="epi li pop the question. Mo konai"
+                    HPOS="58"
+                    VPOS="2562"
+                    WIDTH="774"
+                    HEIGHT="77"
+                    WC="0.991318641286908"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11ce9606"
+                    TAGREFS="LT4094"
+                    BASELINE="58 2664 830 2673" 
+                    HPOS="56"
+                    VPOS="2628"
+                    WIDTH="774"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="58 2664 56 2682 825 2691 830 2673 830 2632 58 2628 58 2664"/></Shape>
+	    <String CONTENT="laute Mamzel la yé fai jis kom moin"
+                    HPOS="56"
+                    VPOS="2628"
+                    WIDTH="774"
+                    HEIGHT="63"
+                    WC="0.987872583998574"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ef0184d"
+                    TAGREFS="LT4094"
+                    BASELINE="61 2725 825 2725" 
+                    HPOS="61"
+                    VPOS="2680"
+                    WIDTH="764"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="61 2725 61 2745 156 2759 158 2759 247 2748 263 2759 265 2759 267 2759 269 2759 335 2748 809 2759 812 2759 814 2759 816 2759 816 2757 825 2748 825 2725 825 2691 61 2680 61 2725"/></Shape>
+	    <String CONTENT="mai jaine jense la yé tai pa ready, Sa"
+                    HPOS="61"
+                    VPOS="2680"
+                    WIDTH="764"
+                    HEIGHT="79"
+                    WC="0.986945667327979"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9549f08a"
+                    TAGREFS="LT4094"
+                    BASELINE="58 2778 830 2786" 
+                    HPOS="54"
+                    VPOS="2725"
+                    WIDTH="772"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="193 2725 159 2725 125 2725 91 2725 57 2725 57 2776 54 2803 820 2813 826 2783 823 2739 210 2725 193 2725"/></Shape>
+	    <String CONTENT="vou crai pou sa Fiston, mo di vou sai"
+                    HPOS="54"
+                    VPOS="2725"
+                    WIDTH="772"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3aba3e55"
+                    TAGREFS="LT4094"
+                    BASELINE="61 2852 834 2852" 
+                    HPOS="61"
+                    VPOS="2802"
+                    WIDTH="773"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="61 2852 61 2881 834 2879 834 2852 834 2813 567 2802 564 2802 460 2813 453 2813 446 2813 367 2802 365 2802 362 2802 319 2813 317 2813 315 2813 229 2802 226 2802 224 2802 190 2813 129 2802 127 2802 61 2813 61 2852"/></Shape>
+	    <String CONTENT="pas la paine. Napai get knock out"
+                    HPOS="61"
+                    VPOS="2802"
+                    WIDTH="773"
+                    HEIGHT="79"
+                    WC="0.965070668495063"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed96c4ca"
+                    TAGREFS="LT4094"
+                    BASELINE="61 2904 828 2911" 
+                    HPOS="58"
+                    VPOS="2856"
+                    WIDTH="770"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="61 2904 58 2927 825 2927 828 2911 825 2874 571 2861 569 2861 444 2872 421 2872 406 2870 301 2856 299 2856 231 2870 226 2872 140 2872 138 2870 129 2861 129 2859 127 2859 124 2859 122 2859 61 2868 61 2904"/></Shape>
+	    <String CONTENT="epi ma alai kitai tou baitize kom sa,"
+                    HPOS="58"
+                    VPOS="2856"
+                    WIDTH="770"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3272ef1e"
+                    TAGREFS="LT4094"
+                    BASELINE="61 2961 830 2965" 
+                    HPOS="58"
+                    VPOS="2924"
+                    WIDTH="772"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="61 2961 58 2981 74 2990 77 2990 79 2990 81 2990 265 2981 285 2981 825 2992 830 2965 828 2931 61 2924 61 2961"/></Shape>
+	    <String CONTENT="ma palai trouvai tante Marsailine"
+                    HPOS="58"
+                    VPOS="2924"
+                    WIDTH="772"
+                    HEIGHT="68"
+                    WC="0.9843260122068"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e2a0e77"
+                    TAGREFS="LT4094"
+                    BASELINE="63 3017 832 3022" 
+                    HPOS="61"
+                    VPOS="2970"
+                    WIDTH="771"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="823 2983 97 2983 65 2970 63 3017 61 3042 830 3040 832 3022 830 2990 823 2983"/></Shape>
+	    <String CONTENT="pou li shershai moin ain joli ti mam¬"
+                    HPOS="61"
+                    VPOS="2970"
+                    WIDTH="771"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ebdebce"
+                    TAGREFS="LT4094"
+                    BASELINE="63 3074 821 3081" 
+                    HPOS="61"
+                    VPOS="3029"
+                    WIDTH="760"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="63 3074 61 3092 816 3106 821 3081 818 3040 63 3029 63 3074"/></Shape>
+	    <String CONTENT="zel si vou olai ma kosai pou toi osi,"
+                    HPOS="61"
+                    VPOS="3029"
+                    WIDTH="760"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c769450"
+                    TAGREFS="LT4094"
+                    BASELINE="61 3135 825 3135" 
+                    HPOS="61"
+                    VPOS="3087"
+                    WIDTH="764"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="61 3135 61 3164 825 3160 825 3135 825 3101 61 3087 61 3135"/></Shape>
+	    <String CONTENT="passekai na va pa gagnain ain show"
+                    HPOS="61"
+                    VPOS="3087"
+                    WIDTH="764"
+                    HEIGHT="77"
+                    WC="0.992220871588763"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97fbd3ee"
+                    TAGREFS="LT4094"
+                    BASELINE="61 3187 828 3192" 
+                    HPOS="58"
+                    VPOS="3153"
+                    WIDTH="770"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="61 3187 58 3214 442 3208 823 3221 828 3192 825 3153 61 3153 61 3187"/></Shape>
+	    <String CONTENT="avek drommairee. Mo bliai di vou,"
+                    HPOS="58"
+                    VPOS="3153"
+                    WIDTH="770"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df314ca5"
+                    TAGREFS="LT4094"
+                    BASELINE="68 3246 818 3246" 
+                    HPOS="68"
+                    VPOS="3208"
+                    WIDTH="750"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="68 3246 68 3271 818 3271 818 3246 816 3208 68 3208 68 3246"/></Shape>
+	    <String CONTENT="Magnaire tai la avek Tassain, yé to¬"
+                    HPOS="68"
+                    VPOS="3208"
+                    WIDTH="750"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6928a73a"
+                    TAGREFS="LT4094"
+                    BASELINE="65 3300 834 3307" 
+                    HPOS="63"
+                    VPOS="3260"
+                    WIDTH="771"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="65 3300 63 3328 830 3330 834 3307 830 3262 594 3271 65 3260 65 3300"/></Shape>
+	    <String CONTENT="lai fai the dude, mai mamzel tai pa"
+                    HPOS="63"
+                    VPOS="3260"
+                    WIDTH="771"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1d952ba"
+                    TAGREFS="LT4094"
+                    BASELINE="65 3357 832 3362" 
+                    HPOS="63"
+                    VPOS="3323"
+                    WIDTH="769"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="65 3357 63 3375 131 3389 133 3391 830 3391 832 3362 830 3328 65 3323 65 3357"/></Shape>
+	    <String CONTENT="olai catch on. Si vou woir yé man¬"
+                    HPOS="63"
+                    VPOS="3323"
+                    WIDTH="769"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ed5d7a2"
+                    TAGREFS="LT4094"
+                    BASELINE="68 3416 825 3420" 
+                    HPOS="65"
+                    VPOS="3380"
+                    WIDTH="760"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="68 3416 65 3443 74 3450 77 3450 79 3450 81 3450 421 3441 444 3452 446 3452 449 3452 823 3441 825 3420 823 3384 68 3380 68 3416"/></Shape>
+	    <String CONTENT="pai yé kofaire yé pa raistai jiska se¬"
+                    HPOS="65"
+                    VPOS="3380"
+                    WIDTH="760"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c86cc694"
+                    TAGREFS="LT4094"
+                    BASELINE="72 3470 240 3470" 
+                    HPOS="72"
+                    VPOS="3439"
+                    WIDTH="168"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="72 3470 72 3498 240 3498 240 3470 240 3439 72 3439 72 3470"/></Shape>
+	    <String CONTENT="tai fini."
+                    HPOS="72"
+                    VPOS="3439"
+                    WIDTH="168"
+                    HEIGHT="59"
+                    WC="0.988142497009701"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de021d88"
+                    TAGREFS="LT4094"
+                    BASELINE="111 3532 825 3527" 
+                    HPOS="108"
+                    VPOS="3475"
+                    WIDTH="717"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="111 3532 111 3552 437 3563 440 3563 442 3563 444 3563 462 3552 467 3550 476 3552 508 3561 510 3561 512 3561 514 3561 551 3552 560 3550 569 3552 598 3561 601 3561 603 3561 823 3550 825 3527 818 3475 753 3488 512 3484 254 3477 251 3477 249 3477 208 3491 142 3477 140 3477 138 3477 108 3491 111 3532"/></Shape>
+	    <String CONTENT="La proshaine foi, ma crite vou ki"
+                    HPOS="108"
+                    VPOS="3475"
+                    WIDTH="717"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a84c1d48"
+                    TAGREFS="LT4094"
+                    BASELINE="70 3584 832 3593" 
+                    HPOS="68"
+                    VPOS="3543"
+                    WIDTH="764"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="70 3584 68 3602 828 3611 832 3593 830 3550 70 3543 70 3584"/></Shape>
+	    <String CONTENT="sai mamzel Alice fai so mash on, epi"
+                    HPOS="68"
+                    VPOS="3543"
+                    WIDTH="764"
+                    HEIGHT="68"
+                    WC="0.974609449505806"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c14072c6"
+                    TAGREFS="LT4094"
+                    BASELINE="70 3643 830 3647" 
+                    HPOS="68"
+                    VPOS="3597"
+                    WIDTH="762"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="70 3643 68 3670 825 3679 830 3647 828 3613 490 3613 462 3604 442 3599 440 3599 437 3599 344 3602 145 3609 70 3597 70 3643"/></Shape>
+	    <String CONTENT="ma di vou sa li tai gagnain pou"
+                    HPOS="68"
+                    VPOS="3597"
+                    WIDTH="762"
+                    HEIGHT="82"
+                    WC="0.995276960634416"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5cd72a47"
+                    TAGREFS="LT4094"
+                    BASELINE="70 3701 580 3697" 
+                    HPOS="68"
+                    VPOS="3656"
+                    WIDTH="512"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="70 3701 70 3733 578 3722 580 3697 576 3661 68 3656 70 3701"/></Shape>
+	    <String CONTENT="gourmon la yé, ki tai la."
+                    HPOS="68"
+                    VPOS="3656"
+                    WIDTH="512"
+                    HEIGHT="77"
+                    WC="0.985927982972218"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c006f28"
+                    TAGREFS="LT4094"
+                    BASELINE="117 3756 834 3760" 
+                    HPOS="115"
+                    VPOS="3717"
+                    WIDTH="719"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="117 3756 115 3776 127 3785 129 3785 131 3785 133 3785 362 3776 415 3776 830 3788 834 3760 834 3724 117 3717 117 3756"/></Shape>
+	    <String CONTENT="Molai to di Tansia bonjon pou"
+                    HPOS="115"
+                    VPOS="3717"
+                    WIDTH="719"
+                    HEIGHT="71"
+                    WC="0.981604142435666"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f88b46f1"
+                    TAGREFS="LT4094"
+                    BASELINE="72 3812 834 3817" 
+                    HPOS="70"
+                    VPOS="3776"
+                    WIDTH="764"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="72 3812 70 3835 832 3835 834 3817 832 3781 72 3776 72 3812"/></Shape>
+	    <String CONTENT="moin épi, si Kristof vini don li mo"
+                    HPOS="70"
+                    VPOS="3776"
+                    WIDTH="764"
+                    HEIGHT="59"
+                    WC="0.978804528713226"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a92cd073"
+                    TAGREFS="LT4094"
+                    BASELINE="72 3867 832 3874" 
+                    HPOS="70"
+                    VPOS="3819"
+                    WIDTH="762"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="70 3901 828 3908 832 3874 830 3837 578 3824 576 3824 462 3828 328 3833 299 3824 290 3821 288 3821 285 3821 245 3824 102 3831 74 3819 72 3867 70 3901"/></Shape>
+	    <String CONTENT="karlai, épi pa bliai di Marjoline mo"
+                    HPOS="70"
+                    VPOS="3819"
+                    WIDTH="762"
+                    HEIGHT="89"
+                    WC="0.98800125154289"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f6ee95f"
+                    TAGREFS="LT4094"
+                    BASELINE="77 3923 730 3928" 
+                    HPOS="74"
+                    VPOS="3889"
+                    WIDTH="656"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="77 3923 74 3948 104 3960 106 3960 108 3960 728 3957 730 3928 728 3894 77 3889 77 3923"/></Shape>
+	    <String CONTENT="woir so koozine yé pélai Kinoote."
+                    HPOS="74"
+                    VPOS="3889"
+                    WIDTH="656"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ca66e47"
+                    TAGREFS="LT4094"
+                    BASELINE="217 3980 387 3985" 
+                    HPOS="215"
+                    VPOS="3935"
+                    WIDTH="172"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="217 3980 215 4021 222 4030 224 4030 224 4032 226 4032 229 4032 301 4037 303 4037 385 4019 387 3985 385 3942 217 3935 217 3980"/></Shape>
+	    <String CONTENT="To lami"
+                    HPOS="215"
+                    VPOS="3935"
+                    WIDTH="172"
+                    HEIGHT="102"
+                    WC="0.981099443776267"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25d6f900"
+                    TAGREFS="LT4095"
+                    BASELINE="399 4037 555 4041" 
+                    HPOS="397"
+                    VPOS="4000"
+                    WIDTH="158"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="397 4068 551 4071 555 4041 553 4005 399 4000 399 4037"/></Shape>
+	    <String CONTENT="Plutus"
+                    HPOS="397"
+                    VPOS="4000"
+                    WIDTH="158"
+                    HEIGHT="71"
+                    WC="0.997999419768651"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_446fc187"
+                    TAGREFS="LT4095"
+                    BASELINE="215 90 592 86" 
+                    HPOS="213"
+                    VPOS="54"
+                    WIDTH="379"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="553 54 530 54 508 54 485 54 462 54 440 54 417 54 394 54 372 54 349 54 326 54 303 54 281 54 258 54 235 54 213 54 215 90 215 113 589 108 592 86 585 58 576 54"/></Shape>
+	    <String CONTENT="(Communication.)"
+                    HPOS="213"
+                    VPOS="54"
+                    WIDTH="379"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd9f595d"
+                    TAGREFS="LT4095"
+                    BASELINE="77 154 746 154" 
+                    HPOS="77"
+                    VPOS="117"
+                    WIDTH="669"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="86 117 77 138 77 154 77 181 744 185 746 154 744 138 737 117"/></Shape>
+	    <String CONTENT="Marie Saline Nov. le 22eme 1894"
+                    HPOS="77"
+                    VPOS="117"
+                    WIDTH="669"
+                    HEIGHT="68"
+                    WC="0.971595279632076"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_07cffb3f"
+                    TAGREFS="LT4095"
+                    BASELINE="222 212 544 212" 
+                    HPOS="222"
+                    VPOS="167"
+                    WIDTH="322"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="222 249 544 237 544 212 544 176 222 167 222 212"/></Shape>
+	    <String CONTENT="Mo lami Fiston"
+                    HPOS="222"
+                    VPOS="167"
+                    WIDTH="322"
+                    HEIGHT="82"
+                    WC="0.954949140548706"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afadf773"
+                    TAGREFS="LT4095"
+                    BASELINE="517 271 794 265" 
+                    HPOS="514"
+                    VPOS="224"
+                    WIDTH="280"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="773 224 514 226 517 271 517 292 794 292 794 265 791 260 787 260"/></Shape>
+	    <String CONTENT="Sa vous crai?"
+                    HPOS="514"
+                    VPOS="224"
+                    WIDTH="280"
+                    HEIGHT="68"
+                    WC="0.987068332158602"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
