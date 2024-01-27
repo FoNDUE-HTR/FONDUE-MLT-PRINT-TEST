@@ -1,0 +1,1698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent21__amime_0758-7708_2007_num_25_1_1650_0170_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10561" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10480" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10479" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10478" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10477" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10476" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10475" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT4093" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4092" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4091" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1654"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1654"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="142.0"
+                   VPOS="109.0"
+                   WIDTH="431.0"
+                   HEIGHT="38.0"
+                   ID="eSc_textblock_2980a3ff"
+                   TAGREFS="BT10479">
+          <Shape><Polygon POINTS="142 109 142 147 573 147 573 109"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4093"
+                    BASELINE="151 126 559 121" 
+                    HPOS="151.0"
+                    VPOS="98.0"
+                    WIDTH="408.0"
+                    HEIGHT="56.0">
+            <Shape><Polygon POINTS="151 126 151 147 354 154 426 154 429 154 429 151 436 147 447 154 450 154 452 154 510 154 513 154 515 154 524 147 559 147 559 121 554 98 151 100 151 126"/></Shape>
+	    <String CONTENT="ARCHÉOLOGIE DU MIDI MEDIÉVAL - TOME 25 2007"
+                    HPOS="151.0"
+                    VPOS="98.0"
+                    WIDTH="408.0"
+                    HEIGHT="56.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="137.0"
+                   VPOS="529.0"
+                   WIDTH="667.0"
+                   HEIGHT="1467.0"
+                   ID="block_2"
+                   TAGREFS="BT10476">
+          <Shape><Polygon POINTS="794 529 804 1996 144 1996 137 533"/></Shape>
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4093"
+                    BASELINE="151 547 790 545" 
+                    HPOS="151.0"
+                    VPOS="526.0"
+                    WIDTH="639.0"
+                    HEIGHT="40.0">
+            <Shape><Polygon POINTS="151 547 151 564 787 566 790 545 787 526 151 526 151 547"/></Shape>
+	    <String CONTENT="Fig. 6: Le caveau édifié dans la galerie orientale du cloître, vue"
+                    HPOS="151.0"
+                    VPOS="526.0"
+                    WIDTH="639.0"
+                    HEIGHT="40.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4093"
+                    BASELINE="228 575 594 578" 
+                    HPOS="228.0"
+                    VPOS="554.0"
+                    WIDTH="366.0"
+                    HEIGHT="47.0">
+            <Shape><Polygon POINTS="228 575 228 599 589 601 594 578 592 557 228 554 228 575"/></Shape>
+	    <String CONTENT="depuis l&#x27;ouest (Cliché A. Bergeret)."
+                    HPOS="228.0"
+                    VPOS="554.0"
+                    WIDTH="366.0"
+                    HEIGHT="47.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4093"
+                    BASELINE="151 664 394 664" 
+                    HPOS="151.0"
+                    VPOS="624.0"
+                    WIDTH="243.0"
+                    HEIGHT="54.0">
+            <Shape><Polygon POINTS="151 664 151 678 394 678 394 664 394 624 151 624 151 664"/></Shape>
+	    <String CONTENT="BIBLIOGRAPHIE"
+                    HPOS="151.0"
+                    VPOS="624.0"
+                    WIDTH="243.0"
+                    HEIGHT="54.0"
+                    WC="0.9937"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4093"
+                    BASELINE="154 699 792 699" 
+                    HPOS="154.0"
+                    VPOS="659.0"
+                    WIDTH="638.0"
+                    HEIGHT="54.0">
+            <Shape><Polygon POINTS="154 699 154 713 792 711 792 699 792 673 755 673 752 671 731 659 729 659 599 659 596 659 596 662 585 671 559 659 557 659 398 659 396 659 394 659 394 662 382 671 154 671 154 699"/></Shape>
+	    <String CONTENT="Bergeret. Donat 2004: BERGERET (A.) et DONAT (R.) avec"
+                    HPOS="154.0"
+                    VPOS="659.0"
+                    WIDTH="638.0"
+                    HEIGHT="54.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4093"
+                    BASELINE="191 729 792 729" 
+                    HPOS="191.0"
+                    VPOS="708.0"
+                    WIDTH="601.0"
+                    HEIGHT="35.0">
+            <Shape><Polygon POINTS="191 729 191 741 790 743 792 729 792 708 191 708 191 729"/></Shape>
+	    <String CONTENT="la collaboration de CHAZELLES (C.-A.), Le couvent des"
+                    HPOS="191.0"
+                    VPOS="708.0"
+                    WIDTH="601.0"
+                    HEIGHT="35.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4093"
+                    BASELINE="191 757 792 757" 
+                    HPOS="191.0"
+                    VPOS="736.0"
+                    WIDTH="601.0"
+                    HEIGHT="35.0">
+            <Shape><Polygon POINTS="191 757 191 771 792 771 792 757 790 736 191 738 191 757"/></Shape>
+	    <String CONTENT="Fanciscains à Perpignan: premiers résultats et"
+                    HPOS="191.0"
+                    VPOS="736.0"
+                    WIDTH="601.0"
+                    HEIGHT="35.0"
+                    WC="0.973983333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT4093"
+                    BASELINE="191 790 790 790" 
+                    HPOS="191.0"
+                    VPOS="769.0"
+                    WIDTH="599.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="191 790 191 804 787 806 790 790 790 769 191 769 191 790"/></Shape>
+	    <String CONTENT="perspectives, Archéologie du Midi Médiéval, Tome 22,"
+                    HPOS="191.0"
+                    VPOS="769.0"
+                    WIDTH="599.0"
+                    HEIGHT="37.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT4093"
+                    BASELINE="191 818 377 819" 
+                    HPOS="187"
+                    VPOS="791"
+                    WIDTH="189"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="189 816 187 826 372 828 376 818 374 793 189 791 189 816"/></Shape>
+	    <String CONTENT="2004, p.199-207."
+                    HPOS="187"
+                    VPOS="791"
+                    WIDTH="189"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT4093"
+                    BASELINE="151 850 792 850" 
+                    HPOS="151.0"
+                    VPOS="827.0"
+                    WIDTH="641.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="151 850 151 862 790 864 792 850 790 827 151 827 151 850"/></Shape>
+	    <String CONTENT="Bruzek 1991 : BRUZEK (J.). Fiabilité des procédés de"
+                    HPOS="151.0"
+                    VPOS="827.0"
+                    WIDTH="641.0"
+                    HEIGHT="37.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT4093"
+                    BASELINE="191 881 790 881" 
+                    HPOS="191.0"
+                    VPOS="860.0"
+                    WIDTH="599.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="191 881 191 897 790 897 790 881 790 860 191 860 191 881"/></Shape>
+	    <String CONTENT="détermination du sexe à partir de l’os coxal. Implication à"
+                    HPOS="191.0"
+                    VPOS="860.0"
+                    WIDTH="599.0"
+                    HEIGHT="37.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT4093"
+                    BASELINE="191 909 790 911" 
+                    HPOS="189.0"
+                    VPOS="885.0"
+                    WIDTH="601.0"
+                    HEIGHT="40.0">
+            <Shape><Polygon POINTS="191 909 189 925 787 923 790 911 787 885 191 885 191 909"/></Shape>
+	    <String CONTENT="l&#x27;etude du dimorphisme sexuel de l’homme fossile, Thèse"
+                    HPOS="189.0"
+                    VPOS="885.0"
+                    WIDTH="601.0"
+                    HEIGHT="40.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_27"
+                    TAGREFS="LT4093"
+                    BASELINE="191 939 787 941" 
+                    HPOS="189.0"
+                    VPOS="918.0"
+                    WIDTH="598.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="191 939 189 953 785 957 787 941 787 918 191 918 191 939"/></Shape>
+	    <String CONTENT="de l&#x27;Université de Muséum d’Histoire Naturelle de Paris,"
+                    HPOS="189.0"
+                    VPOS="918.0"
+                    WIDTH="598.0"
+                    HEIGHT="39.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_28"
+                    TAGREFS="LT4093"
+                    BASELINE="191 969 317 971" 
+                    HPOS="191.0"
+                    VPOS="948.0"
+                    WIDTH="126.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="191 969 191 978 259 985 317 981 317 971 317 950 191 948 191 969"/></Shape>
+	    <String CONTENT="1991, 2 vol."
+                    HPOS="191.0"
+                    VPOS="948.0"
+                    WIDTH="126.0"
+                    HEIGHT="37.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_29"
+                    TAGREFS="LT4093"
+                    BASELINE="154 1004 792 1004" 
+                    HPOS="154.0"
+                    VPOS="976.0"
+                    WIDTH="638.0"
+                    HEIGHT="47.0">
+            <Shape><Polygon POINTS="154 1004 154 1023 792 1016 792 1004 792 978 154 976 154 1004"/></Shape>
+	    <String CONTENT="Bruzek 2002: BRUZEK (J.), A method for visual determination"
+                    HPOS="154.0"
+                    VPOS="976.0"
+                    WIDTH="638.0"
+                    HEIGHT="47.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_30"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1032 790 1032" 
+                    HPOS="191.0"
+                    VPOS="1009.0"
+                    WIDTH="599.0"
+                    HEIGHT="42.0">
+            <Shape><Polygon POINTS="191 1032 191 1051 790 1051 790 1032 790 1009 191 1013 191 1032"/></Shape>
+	    <String CONTENT="of sex, using tbe human hip bone, American Journal of"
+                    HPOS="191.0"
+                    VPOS="1009.0"
+                    WIDTH="599.0"
+                    HEIGHT="42.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_31"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1062 697 1060" 
+                    HPOS="189.0"
+                    VPOS="1041.0"
+                    WIDTH="508.0"
+                    HEIGHT="38.0">
+            <Shape><Polygon POINTS="191 1062 191 1079 694 1076 697 1060 692 1041 189 1041 191 1062"/></Shape>
+	    <String CONTENT="Pysical Anthropology, V117, 2, 2002, p. 157-168."
+                    HPOS="189.0"
+                    VPOS="1041.0"
+                    WIDTH="508.0"
+                    HEIGHT="38.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_32"
+                    TAGREFS="LT4093"
+                    BASELINE="151 1095 792 1095" 
+                    HPOS="151.0"
+                    VPOS="1072.0"
+                    WIDTH="641.0"
+                    HEIGHT="44.0">
+            <Shape><Polygon POINTS="151 1095 151 1116 238 1109 282 1116 287 1116 289 1116 291 1116 294 1116 317 1109 408 1114 440 1116 443 1116 447 1114 459 1109 517 1114 554 1116 557 1116 568 1114 585 1109 610 1114 636 1116 638 1116 792 1109 792 1095 792 1072 151 1072 151 1095"/></Shape>
+	    <String CONTENT="Bruzek et al. 2004: BRUZEK (J.), SCHMITT (A.) et"
+                    HPOS="151.0"
+                    VPOS="1072.0"
+                    WIDTH="641.0"
+                    HEIGHT="44.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_33"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1128 790 1128" 
+                    HPOS="191.0"
+                    VPOS="1104.0"
+                    WIDTH="599.0"
+                    HEIGHT="40.0">
+            <Shape><Polygon POINTS="191 1128 191 1144 790 1139 790 1128 790 1107 191 1104 191 1128"/></Shape>
+	    <String CONTENT="MURAIL (P.), ldentification biologique individuelle en"
+                    HPOS="191.0"
+                    VPOS="1104.0"
+                    WIDTH="599.0"
+                    HEIGHT="40.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_34"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1155 787 1155" 
+                    HPOS="191.0"
+                    VPOS="1135.0"
+                    WIDTH="596.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="191 1155 191 1174 787 1174 787 1155 787 1137 191 1135 191 1155"/></Shape>
+	    <String CONTENT="paléoanthropologie. Détermination du sexe et estimation de"
+                    HPOS="191.0"
+                    VPOS="1135.0"
+                    WIDTH="596.0"
+                    HEIGHT="39.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_35"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1186 787 1183" 
+                    HPOS="191.0"
+                    VPOS="1165.0"
+                    WIDTH="596.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="191 1186 191 1202 785 1200 787 1183 783 1165 191 1167 191 1186"/></Shape>
+	    <String CONTENT="l’âge au décès à partir du squelette, dans O. Dutour, J.-J."
+                    HPOS="191.0"
+                    VPOS="1165.0"
+                    WIDTH="596.0"
+                    HEIGHT="37.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_36"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1216 790 1216" 
+                    HPOS="191.0"
+                    VPOS="1195.0"
+                    WIDTH="599.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="191 1216 191 1228 790 1232 790 1216 790 1195 191 1195 191 1216"/></Shape>
+	    <String CONTENT="Hublin et B. Vandermeersch (éd), Objets et méthodes en"
+                    HPOS="191.0"
+                    VPOS="1195.0"
+                    WIDTH="599.0"
+                    HEIGHT="37.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_37"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1246 792 1246" 
+                    HPOS="191.0"
+                    VPOS="1223.0"
+                    WIDTH="601.0"
+                    HEIGHT="49.0">
+            <Shape><Polygon POINTS="191 1246 191 1260 366 1265 368 1265 370 1265 373 1263 377 1260 564 1260 575 1267 578 1270 580 1270 582 1270 582 1272 792 1272 792 1246 792 1225 191 1223 191 1246"/></Shape>
+	    <String CONTENT="Paléoanthropologie, Comité des Travaux Historiques et"
+                    HPOS="191.0"
+                    VPOS="1223.0"
+                    WIDTH="601.0"
+                    HEIGHT="49.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_38"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1274 580 1272" 
+                    HPOS="191.0"
+                    VPOS="1251.0"
+                    WIDTH="389.0"
+                    HEIGHT="40.0">
+            <Shape><Polygon POINTS="191 1274 191 1291 578 1291 580 1272 578 1253 191 1251 191 1274"/></Shape>
+	    <String CONTENT="Scientifiques, Paris, 2004, p. 217-246."
+                    HPOS="191.0"
+                    VPOS="1251.0"
+                    WIDTH="389.0"
+                    HEIGHT="40.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_39"
+                    TAGREFS="LT4093"
+                    BASELINE="151 1309 790 1307" 
+                    HPOS="151.0"
+                    VPOS="1277.0"
+                    WIDTH="639.0"
+                    HEIGHT="51.0">
+            <Shape><Polygon POINTS="151 1309 151 1328 790 1326 790 1307 787 1277 205 1284 151 1277 151 1309"/></Shape>
+	    <String CONTENT="Duday 1994 : DUDAY (H.), Anthropologie «de terrain»"
+                    HPOS="151.0"
+                    VPOS="1277.0"
+                    WIDTH="639.0"
+                    HEIGHT="51.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_40"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1340 790 1335" 
+                    HPOS="189.0"
+                    VPOS="1316.0"
+                    WIDTH="601.0"
+                    HEIGHT="42.0">
+            <Shape><Polygon POINTS="191 1340 191 1353 273 1351 284 1353 296 1358 298 1358 308 1353 317 1351 373 1353 389 1356 391 1356 394 1356 417 1349 440 1356 450 1356 452 1356 459 1356 485 1349 496 1356 499 1358 501 1358 503 1358 587 1356 589 1356 599 1346 615 1356 617 1356 687 1349 694 1353 694 1356 697 1356 699 1356 720 1351 729 1356 731 1356 731 1358 787 1358 790 1335 787 1319 189 1316 191 1340"/></Shape>
+	    <String CONTENT="archéologie de la mort. La mort, passé, présent,"
+                    HPOS="189.0"
+                    VPOS="1316.0"
+                    WIDTH="601.0"
+                    HEIGHT="42.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_41"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1367 729 1367" 
+                    HPOS="191.0"
+                    VPOS="1346.0"
+                    WIDTH="538.0"
+                    HEIGHT="40.0">
+            <Shape><Polygon POINTS="191 1367 191 1379 727 1386 729 1367 727 1346 191 1346 191 1367"/></Shape>
+	    <String CONTENT="conditionnel, La Roche-sur-Yon, juin 1994, p. 33-58."
+                    HPOS="191.0"
+                    VPOS="1346.0"
+                    WIDTH="538.0"
+                    HEIGHT="40.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_42"
+                    TAGREFS="LT4093"
+                    BASELINE="151 1400 787 1400" 
+                    HPOS="151.0"
+                    VPOS="1372.0"
+                    WIDTH="636.0"
+                    HEIGHT="47.0">
+            <Shape><Polygon POINTS="151 1400 151 1419 787 1414 787 1400 785 1377 596 1379 571 1374 550 1372 547 1372 531 1374 506 1379 466 1374 447 1372 445 1372 443 1372 440 1374 429 1379 263 1379 249 1372 247 1372 245 1372 240 1372 198 1379 151 1372 151 1400"/></Shape>
+	    <String CONTENT="Duday 2004: DUDAY (H.), L&#x27;archéothanatologie. In: O."
+                    HPOS="151.0"
+                    VPOS="1372.0"
+                    WIDTH="636.0"
+                    HEIGHT="47.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_43"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1433 794 1430" 
+                    HPOS="189.0"
+                    VPOS="1407.0"
+                    WIDTH="605.0"
+                    HEIGHT="44.0">
+            <Shape><Polygon POINTS="191 1433 191 1451 792 1444 794 1430 790 1407 189 1409 191 1433"/></Shape>
+	    <String CONTENT="Dutour, J.-J. Hublin et B. Vandemeerseh (éd), Objets et"
+                    HPOS="189.0"
+                    VPOS="1407.0"
+                    WIDTH="605.0"
+                    HEIGHT="44.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_44"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1461 790 1461" 
+                    HPOS="191.0"
+                    VPOS="1442.0"
+                    WIDTH="599.0"
+                    HEIGHT="35.0">
+            <Shape><Polygon POINTS="191 1461 191 1472 787 1477 790 1461 790 1442 191 1442 191 1461"/></Shape>
+	    <String CONTENT="méthodes en paléoanthropologie. Comité des Travaux"
+                    HPOS="191.0"
+                    VPOS="1442.0"
+                    WIDTH="599.0"
+                    HEIGHT="35.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_45"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1491 727 1491" 
+                    HPOS="191.0"
+                    VPOS="1465.0"
+                    WIDTH="536.0"
+                    HEIGHT="45.0">
+            <Shape><Polygon POINTS="191 1491 191 1503 727 1510 727 1491 727 1470 191 1465 191 1491"/></Shape>
+	    <String CONTENT="Historiques et Scientifiques, Paris, 2004, p. 153-214."
+                    HPOS="191.0"
+                    VPOS="1465.0"
+                    WIDTH="536.0"
+                    HEIGHT="45.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_46"
+                    TAGREFS="LT4093"
+                    BASELINE="151 1524 787 1524" 
+                    HPOS="151.0"
+                    VPOS="1500.0"
+                    WIDTH="636.0"
+                    HEIGHT="45.0">
+            <Shape><Polygon POINTS="151 1524 151 1545 226 1545 228 1545 228 1542 235 1538 240 1545 242 1545 245 1545 247 1545 291 1538 324 1545 326 1545 394 1545 396 1545 396 1542 403 1538 443 1545 447 1545 450 1545 459 1545 561 1538 787 1542 787 1524 787 1503 151 1500 151 1524"/></Shape>
+	    <String CONTENT="Duday 2006: DUDAY (H). Lezioni di Archeotanatologia."
+                    HPOS="151.0"
+                    VPOS="1500.0"
+                    WIDTH="636.0"
+                    HEIGHT="45.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_47"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1551 787 1554" 
+                    HPOS="189.0"
+                    VPOS="1533.0"
+                    WIDTH="598.0"
+                    HEIGHT="32.0">
+            <Shape><Polygon POINTS="191 1551 189 1565 785 1565 787 1554 785 1535 191 1533 191 1551"/></Shape>
+	    <String CONTENT="Archeologia funeraria e antopologia di campo. Rome:"
+                    HPOS="189.0"
+                    VPOS="1533.0"
+                    WIDTH="598.0"
+                    HEIGHT="32.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_48"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1584 790 1584" 
+                    HPOS="191.0"
+                    VPOS="1563.0"
+                    WIDTH="599.0"
+                    HEIGHT="40.0">
+            <Shape><Polygon POINTS="191 1584 191 1598 787 1603 790 1584 790 1563 191 1563 191 1584"/></Shape>
+	    <String CONTENT="Soprintendenza Archeologica di Roma, Ecole Française de"
+                    HPOS="191.0"
+                    VPOS="1563.0"
+                    WIDTH="599.0"
+                    HEIGHT="40.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_49"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1614 711 1612" 
+                    HPOS="189.0"
+                    VPOS="1593.0"
+                    WIDTH="522.0"
+                    HEIGHT="35.0">
+            <Shape><Polygon POINTS="191 1614 191 1628 708 1628 711 1612 706 1593 189 1593 191 1614"/></Shape>
+	    <String CONTENT="Rome et Ecole Pratique des Hautes Etudes, 230 p."
+                    HPOS="189.0"
+                    VPOS="1593.0"
+                    WIDTH="522.0"
+                    HEIGHT="35.0"
+                    WC="0.980511111111111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_50"
+                    TAGREFS="LT4093"
+                    BASELINE="151 1647 790 1645" 
+                    HPOS="151.0"
+                    VPOS="1614.0"
+                    WIDTH="639.0"
+                    HEIGHT="49.0">
+            <Shape><Polygon POINTS="151 1647 151 1663 787 1659 790 1645 785 1614 454 1624 151 1617 151 1647"/></Shape>
+	    <String CONTENT="Duday et al. 1990: DUDAY (H.), COURTAUD (P.), CRUBEZY"
+                    HPOS="151.0"
+                    VPOS="1614.0"
+                    WIDTH="639.0"
+                    HEIGHT="49.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_51"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1677 790 1675" 
+                    HPOS="189.0"
+                    VPOS="1652.0"
+                    WIDTH="601.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="191 1677 191 1691 787 1691 790 1675 787 1656 189 1652 191 1677"/></Shape>
+	    <String CONTENT="(E.), SELLIER (P.) et TILIER (A. M.), L&#x27;anthropologie «de"
+                    HPOS="189.0"
+                    VPOS="1652.0"
+                    WIDTH="601.0"
+                    HEIGHT="39.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_52"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1708 790 1703" 
+                    HPOS="189.0"
+                    VPOS="1682.0"
+                    WIDTH="601.0"
+                    HEIGHT="40.0">
+            <Shape><Polygon POINTS="191 1708 191 1722 787 1722 790 1703 785 1682 189 1684 191 1708"/></Shape>
+	    <String CONTENT="terrain» : reconnaissance et interprétation des gestes"
+                    HPOS="189.0"
+                    VPOS="1682.0"
+                    WIDTH="601.0"
+                    HEIGHT="40.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_53"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1736 787 1733" 
+                    HPOS="189.0"
+                    VPOS="1712.0"
+                    WIDTH="598.0"
+                    HEIGHT="42.0">
+            <Shape><Polygon POINTS="191 1736 191 1750 487 1754 494 1754 519 1747 559 1754 564 1754 566 1754 571 1754 606 1747 638 1754 641 1754 643 1754 662 1747 680 1754 683 1754 685 1754 699 1747 706 1752 706 1754 708 1754 787 1754 787 1733 785 1715 189 1712 191 1736"/></Shape>
+	    <String CONTENT="funéraires, Bulletins et Mémoires de la Société"
+                    HPOS="189.0"
+                    VPOS="1712.0"
+                    WIDTH="598.0"
+                    HEIGHT="42.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_54"
+                    TAGREFS="LT4093"
+                    BASELINE="189 1763 715 1766" 
+                    HPOS="186.0"
+                    VPOS="1738.0"
+                    WIDTH="529.0"
+                    HEIGHT="42.0">
+            <Shape><Polygon POINTS="189 1763 186 1780 713 1780 715 1766 713 1745 189 1738 189 1763"/></Shape>
+	    <String CONTENT="d&#x27;Anropologie de Paris, V2, n°3-4, 1990, p. 29-50."
+                    HPOS="186.0"
+                    VPOS="1738.0"
+                    WIDTH="529.0"
+                    HEIGHT="42.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_55"
+                    TAGREFS="LT4093"
+                    BASELINE="151 1796 790 1801" 
+                    HPOS="151.0"
+                    VPOS="1766.0"
+                    WIDTH="639.0"
+                    HEIGHT="46.0">
+            <Shape><Polygon POINTS="151 1810 787 1812 790 1801 790 1777 615 1770 613 1770 610 1770 601 1773 585 1777 573 1773 561 1770 559 1770 450 1770 172 1775 154 1766 151 1796 151 1810"/></Shape>
+	    <String CONTENT="Duday et Sellier 1990: DUDAY (H.) et SELLIER (P.),"
+                    HPOS="151.0"
+                    VPOS="1766.0"
+                    WIDTH="639.0"
+                    HEIGHT="46.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_56"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1829 790 1829" 
+                    HPOS="191.0"
+                    VPOS="1805.0"
+                    WIDTH="599.0"
+                    HEIGHT="42.0">
+            <Shape><Polygon POINTS="191 1829 191 1847 787 1847 790 1829 787 1805 191 1808 191 1829"/></Shape>
+	    <String CONTENT="L’archéologie des gestes funéraires et la taphonomie. Les"
+                    HPOS="191.0"
+                    VPOS="1805.0"
+                    WIDTH="599.0"
+                    HEIGHT="42.0"
+                    WC="0.9398875"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_57"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1857 690 1859" 
+                    HPOS="189.0"
+                    VPOS="1836.0"
+                    WIDTH="501.0"
+                    HEIGHT="35.0">
+            <Shape><Polygon POINTS="191 1857 189 1871 687 1871 690 1859 687 1838 191 1836 191 1857"/></Shape>
+	    <String CONTENT="Nouvelles de l’Archéologie, V40, 1990, p. 12-14."
+                    HPOS="189.0"
+                    VPOS="1836.0"
+                    WIDTH="501.0"
+                    HEIGHT="35.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_58"
+                    TAGREFS="LT4093"
+                    BASELINE="154 1889 790 1892" 
+                    HPOS="151.0"
+                    VPOS="1861.0"
+                    WIDTH="639.0"
+                    HEIGHT="45.0">
+            <Shape><Polygon POINTS="154 1889 151 1906 790 1906 790 1892 790 1871 699 1864 697 1864 578 1868 489 1871 480 1866 475 1861 473 1861 471 1861 452 1864 431 1868 419 1864 410 1861 408 1861 373 1864 287 1868 266 1861 263 1861 261 1861 252 1871 191 1871 154 1861 154 1889"/></Shape>
+	    <String CONTENT="Maufras 2005: MAUFRAS (O.), Sous le square Gambetta,"
+                    HPOS="151.0"
+                    VPOS="1861.0"
+                    WIDTH="639.0"
+                    HEIGHT="45.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_59"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1922 792 1922" 
+                    HPOS="191.0"
+                    VPOS="1903.0"
+                    WIDTH="601.0"
+                    HEIGHT="33.0">
+            <Shape><Polygon POINTS="191 1922 191 1936 792 1936 792 1922 792 1903 191 1903 191 1922"/></Shape>
+	    <String CONTENT="l’enclos des Cordeliers à Carcassonne, Rapport Final"
+                    HPOS="191.0"
+                    VPOS="1903.0"
+                    WIDTH="601.0"
+                    HEIGHT="33.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_60"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1952 790 1952" 
+                    HPOS="191.0"
+                    VPOS="1931.0"
+                    WIDTH="599.0"
+                    HEIGHT="44.0">
+            <Shape><Polygon POINTS="191 1952 191 1962 235 1971 238 1971 249 1964 261 1973 263 1973 266 1973 284 1966 301 1971 303 1971 359 1966 396 1964 419 1968 445 1973 447 1973 482 1968 533 1964 552 1971 554 1971 610 1966 622 1973 627 1975 629 1975 687 1975 690 1975 690 1973 697 1968 701 1973 704 1975 706 1975 708 1975 790 1975 790 1952 790 1931 191 1931 191 1952"/></Shape>
+	    <String CONTENT="d&#x27;Opération de diagnostie archéologique, DRAC"
+                    HPOS="191.0"
+                    VPOS="1931.0"
+                    WIDTH="599.0"
+                    HEIGHT="44.0"
+                    WC="0.95214"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_61"
+                    TAGREFS="LT4093"
+                    BASELINE="191 1982 624 1982" 
+                    HPOS="191.0"
+                    VPOS="1962.0"
+                    WIDTH="433.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="191 1982 191 1999 622 1999 624 1982 624 1962 191 1962 191 1982"/></Shape>
+	    <String CONTENT="Languedoc-Roussillon, Montpellier, 2005."
+                    HPOS="191.0"
+                    VPOS="1962.0"
+                    WIDTH="433.0"
+                    HEIGHT="37.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_62"
+                    TAGREFS="LT4093"
+                    BASELINE="161 2080 832 2080" 
+                    HPOS="161.0"
+                    VPOS="2038.0"
+                    WIDTH="671.0"
+                    HEIGHT="61.0">
+            <Shape><Polygon POINTS="161 2080 161 2099 832 2092 832 2080 829 2057 478 2057 426 2055 408 2043 398 2038 396 2038 161 2038 161 2080"/></Shape>
+	    <String CONTENT="* Agent contractuel INRAP Méditerranée, agnieszka_koziol@hotmail.com"
+                    HPOS="161.0"
+                    VPOS="2038.0"
+                    WIDTH="671.0"
+                    HEIGHT="61.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_63"
+                    TAGREFS="LT4093"
+                    BASELINE="158 2111 783 2106" 
+                    HPOS="154.0"
+                    VPOS="2090.0"
+                    WIDTH="626.0"
+                    HEIGHT="32.0">
+            <Shape><Polygon POINTS="156 2120 191 2120 205 2120 224 2120 242 2118 263 2118 282 2120 298 2120 314 2122 326 2122 473 2120 778 2120 780 2108 778 2092 154 2090 156 2108"/></Shape>
+	    <String CONTENT="** Agent contractuel INRAP Méditerranée, patrice.wuscher@inrap.fr"
+                    HPOS="154.0"
+                    VPOS="2090.0"
+                    WIDTH="626.0"
+                    HEIGHT="32.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_64"
+                    TAGREFS="LT4093"
+                    BASELINE="158 2129 631 2132" 
+                    HPOS="154.0"
+                    VPOS="2106.0"
+                    WIDTH="475.0"
+                    HEIGHT="47.0">
+            <Shape><Polygon POINTS="624 2106 606 2106 587 2106 566 2106 547 2106 526 2106 508 2106 489 2106 468 2106 450 2108 431 2108 410 2108 391 2108 370 2108 352 2108 333 2108 312 2108 294 2108 275 2108 254 2108 235 2108 214 2108 196 2108 177 2108 156 2108 156 2127 154 2153 627 2153 629 2129 627 2106 624 2106"/></Shape>
+	    <String CONTENT="*** C.A.M.L., 5 rue de l&#x27;Olivier 11000 Carcassonne"
+                    HPOS="154.0"
+                    VPOS="2106.0"
+                    WIDTH="475.0"
+                    HEIGHT="47.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="839.0"
+                   VPOS="203.0"
+                   WIDTH="699.0"
+                   HEIGHT="1807.0"
+                   ID="block_3"
+                   TAGREFS="BT10476">
+          <Shape><Polygon POINTS="841 207 1524 203 1538 2010 839 2010 839 280"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4093"
+                    BASELINE="1034 242 1319 245" 
+                    HPOS="1034.0"
+                    VPOS="207.0"
+                    WIDTH="285.0"
+                    HEIGHT="59.0">
+            <Shape><Polygon POINTS="1034 242 1034 261 1316 266 1319 245 1316 210 1034 207 1034 242"/></Shape>
+	    <String CONTENT="CÉPIE (AUDE)"
+                    HPOS="1034.0"
+                    VPOS="207.0"
+                    WIDTH="285.0"
+                    HEIGHT="59.0"
+                    WC="0.99215"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT4093"
+                    BASELINE="1046 342 1312 340" 
+                    HPOS="1046.0"
+                    VPOS="305.0"
+                    WIDTH="266.0"
+                    HEIGHT="49.0">
+            <Shape><Polygon POINTS="1046 342 1046 354 1312 352 1312 340 1309 305 1046 305 1046 342"/></Shape>
+	    <String CONTENT="L&#x27;OCCUPATION"
+                    HPOS="1046.0"
+                    VPOS="305.0"
+                    WIDTH="266.0"
+                    HEIGHT="49.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT4093"
+                    BASELINE="969 384 1393 384" 
+                    HPOS="969.0"
+                    VPOS="342.0"
+                    WIDTH="424.0"
+                    HEIGHT="59.0">
+            <Shape><Polygon POINTS="969 384 969 401 1393 398 1393 384 1393 342 1288 349 969 345 969 384"/></Shape>
+	    <String CONTENT="ANTIQUE ET MÉDIÉVALE"
+                    HPOS="969.0"
+                    VPOS="342.0"
+                    WIDTH="424.0"
+                    HEIGHT="59.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT4093"
+                    BASELINE="988 424 1372 424" 
+                    HPOS="988.0"
+                    VPOS="396.0"
+                    WIDTH="384.0"
+                    HEIGHT="47.0">
+            <Shape><Polygon POINTS="988 424 988 436 1370 443 1372 424 1372 396 988 396 988 424"/></Shape>
+	    <String CONTENT="DU SITE DE L’HORTO :"
+                    HPOS="988.0"
+                    VPOS="396.0"
+                    WIDTH="384.0"
+                    HEIGHT="47.0"
+                    WC="0.9865"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT4093"
+                    BASELINE="1046 466 1314 461" 
+                    HPOS="1044.0"
+                    VPOS="431.0"
+                    WIDTH="270.0"
+                    HEIGHT="49.0">
+            <Shape><Polygon POINTS="1046 466 1046 480 1312 480 1314 461 1312 433 1132 431 1044 436 1046 466"/></Shape>
+	    <String CONTENT="OBSERVATIONS"
+                    HPOS="1044.0"
+                    VPOS="431.0"
+                    WIDTH="270.0"
+                    HEIGHT="49.0"
+                    WC="0.9875"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT4093"
+                    BASELINE="976 503 1381 503" 
+                    HPOS="976.0"
+                    VPOS="468.0"
+                    WIDTH="405.0"
+                    HEIGHT="51.0">
+            <Shape><Polygon POINTS="976 503 976 517 1379 519 1381 503 1381 478 1274 471 1197 475 1190 475 1188 475 1172 468 1169 468 976 475 976 503"/></Shape>
+	    <String CONTENT="GÉOARCHÉOLOGIQUES"
+                    HPOS="976.0"
+                    VPOS="468.0"
+                    WIDTH="405.0"
+                    HEIGHT="51.0"
+                    WC="0.9934"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT4093"
+                    BASELINE="985 545 1372 543" 
+                    HPOS="985.0"
+                    VPOS="515.0"
+                    WIDTH="387.0"
+                    HEIGHT="49.0">
+            <Shape><Polygon POINTS="985 545 985 564 1372 564 1372 543 1370 515 985 517 985 545"/></Shape>
+	    <String CONTENT="ET ARCHÉOLOGIQUES"
+                    HPOS="985.0"
+                    VPOS="515.0"
+                    WIDTH="387.0"
+                    HEIGHT="49.0"
+                    WC="0.94405"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT4093"
+                    BASELINE="874 643 1477 638" 
+                    HPOS="874.0"
+                    VPOS="601.0"
+                    WIDTH="603.0"
+                    HEIGHT="58.0">
+            <Shape><Polygon POINTS="874 643 874 657 1475 659 1477 638 1472 601 874 601 874 643"/></Shape>
+	    <String CONTENT="Agnieszka KOZ̈IOL*, Patrice WUSCHER**,"
+                    HPOS="874.0"
+                    VPOS="601.0"
+                    WIDTH="603.0"
+                    HEIGHT="58.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT4093"
+                    BASELINE="1009 687 1351 687" 
+                    HPOS="1009.0"
+                    VPOS="659.0"
+                    WIDTH="342.0"
+                    HEIGHT="45.0">
+            <Shape><Polygon POINTS="1009 687 1009 704 1351 701 1351 687 1351 659 1009 659 1009 687"/></Shape>
+	    <String CONTENT="avec la collaboration de"
+                    HPOS="1009.0"
+                    VPOS="659.0"
+                    WIDTH="342.0"
+                    HEIGHT="45.0"
+                    WC="0.9858"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT4093"
+                    BASELINE="995 731 1360 724" 
+                    HPOS="995.0"
+                    VPOS="694.0"
+                    WIDTH="365.0"
+                    HEIGHT="56.0">
+            <Shape><Polygon POINTS="995 731 995 750 1360 748 1360 724 1356 694 1337 701 1230 699 1176 699 995 706 995 731"/></Shape>
+	    <String CONTENT="Dominique BAUDRELU***"
+                    HPOS="995.0"
+                    VPOS="694.0"
+                    WIDTH="365.0"
+                    HEIGHT="56.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT4093"
+                    BASELINE="899 822 1500 822" 
+                    HPOS="899.0"
+                    VPOS="790.0"
+                    WIDTH="601.0"
+                    HEIGHT="46.0">
+            <Shape><Polygon POINTS="899 822 899 836 1500 836 1500 822 1500 790 899 790 899 822"/></Shape>
+	    <String CONTENT="Un diagnostic archéologique de 3 hectares (projet de"
+                    HPOS="899.0"
+                    VPOS="790.0"
+                    WIDTH="601.0"
+                    HEIGHT="46.0"
+                    WC="0.9910875"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24"
+                    TAGREFS="LT4093"
+                    BASELINE="862 855 1500 850" 
+                    HPOS="860.0"
+                    VPOS="827.0"
+                    WIDTH="640.0"
+                    HEIGHT="42.0">
+            <Shape><Polygon POINTS="862 855 862 869 1498 869 1500 850 1498 829 860 827 862 855"/></Shape>
+	    <String CONTENT="lotissement) a été réalisé du 4 au 16 janvier 2006 par"
+                    HPOS="860.0"
+                    VPOS="827.0"
+                    WIDTH="640.0"
+                    HEIGHT="42.0"
+                    WC="0.9864"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_25"
+                    TAGREFS="LT4093"
+                    BASELINE="862 885 1500 885" 
+                    HPOS="862.0"
+                    VPOS="860.0"
+                    WIDTH="638.0"
+                    HEIGHT="42.0">
+            <Shape><Polygon POINTS="862 885 862 902 1500 899 1500 885 1500 867 862 860 862 885"/></Shape>
+	    <String CONTENT="l’Inrap en moyenne vallée de l’Aude, à Cépie (Aude), au"
+                    HPOS="862.0"
+                    VPOS="860.0"
+                    WIDTH="638.0"
+                    HEIGHT="42.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_26"
+                    TAGREFS="LT4093"
+                    BASELINE="862 918 1500 918" 
+                    HPOS="862.0"
+                    VPOS="895.0"
+                    WIDTH="638.0"
+                    HEIGHT="41.0">
+            <Shape><Polygon POINTS="862 918 862 936 1500 930 1500 918 1500 895 862 895 862 918"/></Shape>
+	    <String CONTENT="lieu dit l’Horto. La parcelle concernée est située à 500 m"
+                    HPOS="862.0"
+                    VPOS="895.0"
+                    WIDTH="638.0"
+                    HEIGHT="41.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_65"
+                    TAGREFS="LT4093"
+                    BASELINE="860 948 1500 950" 
+                    HPOS="857.0"
+                    VPOS="927.0"
+                    WIDTH="643.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="860 948 857 962 1498 964 1500 950 1500 927 860 927 860 948"/></Shape>
+	    <String CONTENT="environ du village actuel de Cépie, au nord de la route"
+                    HPOS="857.0"
+                    VPOS="927.0"
+                    WIDTH="643.0"
+                    HEIGHT="37.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_66"
+                    TAGREFS="LT4093"
+                    BASELINE="862 985 1500 981" 
+                    HPOS="860.0"
+                    VPOS="957.0"
+                    WIDTH="640.0"
+                    HEIGHT="45.0">
+            <Shape><Polygon POINTS="862 985 862 1002 1500 995 1500 981 1498 957 860 960 862 985"/></Shape>
+	    <String CONTENT="D 118 reliant Carcassonne à Limoux (fig. 1). Dans un"
+                    HPOS="860.0"
+                    VPOS="957.0"
+                    WIDTH="640.0"
+                    HEIGHT="45.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_67"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1013 1500 1016" 
+                    HPOS="857.0"
+                    VPOS="992.0"
+                    WIDTH="643.0"
+                    HEIGHT="35.0">
+            <Shape><Polygon POINTS="860 1013 857 1025 1498 1027 1500 1016 1498 995 860 992 860 1013"/></Shape>
+	    <String CONTENT="enviromnement archéologique riche (Séjalon et al. 2001),"
+                    HPOS="857.0"
+                    VPOS="992.0"
+                    WIDTH="643.0"
+                    HEIGHT="35.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_68"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1046 1500 1048" 
+                    HPOS="857.0"
+                    VPOS="1025.0"
+                    WIDTH="643.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="860 1046 857 1058 1498 1062 1500 1048 1500 1027 860 1025 860 1046"/></Shape>
+	    <String CONTENT="cette parcelle était notamment connue pour la présence"
+                    HPOS="857.0"
+                    VPOS="1025.0"
+                    WIDTH="643.0"
+                    HEIGHT="37.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_69"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1081 1500 1076" 
+                    HPOS="857.0"
+                    VPOS="1053.0"
+                    WIDTH="643.0"
+                    HEIGHT="44.0">
+            <Shape><Polygon POINTS="860 1081 860 1093 1281 1097 1284 1097 1288 1097 1305 1090 1328 1097 1330 1097 1333 1097 1500 1097 1500 1076 1498 1058 1081 1053 1079 1053 857 1060 860 1081"/></Shape>
+	    <String CONTENT="supposée de l’église Saint-Etienne, ancienne église"
+                    HPOS="857.0"
+                    VPOS="1053.0"
+                    WIDTH="643.0"
+                    HEIGHT="44.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_70"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1114 1500 1114" 
+                    HPOS="860.0"
+                    VPOS="1090.0"
+                    WIDTH="640.0"
+                    HEIGHT="40.0">
+            <Shape><Polygon POINTS="860 1114 860 1130 1500 1123 1500 1114 1500 1090 860 1093 860 1114"/></Shape>
+	    <String CONTENT="paroissiale du village, et d’un cimetière, tous deux"
+                    HPOS="860.0"
+                    VPOS="1090.0"
+                    WIDTH="640.0"
+                    HEIGHT="40.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_71"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1144 1500 1144" 
+                    HPOS="860.0"
+                    VPOS="1125.0"
+                    WIDTH="640.0"
+                    HEIGHT="30.0">
+            <Shape><Polygon POINTS="860 1144 860 1155 1500 1155 1500 1144 1500 1125 860 1125 860 1144"/></Shape>
+	    <String CONTENT="représentés sur deux plans terriers du XVIII^e siècle"
+                    HPOS="860.0"
+                    VPOS="1125.0"
+                    WIDTH="640.0"
+                    HEIGHT="30.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_72"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1176 1500 1176" 
+                    HPOS="860.0"
+                    VPOS="1155.0"
+                    WIDTH="640.0"
+                    HEIGHT="38.0">
+            <Shape><Polygon POINTS="860 1176 860 1193 1500 1193 1500 1176 1500 1155 860 1155 860 1176"/></Shape>
+	    <String CONTENT="(Baudreu, Loppe 2003). Le diagnostic a permis de mettre"
+                    HPOS="860.0"
+                    VPOS="1155.0"
+                    WIDTH="640.0"
+                    HEIGHT="38.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_73"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1209 1500 1207" 
+                    HPOS="857.0"
+                    VPOS="1186.0"
+                    WIDTH="643.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="860 1209 860 1223 1500 1221 1500 1207 1498 1186 857 1186 860 1209"/></Shape>
+	    <String CONTENT="ces structures au jour, au cœur d’une densité de vestiges"
+                    HPOS="857.0"
+                    VPOS="1186.0"
+                    WIDTH="643.0"
+                    HEIGHT="37.0"
+                    WC="0.97644"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_74"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1242 1500 1242" 
+                    HPOS="860.0"
+                    VPOS="1216.0"
+                    WIDTH="640.0"
+                    HEIGHT="49.0">
+            <Shape><Polygon POINTS="860 1242 860 1256 911 1263 913 1263 934 1256 936 1256 941 1256 978 1263 981 1263 995 1256 1130 1256 1135 1256 1186 1265 1279 1256 1293 1256 1312 1256 1458 1265 1461 1265 1500 1256 1500 1242 1500 1221 860 1216 860 1242"/></Shape>
+	    <String CONTENT="antiques ct médiévaux insoupçonnée au démarrage de"
+                    HPOS="860.0"
+                    VPOS="1216.0"
+                    WIDTH="640.0"
+                    HEIGHT="49.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_75"
+                    TAGREFS="LT4093"
+                    BASELINE="862 1274 997 1272" 
+                    HPOS="860.0"
+                    VPOS="1246.0"
+                    WIDTH="137.0"
+                    HEIGHT="45.0">
+            <Shape><Polygon POINTS="862 1274 862 1291 997 1291 997 1272 995 1253 860 1246 862 1274"/></Shape>
+	    <String CONTENT="l’opération."
+                    HPOS="860.0"
+                    VPOS="1246.0"
+                    WIDTH="137.0"
+                    HEIGHT="45.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_76"
+                    TAGREFS="LT4093"
+                    BASELINE="862 1384 1246 1384" 
+                    HPOS="862.0"
+                    VPOS="1351.0"
+                    WIDTH="384.0"
+                    HEIGHT="54.0">
+            <Shape><Polygon POINTS="862 1384 862 1405 1246 1405 1246 1384 1246 1351 862 1351 862 1384"/></Shape>
+	    <String CONTENT="ETAT DES CONNAISSANCES"
+                    HPOS="862.0"
+                    VPOS="1351.0"
+                    WIDTH="384.0"
+                    HEIGHT="54.0"
+                    WC="0.985466666666667"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_77"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1458 1148 1463" 
+                    HPOS="857.0"
+                    VPOS="1423.0"
+                    WIDTH="291.0"
+                    HEIGHT="56.0">
+            <Shape><Polygon POINTS="860 1458 857 1479 1146 1479 1148 1463 1146 1435 1109 1435 1107 1433 1097 1426 1097 1423 1095 1423 1093 1423 1041 1430 1013 1435 1009 1430 999 1423 997 1423 995 1423 983 1428 976 1433 974 1428 967 1423 964 1423 962 1423 950 1426 936 1433 925 1426 923 1423 920 1423 918 1423 913 1426 902 1433 895 1426 895 1423 892 1423 860 1423 860 1458"/></Shape>
+	    <String CONTENT="Contexte géographique"
+                    HPOS="857.0"
+                    VPOS="1423.0"
+                    WIDTH="291.0"
+                    HEIGHT="56.0"
+                    WC="0.95565"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_78"
+                    TAGREFS="LT4093"
+                    BASELINE="897 1507 1498 1507" 
+                    HPOS="897.0"
+                    VPOS="1479.0"
+                    WIDTH="601.0"
+                    HEIGHT="45.0">
+            <Shape><Polygon POINTS="897 1507 897 1524 1498 1524 1498 1507 1498 1482 897 1479 897 1507"/></Shape>
+	    <String CONTENT="L&#x27;Aude parcourt ici une vallée de 700 m de large,"
+                    HPOS="897.0"
+                    VPOS="1479.0"
+                    WIDTH="601.0"
+                    HEIGHT="45.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_79"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1540 1500 1540" 
+                    HPOS="860.0"
+                    VPOS="1517.0"
+                    WIDTH="640.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="860 1540 860 1556 1500 1551 1500 1540 1500 1517 860 1517 860 1540"/></Shape>
+	    <String CONTENT="encaissée d’environ 150 m dans la molasse continentale"
+                    HPOS="860.0"
+                    VPOS="1517.0"
+                    WIDTH="640.0"
+                    HEIGHT="39.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_80"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1575 1500 1575" 
+                    HPOS="860.0"
+                    VPOS="1551.0"
+                    WIDTH="640.0"
+                    HEIGHT="38.0">
+            <Shape><Polygon POINTS="860 1575 860 1589 1500 1586 1500 1575 1500 1551 860 1551 860 1575"/></Shape>
+	    <String CONTENT="du Lutétien (faciès conglomératiques du Tertiaire). Au"
+                    HPOS="860.0"
+                    VPOS="1551.0"
+                    WIDTH="640.0"
+                    HEIGHT="38.0"
+                    WC="0.986471428571429"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_81"
+                    TAGREFS="LT4093"
+                    BASELINE="862 1603 1500 1605" 
+                    HPOS="860.0"
+                    VPOS="1579.0"
+                    WIDTH="640.0"
+                    HEIGHT="40.0">
+            <Shape><Polygon POINTS="862 1603 860 1619 1500 1619 1500 1605 1498 1579 862 1579 862 1603"/></Shape>
+	    <String CONTENT="nord de la vallée, entre la confluence avec le Sou et celle"
+                    HPOS="860.0"
+                    VPOS="1579.0"
+                    WIDTH="640.0"
+                    HEIGHT="40.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_82"
+                    TAGREFS="LT4093"
+                    BASELINE="862 1640 1500 1638" 
+                    HPOS="860.0"
+                    VPOS="1614.0"
+                    WIDTH="640.0"
+                    HEIGHT="45.0">
+            <Shape><Polygon POINTS="862 1640 862 1659 981 1654 997 1659 999 1659 1002 1659 1004 1659 1009 1659 1023 1654 1039 1659 1044 1659 1046 1659 1053 1659 1079 1654 1121 1659 1135 1659 1144 1659 1167 1654 1174 1659 1176 1659 1179 1659 1202 1659 1279 1652 1314 1659 1316 1659 1319 1659 1435 1659 1437 1659 1449 1652 1498 1656 1500 1638 1498 1617 860 1614 862 1640"/></Shape>
+	    <String CONTENT="avec le Lauquet, ce relief a été profondément disséqué en"
+                    HPOS="860.0"
+                    VPOS="1614.0"
+                    WIDTH="640.0"
+                    HEIGHT="45.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_83"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1670 1500 1673" 
+                    HPOS="857.0"
+                    VPOS="1647.0"
+                    WIDTH="643.0"
+                    HEIGHT="40.0">
+            <Shape><Polygon POINTS="860 1670 857 1682 867 1687 869 1687 1500 1682 1500 1673 1498 1647 860 1647 860 1670"/></Shape>
+	    <String CONTENT="croupes irrégulières par de petits cours d’eau"
+                    HPOS="857.0"
+                    VPOS="1647.0"
+                    WIDTH="643.0"
+                    HEIGHT="40.0"
+                    WC="0.980742857142857"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_84"
+                    TAGREFS="LT4093"
+                    BASELINE="862 1705 1500 1705" 
+                    HPOS="862.0"
+                    VPOS="1677.0"
+                    WIDTH="638.0"
+                    HEIGHT="45.0">
+            <Shape><Polygon POINTS="862 1705 862 1722 1500 1717 1500 1705 1500 1680 862 1677 862 1705"/></Shape>
+	    <String CONTENT="intermittents. Dans ce secteur, le tracé globalement"
+                    HPOS="862.0"
+                    VPOS="1677.0"
+                    WIDTH="638.0"
+                    HEIGHT="45.0"
+                    WC="0.995814285714286"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_85"
+                    TAGREFS="LT4093"
+                    BASELINE="862 1738 1500 1738" 
+                    HPOS="862.0"
+                    VPOS="1715.0"
+                    WIDTH="638.0"
+                    HEIGHT="39.0">
+            <Shape><Polygon POINTS="862 1738 862 1754 1500 1754 1500 1738 1500 1715 862 1715 862 1738"/></Shape>
+	    <String CONTENT="méridien et rectiligne de l’Aude est marqué par quelques"
+                    HPOS="862.0"
+                    VPOS="1715.0"
+                    WIDTH="638.0"
+                    HEIGHT="39.0"
+                    WC="0.981922222222222"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_86"
+                    TAGREFS="LT4093"
+                    BASELINE="862 1770 1503 1770" 
+                    HPOS="862.0"
+                    VPOS="1745.0"
+                    WIDTH="641.0"
+                    HEIGHT="46.0">
+            <Shape><Polygon POINTS="862 1770 862 1787 969 1789 971 1789 974 1789 985 1780 1025 1780 1107 1789 1128 1789 1130 1789 1137 1789 1174 1780 1181 1789 1183 1789 1186 1789 1188 1791 1270 1791 1270 1789 1272 1789 1274 1789 1286 1780 1321 1780 1335 1789 1337 1789 1340 1789 1342 1789 1503 1789 1503 1770 1503 1745 862 1745 862 1770"/></Shape>
+	    <String CONTENT="inflexions majeures (fig. 1). L’organisation"
+                    HPOS="862.0"
+                    VPOS="1745.0"
+                    WIDTH="641.0"
+                    HEIGHT="46.0"
+                    WC="0.98978"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_87"
+                    TAGREFS="LT4093"
+                    BASELINE="862 1803 1500 1803" 
+                    HPOS="862.0"
+                    VPOS="1780.0"
+                    WIDTH="638.0"
+                    HEIGHT="46.0">
+            <Shape><Polygon POINTS="862 1803 862 1817 1011 1826 1013 1826 1027 1822 1034 1817 1041 1822 1051 1824 1053 1824 1172 1822 1400 1817 1416 1826 1419 1826 1421 1826 1500 1826 1500 1803 1500 1780 862 1780 862 1803"/></Shape>
+	    <String CONTENT="morphologique de la vallée semble montrer l&#x27;existence"
+                    HPOS="862.0"
+                    VPOS="1780.0"
+                    WIDTH="638.0"
+                    HEIGHT="46.0"
+                    WC="0.947385714285714"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_88"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1833 1426 1836" 
+                    HPOS="857.0"
+                    VPOS="1815.0"
+                    WIDTH="569.0"
+                    HEIGHT="35.0">
+            <Shape><Polygon POINTS="860 1833 857 1850 1423 1850 1426 1836 1423 1817 860 1815 860 1833"/></Shape>
+	    <String CONTENT="de terrasses alluviales mais reste fort mal connue."
+                    HPOS="857.0"
+                    VPOS="1815.0"
+                    WIDTH="569.0"
+                    HEIGHT="35.0"
+                    WC="0.979625"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_89"
+                    TAGREFS="LT4093"
+                    BASELINE="899 1882 1500 1880" 
+                    HPOS="897.0"
+                    VPOS="1852.0"
+                    WIDTH="603.0"
+                    HEIGHT="44.0">
+            <Shape><Polygon POINTS="899 1882 899 1894 1498 1896 1500 1880 1498 1852 897 1852 899 1882"/></Shape>
+	    <String CONTENT="La parcelle investie concerne un versant orienté au"
+                    HPOS="897.0"
+                    VPOS="1852.0"
+                    WIDTH="603.0"
+                    HEIGHT="44.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_90"
+                    TAGREFS="LT4093"
+                    BASELINE="860 1915 1500 1915" 
+                    HPOS="860.0"
+                    VPOS="1889.0"
+                    WIDTH="640.0"
+                    HEIGHT="38.0">
+            <Shape><Polygon POINTS="860 1915 860 1927 1500 1927 1500 1915 1500 1894 860 1889 860 1915"/></Shape>
+	    <String CONTENT="sud et une portion de la plaine alluviale. Ce versant"
+                    HPOS="860.0"
+                    VPOS="1889.0"
+                    WIDTH="640.0"
+                    HEIGHT="38.0"
+                    WC="0.99528"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_91"
+                    TAGREFS="LT4093"
+                    BASELINE="862 1948 1500 1945" 
+                    HPOS="860.0"
+                    VPOS="1922.0"
+                    WIDTH="640.0"
+                    HEIGHT="40.0">
+            <Shape><Polygon POINTS="862 1948 862 1962 1500 1959 1500 1945 1498 1922 860 1927 862 1948"/></Shape>
+	    <String CONTENT="présente une pente de plus de 10% au nord, qui s&#x27;adoucit"
+                    HPOS="860.0"
+                    VPOS="1922.0"
+                    WIDTH="640.0"
+                    HEIGHT="40.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_92"
+                    TAGREFS="LT4093"
+                    BASELINE="862 1980 1500 1980" 
+                    HPOS="862.0"
+                    VPOS="1957.0"
+                    WIDTH="638.0"
+                    HEIGHT="44.0">
+            <Shape><Polygon POINTS="862 1980 862 2001 1500 2001 1500 1980 1500 1957 862 1957 862 1980"/></Shape>
+	    <String CONTENT="vers le sud. Il est irrégulier, marqué par des replats et des"
+                    HPOS="862.0"
+                    VPOS="1957.0"
+                    WIDTH="638.0"
+                    HEIGHT="44.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="75.0"
+                   VPOS="2208.0"
+                   WIDTH="58.0"
+                   HEIGHT="42.0"
+                   ID="block_0"
+                   TAGREFS="BT10478">
+          <Shape><Polygon POINTS="133 2208 133 2250 75 2250 75 2208"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4093"
+                    BASELINE="82 2232 123 2227" 
+                    HPOS="79.0"
+                    VPOS="2208.0"
+                    WIDTH="44.0"
+                    HEIGHT="49.0">
+            <Shape><Polygon POINTS="119 2208 105 2208 93 2208 79 2208 82 2232 84 2257 123 2257 123 2227 119 2208"/></Shape>
+	    <String CONTENT="170"
+                    HPOS="79.0"
+                    VPOS="2208.0"
+                    WIDTH="44.0"
+                    HEIGHT="49.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="151.0"
+                   VPOS="2043.0"
+                   WIDTH="690.0"
+                   HEIGHT="105.0"
+                   ID="eSc_textblock_c9dbe968"
+                   TAGREFS="BT10477">
+          <Shape><Polygon POINTS="151 2043 151 2148 841 2148 841 2043"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="154.0"
+                   VPOS="196.0"
+                   WIDTH="638.0"
+                   HEIGHT="333.0"
+                   ID="eSc_textblock_52cefc71"
+                   TAGREFS="BT10480">
+          <Shape><Polygon POINTS="154 196 154 529 792 529 792 196"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
