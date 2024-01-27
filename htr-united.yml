@@ -52,73 +52,73 @@ characters:
   - f
   - ’
   - A
-  - '1'
   - E
-  - y
+  - '1'
   - C
+  - y
   - I
-  - S
   - ̀
+  - S
   - L
   - R
-  - ¬
   - M
+  - ¬
   - "'"
-  - z
   - P
   - D
   - x
-  - '2'
-  - O
   - N
-  - j
-  - '0'
-  - k
+  - z
+  - O
+  - '2'
   - T
-  - ̈
+  - '0'
+  - j
   - B
-  - '3'
   - '-'
-  - '8'
+  - k
+  - '3'
   - '9'
-  - —
-  - w
+  - ̈
+  - '8'
   - '4'
   - U
-  - H
   - '5'
-  - G
+  - w
+  - —
+  - H
   - '7'
+  - G
+  - ̂
   - F
   - V
-  - ̂
-  - ;
-  - '&'
-  - ':'
   - '6'
   - )
+  - ':'
   - (
+  - ;
+  - '&'
   - J
   - W
   - K
   - '!'
   - Q
-  - Z
-  - ̃
-  - '?'
-  - –
-  - Y
   - X
-  - «
-  - ^
-  - ̧
+  - Z
+  - '?'
+  - ̃
   - /
+  - ^
+  - Y
+  - «
+  - –
+  - ̧
   - »
+  - '*'
+  - °
   - Σ
   - “
   - '"'
-  - °
-  - '*'
   - œ
   - ”
   - ß
@@ -141,6 +141,7 @@ characters:
   - §
   - '%'
   - _
+  - ¹
   - ℣
   - ᑕ
   - ؛
@@ -179,11 +180,11 @@ title: FONDUE-MLT-PRINT-TEST
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-PRINT-TEST
 volume:
-- count: 127905
+- count: 147415
   metric: characters
-- count: 89
+- count: 97
   metric: files
-- count: 3539
+- count: 3913
   metric: lines
-- count: 308
+- count: 334
   metric: regions
