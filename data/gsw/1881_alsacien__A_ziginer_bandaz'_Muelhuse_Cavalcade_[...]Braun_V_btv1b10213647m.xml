@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1881_alsacien__A_ziginer_bandaz&#x27;_Muelhuse_Cavalcade_[...]Braun_V_btv1b10213647m.JPEG</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10556" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10491" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10487" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10490" LABEL="DigitizationArtifactZone" DESCRIPTION="block type DigitizationArtifactZone"/><OtherTag ID="BT10489" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10488" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT4130" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4097" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1536"
+          HEIGHT="1013"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1536"
+                  HEIGHT="1013">
+        
+        <TextBlock HPOS="120"
+                   VPOS="16"
+                   WIDTH="481"
+                   HEIGHT="67"
+                   ID="eSc_textblock_8a02dc06"
+                   TAGREFS="BT10487">
+          <Shape><Polygon POINTS="120 16 120 83 601 83 601 16"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_05a487a8"
+                    TAGREFS="LT4097"
+                    BASELINE="155 70 597 68" 
+                    HPOS="155"
+                    VPOS="28"
+                    WIDTH="442"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="588 46 583 45 577 44 571 43 566 42 560 41 560 41 554 41 554 41 530 42 517 43 514 42 486 28 481 28 476 28 470 28 464 28 459 28 453 28 453 28 439 41 426 44 418 41 417 41 417 41 416 41 408 44 370 43 363 39 347 28 346 28 346 28 323 28 323 28 322 28 321 28 309 38 303 41 287 41 287 41 286 41 285 41 280 45 254 45 240 36 229 29 228 29 227 29 163 29 162 29 162 29 161 29 155 33 155 70 155 82 176 80 182 82 184 83 185 83 185 83 186 83 186 83 187 82 193 79 198 82 200 83 200 83 201 83 301 83 301 83 302 83 302 83 304 82 311 78 327 78 337 82 338 82 339 82 339 83 402 83 402 82 402 82 403 82 404 82 409 77 450 77 464 77 470 82 471 82 471 82 472 82 472 82 473 82 485 77 597 81 597 68 592 48 588 46"/></Shape>
+	    <String CONTENT="A ZIGINER BANDAZ&#x27; MÜLHUSA."
+                    HPOS="155"
+                    VPOS="28"
+                    WIDTH="442"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="78"
+                   VPOS="84"
+                   WIDTH="248"
+                   HEIGHT="250"
+                   ID="eSc_textblock_700de32e"
+                   TAGREFS="BT10487">
+          <Shape><Polygon POINTS="78 84 78 334 326 334 326 84"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_df9d89f7"
+                    TAGREFS="LT4097"
+                    BASELINE="99 104 315 102" 
+                    HPOS="98"
+                    VPOS="84"
+                    WIDTH="217"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="312 88 306 87 306 87 302 88 299 86 295 86 293 86 292 87 287 86 285 85 284 85 279 84 279 84 278 86 274 89 267 89 257 86 252 84 251 84 251 84 250 84 249 84 249 84 248 86 245 89 221 89 215 86 212 84 211 84 211 84 210 84 209 84 209 84 208 86 204 88 194 86 190 84 190 84 189 84 189 84 188 84 188 85 187 86 184 90 151 90 148 87 143 87 137 87 132 87 126 88 121 88 118 88 116 89 115 88 115 88 109 88 104 89 98 89 99 104 99 110 314 111 315 102 312 88 312 88"/></Shape>
+	    <String CONTENT="Oh ! das mer doch so ebies lidet"
+                    HPOS="98"
+                    VPOS="84"
+                    WIDTH="217"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b53895ed"
+                    TAGREFS="LT4097"
+                    BASELINE="97 123 312 121" 
+                    HPOS="96"
+                    VPOS="106"
+                    WIDTH="216"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="97 123 97 128 140 131 140 131 162 128 169 128 311 130 312 121 311 109 219 106 218 106 190 109 186 109 184 109 168 106 167 106 167 106 166 106 162 109 161 110 156 109 140 107 139 107 96 109 97 123"/></Shape>
+	    <String CONTENT="As thüet eim so mache z&#x27;grüsa"
+                    HPOS="96"
+                    VPOS="106"
+                    WIDTH="216"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec328791"
+                    TAGREFS="LT4097"
+                    BASELINE="96 139 235 137" 
+                    HPOS="96"
+                    VPOS="124"
+                    WIDTH="139"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="96 139 96 144 234 145 235 137 234 126 96 124 96 139"/></Shape>
+	    <String CONTENT="For danna fracha Lit"
+                    HPOS="96"
+                    VPOS="124"
+                    WIDTH="139"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d119b354"
+                    TAGREFS="LT4097"
+                    BASELINE="97 154 286 154" 
+                    HPOS="96"
+                    VPOS="138"
+                    WIDTH="189"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="96 153 96 161 284 163 285 153 284 138 96 139 96 153"/></Shape>
+	    <String CONTENT="Sie thusn eim jo Alles stahla"
+                    HPOS="96"
+                    VPOS="138"
+                    WIDTH="189"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c90768b"
+                    TAGREFS="LT4097"
+                    BASELINE="95 173 316 171" 
+                    HPOS="95"
+                    VPOS="155"
+                    WIDTH="221"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="314 155 239 160 226 157 225 157 225 157 198 160 194 157 194 156 193 156 193 156 184 156 183 156 182 156 182 156 182 157 178 160 153 161 132 161 124 157 123 157 123 157 122 157 122 157 121 157 110 160 105 157 105 157 104 157 104 157 95 157 95 173 95 178 315 180 316 171 316 167 314 155"/></Shape>
+	    <String CONTENT="Sisch niema nit mehe sicher darfo"
+                    HPOS="95"
+                    VPOS="155"
+                    WIDTH="221"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da794c67"
+                    TAGREFS="LT4097"
+                    BASELINE="93 190 266 189" 
+                    HPOS="93"
+                    VPOS="176"
+                    WIDTH="173"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="93 190 93 196 265 197 266 189 265 180 244 176 244 176 215 179 213 179 211 179 198 176 197 176 181 179 180 179 179 179 176 176 176 176 176 176 175 176 175 176 174 176 162 178 159 179 157 178 141 176 141 176 140 176 132 178 130 179 130 178 126 176 125 176 124 176 124 176 123 176 123 176 119 178 118 179 117 178 110 176 109 176 109 176 93 178 93 190"/></Shape>
+	    <String CONTENT="lch weis noch z’verzehla"
+                    HPOS="93"
+                    VPOS="176"
+                    WIDTH="173"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f6985f5"
+                    TAGREFS="LT4097"
+                    BASELINE="94 207 269 206" 
+                    HPOS="93"
+                    VPOS="193"
+                    WIDTH="176"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="94 207 94 216 120 216 121 216 121 216 123 215 130 213 162 214 191 216 191 216 192 216 198 213 202 212 214 213 243 216 243 216 268 212 269 206 267 194 93 193 94 207"/></Shape>
+	    <String CONTENT="Wu eim d&#x27;Polizei hab gnuh"
+                    HPOS="93"
+                    VPOS="193"
+                    WIDTH="176"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9826765e"
+                    TAGREFS="LT4097"
+                    BASELINE="92 226 307 224" 
+                    HPOS="92"
+                    VPOS="208"
+                    WIDTH="215"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="306 211 305 210 265 208 264 208 263 208 254 211 249 214 217 214 213 212 204 208 203 208 203 208 202 208 202 208 196 212 193 214 172 214 166 213 146 209 145 209 111 214 106 214 105 214 99 209 98 209 97 209 97 209 96 209 92 221 92 226 92 231 123 231 128 234 128 234 129 234 130 234 155 231 156 231 182 234 182 234 199 230 199 230 200 230 207 234 208 234 208 234 209 234 219 230 238 234 238 234 277 230 303 233 304 233 305 233 305 233 305 232 307 230 307 224 306 212 306 211"/></Shape>
+	    <String CONTENT="So rieft manger braver Mulhuser"
+                    HPOS="92"
+                    VPOS="208"
+                    WIDTH="215"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa3288a5"
+                    TAGREFS="LT4097"
+                    BASELINE="92 242 304 241" 
+                    HPOS="91"
+                    VPOS="227"
+                    WIDTH="213"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="92 242 92 247 133 250 133 250 134 250 135 250 135 249 136 248 137 247 172 247 179 248 187 250 188 250 189 250 193 248 197 247 202 249 204 249 204 249 205 249 206 249 208 249 213 247 221 249 224 249 224 249 225 249 225 249 227 249 232 247 237 249 238 249 239 249 239 249 245 249 272 247 275 249 275 249 276 249 276 249 277 250 303 250 304 241 303 230 275 227 274 227 274 227 273 227 273 227 270 230 270 230 265 230 234 227 234 227 233 227 227 230 226 230 225 230 217 227 216 227 216 227 200 230 195 231 185 230 156 227 155 227 155 227 145 230 140 231 136 230 125 227 124 227 91 230 92 242"/></Shape>
+	    <String CONTENT="ln eim oder im andera ins Ohr"
+                    HPOS="91"
+                    VPOS="227"
+                    WIDTH="213"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_86a3cd54"
+                    TAGREFS="LT4097"
+                    BASELINE="91 258 296 257" 
+                    HPOS="90"
+                    VPOS="243"
+                    WIDTH="206"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="91 258 91 264 296 262 296 257 294 245 239 245 232 243 231 243 231 243 230 243 230 243 225 246 225 246 219 246 164 243 164 243 133 247 132 247 132 247 95 244 94 244 93 244 93 244 90 245 91 258"/></Shape>
+	    <String CONTENT="As bruckt eim nit drab z&#x27;grusa"
+                    HPOS="90"
+                    VPOS="243"
+                    WIDTH="206"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_104bf2f3"
+                    TAGREFS="LT4097"
+                    BASELINE="91 276 297 275" 
+                    HPOS="90"
+                    VPOS="261"
+                    WIDTH="207"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="91 276 91 282 296 283 297 275 297 265 288 261 287 261 267 261 266 261 266 261 265 261 260 264 252 261 252 261 251 261 251 261 242 264 226 261 225 261 211 264 210 264 209 264 199 261 198 261 198 261 197 261 196 261 193 264 192 265 188 264 176 261 175 261 162 263 157 265 147 263 127 261 126 261 126 261 121 263 118 265 113 263 104 261 103 261 103 261 90 263 91 276"/></Shape>
+	    <String CONTENT="Wemmer unsera banda gsiht Ku"
+                    HPOS="90"
+                    VPOS="261"
+                    WIDTH="207"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_612111d5"
+                    TAGREFS="LT4097"
+                    BASELINE="90 294 270 293" 
+                    HPOS="89"
+                    VPOS="278"
+                    WIDTH="181"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="90 294 90 301 111 299 121 301 136 304 136 304 137 304 141 302 145 299 146 302 149 303 149 304 149 304 150 304 150 304 151 304 151 304 154 302 158 299 209 302 210 302 211 302 221 299 226 303 227 303 227 303 228 303 229 303 270 303 270 293 269 281 251 279 250 279 237 281 234 281 233 281 227 278 226 278 226 278 225 278 216 281 215 281 207 281 176 279 175 279 175 279 168 281 165 282 160 281 152 279 151 279 151 279 150 279 145 281 142 282 140 281 135 279 135 279 119 279 118 279 118 279 117 279 115 281 114 282 109 281 102 279 101 279 101 279 89 280 90 294"/></Shape>
+	    <String CONTENT="Fu viela Lander un hachta"
+                    HPOS="89"
+                    VPOS="278"
+                    WIDTH="181"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aff9973d"
+                    TAGREFS="LT4097"
+                    BASELINE="90 310 222 310" 
+                    HPOS="90"
+                    VPOS="296"
+                    WIDTH="132"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="90 310 90 320 222 323 222 310 221 296 211 299 199 296 198 296 198 296 196 296 182 299 172 296 171 296 171 296 170 296 167 296 151 299 90 297 90 310"/></Shape>
+	    <String CONTENT="Namamer Lit darzu"
+                    HPOS="90"
+                    VPOS="296"
+                    WIDTH="132"
+                    HEIGHT="27"
+                    WC="0.989205332363353"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="407"
+                   VPOS="145"
+                   WIDTH="337"
+                   HEIGHT="278"
+                   ID="eSc_textblock_91cb7885"
+                   TAGREFS="BT10487">
+          <Shape><Polygon POINTS="407 145 407 423 744 423 744 145"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_50ab1406"
+                    TAGREFS="LT4097"
+                    BASELINE="435 172 638 171" 
+                    HPOS="434"
+                    VPOS="157"
+                    WIDTH="204"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="625 158 620 158 614 158 608 158 603 158 597 158 592 158 586 158 580 158 575 158 569 158 563 158 558 158 552 158 547 158 541 158 535 158 530 157 524 157 518 157 513 157 507 157 502 157 496 157 490 157 485 157 439 157 434 159 435 172 435 178 637 176 638 171 630 159 625 158"/></Shape>
+	    <String CONTENT="Bi uns isch Keiner z&#x27;verachta"
+                    HPOS="434"
+                    VPOS="157"
+                    WIDTH="204"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c6f3b417"
+                    TAGREFS="LT4097"
+                    BASELINE="435 189 658 187" 
+                    HPOS="434"
+                    VPOS="173"
+                    WIDTH="224"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="654 173 635 173 634 173 634 173 633 173 629 176 613 173 610 173 610 173 609 173 608 173 608 173 604 176 589 173 585 173 584 173 584 173 582 173 577 176 557 174 557 174 556 174 556 174 555 174 551 177 522 175 511 173 510 173 509 173 507 175 500 177 434 176 435 189 435 195 657 196 658 187 657 175 654 173"/></Shape>
+	    <String CONTENT="Da gega andara racht handla thüt"
+                    HPOS="434"
+                    VPOS="173"
+                    WIDTH="224"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d6a8cdd"
+                    TAGREFS="LT4097"
+                    BASELINE="435 206 674 205" 
+                    HPOS="435"
+                    VPOS="191"
+                    WIDTH="239"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="671 194 612 191 611 191 611 191 600 194 596 191 596 191 595 191 577 191 576 191 576 191 575 191 575 191 572 194 569 191 568 191 567 191 567 191 545 194 540 195 504 195 503 194 500 191 499 191 499 191 486 191 486 191 485 191 485 191 485 192 482 194 481 195 455 195 453 194 448 191 447 191 446 191 435 194 435 206 435 212 456 216 457 216 457 216 464 213 466 212 509 212 512 213 516 216 516 216 517 216 517 216 545 214 581 212 598 216 607 217 608 217 674 217 674 205 673 197 671 194"/></Shape>
+	    <String CONTENT="Kessel, Pfanna un Laffel z&#x27;verzinna"
+                    HPOS="435"
+                    VPOS="191"
+                    WIDTH="239"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c21631f"
+                    TAGREFS="LT4097"
+                    BASELINE="435 225 606 223" 
+                    HPOS="435"
+                    VPOS="209"
+                    WIDTH="171"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="435 225 435 231 606 229 606 223 605 212 571 209 570 209 547 211 535 212 529 211 523 209 522 209 522 209 515 211 509 212 504 211 499 209 499 209 498 209 486 211 473 212 471 210 470 209 469 209 469 209 468 209 435 209 435 225"/></Shape>
+	    <String CONTENT="Bring&#x27;at so viel asser wann"
+                    HPOS="435"
+                    VPOS="209"
+                    WIDTH="171"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7161dd5d"
+                    TAGREFS="LT4097"
+                    BASELINE="435 242 664 240" 
+                    HPOS="434"
+                    VPOS="227"
+                    WIDTH="230"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="435 242 435 248 471 247 480 248 495 250 495 250 496 250 504 248 512 247 533 249 547 250 547 250 548 250 552 249 560 247 562 249 563 249 563 250 563 250 564 250 565 250 579 250 579 250 579 250 580 250 580 249 580 249 583 246 597 246 604 249 605 249 605 249 606 250 663 250 664 240 663 228 434 227 435 242"/></Shape>
+	    <String CONTENT="Denn unser tagliga Brod z&#x27;werdiena"
+                    HPOS="434"
+                    VPOS="227"
+                    WIDTH="230"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e41cf85f"
+                    TAGREFS="LT4097"
+                    BASELINE="435 258 616 257" 
+                    HPOS="435"
+                    VPOS="243"
+                    WIDTH="181"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="435 258 435 263 615 264 616 257 614 245 593 246 590 245 583 243 583 243 582 243 581 243 581 243 581 243 579 245 578 247 563 247 561 245 558 243 557 243 557 243 556 243 556 243 555 243 555 243 553 245 552 246 533 244 518 243 517 243 517 243 515 244 509 247 486 247 467 244 461 243 460 243 460 243 459 243 459 244 454 247 435 244 435 258"/></Shape>
+	    <String CONTENT="Schaffamer mit unsera Hand"
+                    HPOS="435"
+                    VPOS="243"
+                    WIDTH="181"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8ae9b51"
+                    TAGREFS="LT4097"
+                    BASELINE="435 275 666 275" 
+                    HPOS="435"
+                    VPOS="259"
+                    WIDTH="231"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="435 275 435 284 666 281 666 275 666 260 634 259 634 259 633 259 633 259 632 260 628 262 616 260 615 260 614 260 614 260 613 260 610 262 607 260 607 260 607 260 606 260 606 260 604 260 593 262 584 260 581 259 581 259 580 259 580 259 577 260 569 263 538 263 534 260 531 259 530 259 530 259 529 259 529 259 527 260 525 262 515 260 506 259 505 259 505 259 499 261 493 262 477 261 462 259 461 259 435 261 435 275"/></Shape>
+	    <String CONTENT="Sttahla macht eim a schlachte nama"
+                    HPOS="435"
+                    VPOS="259"
+                    WIDTH="231"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a639012"
+                    TAGREFS="LT4097"
+                    BASELINE="435 292 639 293" 
+                    HPOS="435"
+                    VPOS="279"
+                    WIDTH="204"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="435 292 435 298 442 302 442 302 443 302 487 299 493 299 526 299 529 300 536 302 537 302 538 302 538 302 543 300 545 299 638 302 639 293 639 280 435 279 435 292"/></Shape>
+	    <String CONTENT="A jeder nimmt mit was ar findet"
+                    HPOS="435"
+                    VPOS="279"
+                    WIDTH="204"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7aab8fb"
+                    TAGREFS="LT4097"
+                    BASELINE="435 310 703 311" 
+                    HPOS="435"
+                    VPOS="294"
+                    WIDTH="268"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="700 301 694 299 688 297 677 296 677 296 676 296 670 299 665 296 665 296 664 296 646 296 645 296 628 299 620 300 616 299 609 296 608 296 608 296 607 296 599 298 598 299 596 298 591 296 590 296 590 296 589 296 589 296 589 296 587 298 585 299 581 298 576 296 576 296 575 296 566 297 556 299 504 297 503 297 487 299 483 296 482 296 482 296 481 296 445 299 436 294 435 310 435 317 664 317 668 320 668 320 669 320 669 321 702 321 703 311 703 307 700 301"/></Shape>
+	    <String CONTENT="Un wenn mer mit eppis nimi zruck komma"
+                    HPOS="435"
+                    VPOS="294"
+                    WIDTH="268"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4da36834"
+                    TAGREFS="LT4097"
+                    BASELINE="435 326 675 329" 
+                    HPOS="435"
+                    VPOS="314"
+                    WIDTH="240"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="435 326 435 333 460 336 460 336 485 334 494 333 497 334 503 336 503 336 504 336 525 335 539 334 542 335 544 337 544 337 545 337 545 337 562 335 575 334 674 337 675 329 675 317 435 314 435 326"/></Shape>
+	    <String CONTENT="Verzeihes weill mir vergaslick sin"
+                    HPOS="435"
+                    VPOS="314"
+                    WIDTH="240"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d36027aa"
+                    TAGREFS="LT4097"
+                    BASELINE="434 343 647 346" 
+                    HPOS="433"
+                    VPOS="329"
+                    WIDTH="214"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="434 343 433 350 646 353 647 346 647 334 639 331 638 331 638 331 614 333 606 334 601 333 588 330 587 330 587 330 582 333 580 333 573 332 559 330 558 330 539 332 520 333 512 330 508 329 507 329 507 329 491 330 460 332 434 329 434 343"/></Shape>
+	    <String CONTENT="Bida bùra keramer garn noch i :"
+                    HPOS="433"
+                    VPOS="329"
+                    WIDTH="214"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1a407b9"
+                    TAGREFS="LT4097"
+                    BASELINE="435 361 677 363" 
+                    HPOS="435"
+                    VPOS="345"
+                    WIDTH="242"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="435 361 435 367 472 369 473 369 473 369 477 368 482 366 498 368 508 370 508 370 509 370 509 370 511 369 515 366 552 366 560 369 562 370 563 370 563 371 587 371 587 370 587 370 589 370 596 367 618 370 624 371 625 371 629 370 646 368 675 371 677 363 677 347 656 347 656 347 655 347 647 351 628 347 628 347 627 347 620 350 618 347 617 347 617 347 616 347 616 347 615 347 556 351 540 346 540 346 539 346 512 347 511 347 505 350 498 346 497 346 496 346 496 346 487 350 455 350 435 345 435 361"/></Shape>
+	    <String CONTENT="Sagata alta. Wiver und a Maidla wohr"
+                    HPOS="435"
+                    VPOS="345"
+                    WIDTH="242"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afe91b95"
+                    TAGREFS="LT4097"
+                    BASELINE="435 377 730 379" 
+                    HPOS="434"
+                    VPOS="362"
+                    WIDTH="296"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="727 368 722 368 716 368 710 368 705 367 699 366 693 366 688 366 682 366 678 367 674 368 651 368 650 367 647 364 647 364 646 364 646 364 645 364 645 364 637 366 634 368 605 368 602 366 595 363 594 363 594 363 593 363 587 366 585 367 575 366 550 362 549 362 549 362 548 362 544 365 544 366 542 365 534 363 534 363 533 363 533 363 527 365 525 366 522 365 516 362 515 362 515 362 514 362 509 365 506 366 502 365 494 362 494 362 478 362 477 362 477 362 476 362 476 362 474 364 472 366 468 364 461 362 460 362 460 362 459 362 459 362 457 364 454 366 435 364 435 377 434 382 460 386 461 386 479 383 480 383 481 383 489 386 489 386 490 386 517 383 521 383 522 383 524 386 524 386 525 386 525 386 526 386 549 384 553 384 558 384 576 387 577 387 578 387 585 385 589 384 593 385 599 387 599 387 600 387 621 386 641 384 649 386 656 387 656 387 657 387 657 387 659 386 663 384 729 387 730 379 730 373 727 368"/></Shape>
+	    <String CONTENT="ln da Alta á glicklig and un a kurza zit drbi"
+                    HPOS="434"
+                    VPOS="362"
+                    WIDTH="296"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e6e8ba6"
+                    TAGREFS="LT4097"
+                    BASELINE="435 392 719 396" 
+                    HPOS="434"
+                    VPOS="377"
+                    WIDTH="284"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="434 391 434 401 716 403 718 395 718 384 434 377 434 391"/></Shape>
+	    <String CONTENT="ln da Andara stelamer ihrer Liebster vor."
+                    HPOS="434"
+                    VPOS="377"
+                    WIDTH="284"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="846"
+                   VPOS="227"
+                   WIDTH="366"
+                   HEIGHT="289"
+                   ID="eSc_textblock_8830e79f"
+                   TAGREFS="BT10487">
+          <Shape><Polygon POINTS="846 227 856 514 1212 516 1212 227"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_61f46a6d"
+                    TAGREFS="LT4097"
+                    BASELINE="869 258 1073 256" 
+                    HPOS="869"
+                    VPOS="243"
+                    WIDTH="204"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="1066 246 1060 246 1054 246 1049 246 1043 245 1037 245 1032 245 1026 245 1020 245 1015 245 1009 245 1004 245 998 245 992 245 987 244 981 244 975 244 970 244 964 244 961 244 959 244 959 244 957 244 953 244 947 244 942 244 936 244 930 243 925 243 920 243 918 245 916 245 898 243 897 243 891 243 885 243 883 243 875 244 874 245 870 249 869 258 869 265 1072 265 1073 256 1071 246 1066 246"/></Shape>
+	    <String CONTENT="Geld machamer Keis z&#x27;samma"
+                    HPOS="869"
+                    VPOS="243"
+                    WIDTH="204"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60436592"
+                    TAGREFS="LT4097"
+                    BASELINE="869 276 1030 276" 
+                    HPOS="869"
+                    VPOS="261"
+                    WIDTH="161"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="869 276 869 283 1030 284 1030 276 1030 265 1026 261 1025 261 1024 261 1006 261 1006 261 1005 261 1005 261 1000 265 1000 266 974 266 970 264 962 261 961 261 961 261 960 261 954 263 950 265 940 263 936 262 935 262 931 263 918 265 909 262 906 261 905 261 905 261 904 261 901 262 889 265 869 261 869 276"/></Shape>
+	    <String CONTENT="Mir han nia keis im Hüs"
+                    HPOS="869"
+                    VPOS="261"
+                    WIDTH="161"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d32f9dbc"
+                    TAGREFS="LT4097"
+                    BASELINE="869 294 1008 294" 
+                    HPOS="869"
+                    VPOS="280"
+                    WIDTH="139"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="869 294 869 300 1000 303 1000 303 1001 303 1008 299 1008 294 1008 283 948 280 948 280 937 281 927 283 924 281 923 280 922 280 921 280 921 280 911 280 889 283 869 280 869 294"/></Shape>
+	    <String CONTENT="Denn vemer bikümma"
+                    HPOS="869"
+                    VPOS="280"
+                    WIDTH="139"
+                    HEIGHT="23"
+                    WC="0.970191425398776"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ff86fa3"
+                    TAGREFS="LT4097"
+                    BASELINE="871 311 1093 314" 
+                    HPOS="871"
+                    VPOS="296"
+                    WIDTH="222"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="1091 305 1085 303 1080 302 1074 300 1072 299 1026 297 1025 297 1011 298 990 301 981 298 977 297 977 297 976 297 975 297 973 298 966 301 927 301 909 300 905 296 904 296 903 296 903 296 902 296 887 299 872 296 871 311 871 317 887 320 887 320 910 318 917 317 921 318 928 321 929 321 929 321 956 319 973 318 978 320 984 321 984 321 985 321 1004 320 1028 319 1031 321 1031 321 1031 321 1032 321 1032 321 1091 322 1093 314 1093 304 1091 305"/></Shape>
+	    <String CONTENT="Theila mers in da arma wieder us"
+                    HPOS="871"
+                    VPOS="296"
+                    WIDTH="222"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b4cef44"
+                    TAGREFS="LT4097"
+                    BASELINE="872 329 1086 331" 
+                    HPOS="871"
+                    VPOS="314"
+                    WIDTH="215"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="871 338 1085 338 1086 331 1086 320 1028 319 1026 318 1022 316 1022 316 1021 316 1020 316 1015 317 1013 319 1011 317 1006 315 1006 315 1005 315 987 317 969 319 966 316 965 316 965 315 965 315 964 315 943 315 943 315 942 315 939 316 932 318 914 315 911 315 910 315 910 315 909 315 909 315 906 319 887 319 872 314 872 329 871 338"/></Shape>
+	    <String CONTENT="Drum kauffenis racht Planeta ab"
+                    HPOS="871"
+                    VPOS="314"
+                    WIDTH="215"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae1d5bcb"
+                    TAGREFS="LT4097"
+                    BASELINE="872 348 1032 350" 
+                    HPOS="872"
+                    VPOS="334"
+                    WIDTH="160"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="872 348 872 353 900 353 902 355 910 359 910 359 911 359 934 356 951 355 954 357 957 360 957 360 957 360 958 360 959 360 970 358 984 355 988 359 991 361 991 361 992 361 992 361 1031 361 1032 350 1031 337 872 334 872 348"/></Shape>
+	    <String CONTENT="lhr thien a guet Warck"
+                    HPOS="872"
+                    VPOS="334"
+                    WIDTH="160"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00767468"
+                    TAGREFS="LT4097"
+                    BASELINE="874 365 991 366" 
+                    HPOS="873"
+                    VPOS="351"
+                    WIDTH="118"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="991 371 991 366 991 355 941 351 940 351 939 351 938 352 936 355 913 355 906 352 903 351 902 351 897 351 885 353 874 351 874 365 873 372"/></Shape>
+	    <String CONTENT="Un danka Ziginer"
+                    HPOS="873"
+                    VPOS="351"
+                    WIDTH="118"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc1fa6aa"
+                    TAGREFS="LT4097"
+                    BASELINE="874 382 1028 384" 
+                    HPOS="874"
+                    VPOS="367"
+                    WIDTH="154"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="874 382 874 387 1027 392 1028 384 1028 367 1014 367 1014 367 1013 367 1006 371 992 367 991 367 991 367 990 367 990 367 989 367 989 368 983 372 967 369 966 369 954 372 952 369 951 369 951 369 951 369 950 369 950 369 932 371 915 368 907 367 907 367 906 367 903 369 899 370 874 369 874 382"/></Shape>
+	    <String CONTENT="Sin doch nit so schlacht"
+                    HPOS="874"
+                    VPOS="367"
+                    WIDTH="154"
+                    HEIGHT="25"
+                    WC="0.990100418527921"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9ed7aaf"
+                    TAGREFS="LT4097"
+                    BASELINE="873 398 1142 404" 
+                    HPOS="872"
+                    VPOS="383"
+                    WIDTH="270"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="1138 393 1132 392 1126 392 1121 391 1115 391 1109 391 1104 390 1098 390 1093 390 1087 389 1081 388 1076 388 1070 388 1064 387 1059 387 1053 387 1048 386 1042 386 1041 385 1031 385 1030 385 1030 385 1029 385 1025 388 984 388 880 386 874 383 873 398 872 405 1140 411 1142 404 1141 387 1138 387 1138 393"/></Shape>
+	    <String CONTENT="Mir verkaufa Planeta fir Maidla un Buva"
+                    HPOS="872"
+                    VPOS="383"
+                    WIDTH="270"
+                    HEIGHT="28"
+                    WC="0.989862758379716"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fa1de03"
+                    TAGREFS="LT4097"
+                    BASELINE="874 414 1142 419" 
+                    HPOS="873"
+                    VPOS="400"
+                    WIDTH="269"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="1140 408 1113 408 1113 408 1109 404 1108 404 1108 404 1107 404 1107 404 1097 407 1096 407 1095 407 1070 404 1069 404 1069 404 1063 406 1062 406 1058 406 1022 403 1022 403 1008 405 1007 405 1006 405 1004 402 1003 402 1002 402 1002 402 1001 402 994 405 993 405 993 405 986 402 986 402 985 402 966 405 964 405 964 405 960 401 960 401 959 401 959 401 941 404 938 404 934 401 933 401 933 401 932 401 932 401 931 401 931 401 928 404 894 400 893 400 874 402 874 414 873 422 913 425 914 425 914 425 917 423 920 422 961 422 974 424 982 426 982 426 983 426 986 425 992 422 997 425 998 426 999 426 999 426 1000 426 1000 426 1002 425 1010 423 1018 426 1022 427 1023 427 1023 427 1024 427 1028 426 1036 423 1059 426 1063 427 1063 427 1069 427 1107 424 1114 427 1117 429 1118 429 1118 429 1142 428 1142 419 1142 410 1140 408"/></Shape>
+	    <String CONTENT="Jungi und Alta derfa numma ku z&#x27;luega"
+                    HPOS="873"
+                    VPOS="400"
+                    WIDTH="269"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_698c72db"
+                    TAGREFS="LT4097"
+                    BASELINE="873 432 1111 436" 
+                    HPOS="872"
+                    VPOS="418"
+                    WIDTH="239"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="873 432 872 437 887 441 887 441 888 441 948 439 955 442 956 442 992 443 992 443 1040 441 1085 444 1085 444 1111 441 1111 436 1111 426 1086 422 1086 422 1059 424 1045 424 1044 423 1040 420 1040 420 1039 420 1039 420 1028 423 1022 424 1020 423 1017 420 1017 420 1016 420 1015 420 998 422 984 423 972 421 963 419 962 419 961 419 957 420 950 423 946 420 945 419 944 419 943 419 919 419 919 419 918 419 917 419 917 419 912 423 873 418 873 432"/></Shape>
+	    <String CONTENT="Unsara Wehrsagara g’siht alles vorus"
+                    HPOS="872"
+                    VPOS="418"
+                    WIDTH="239"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31b9d04e"
+                    TAGREFS="LT4097"
+                    BASELINE="874 449 1214 454" 
+                    HPOS="873"
+                    VPOS="432"
+                    WIDTH="340"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="873 432 873 448 873 455 891 461 892 461 893 461 894 461 909 456 917 461 917 461 918 461 919 462 919 461 920 461 921 461 928 456 928 456 932 457 948 460 949 460 992 459 1017 458 1027 460 1046 464 1047 464 1067 461 1087 459 1211 465 1213 453 1213 439 889 437 876 432 873 432"/></Shape>
+	    <String CONTENT="Vergangana sacha un zukunftiga un nit ubr dr Kolanderus"
+                    HPOS="873"
+                    VPOS="432"
+                    WIDTH="340"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ccf4e69c"
+                    TAGREFS="LT4097"
+                    BASELINE="874 464 1140 469" 
+                    HPOS="874"
+                    VPOS="450"
+                    WIDTH="266"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="874 464 874 469 1139 475 1140 469 1140 458 1095 458 1092 456 1087 454 1087 454 1086 454 1062 455 1039 456 1036 455 1033 453 1033 453 1032 453 1032 453 1031 453 1027 454 1021 456 1019 454 1018 453 1017 453 1017 453 1016 453 1009 454 998 455 987 453 981 452 980 452 961 452 902 454 874 450 874 464"/></Shape>
+	    <String CONTENT="Sie seit eim nit schlachts nur gueta sacha"
+                    HPOS="874"
+                    VPOS="450"
+                    WIDTH="266"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e742ee1"
+                    TAGREFS="LT4097"
+                    BASELINE="874 482 1157 487" 
+                    HPOS="873"
+                    VPOS="466"
+                    WIDTH="284"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="874 482 873 487 903 491 904 491 925 489 932 492 933 492 933 492 981 490 982 490 983 490 998 493 999 493 1040 491 1043 491 1049 494 1049 494 1050 494 1072 495 1072 495 1073 495 1081 492 1108 492 1108 492 1112 495 1113 495 1113 495 1114 495 1114 495 1123 492 1123 492 1129 496 1129 496 1130 496 1130 496 1157 493 1157 487 1157 474 1081 474 1073 471 1069 470 1069 470 1068 470 1068 470 1067 470 1066 471 1063 474 1045 474 1036 471 1034 469 1033 469 1033 469 1023 470 991 472 983 469 981 468 981 468 980 468 977 469 961 472 957 469 957 469 956 469 956 469 955 469 946 471 931 467 930 467 929 467 929 467 928 467 928 467 924 471 919 467 919 467 918 467 917 467 917 467 903 469 874 466 874 482"/></Shape>
+	    <String CONTENT="Wie dia Jungia danna Alte sella no macha"
+                    HPOS="873"
+                    VPOS="466"
+                    WIDTH="284"
+                    HEIGHT="30"
+                    WC="0.963408625125885"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f113c3dc"
+                    TAGREFS="LT4097"
+                    BASELINE="873 500 1157 505" 
+                    HPOS="872"
+                    VPOS="485"
+                    WIDTH="285"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="1155 493 1147 490 1147 490 1125 489 1125 489 1106 492 1101 493 1097 492 1087 489 1087 489 1086 489 1086 489 1081 491 1078 492 1057 492 1054 491 1049 488 1049 488 1048 488 1030 490 1011 491 1001 489 994 487 993 487 993 487 975 488 937 490 929 486 928 486 928 486 927 486 924 486 910 490 905 486 904 486 903 486 873 485 873 500 872 510 880 513 880 513 881 513 918 511 932 514 933 514 933 514 934 514 934 513 937 511 938 511 968 515 968 515 1009 513 1014 513 1017 513 1032 516 1033 517 1156 517 1157 505 1157 505 1155 493"/></Shape>
+	    <String CONTENT="Wenn ihr ihna folga so kas euch nit fahla"
+                    HPOS="872"
+                    VPOS="485"
+                    WIDTH="285"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1207"
+                   VPOS="330"
+                   WIDTH="307"
+                   HEIGHT="283"
+                   ID="eSc_textblock_be58fe27"
+                   TAGREFS="BT10487">
+          <Shape><Polygon POINTS="1207 330 1207 613 1511 613 1514 330"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_64c10164"
+                    TAGREFS="LT4097"
+                    BASELINE="1212 353 1460 355" 
+                    HPOS="1212"
+                    VPOS="334"
+                    WIDTH="248"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="1454 341 1449 341 1443 341 1438 341 1432 341 1426 341 1421 341 1415 340 1409 340 1404 340 1398 340 1380 340 1378 339 1376 339 1370 339 1364 339 1359 339 1353 338 1351 338 1346 339 1345 338 1342 338 1336 338 1331 338 1328 338 1324 339 1313 337 1308 337 1302 337 1301 337 1300 338 1299 337 1297 337 1291 337 1290 337 1286 339 1274 339 1272 336 1269 336 1263 336 1257 336 1252 335 1248 338 1221 335 1218 335 1212 334 1212 353 1212 359 1231 362 1232 362 1459 361 1460 355 1457 344 1454 341"/></Shape>
+	    <String CONTENT="S&#x27;hat Allemol i troffa wills nit verhahla"
+                    HPOS="1212"
+                    VPOS="334"
+                    WIDTH="248"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbedc873"
+                    TAGREFS="LT4097"
+                    BASELINE="1213 370 1393 372" 
+                    HPOS="1212"
+                    VPOS="357"
+                    WIDTH="181"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="1213 370 1212 376 1391 379 1393 372 1392 359 1213 357 1213 370"/></Shape>
+	    <String CONTENT="Sinn Onckel ùs Americka"
+                    HPOS="1212"
+                    VPOS="357"
+                    WIDTH="181"
+                    HEIGHT="22"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c48c285"
+                    TAGREFS="LT4097"
+                    BASELINE="1214 388 1380 391" 
+                    HPOS="1214"
+                    VPOS="373"
+                    WIDTH="166"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="1214 393 1223 396 1224 396 1379 398 1380 391 1378 375 1369 378 1352 375 1350 375 1350 375 1349 375 1332 378 1328 374 1327 374 1327 374 1326 374 1323 374 1297 378 1290 374 1289 374 1288 374 1288 374 1287 374 1287 374 1283 377 1266 374 1265 374 1264 374 1264 374 1256 377 1247 373 1246 373 1245 373 1245 373 1243 373 1229 377 1215 373 1214 388 1214 393"/></Shape>
+	    <String CONTENT="Fu der Tante us Angland"
+                    HPOS="1214"
+                    VPOS="373"
+                    WIDTH="166"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60903b0d"
+                    TAGREFS="LT4097"
+                    BASELINE="1214 404 1386 407" 
+                    HPOS="1213"
+                    VPOS="391"
+                    WIDTH="173"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="1214 404 1213 408 1223 411 1224 411 1224 411 1297 411 1349 411 1385 414 1386 407 1386 393 1214 391 1214 404"/></Shape>
+	    <String CONTENT="Fum Schwester us Paris"
+                    HPOS="1213"
+                    VPOS="391"
+                    WIDTH="173"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10594d4d"
+                    TAGREFS="LT4097"
+                    BASELINE="1214 420 1395 423" 
+                    HPOS="1214"
+                    VPOS="406"
+                    WIDTH="181"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="1355 407 1349 406 1214 406 1214 420 1214 427 1250 427 1253 428 1258 431 1259 431 1259 431 1260 431 1260 431 1264 428 1266 426 1276 428 1282 430 1283 430 1283 430 1290 429 1301 427 1312 427 1315 429 1315 430 1316 430 1317 430 1317 430 1318 430 1318 430 1322 427 1333 431 1337 432 1338 432 1339 432 1348 431 1368 429 1372 432 1372 432 1373 432 1373 432 1374 433 1394 433 1395 423 1394 408 1363 410 1360 407 1355 407"/></Shape>
+	    <String CONTENT="Fum bruder us Ditschland"
+                    HPOS="1214"
+                    VPOS="406"
+                    WIDTH="181"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4824dfbc"
+                    TAGREFS="LT4097"
+                    BASELINE="1214 438 1378 441" 
+                    HPOS="1214"
+                    VPOS="422"
+                    WIDTH="164"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="1214 438 1214 443 1247 447 1247 447 1275 445 1278 447 1279 447 1279 447 1280 447 1378 446 1378 441 1378 428 1371 424 1370 424 1369 424 1369 424 1361 428 1322 428 1322 427 1313 423 1313 423 1312 423 1311 423 1299 427 1299 427 1281 427 1279 427 1274 423 1273 423 1273 423 1272 423 1272 423 1260 426 1260 426 1259 426 1243 422 1242 422 1214 425 1214 438"/></Shape>
+	    <String CONTENT="Af Ditsh un Franzosch"
+                    HPOS="1214"
+                    VPOS="422"
+                    WIDTH="164"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f60adf5"
+                    TAGREFS="LT4097"
+                    BASELINE="1217 454 1427 457" 
+                    HPOS="1215"
+                    VPOS="439"
+                    WIDTH="211"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="1419 442 1416 440 1216 439 1216 453 1215 460 1424 463 1426 456 1425 443 1419 442"/></Shape>
+	    <String CONTENT="Kenna&#x27;r - gsah wies eim geht"
+                    HPOS="1215"
+                    VPOS="439"
+                    WIDTH="211"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18811363"
+                    TAGREFS="LT4097"
+                    BASELINE="1215 471 1493 476" 
+                    HPOS="1215"
+                    VPOS="455"
+                    WIDTH="278"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="1491 462 1485 462 1480 462 1474 461 1469 460 1465 460 1390 462 1384 459 1383 459 1382 459 1382 459 1381 459 1381 459 1377 462 1358 462 1355 458 1355 458 1354 458 1354 458 1353 458 1353 458 1352 458 1348 460 1344 457 1343 457 1342 457 1342 457 1340 457 1319 461 1284 457 1283 457 1220 458 1216 455 1215 471 1215 477 1286 481 1287 481 1304 480 1318 478 1320 480 1322 481 1322 482 1322 482 1323 482 1323 482 1343 481 1363 480 1367 481 1370 482 1371 482 1371 482 1372 482 1375 481 1381 480 1386 482 1389 483 1389 483 1390 483 1400 482 1423 480 1432 483 1434 483 1435 483 1435 483 1440 483 1454 481 1457 483 1457 483 1457 484 1458 484 1458 484 1459 485 1493 485 1493 476 1493 462 1491 462"/></Shape>
+	    <String CONTENT="Wia alles Weiss uf Schwartz ufem Papirla steht"
+                    HPOS="1215"
+                    VPOS="455"
+                    WIDTH="278"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8c79e85"
+                    TAGREFS="LT4097"
+                    BASELINE="1214 489 1464 494" 
+                    HPOS="1213"
+                    VPOS="473"
+                    WIDTH="251"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="1214 489 1213 494 1224 497 1225 497 1225 497 1245 495 1246 495 1257 500 1258 500 1287 500 1287 500 1288 500 1288 500 1288 500 1292 497 1293 496 1306 498 1329 500 1329 500 1330 500 1333 499 1339 497 1345 499 1349 500 1349 500 1350 500 1362 500 1399 498 1405 501 1407 503 1408 503 1408 503 1409 503 1409 503 1413 502 1420 500 1425 503 1427 503 1427 503 1463 504 1464 494 1464 480 1458 477 1457 477 1457 477 1443 480 1439 481 1438 480 1432 477 1431 477 1431 477 1399 479 1389 480 1387 478 1381 476 1381 476 1380 476 1380 476 1371 478 1368 479 1367 478 1365 476 1365 476 1364 476 1364 476 1363 476 1340 477 1326 478 1324 477 1322 475 1322 474 1322 474 1321 474 1320 474 1306 477 1297 478 1282 476 1262 473 1261 473 1214 474 1214 489"/></Shape>
+	    <String CONTENT="Nur á Silvergroscha un 5 Pfennig&#x27;s Stück"
+                    HPOS="1213"
+                    VPOS="473"
+                    WIDTH="251"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c2f4c2d"
+                    TAGREFS="LT4097"
+                    BASELINE="1214 505 1417 509" 
+                    HPOS="1214"
+                    VPOS="491"
+                    WIDTH="203"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="1214 505 1214 512 1416 516 1417 509 1417 498 1388 494 1387 494 1387 494 1380 496 1376 497 1372 496 1367 494 1366 494 1366 494 1354 495 1340 496 1339 495 1337 494 1337 494 1337 494 1336 494 1336 494 1328 494 1314 496 1299 494 1293 492 1292 492 1288 493 1273 495 1214 491 1214 505"/></Shape>
+	    <String CONTENT="Kaufas as bringt in alle Clück"
+                    HPOS="1214"
+                    VPOS="491"
+                    WIDTH="203"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d93db80b"
+                    TAGREFS="LT4097"
+                    BASELINE="1214 523 1475 529" 
+                    HPOS="1214"
+                    VPOS="507"
+                    WIDTH="261"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="1265 507 1265 507 1264 507 1264 507 1258 509 1252 511 1214 508 1214 523 1214 529 1240 532 1241 532 1256 530 1423 536 1423 536 1475 534 1475 529 1475 512 1434 511 1433 511 1432 511 1432 511 1432 511 1431 511 1427 515 1407 515 1367 512 1366 512 1350 514 1342 510 1341 510 1341 510 1340 510 1340 510 1334 513 1300 510 1299 510 1273 512 1269 509 1266 507 1265 507"/></Shape>
+	    <String CONTENT="D&#x27;Musick isch nit starck aver guet derbi"
+                    HPOS="1214"
+                    VPOS="507"
+                    WIDTH="261"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89ad08fa"
+                    TAGREFS="LT4097"
+                    BASELINE="1214 540 1462 545" 
+                    HPOS="1214"
+                    VPOS="526"
+                    WIDTH="248"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="1214 540 1214 546 1461 551 1462 545 1462 533 1459 531 1458 531 1458 531 1457 531 1416 533 1407 533 1401 532 1379 529 1378 529 1364 531 1358 532 1356 531 1354 529 1354 529 1353 529 1353 529 1319 530 1279 530 1277 528 1276 528 1276 527 1275 527 1275 527 1274 527 1269 528 1257 530 1254 527 1254 527 1253 527 1252 527 1214 526 1214 540"/></Shape>
+	    <String CONTENT="Macht nit viel larma zieht aver o nit i"
+                    HPOS="1214"
+                    VPOS="526"
+                    WIDTH="248"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f14cc8d7"
+                    TAGREFS="LT4097"
+                    BASELINE="1215 559 1474 563" 
+                    HPOS="1214"
+                    VPOS="543"
+                    WIDTH="260"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="1215 559 1214 563 1344 568 1345 568 1474 567 1474 563 1474 550 1454 548 1453 548 1453 548 1449 549 1448 550 1446 549 1443 547 1443 547 1442 547 1442 547 1441 547 1440 547 1438 549 1436 550 1433 549 1425 547 1425 547 1424 547 1423 547 1423 547 1421 549 1418 550 1387 550 1385 548 1384 547 1383 547 1382 547 1382 547 1361 547 1320 548 1315 546 1314 545 1313 545 1313 545 1312 545 1305 545 1286 548 1271 544 1269 544 1268 544 1266 544 1254 547 1248 544 1248 544 1247 544 1247 544 1246 544 1246 544 1246 544 1243 547 1215 543 1215 559"/></Shape>
+	    <String CONTENT="Wenn ihr so höra spiela danga doch dra"
+                    HPOS="1214"
+                    VPOS="543"
+                    WIDTH="260"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10e9514a"
+                    TAGREFS="LT4097"
+                    BASELINE="1214 574 1488 580" 
+                    HPOS="1213"
+                    VPOS="560"
+                    WIDTH="275"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="1484 565 1484 565 1484 565 1483 565 1483 565 1482 565 1467 567 1464 564 1463 564 1463 564 1462 564 1439 568 1438 568 1434 568 1414 567 1413 565 1412 565 1412 564 1412 564 1411 564 1411 564 1389 567 1388 567 1387 567 1376 562 1376 562 1375 562 1342 566 1340 566 1339 566 1316 561 1315 561 1311 561 1306 565 1291 561 1287 561 1285 561 1277 563 1260 560 1259 560 1254 560 1245 563 1214 563 1214 574 1213 581 1487 588 1488 580 1488 575 1484 565"/></Shape>
+	    <String CONTENT="Sie spiela für d&#x27;Arma dia mienn o ebbisha"
+                    HPOS="1213"
+                    VPOS="560"
+                    WIDTH="275"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd4d5f10"
+                    TAGREFS="LT4097"
+                    BASELINE="1214 592 1471 598" 
+                    HPOS="1213"
+                    VPOS="576"
+                    WIDTH="258"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="1214 592 1213 602 1329 604 1332 606 1342 610 1342 610 1343 610 1471 610 1471 598 1471 585 1447 585 1445 584 1440 581 1439 581 1439 581 1438 581 1408 583 1401 584 1399 583 1395 580 1394 580 1394 580 1393 580 1375 583 1369 583 1368 582 1365 580 1365 579 1364 579 1364 579 1363 579 1363 579 1354 582 1351 583 1348 581 1340 579 1340 579 1339 579 1327 581 1324 581 1322 581 1313 578 1312 578 1279 577 1278 577 1278 577 1270 579 1265 581 1263 579 1259 577 1259 577 1258 577 1257 577 1257 577 1253 579 1250 580 1241 579 1229 576 1228 576 1214 577 1214 592"/></Shape>
+	    <String CONTENT="Also nur 10 Pfennig da grosse Boga."
+                    HPOS="1213"
+                    VPOS="576"
+                    WIDTH="258"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="18"
+                   VPOS="402"
+                   WIDTH="1447"
+                   HEIGHT="542"
+                   ID="eSc_textblock_9801f5a3"
+                   TAGREFS="BT10556">
+          <Shape><Polygon POINTS="18 405 18 944 1465 944 1356 679 1209 627 1141 521 837 499 569 442 379 402"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="682"
+                   VPOS="29"
+                   WIDTH="748"
+                   HEIGHT="281"
+                   ID="eSc_textblock_6c52dde0"
+                   TAGREFS="BT10487">
+          <Shape><Polygon POINTS="689 161 682 29 1422 34 1430 300 1229 310 1187 177"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1003"
+                   VPOS="982"
+                   WIDTH="533"
+                   HEIGHT="31"
+                   ID="eSc_textblock_3944b00c"
+                   TAGREFS="BT10490">
+          <Shape><Polygon POINTS="1003 982 1003 1013 1536 1013 1536 982"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
