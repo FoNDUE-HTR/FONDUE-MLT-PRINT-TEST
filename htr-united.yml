@@ -40,86 +40,90 @@ characters:
   - d
   - c
   - m
-  - h
   - p
   - ','
+  - h
   - .
   - g
   - ́
-  - b
   - v
+  - b
   - f
   - q
-  - z
-  - ’
   - y
+  - ’
+  - z
   - k
-  - ̈
-  - "'"
   - S
+  - ̈
   - A
-  - C
-  - w
-  - j
-  - ¬
   - E
-  - L
+  - C
+  - "'"
+  - ¬
   - I
-  - N
+  - L
+  - j
   - R
+  - N
+  - w
+  - D
   - O
+  - ̀
   - M
   - B
-  - D
-  - ̀
-  - —
-  - P
   - '1'
-  - H
+  - P
+  - —
   - T
+  - H
   - '2'
-  - '-'
-  - F
   - U
-  - '5'
-  - '9'
-  - W
-  - K
-  - '3'
-  - G
-  - ':'
-  - '!'
-  - V
-  - ;
+  - '-'
   - x
-  - Z
+  - G
+  - F
+  - '9'
+  - V
+  - '5'
+  - ;
+  - '3'
+  - K
+  - W
   - '8'
-  - '4'
-  - '?'
   - J
+  - ':'
   - '0'
+  - '!'
+  - '4'
+  - Z
   - '7'
+  - '?'
+  - )
+  - (
   - «
   - '6'
-  - )
   - Q
   - »
-  - “
-  - (
   - ̂
+  - “
   - ”
-  - ß
-  - ̃
-  - /
-  - –
   - ^
+  - ß
+  - X
+  - Y
+  - /
   - ̧
+  - ̃
+  - –
   - °
   - œ
-  - Y
+  - æ
   - '*'
   - „
-  - X
+  - ·
+  - ℣
+  - ℟
   - ᑕ
   - '['
   - ']'
@@ -159,11 +163,11 @@ title: FONDUE-MLT-PRINT-TEST
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-PRINT-TEST
 volume:
-- count: 55139
+- count: 66532
   metric: characters
-- count: 35
+- count: 40
   metric: files
-- count: 1470
+- count: 1790
   metric: lines
-- count: 123
+- count: 147
   metric: regions
