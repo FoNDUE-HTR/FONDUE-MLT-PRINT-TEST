@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT10556" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10491" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10487" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10490" LABEL="DigitizationArtifactZone" DESCRIPTION="block type DigitizationArtifactZone"/><OtherTag ID="BT10489" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10488" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="BT10556" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10491" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10487" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10490" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10489" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10488" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
     <OtherTag ID="LT4130" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4097" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
