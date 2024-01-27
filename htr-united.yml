@@ -34,87 +34,91 @@ characters:
   - n
   - t
   - s
-  - u
   - r
+  - u
   - l
   - m
   - c
   - d
   - h
   - p
-  - ','
-  - ́
   - .
+  - ','
   - v
   - g
+  - ́
   - ’
-  - q
-  - b
   - f
+  - b
+  - q
   - "'"
+  - z
   - k
   - y
-  - z
+  - S
+  - L
+  - C
   - j
   - ̈
-  - S
-  - w
-  - L
-  - A
-  - E
-  - M
+  - N
   - I
   - ̀
-  - N
-  - D
+  - A
+  - w
+  - E
+  - R
+  - O
   - —
+  - B
+  - M
+  - D
+  - P
+  - '1'
   - '-'
   - H
-  - R
-  - P
-  - F
   - ¬
-  - U
-  - B
+  - F
   - '!'
-  - C
+  - U
+  - '2'
+  - '5'
   - T
-  - W
   - '?'
-  - O
+  - ':'
+  - W
+  - '3'
   - J
   - «
   - x
-  - ':'
-  - K
-  - »
-  - V
-  - ;
-  - ̂
   - Z
+  - V
+  - K
+  - ;
   - G
+  - »
+  - '9'
+  - '0'
+  - '4'
+  - ̂
   - (
   - )
-  - '1'
-  - ̧
-  - œ
-  - Q
-  - '4'
-  - '3'
-  - Y
-  - –
-  - ß
-  - '6'
-  - '2'
-  - '8'
-  - '9'
   - “
   - ”
-  - '5'
+  - '6'
+  - '8'
+  - '7'
+  - Q
+  - ̧
+  - –
+  - œ
+  - ^
+  - Y
+  - ß
+  - '*'
   - ᑕ
-  - '0'
   - ؛
   - X
+  - „
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-MLT-PRINT-TEST/blob/master/CITATION.cff
 description: Various prints (academic, archives, novels…)
@@ -150,11 +154,11 @@ title: FONDUE-MLT-PRINT-TEST
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-PRINT-TEST
 volume:
-- count: 26154
+- count: 33339
   metric: characters
-- count: 20
+- count: 25
   metric: files
-- count: 826
+- count: 992
   metric: lines
-- count: 66
+- count: 84
   metric: regions
