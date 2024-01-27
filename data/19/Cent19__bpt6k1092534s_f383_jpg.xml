@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent19__bpt6k1092534s_f383_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10462" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10461" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT10460" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10459" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10458" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10457" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10456" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10445" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10444" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10443" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4085" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4084" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4083" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="842"
+          HEIGHT="1200"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="842"
+                  HEIGHT="1200">
+        
+        <TextBlock HPOS="273.28204345703125"
+                   VPOS="128.694091796875"
+                   WIDTH="38.140594482421875"
+                   HEIGHT="21.938522338867188"
+                   ID="block_0"
+                   TAGREFS="BT10444">
+          <Shape><Polygon POINTS="273.282 128.694 311.423 128.694 311.423 150.633 273.282 150.633 273.282 128.694"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4083"
+                    BASELINE="276 143 308 143" 
+                    HPOS="276"
+                    VPOS="129"
+                    WIDTH="32"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="303 129 296 129 290 129 283 129 276 129 276 143 276 152 307 156 308 143 307 129 303 129"/></Shape>
+	    <String CONTENT="370"
+                    HPOS="276"
+                    VPOS="129"
+                    WIDTH="32"
+                    HEIGHT="27"
+                    WC="0.9933"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="420.2757873535156"
+                   VPOS="126.94171142578125"
+                   WIDTH="192.35946655273438"
+                   HEIGHT="25.311843872070312"
+                   ID="block_1"
+                   TAGREFS="BT10458">
+          <Shape><Polygon POINTS="420.276 126.942 612.635 126.942 612.635 152.254 420.276 152.254 420.276 126.942"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4084"
+                    BASELINE="428 144 606 144" 
+                    HPOS="428"
+                    VPOS="127"
+                    WIDTH="178"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="428 153 440 157 441 158 502 158 502 157 503 157 512 154 534 157 535 157 572 154 579 157 580 157 606 153 606 144 606 128 428 127 428 144"/></Shape>
+	    <String CONTENT="CHAP. III. — OPTIQUE."
+                    HPOS="428"
+                    VPOS="127"
+                    WIDTH="178"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="270.24432373046875"
+                   VPOS="165.78736877441406"
+                   WIDTH="493.99273681640625"
+                   HEIGHT="832.6111297607422"
+                   ID="block_2"
+                   TAGREFS="BT10443">
+          <Shape><Polygon POINTS="270.244 165.787 764.237 165.787 764.237 998.398 270.244 998.398 270.244 165.787"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4083"
+                    BASELINE="276 181 760 181" 
+                    HPOS="276"
+                    VPOS="166"
+                    WIDTH="484"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="749 166 742 166 738 166 733 167 728 166 722 166 716 166 709 166 704 166 694 167 692 167 689 167 678 166 676 166 669 166 662 166 656 166 650 166 646 166 642 167 642 166 640 166 636 166 630 166 629 166 628 167 628 166 626 166 622 166 616 166 609 166 602 166 596 166 589 166 582 166 576 166 572 166 570 167 566 166 563 166 562 166 556 166 550 166 549 167 543 166 542 166 536 166 529 166 522 166 516 166 509 166 502 166 496 166 489 166 485 166 483 167 379 166 376 166 369 166 362 166 356 166 349 166 342 166 336 166 329 166 322 166 316 166 309 166 302 166 296 166 289 166 282 166 276 166 276 181 276 190 759 192 760 181 760 167 754 166 749 166"/></Shape>
+	    <String CONTENT="lumineux tombe sur la surface de séparation de deux milieux,"
+                    HPOS="276"
+                    VPOS="166"
+                    WIDTH="484"
+                    HEIGHT="26"
+                    WC="0.98917"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4083"
+                    BASELINE="276 201 760 202" 
+                    HPOS="276"
+                    VPOS="184"
+                    WIDTH="484"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="276 201 276 208 758 210 760 202 759 189 739 185 738 185 600 187 518 188 512 186 506 184 480 184 479 184 478 184 476 186 474 188 449 186 430 184 429 184 426 186 421 188 362 188 355 185 354 184 353 184 352 184 344 185 302 188 276 184 276 201"/></Shape>
+	    <String CONTENT="outre le faisceau réfléchi et le faisceau réfracté, il y a de la lu¬"
+                    HPOS="276"
+                    VPOS="184"
+                    WIDTH="484"
+                    HEIGHT="26"
+                    WC="0.985821428571429"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4083"
+                    BASELINE="278 224 759 224" 
+                    HPOS="278"
+                    VPOS="208"
+                    WIDTH="481"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="278 224 278 234 758 236 759 224 759 212 720 208 719 208 709 211 689 208 688 208 670 211 669 212 573 212 573 211 569 208 568 208 567 208 278 210 278 224"/></Shape>
+	    <String CONTENT="mière dite diffusée qui est envoyée dans toutes les directions."
+                    HPOS="278"
+                    VPOS="208"
+                    WIDTH="481"
+                    HEIGHT="28"
+                    WC="0.98338"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4083"
+                    BASELINE="277 246 761 245" 
+                    HPOS="276"
+                    VPOS="232"
+                    WIDTH="485"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="277 246 278 258 292 254 513 258 516 258 517 258 518 258 518 257 522 254 552 257 553 257 554 257 568 254 636 254 640 257 641 257 642 257 652 254 682 257 732 254 760 257 761 245 759 232 276 232 277 246"/></Shape>
+	    <String CONTENT="Cette lumière diffusée n’a pas la même intensité dans toutes"
+                    HPOS="276"
+                    VPOS="232"
+                    WIDTH="485"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4083"
+                    BASELINE="278 266 760 268" 
+                    HPOS="278"
+                    VPOS="251"
+                    WIDTH="482"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="278 266 278 273 286 277 287 277 288 277 498 274 527 278 528 278 759 274 760 268 759 251 706 251 705 251 704 251 699 255 682 251 681 251 680 251 664 255 652 251 651 251 650 251 638 254 584 251 577 251 576 251 575 251 570 256 538 256 529 251 528 251 527 251 526 251 525 251 516 254 278 252 278 266"/></Shape>
+	    <String CONTENT="les directions, comme nous le dirons plus loin ; mais, comme"
+                    HPOS="278"
+                    VPOS="251"
+                    WIDTH="482"
+                    HEIGHT="27"
+                    WC="0.963627272727273"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT4083"
+                    BASELINE="278 290 760 290" 
+                    HPOS="278"
+                    VPOS="272"
+                    WIDTH="482"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="278 290 278 298 361 302 362 302 388 298 408 302 409 302 454 298 465 302 466 302 510 298 550 302 636 298 642 302 643 302 644 302 670 298 710 302 711 302 712 302 726 298 753 302 754 302 755 302 760 298 760 290 760 272 278 274 278 290"/></Shape>
+	    <String CONTENT="nous ne nous occupons actuellement que des lois qui régissent"
+                    HPOS="278"
+                    VPOS="272"
+                    WIDTH="482"
+                    HEIGHT="30"
+                    WC="0.99142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT4083"
+                    BASELINE="278 312 760 310" 
+                    HPOS="277"
+                    VPOS="296"
+                    WIDTH="483"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="278 312 278 322 759 324 760 310 759 298 277 296 278 312"/></Shape>
+	    <String CONTENT="la direction des rayons, nous n’avons pas à nous arrêter à ces"
+                    HPOS="277"
+                    VPOS="296"
+                    WIDTH="483"
+                    HEIGHT="28"
+                    WC="0.987625"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4083"
+                    BASELINE="278 332 363 334" 
+                    HPOS="278"
+                    VPOS="316"
+                    WIDTH="85"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="278 332 278 340 362 340 363 334 362 321 333 321 330 320 321 316 320 316 319 316 313 319 312 319 305 316 304 316 278 317 278 332"/></Shape>
+	    <String CONTENT="variations."
+                    HPOS="278"
+                    VPOS="316"
+                    WIDTH="85"
+                    HEIGHT="24"
+                    WC="0.9885"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT4083"
+                    BASELINE="296 355 760 354" 
+                    HPOS="295"
+                    VPOS="336"
+                    WIDTH="465"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="296 355 296 363 759 365 760 354 758 336 295 337 296 355"/></Shape>
+	    <String CONTENT="Nous nous bornerons à faire remarquer l’importance de ce"
+                    HPOS="295"
+                    VPOS="336"
+                    WIDTH="465"
+                    HEIGHT="29"
+                    WC="0.995355555555556"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT4083"
+                    BASELINE="276 377 761 376" 
+                    HPOS="276"
+                    VPOS="358"
+                    WIDTH="485"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="276 377 276 389 310 386 760 386 761 376 760 362 752 358 751 358 732 362 716 358 715 358 714 358 705 362 675 358 674 358 673 358 668 362 622 362 618 362 592 358 591 358 571 361 566 362 561 361 544 358 528 361 518 362 512 361 506 359 505 359 504 359 498 361 492 362 484 360 476 359 475 359 467 360 457 362 276 360 276 377"/></Shape>
+	    <String CONTENT="phénomène; c’est, en effet, la lumière diffusée qui nous fait"
+                    HPOS="276"
+                    VPOS="358"
+                    WIDTH="485"
+                    HEIGHT="31"
+                    WC="0.9781"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT4083"
+                    BASELINE="277 398 759 396" 
+                    HPOS="276"
+                    VPOS="382"
+                    WIDTH="483"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="277 398 277 407 305 411 306 411 317 407 318 407 356 407 358 407 376 411 377 411 403 407 404 407 436 411 437 411 462 408 525 410 526 410 538 407 584 410 585 410 596 406 647 410 648 410 657 406 658 406 702 406 712 410 713 410 714 410 758 405 759 396 758 385 684 382 276 385 277 398"/></Shape>
+	    <String CONTENT="connaître l’existence des corps. Lorsqu’un corps dont les sur¬"
+                    HPOS="276"
+                    VPOS="382"
+                    WIDTH="483"
+                    HEIGHT="29"
+                    WC="0.978888888888889"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT4083"
+                    BASELINE="276 420 762 419" 
+                    HPOS="276"
+                    VPOS="403"
+                    WIDTH="486"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="276 420 276 429 736 430 762 426 762 419 760 407 734 403 733 403 732 403 720 406 710 403 709 403 690 406 690 407 552 407 548 406 529 403 528 403 508 406 499 407 490 406 471 404 470 404 456 406 448 408 404 408 401 406 396 404 395 404 276 405 276 420"/></Shape>
+	    <String CONTENT="faces ne diffusent pas est interposé entre une source de lumière"
+                    HPOS="276"
+                    VPOS="403"
+                    WIDTH="486"
+                    HEIGHT="27"
+                    WC="0.995209090909091"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT4083"
+                    BASELINE="277 442 760 441" 
+                    HPOS="276"
+                    VPOS="427"
+                    WIDTH="484"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="277 442 277 453 759 453 760 441 758 427 276 428 277 442"/></Shape>
+	    <String CONTENT="et notre œil, nous ne le distinguons pas : c’est le cas d’une"
+                    HPOS="276"
+                    VPOS="427"
+                    WIDTH="484"
+                    HEIGHT="26"
+                    WC="0.982269230769231"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT4083"
+                    BASELINE="278 464 759 464" 
+                    HPOS="278"
+                    VPOS="448"
+                    WIDTH="481"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="278 464 278 475 758 476 759 464 759 450 278 448 278 464"/></Shape>
+	    <String CONTENT="glace à faces bien polies et bien propres mise à une fenêtre;"
+                    HPOS="278"
+                    VPOS="448"
+                    WIDTH="481"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT4083"
+                    BASELINE="278 486 760 484" 
+                    HPOS="278"
+                    VPOS="468"
+                    WIDTH="482"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="278 486 278 494 759 493 760 484 758 472 734 468 733 468 721 472 666 468 665 468 664 468 658 472 628 472 620 468 619 468 596 468 595 468 518 472 495 468 494 468 480 472 446 468 445 468 426 472 416 468 415 468 414 468 386 472 355 468 354 468 346 472 324 468 323 468 322 468 316 472 308 469 307 469 306 469 278 473 278 486"/></Shape>
+	    <String CONTENT="mais il suffit qu’il y ait quelques irrégularités, quelques pous¬"
+                    HPOS="278"
+                    VPOS="468"
+                    WIDTH="482"
+                    HEIGHT="26"
+                    WC="0.99211"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT4083"
+                    BASELINE="278 507 759 506" 
+                    HPOS="277"
+                    VPOS="490"
+                    WIDTH="482"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="278 507 278 518 758 518 759 506 758 494 740 490 715 493 690 490 689 490 688 490 683 494 561 494 557 490 556 490 520 490 519 490 518 490 510 494 482 494 478 490 477 490 476 490 475 490 474 490 469 494 460 490 459 490 386 494 354 490 328 494 324 490 323 490 322 490 284 490 283 490 282 490 277 493 278 507"/></Shape>
+	    <String CONTENT="sières, un peu de vapeur condensée, pour qu’il y ait diffu¬"
+                    HPOS="277"
+                    VPOS="490"
+                    WIDTH="482"
+                    HEIGHT="28"
+                    WC="0.991145454545455"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT4083"
+                    BASELINE="278 529 730 529" 
+                    HPOS="278"
+                    VPOS="514"
+                    WIDTH="452"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="278 529 278 539 600 541 630 538 633 538 634 538 641 541 642 541 642 542 718 542 718 541 730 537 730 529 730 515 278 514 278 529"/></Shape>
+	    <String CONTENT="sion et que nous soyons assurés de l’existence de la glace."
+                    HPOS="278"
+                    VPOS="514"
+                    WIDTH="452"
+                    HEIGHT="28"
+                    WC="0.982427272727273"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT4083"
+                    BASELINE="294 551 760 550" 
+                    HPOS="294"
+                    VPOS="534"
+                    WIDTH="466"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="294 551 294 560 498 563 499 563 500 563 505 560 506 560 654 562 674 559 675 559 676 559 696 562 716 559 733 562 734 562 760 558 760 550 760 538 753 534 752 534 751 534 732 538 646 538 641 534 640 534 616 534 592 538 582 534 581 534 539 538 504 534 503 534 487 538 479 534 478 534 477 534 466 538 438 534 437 534 417 538 416 538 378 534 377 534 334 538 333 538 332 538 299 534 298 534 297 534 294 536 294 551"/></Shape>
+	    <String CONTENT="S’il n’y avait pas diffusion, les corps non transparents se di¬"
+                    HPOS="294"
+                    VPOS="534"
+                    WIDTH="466"
+                    HEIGHT="29"
+                    WC="0.983745454545455"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT4083"
+                    BASELINE="278 572 760 572" 
+                    HPOS="278"
+                    VPOS="556"
+                    WIDTH="482"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="278 572 278 581 760 580 760 572 760 560 718 556 679 556 678 556 677 556 674 559 662 556 661 556 660 556 652 559 651 559 644 559 596 556 595 556 591 558 588 560 568 558 543 556 542 556 500 558 430 560 423 557 422 556 421 556 420 556 418 557 408 560 397 556 394 556 393 556 392 556 384 556 358 560 352 556 351 556 350 556 346 556 324 559 319 556 318 556 278 556 278 572"/></Shape>
+	    <String CONTENT="viseraient en deux groupes : les corps qui réfléchissent la lu¬"
+                    HPOS="278"
+                    VPOS="556"
+                    WIDTH="482"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT4083"
+                    BASELINE="278 594 760 592" 
+                    HPOS="277"
+                    VPOS="578"
+                    WIDTH="483"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="278 594 278 602 758 604 760 592 758 578 277 578 278 594"/></Shape>
+	    <String CONTENT="mière et ceux qui ne la réfléchissent pas. Les premiers donne¬"
+                    HPOS="277"
+                    VPOS="578"
+                    WIDTH="483"
+                    HEIGHT="26"
+                    WC="0.962872727272727"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT4083"
+                    BASELINE="276 614 760 616" 
+                    HPOS="276"
+                    VPOS="598"
+                    WIDTH="484"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="276 614 276 624 294 628 438 626 488 625 759 628 760 616 760 600 719 602 712 599 710 598 709 598 660 598 659 598 653 599 636 602 631 599 630 598 629 598 606 598 605 598 604 598 602 599 591 603 526 603 521 599 520 598 519 598 518 598 445 598 444 598 443 598 442 599 438 602 276 599 276 614"/></Shape>
+	    <String CONTENT="raient des faisceaux réfléchis qui parviendraient à l’œil et lui"
+                    HPOS="276"
+                    VPOS="598"
+                    WIDTH="484"
+                    HEIGHT="30"
+                    WC="0.96754"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24"
+                    TAGREFS="LT4083"
+                    BASELINE="277 636 759 637" 
+                    HPOS="276"
+                    VPOS="620"
+                    WIDTH="483"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="277 636 276 643 758 644 759 637 758 625 736 621 735 621 712 624 709 624 706 624 684 621 683 621 682 621 674 624 672 625 562 625 522 622 489 620 488 620 481 622 471 624 464 622 461 620 460 620 440 621 396 624 376 620 373 620 372 620 370 620 357 624 324 620 296 624 277 620 277 636"/></Shape>
+	    <String CONTENT="fourniraient la notion de l’image du corps sans aucune indica¬"
+                    HPOS="276"
+                    VPOS="620"
+                    WIDTH="483"
+                    HEIGHT="24"
+                    WC="0.99293"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_25"
+                    TAGREFS="LT4083"
+                    BASELINE="278 658 759 660" 
+                    HPOS="277"
+                    VPOS="640"
+                    WIDTH="482"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="278 658 277 667 337 668 338 668 340 668 346 665 359 668 363 668 364 668 366 668 374 665 378 668 379 668 380 668 505 669 506 669 512 668 544 666 635 669 651 670 652 670 653 670 658 666 728 666 758 670 759 660 758 644 699 642 698 642 687 644 674 646 670 644 668 642 667 642 666 642 665 642 661 644 656 646 643 644 631 642 630 642 624 644 618 646 614 644 611 642 610 642 609 642 584 644 564 645 554 644 536 641 535 641 529 644 527 645 458 645 454 644 448 641 447 641 410 644 400 644 396 644 379 640 378 640 377 640 373 644 372 644 364 644 328 641 327 641 278 644 278 658"/></Shape>
+	    <String CONTENT="tion sur le changement de direction qu’a subi le faisceau,"
+                    HPOS="277"
+                    VPOS="640"
+                    WIDTH="482"
+                    HEIGHT="30"
+                    WC="0.98504"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_26"
+                    TAGREFS="LT4083"
+                    BASELINE="278 682 758 680" 
+                    HPOS="277"
+                    VPOS="662"
+                    WIDTH="481"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="278 682 278 692 518 692 520 692 553 688 757 691 758 680 757 667 741 663 740 663 739 663 735 667 712 667 706 662 705 662 704 662 703 662 691 666 691 667 642 667 642 666 634 662 633 662 632 662 582 666 579 667 516 667 514 666 506 664 505 664 504 664 494 666 492 667 491 666 487 663 486 663 485 663 484 663 476 666 473 667 470 666 459 664 458 664 457 664 448 666 446 667 444 666 438 663 437 663 436 663 426 666 422 667 416 666 395 663 394 663 277 666 278 682"/></Shape>
+	    <String CONTENT="ni sur la surface où ce changement s’est effectué: c’est ce"
+                    HPOS="277"
+                    VPOS="662"
+                    WIDTH="481"
+                    HEIGHT="30"
+                    WC="0.9908"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_27"
+                    TAGREFS="LT4083"
+                    BASELINE="278 703 758 701" 
+                    HPOS="277"
+                    VPOS="687"
+                    WIDTH="481"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="278 703 278 714 469 711 589 714 596 714 597 714 598 714 598 713 602 710 757 713 758 701 757 687 277 687 278 703"/></Shape>
+	    <String CONTENT="que l’on observe quelquefois dans le cas de miroirs plans ou"
+                    HPOS="277"
+                    VPOS="687"
+                    WIDTH="481"
+                    HEIGHT="27"
+                    WC="0.987054545454545"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_28"
+                    TAGREFS="LT4083"
+                    BASELINE="278 724 760 724" 
+                    HPOS="278"
+                    VPOS="708"
+                    WIDTH="482"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="278 724 278 731 758 734 760 724 759 712 724 712 724 711 718 708 717 708 716 708 702 711 688 708 687 708 686 708 660 711 659 712 584 712 583 711 574 708 573 708 572 708 558 711 556 711 540 708 539 708 526 711 525 711 524 711 516 708 515 708 514 708 492 711 491 711 490 711 478 708 477 708 476 708 464 711 463 711 456 711 389 708 388 708 372 711 369 711 362 711 318 708 278 710 278 724"/></Shape>
+	    <String CONTENT="courbes parfaitement polis. Quant aux corps non diffusifs qui"
+                    HPOS="278"
+                    VPOS="708"
+                    WIDTH="482"
+                    HEIGHT="26"
+                    WC="0.9949"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_29"
+                    TAGREFS="LT4083"
+                    BASELINE="277 746 758 746" 
+                    HPOS="277"
+                    VPOS="728"
+                    WIDTH="481"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="277 746 277 757 758 757 758 746 758 732 728 728 646 728 645 728 644 728 638 731 637 731 618 728 617 728 616 728 613 731 612 732 502 732 501 730 494 728 493 728 461 728 460 728 459 728 456 730 455 732 406 732 404 730 398 728 397 728 277 730 277 746"/></Shape>
+	    <String CONTENT="ne produiraient pas la réflexion, ils ne renverraient à l’œil au¬"
+                    HPOS="277"
+                    VPOS="728"
+                    WIDTH="481"
+                    HEIGHT="29"
+                    WC="0.963872727272727"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_30"
+                    TAGREFS="LT4083"
+                    BASELINE="277 768 660 768" 
+                    HPOS="277"
+                    VPOS="752"
+                    WIDTH="383"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="277 768 277 780 660 776 660 768 660 754 277 752 277 768"/></Shape>
+	    <String CONTENT="cune lumière et, par suite, ne pourraient être vus."
+                    HPOS="277"
+                    VPOS="752"
+                    WIDTH="383"
+                    HEIGHT="28"
+                    WC="0.940488888888889"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_31"
+                    TAGREFS="LT4083"
+                    BASELINE="294 789 759 789" 
+                    HPOS="294"
+                    VPOS="774"
+                    WIDTH="465"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="294 789 294 796 332 800 333 801 372 801 372 800 373 800 378 797 392 800 393 800 394 800 409 797 410 797 468 797 469 797 478 800 479 800 759 797 759 789 759 775 294 774 294 789"/></Shape>
+	    <String CONTENT="Le rôle de la diffusion explique l’avantage qu’il y a à rece¬"
+                    HPOS="294"
+                    VPOS="774"
+                    WIDTH="465"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_32"
+                    TAGREFS="LT4083"
+                    BASELINE="278 810 759 811" 
+                    HPOS="278"
+                    VPOS="796"
+                    WIDTH="481"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="278 810 278 818 515 818 516 818 519 821 520 821 521 821 758 818 759 811 758 797 278 796 278 810"/></Shape>
+	    <String CONTENT="voir sur un écran les images réelles que l’on veut montrer à"
+                    HPOS="278"
+                    VPOS="796"
+                    WIDTH="481"
+                    HEIGHT="25"
+                    WC="0.991791666666667"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_33"
+                    TAGREFS="LT4083"
+                    BASELINE="277 833 760 833" 
+                    HPOS="277"
+                    VPOS="816"
+                    WIDTH="483"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="277 833 277 841 759 842 760 833 760 819 416 816 415 816 333 819 310 816 309 816 297 819 288 816 287 816 286 816 277 819 277 833"/></Shape>
+	    <String CONTENT="plusieurs personnes. Pour voir une image réelle, il faut que"
+                    HPOS="277"
+                    VPOS="816"
+                    WIDTH="483"
+                    HEIGHT="26"
+                    WC="0.98246"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_34"
+                    TAGREFS="LT4083"
+                    BASELINE="278 854 759 854" 
+                    HPOS="278"
+                    VPOS="837"
+                    WIDTH="481"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="278 854 278 862 336 866 337 866 338 866 348 863 367 866 368 866 398 863 408 866 409 866 410 866 446 863 488 866 489 866 563 863 582 866 583 866 664 863 718 866 759 862 759 854 758 838 573 840 568 837 567 837 566 837 563 837 542 840 532 837 531 837 530 837 529 837 528 837 522 840 468 837 464 837 463 837 460 837 425 840 396 837 394 837 392 837 358 840 354 837 353 837 304 837 303 837 302 837 293 840 278 837 278 854"/></Shape>
+	    <String CONTENT="l’œil de l’observateur soit situé dans le prolongement du fais¬"
+                    HPOS="278"
+                    VPOS="837"
+                    WIDTH="481"
+                    HEIGHT="29"
+                    WC="0.98228"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_35"
+                    TAGREFS="LT4083"
+                    BASELINE="276 876 759 875" 
+                    HPOS="276"
+                    VPOS="858"
+                    WIDTH="483"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="276 876 276 884 758 882 759 875 757 862 734 863 731 862 723 858 722 858 721 858 710 862 705 864 625 864 614 861 600 858 599 858 598 858 589 861 580 863 576 861 570 858 569 858 568 858 565 861 563 863 535 863 528 860 525 859 524 859 514 860 492 864 486 860 484 859 483 859 482 859 478 860 469 862 450 860 442 859 441 859 438 860 428 864 424 860 423 859 422 859 396 859 395 859 393 860 380 864 368 859 366 859 276 859 276 876"/></Shape>
+	    <String CONTENT="ceau conique qui fournit l’image, et le plus souvent ce fais¬"
+                    HPOS="276"
+                    VPOS="858"
+                    WIDTH="483"
+                    HEIGHT="26"
+                    WC="0.986936363636364"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_36"
+                    TAGREFS="LT4083"
+                    BASELINE="277 898 759 896" 
+                    HPOS="276"
+                    VPOS="879"
+                    WIDTH="483"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="277 898 277 906 758 906 759 896 758 883 702 883 702 882 698 879 697 879 696 879 609 882 587 882 579 882 555 879 554 879 532 882 517 883 506 881 495 880 438 880 437 880 436 880 434 881 431 883 424 881 420 880 419 880 418 880 409 881 392 883 386 880 384 880 383 880 378 880 366 883 276 880 277 898"/></Shape>
+	    <String CONTENT="ceau a peu d’amplitude. Si l’on reçoit au contraire l’image sur"
+                    HPOS="276"
+                    VPOS="879"
+                    WIDTH="483"
+                    HEIGHT="27"
+                    WC="0.9906"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_37"
+                    TAGREFS="LT4083"
+                    BASELINE="278 920 756 920" 
+                    HPOS="278"
+                    VPOS="902"
+                    WIDTH="478"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="278 920 278 931 756 929 756 920 756 906 388 902 387 902 324 906 305 902 304 902 278 906 278 920"/></Shape>
+	    <String CONTENT="un écran, celui-ci diffuse la lumière dans toutes les directions,"
+                    HPOS="278"
+                    VPOS="902"
+                    WIDTH="478"
+                    HEIGHT="29"
+                    WC="0.98279"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_38"
+                    TAGREFS="LT4083"
+                    BASELINE="277 940 758 940" 
+                    HPOS="276"
+                    VPOS="924"
+                    WIDTH="482"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="277 940 277 950 297 950 302 954 303 954 304 954 330 950 338 949 344 950 361 954 362 954 376 950 384 949 433 949 437 952 443 954 444 954 468 952 480 950 488 952 499 955 500 955 501 955 507 952 514 949 557 949 568 953 574 955 575 955 576 955 585 953 599 950 604 954 606 955 607 955 608 956 634 956 634 955 635 955 636 954 642 949 675 949 692 954 694 955 695 956 757 956 758 940 756 928 676 928 663 924 662 924 643 928 633 924 632 924 588 928 584 924 583 924 582 924 556 924 505 928 479 924 478 924 477 924 472 928 444 928 414 924 413 924 412 924 406 928 344 928 327 924 326 924 325 924 320 928 276 928 277 940"/></Shape>
+	    <String CONTENT="et quelle que soit la position de l’observateur il peut voir"
+                    HPOS="276"
+                    VPOS="924"
+                    WIDTH="482"
+                    HEIGHT="32"
+                    WC="0.992981818181818"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4083"
+                    BASELINE="276 962 343 963" 
+                    HPOS="276"
+                    VPOS="944"
+                    WIDTH="67"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="276 962 276 971 342 974 343 963 342 951 276 944 276 962"/></Shape>
+	    <String CONTENT="l’image."
+                    HPOS="276"
+                    VPOS="944"
+                    WIDTH="67"
+                    HEIGHT="30"
+                    WC="0.9966"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_39"
+                    TAGREFS="LT4083"
+                    BASELINE="294 984 758 984" 
+                    HPOS="294"
+                    VPOS="962"
+                    WIDTH="464"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="294 984 294 1004 357 1004 357 1003 358 1003 367 997 376 1003 377 1003 378 1004 394 1004 394 1003 395 1003 405 998 420 1003 421 1003 422 1003 423 1003 432 997 456 997 470 1003 471 1003 472 1004 482 1004 482 1003 483 1003 484 1003 491 997 535 997 542 1000 543 1000 544 1000 580 997 587 1002 588 1002 589 1002 590 1002 599 997 608 1001 609 1001 653 997 660 1003 661 1003 662 1003 662 1004 687 1004 687 1003 688 1003 700 997 708 1003 709 1003 710 1003 724 998 757 1003 758 984 757 962 718 969 649 969 638 964 635 962 634 962 627 964 609 968 603 964 601 962 600 962 556 962 555 962 554 962 550 964 545 968 530 968 528 965 525 963 525 962 524 962 523 962 522 962 518 965 514 967 502 965 490 963 489 963 488 963 483 966 477 968 464 966 448 962 434 962 433 962 432 962 428 966 425 969 394 969 391 966 387 963 387 962 386 962 385 962 361 967 352 969 308 969 306 968 301 964 300 964 299 964 298 964 294 966 294 984"/></Shape>
+	    <String CONTENT="ll importe de signaler que l&#x27;air et l&#x27;eau contiennent en géné¬"
+                    HPOS="294"
+                    VPOS="962"
+                    WIDTH="464"
+                    HEIGHT="42"
+                    WC="0.976336363636364"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

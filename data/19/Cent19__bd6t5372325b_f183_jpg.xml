@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent19__bd6t5372325b_f183_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10571" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10570" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10569" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10567" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10566" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10568" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10565" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10564" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10563" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10562" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4137" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4135" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4136" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="777"
+          HEIGHT="1200"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="777"
+                  HEIGHT="1200">
+        
+        <TextBlock HPOS="321"
+                   VPOS="132"
+                   WIDTH="135"
+                   HEIGHT="23"
+                   ID="eSc_textblock_9527c13a"
+                   TAGREFS="BT10563">
+          <Shape><Polygon POINTS="321 132 321 155 456 155 456 132"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7311622b"
+                    TAGREFS="LT4136"
+                    BASELINE="324 144 447 143" 
+                    HPOS="324"
+                    VPOS="133"
+                    WIDTH="123"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="437 133 430 133 424 133 417 133 410 133 404 133 397 133 390 133 384 133 377 133 370 133 364 133 357 133 350 133 344 133 337 133 330 133 324 133 324 144 324 154 446 156 447 143 445 133 444 133"/></Shape>
+	    <String CONTENT="VOCABULAIRE"
+                    HPOS="324"
+                    VPOS="133"
+                    WIDTH="123"
+                    HEIGHT="23"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="605"
+                   VPOS="130"
+                   WIDTH="39"
+                   HEIGHT="21"
+                   ID="eSc_textblock_86b6a955"
+                   TAGREFS="BT10564">
+          <Shape><Polygon POINTS="605 130 605 151 644 151 644 130"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bd3d7260"
+                    TAGREFS="LT4135"
+                    BASELINE="610 144 640 144" 
+                    HPOS="610"
+                    VPOS="131"
+                    WIDTH="30"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="636 132 633 131 613 131 610 134 610 144 610 157 639 164 640 144 640 132 636 132"/></Shape>
+	    <String CONTENT="179"
+                    HPOS="610"
+                    VPOS="131"
+                    WIDTH="30"
+                    HEIGHT="33"
+                    WC="0.998327056566874"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="118"
+                   VPOS="162"
+                   WIDTH="528"
+                   HEIGHT="486"
+                   ID="eSc_textblock_cc1a3ed5"
+                   TAGREFS="BT10562">
+          <Shape><Polygon POINTS="118 162 118 648 646 648 646 166"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4750c872"
+                    TAGREFS="LT4135"
+                    BASELINE="128 181 638 179" 
+                    HPOS="128"
+                    VPOS="160"
+                    WIDTH="510"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="588 164 581 164 574 164 568 164 561 164 554 164 548 164 541 163 534 163 528 163 521 163 514 162 508 162 501 162 494 162 488 162 481 162 474 161 468 161 461 161 460 160 394 160 393 160 392 160 386 164 385 164 343 164 343 164 332 160 328 162 321 164 314 165 308 165 301 165 294 165 288 165 281 165 274 165 268 165 261 165 254 165 248 165 241 165 234 165 228 165 221 165 214 165 208 165 201 165 194 165 188 165 181 165 174 165 168 165 161 165 154 165 148 165 141 165 134 165 128 170 128 181 128 192 216 192 216 192 220 191 243 188 284 190 294 191 295 191 296 191 298 190 308 187 360 187 368 190 372 191 373 191 374 191 374 191 377 190 383 187 436 187 440 189 442 191 442 191 443 191 444 191 456 189 471 186 493 188 510 190 511 190 527 188 542 186 550 188 559 190 560 190 560 190 561 190 562 190 565 188 567 187 638 187 638 179 637 162 593 162 588 164"/></Shape>
+	    <String CONTENT="qu’on peut consoler est —; celui qui console les autres"
+                    HPOS="128"
+                    VPOS="160"
+                    WIDTH="510"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71323d27"
+                    TAGREFS="LT4135"
+                    BASELINE="128 205 638 203" 
+                    HPOS="127"
+                    VPOS="184"
+                    WIDTH="511"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="128 205 128 214 160 211 293 214 294 214 294 214 302 210 430 213 430 213 470 210 636 212 638 203 636 188 600 184 600 184 575 188 484 184 483 184 482 184 473 187 388 184 387 184 386 184 386 184 380 189 344 189 300 184 300 184 299 184 288 188 258 185 257 185 256 185 256 185 249 189 248 189 230 186 229 186 228 186 228 186 222 189 222 190 127 190 128 205"/></Shape>
+	    <String CONTENT="est un —; il donne des — S’installer dans une maison,"
+                    HPOS="127"
+                    VPOS="184"
+                    WIDTH="511"
+                    HEIGHT="30"
+                    WC="0.982420382634649"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3abe40bb"
+                    TAGREFS="LT4135"
+                    BASELINE="129 227 638 226" 
+                    HPOS="128"
+                    VPOS="207"
+                    WIDTH="510"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="129 227 129 238 164 234 370 237 371 237 401 234 636 236 638 226 636 212 612 207 612 207 577 211 576 211 575 211 529 207 528 207 447 211 438 211 432 211 388 208 387 208 345 210 327 212 318 210 301 208 300 208 300 208 289 210 283 212 276 210 260 208 259 208 234 210 220 212 204 210 176 208 176 208 128 210 129 227"/></Shape>
+	    <String CONTENT="c’est emménager, c’est faire un — ; sortir d’une maison,"
+                    HPOS="128"
+                    VPOS="207"
+                    WIDTH="510"
+                    HEIGHT="31"
+                    WC="0.988387881663808"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6bd9f080"
+                    TAGREFS="LT4135"
+                    BASELINE="128 250 638 247" 
+                    HPOS="127"
+                    VPOS="229"
+                    WIDTH="511"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="636 234 510 229 509 229 450 230 449 230 440 234 398 230 397 230 396 230 384 234 382 235 379 234 374 232 374 232 373 232 372 232 368 234 365 236 327 236 316 234 282 230 282 230 263 234 254 236 246 234 233 231 232 231 218 234 209 236 187 234 149 231 148 231 127 234 128 250 128 261 182 263 182 263 183 263 190 260 194 260 196 260 203 263 204 263 204 263 205 263 210 260 214 258 309 258 318 259 339 262 340 262 384 258 399 258 407 258 436 262 436 262 543 258 625 261 626 261 626 261 638 256 638 247 636 235 636 234"/></Shape>
+	    <String CONTENT="c&#x27;est —, c’est faire un — ; celui qui fait les déménage¬"
+                    HPOS="127"
+                    VPOS="229"
+                    WIDTH="511"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_251e6905"
+                    TAGREFS="LT4135"
+                    BASELINE="128 274 284 272" 
+                    HPOS="128"
+                    VPOS="255"
+                    WIDTH="156"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="128 274 128 283 180 282 184 285 187 287 188 287 188 287 189 287 190 287 195 285 201 283 216 286 231 288 232 288 232 288 238 286 253 281 271 281 283 286 284 272 283 260 237 255 236 255 236 255 226 258 222 260 207 260 204 258 202 256 201 256 200 256 200 256 184 258 172 259 128 257 128 274"/></Shape>
+	    <String CONTENT="ments est un —"
+                    HPOS="128"
+                    VPOS="255"
+                    WIDTH="156"
+                    HEIGHT="33"
+                    WC="0.982470972197396"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2cbdb4b7"
+                    TAGREFS="LT4136"
+                    BASELINE="361 304 406 304" 
+                    HPOS="361"
+                    VPOS="280"
+                    WIDTH="45"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="361 316 406 315 406 304 406 286 376 280 375 280 374 280 361 286 361 304"/></Shape>
+	    <String CONTENT="277."
+                    HPOS="361"
+                    VPOS="280"
+                    WIDTH="45"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb9676e8"
+                    TAGREFS="LT4135"
+                    BASELINE="146 338 638 336" 
+                    HPOS="146"
+                    VPOS="314"
+                    WIDTH="492"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="626 322 619 321 612 321 606 321 599 320 592 320 577 320 576 320 576 319 572 319 566 319 559 319 552 318 546 318 539 318 532 318 529 318 525 319 523 320 522 319 517 317 512 317 506 316 499 316 492 316 476 319 469 320 467 318 460 315 459 315 456 314 445 318 444 319 442 318 430 314 430 314 429 314 428 314 428 314 423 318 420 321 354 321 350 318 345 314 344 314 344 314 343 314 288 315 288 315 281 317 268 322 236 322 224 316 220 315 220 315 219 315 212 316 193 321 146 316 146 338 146 346 637 347 638 336 632 322 626 322"/></Shape>
+	    <String CONTENT="Creuser une mine, c&#x27;est — ; celui qui travaille dans"
+                    HPOS="146"
+                    VPOS="314"
+                    WIDTH="492"
+                    HEIGHT="33"
+                    WC="0.975527187952628"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b6ea1c3"
+                    TAGREFS="LT4135"
+                    BASELINE="129 361 640 359" 
+                    HPOS="128"
+                    VPOS="342"
+                    WIDTH="512"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="129 361 129 370 459 372 460 372 629 372 630 372 640 368 640 359 636 345 627 342 626 342 626 342 609 346 606 346 509 346 508 346 499 342 498 342 498 342 473 346 464 346 128 344 129 361"/></Shape>
+	    <String CONTENT="une mine est un — Pour nous nourrir nous prenons de"
+                    HPOS="128"
+                    VPOS="342"
+                    WIDTH="512"
+                    HEIGHT="30"
+                    WC="0.992112415678361"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9f73af9"
+                    TAGREFS="LT4135"
+                    BASELINE="128 384 639 382" 
+                    HPOS="128"
+                    VPOS="367"
+                    WIDTH="511"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="128 384 128 393 180 392 190 394 212 398 212 398 250 396 251 396 252 396 252 395 254 394 257 391 269 394 287 397 288 397 310 394 312 394 314 394 357 397 358 397 358 397 372 394 385 390 392 394 398 396 398 396 399 397 418 397 418 396 418 396 419 396 422 394 428 390 471 390 476 394 479 396 480 396 480 396 481 396 510 394 534 392 548 394 559 396 560 396 638 394 639 382 637 367 128 368 128 384"/></Shape>
+	    <String CONTENT="la —; ce qui nous nourrit est — ; une personne qui"
+                    HPOS="128"
+                    VPOS="367"
+                    WIDTH="511"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_973f0e79"
+                    TAGREFS="LT4135"
+                    BASELINE="128 408 637 404" 
+                    HPOS="127"
+                    VPOS="388"
+                    WIDTH="510"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="128 408 128 416 327 419 328 419 361 417 402 414 406 417 407 418 408 418 408 418 409 419 433 419 433 418 460 418 461 418 462 418 462 417 469 414 564 417 566 417 567 417 568 417 586 413 596 417 596 417 597 418 636 418 637 404 635 390 536 392 530 390 526 388 526 388 525 388 524 388 524 388 522 390 516 394 473 394 464 390 459 388 458 388 458 388 457 388 456 388 454 390 451 392 386 394 372 390 366 389 366 389 365 389 364 389 364 389 362 390 357 394 318 394 304 390 300 390 299 390 298 390 298 390 294 391 283 394 262 391 252 390 252 390 251 390 246 391 234 394 222 391 220 390 219 390 218 390 205 391 166 394 162 391 161 391 160 391 160 391 159 391 158 391 150 394 127 392 128 408"/></Shape>
+	    <String CONTENT="nourrit les animaux pour les engraisser est un — ; le"
+                    HPOS="127"
+                    VPOS="388"
+                    WIDTH="510"
+                    HEIGHT="31"
+                    WC="0.985472821964408"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a2cefe8"
+                    TAGREFS="LT4135"
+                    BASELINE="128 430 638 428" 
+                    HPOS="127"
+                    VPOS="411"
+                    WIDTH="511"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="128 430 128 440 637 436 638 428 636 412 564 415 548 413 533 411 532 411 532 411 524 414 517 415 511 414 504 412 503 412 502 412 502 412 497 414 492 416 490 414 488 412 487 412 486 412 466 412 465 412 464 412 457 414 452 416 447 414 439 412 438 412 438 412 437 412 429 414 425 416 394 416 392 415 388 412 388 412 387 412 386 412 386 412 385 412 382 415 381 416 378 415 372 412 372 412 371 412 342 416 332 416 322 416 288 413 288 413 287 413 280 416 274 412 274 412 273 412 272 412 272 412 256 416 254 417 246 417 196 413 196 413 172 417 167 413 166 413 166 413 144 413 144 413 143 413 127 418 128 430"/></Shape>
+	    <String CONTENT="petit enfant qu’on nourrit avec du lait est un — , la"
+                    HPOS="127"
+                    VPOS="411"
+                    WIDTH="511"
+                    HEIGHT="29"
+                    WC="0.989648574928068"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbe494d0"
+                    TAGREFS="LT4135"
+                    BASELINE="126 453 637 450" 
+                    HPOS="126"
+                    VPOS="433"
+                    WIDTH="511"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="126 453 126 459 636 460 637 450 636 434 443 433 442 433 442 433 441 433 440 434 436 437 392 437 386 434 382 433 382 433 381 433 380 433 378 434 372 438 324 438 306 434 300 434 300 434 299 434 298 434 298 434 294 438 253 438 246 434 245 434 244 434 244 434 240 434 214 438 126 435 126 453"/></Shape>
+	    <String CONTENT="femme qui le nourrit est sa —. Donner des outils à"
+                    HPOS="126"
+                    VPOS="433"
+                    WIDTH="511"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_658dde3d"
+                    TAGREFS="LT4135"
+                    BASELINE="128 476 638 474" 
+                    HPOS="127"
+                    VPOS="458"
+                    WIDTH="511"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="128 476 128 486 638 484 638 474 636 458 127 458 128 476"/></Shape>
+	    <String CONTENT="quelqu&#x27;un, c’est l&#x27;—; l’ensemble des outils d’un ouvrier"
+                    HPOS="127"
+                    VPOS="458"
+                    WIDTH="511"
+                    HEIGHT="28"
+                    WC="0.995651015213558"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e20360ef"
+                    TAGREFS="LT4135"
+                    BASELINE="130 499 635 496" 
+                    HPOS="130"
+                    VPOS="482"
+                    WIDTH="505"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="130 499 130 508 634 508 635 496 634 482 130 482 130 499"/></Shape>
+	    <String CONTENT="s&#x27;appelle son —; celui qui fabrique des outils est un —."
+                    HPOS="130"
+                    VPOS="482"
+                    WIDTH="505"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0130fcb0"
+                    TAGREFS="LT4135"
+                    BASELINE="128 522 636 520" 
+                    HPOS="127"
+                    VPOS="502"
+                    WIDTH="509"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="128 522 128 532 634 532 636 520 634 507 525 507 524 506 519 502 518 502 518 502 517 502 497 506 494 506 480 506 426 503 426 503 425 503 420 506 416 507 405 506 388 503 358 503 358 503 357 503 352 505 348 507 272 505 229 504 228 504 211 504 156 508 149 504 148 504 147 504 146 504 127 504 128 522"/></Shape>
+	    <String CONTENT="Mettre dans une prison, c’est —; l’action d’emprisonner,"
+                    HPOS="127"
+                    VPOS="502"
+                    WIDTH="509"
+                    HEIGHT="30"
+                    WC="0.974996824349676"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_accdde10"
+                    TAGREFS="LT4135"
+                    BASELINE="127 544 637 542" 
+                    HPOS="126"
+                    VPOS="528"
+                    WIDTH="511"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="127 544 127 554 222 553 255 555 288 557 289 557 290 557 294 555 298 553 308 555 314 556 314 556 324 555 338 553 352 555 358 556 359 556 364 555 377 552 386 556 390 556 390 556 391 557 465 557 465 556 481 556 545 552 551 556 552 556 552 556 553 556 636 556 637 542 635 528 126 530 127 544"/></Shape>
+	    <String CONTENT="c’est un — ; celui qui est en prison est un —; tirer de"
+                    HPOS="126"
+                    VPOS="528"
+                    WIDTH="511"
+                    HEIGHT="29"
+                    WC="0.98114848353646"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_711e4283"
+                    TAGREFS="LT4135"
+                    BASELINE="126 568 638 566" 
+                    HPOS="126"
+                    VPOS="550"
+                    WIDTH="512"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="126 568 126 580 152 577 179 580 184 580 185 580 186 580 186 580 186 580 194 576 226 580 235 580 236 580 236 580 239 579 249 576 311 578 342 580 342 580 343 580 346 578 352 575 373 578 385 579 386 579 386 579 390 578 396 575 399 578 402 580 402 580 403 580 404 580 454 580 454 580 524 579 525 579 526 579 529 576 532 574 556 576 618 579 619 579 620 579 638 574 638 566 636 552 532 554 516 552 491 550 490 550 490 550 482 553 478 555 385 555 381 554 369 550 368 550 368 550 367 550 366 550 361 554 360 555 359 554 352 550 351 550 350 550 319 554 306 550 306 550 305 550 304 550 296 555 294 556 288 555 268 552 268 552 246 556 242 556 240 556 202 551 201 551 200 551 200 551 194 555 189 551 188 551 188 551 168 551 167 551 166 551 156 556 138 552 138 552 137 552 126 556 126 568"/></Shape>
+	    <String CONTENT="Prison, c&#x27;est —.  Avoir du respect, c&#x27;est — ; ce qui"
+                    HPOS="126"
+                    VPOS="550"
+                    WIDTH="512"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e001eb24"
+                    TAGREFS="LT4135"
+                    BASELINE="127 591 637 589" 
+                    HPOS="126"
+                    VPOS="572"
+                    WIDTH="511"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="127 591 127 599 138 599 139 599 145 604 146 604 146 604 147 604 166 599 168 599 170 599 202 604 203 604 228 604 228 604 228 604 229 604 234 600 242 604 242 604 243 604 296 604 296 604 297 604 307 598 308 598 323 598 458 603 459 603 511 602 512 602 512 602 519 598 528 602 528 602 529 602 530 602 538 598 538 598 540 598 558 601 559 601 601 598 608 602 608 602 609 602 610 602 636 597 637 589 635 575 580 576 576 575 570 572 569 572 568 572 568 572 556 575 550 576 545 575 533 572 532 572 532 572 531 572 530 572 525 575 522 577 490 577 486 575 475 572 474 572 474 572 473 572 472 572 469 575 458 572 458 572 457 572 456 572 456 572 452 576 450 577 442 576 424 572 424 572 423 572 412 576 406 578 384 578 382 576 376 572 376 572 375 572 374 572 346 576 335 578 289 578 285 576 278 573 277 573 255 573 254 573 254 573 246 576 242 578 230 576 203 573 202 573 186 576 183 577 181 576 172 573 172 573 171 573 126 576 127 591"/></Shape>
+	    <String CONTENT="mérite le respect est —; celui qui a du respect est —; et"
+                    HPOS="126"
+                    VPOS="572"
+                    WIDTH="511"
+                    HEIGHT="32"
+                    WC="0.983970788018457"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47c9432f"
+                    TAGREFS="LT4135"
+                    BASELINE="127 614 637 612" 
+                    HPOS="126"
+                    VPOS="595"
+                    WIDTH="511"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="127 614 127 620 145 620 146 620 154 625 155 625 156 625 188 620 188 620 190 620 217 624 218 624 239 620 241 620 243 620 260 625 261 625 262 626 285 626 285 625 286 625 286 625 292 620 292 620 294 620 316 625 316 625 317 625 328 622 342 625 343 625 344 625 388 622 416 624 416 624 417 624 425 621 429 620 433 621 440 624 441 624 442 624 442 624 448 621 452 620 498 620 507 622 517 624 518 624 518 624 523 622 524 621 525 622 528 624 529 624 530 624 530 624 544 622 548 621 552 622 566 624 567 624 568 624 575 622 582 620 590 622 600 624 601 624 602 624 637 622 637 612 636 598 579 595 578 595 578 595 568 598 564 600 561 598 556 596 555 596 554 596 554 596 548 598 547 599 542 598 519 595 518 595 518 595 506 598 501 600 448 600 446 599 436 595 436 595 435 595 434 595 434 595 429 599 428 600 421 599 400 596 400 596 399 596 398 596 394 599 393 600 366 600 364 599 360 596 359 596 358 596 358 596 357 596 346 599 343 600 339 599 319 596 318 596 318 596 317 596 313 599 312 600 311 599 304 597 304 597 303 597 272 600 258 600 252 600 232 596 231 596 230 596 230 596 224 600 223 601 188 601 186 600 181 596 180 596 180 596 179 596 147 599 131 596 130 596 130 596 129 596 126 598 127 614"/></Shape>
+	    <String CONTENT="il agit —. Semer, c’est répandre la — ; celui qui sème"
+                    HPOS="126"
+                    VPOS="595"
+                    WIDTH="511"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78890f3a"
+                    TAGREFS="LT4135"
+                    BASELINE="128 637 634 635" 
+                    HPOS="127"
+                    VPOS="617"
+                    WIDTH="507"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="128 637 128 653 148 658 149 658 150 658 150 658 158 653 166 649 208 649 216 653 227 658 228 658 228 659 296 659 296 658 297 658 313 652 320 650 328 652 350 658 351 658 381 658 381 658 382 658 392 652 397 650 420 650 424 652 436 658 436 658 437 658 465 658 465 658 466 658 484 652 491 650 496 652 503 654 504 654 504 654 505 654 514 652 529 648 538 652 541 653 542 653 542 653 543 653 544 653 545 652 551 648 567 652 569 652 570 652 573 652 602 648 610 652 616 655 617 655 618 655 634 651 634 635 633 622 594 622 593 622 587 617 586 617 586 617 585 617 566 622 565 622 564 622 547 617 546 617 546 617 545 617 530 621 515 617 514 617 465 617 464 617 464 617 451 621 447 622 442 621 426 618 426 618 398 620 379 623 334 623 323 620 312 618 311 618 290 620 264 622 240 620 230 618 230 618 229 618 225 619 211 623 127 619 128 637"/></Shape>
+	    <String CONTENT="est un — ; l’instrument avec lequel on sème est un —."
+                    HPOS="127"
+                    VPOS="617"
+                    WIDTH="507"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

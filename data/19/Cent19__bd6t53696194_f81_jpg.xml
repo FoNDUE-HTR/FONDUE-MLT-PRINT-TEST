@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent19__bd6t53696194_f81_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10462" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10461" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT10460" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10459" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10458" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10457" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10456" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10445" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10444" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10443" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4085" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4084" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4083" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="755"
+          HEIGHT="1200"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="755"
+                  HEIGHT="1200">
+        
+        <TextBlock HPOS="289.0574035644531"
+                   VPOS="144.3916473388672"
+                   WIDTH="80.90945434570312"
+                   HEIGHT="20.75018310546875"
+                   ID="block_0"
+                   TAGREFS="BT10444">
+          <Shape><Polygon POINTS="289.057 144.392 369.967 144.392 369.967 165.142 289.057 165.142 289.057 144.392"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4083"
+                    BASELINE="293 156 364 156" 
+                    HPOS="293"
+                    VPOS="145"
+                    WIDTH="71"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="363 145 353 145 343 145 333 145 323 145 313 145 303 145 293 145 293 156 293 165 364 164 364 156 364 145 363 145"/></Shape>
+	    <String CONTENT="— 59 —"
+                    HPOS="293"
+                    VPOS="145"
+                    WIDTH="71"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="75.05860900878906"
+                   VPOS="165.2317657470703"
+                   WIDTH="503.46983337402344"
+                   HEIGHT="818.3248138427734"
+                   ID="block_1"
+                   TAGREFS="BT10443">
+          <Shape><Polygon POINTS="75.0586 165.232 578.528 165.232 578.528 983.557 75.0586 983.557 75.0586 165.232"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4083"
+                    BASELINE="84 180 572 182" 
+                    HPOS="83"
+                    VPOS="165"
+                    WIDTH="489"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="570 165 563 165 556 165 550 165 543 165 536 165 530 165 523 165 516 165 510 165 503 165 496 165 490 165 483 165 476 165 470 165 463 165 456 165 450 165 443 165 436 165 430 165 423 165 416 165 410 165 403 165 396 165 390 165 383 165 376 165 370 165 363 165 356 165 350 165 343 165 336 165 330 165 323 165 316 165 310 165 303 165 296 165 290 165 283 165 276 165 270 165 263 165 256 165 250 165 243 165 236 165 230 165 223 165 216 165 210 165 203 165 196 165 190 165 183 165 176 165 170 165 163 165 156 165 150 165 143 165 136 165 130 165 123 165 116 165 110 165 103 165 96 165 90 165 84 165 84 180 83 186 98 192 99 192 140 187 164 191 236 187 239 187 240 187 245 192 246 192 247 192 297 188 304 187 310 188 349 192 350 192 390 188 396 188 403 188 440 192 441 192 462 188 469 188 476 188 500 192 571 189 572 182 571 165 570 165"/></Shape>
+	    <String CONTENT="1302 Piastre et demi-piastre de 1869 aux attributs de la Justice."
+                    HPOS="83"
+                    VPOS="165"
+                    WIDTH="489"
+                    HEIGHT="27"
+                    WC="0.984081818181818"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4083"
+                    BASELINE="146 200 224 200" 
+                    HPOS="146"
+                    VPOS="184"
+                    WIDTH="78"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="146 200 146 206 224 208 224 200 224 184 146 186 146 200"/></Shape>
+	    <String CONTENT="Arg. 2 p."
+                    HPOS="146"
+                    VPOS="184"
+                    WIDTH="78"
+                    HEIGHT="24"
+                    WC="0.874933333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4083"
+                    BASELINE="84 220 571 220" 
+                    HPOS="84"
+                    VPOS="204"
+                    WIDTH="487"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="84 220 84 228 125 232 126 232 140 228 144 228 154 228 177 231 178 231 179 231 182 229 183 228 186 229 191 230 192 230 193 230 196 229 200 227 237 227 241 229 244 232 245 232 246 232 247 232 248 232 250 230 254 227 277 230 286 230 300 230 351 227 368 230 376 232 377 232 381 230 390 228 411 231 420 232 421 232 422 232 422 231 426 228 430 231 431 231 432 231 435 231 461 227 476 231 478 232 479 232 482 231 502 227 510 232 511 232 512 232 571 232 571 220 571 204 84 204 84 220"/></Shape>
+	    <String CONTENT="1303 Piastre et demi-piastre au bonnet phrygien dans une gloire."
+                    HPOS="84"
+                    VPOS="204"
+                    WIDTH="487"
+                    HEIGHT="28"
+                    WC="0.97246"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4083"
+                    BASELINE="148 238 481 238" 
+                    HPOS="148"
+                    VPOS="222"
+                    WIDTH="333"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="148 238 148 246 481 246 481 238 481 226 463 222 462 222 444 226 442 226 148 224 148 238"/></Shape>
+	    <String CONTENT="Monnaies divisionnaires diverses. Arg. 6 p."
+                    HPOS="148"
+                    VPOS="222"
+                    WIDTH="333"
+                    HEIGHT="24"
+                    WC="0.977333333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4083"
+                    BASELINE="84 258 570 260" 
+                    HPOS="83"
+                    VPOS="241"
+                    WIDTH="487"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="84 258 83 265 88 269 88 270 89 270 90 270 215 266 228 266 232 266 260 270 261 270 278 267 322 270 323 270 328 267 330 266 358 266 360 268 362 270 363 270 364 270 365 270 374 268 382 266 393 268 410 271 411 271 412 271 421 268 428 267 443 269 460 271 461 271 472 269 486 267 528 267 532 270 533 270 534 270 537 270 556 267 568 270 570 260 570 244 84 241 84 258"/></Shape>
+	    <String CONTENT="1304 Monnaies de bronze des États de Jalisco, Mexico, Potosi,"
+                    HPOS="83"
+                    VPOS="241"
+                    WIDTH="487"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4083"
+                    BASELINE="147 276 571 278" 
+                    HPOS="146"
+                    VPOS="262"
+                    WIDTH="425"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="147 276 146 286 187 286 188 287 206 293 207 293 208 293 243 288 252 287 258 288 281 294 282 294 294 290 304 294 305 294 306 294 312 290 314 288 322 288 325 290 328 292 328 293 329 293 330 293 359 294 360 295 409 295 409 294 410 294 414 292 416 290 436 292 450 293 451 293 454 292 462 290 467 292 470 294 471 294 472 295 570 295 571 278 570 267 147 262 147 276"/></Shape>
+	    <String CONTENT="Sinaloa, Guanaxuata, Chihuahua, Sonora, Durango."
+                    HPOS="146"
+                    VPOS="262"
+                    WIDTH="425"
+                    HEIGHT="33"
+                    WC="0.9556"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4083"
+                    BASELINE="148 296 190 296" 
+                    HPOS="148"
+                    VPOS="284"
+                    WIDTH="42"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="148 296 148 304 190 306 190 296 190 284 148 284 148 296"/></Shape>
+	    <String CONTENT="12 p."
+                    HPOS="148"
+                    VPOS="284"
+                    WIDTH="42"
+                    HEIGHT="22"
+                    WC="0.9362"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4083"
+                    BASELINE="84 316 570 318" 
+                    HPOS="83"
+                    VPOS="292"
+                    WIDTH="487"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="84 316 83 324 92 329 93 329 94 330 124 330 124 329 134 324 158 326 159 326 160 326 162 324 163 323 166 324 174 327 175 327 176 327 188 324 196 323 214 325 226 326 227 326 228 326 229 325 232 323 256 326 263 326 264 326 269 326 288 324 292 326 293 328 294 328 295 328 308 326 336 324 362 328 366 328 368 328 387 324 400 328 408 330 409 330 428 328 467 324 475 329 476 330 477 330 478 330 478 331 569 331 570 318 569 296 486 292 485 292 484 292 480 296 476 299 446 300 436 296 429 292 428 292 407 292 372 292 371 292 370 292 362 296 358 298 353 296 346 292 345 292 344 292 329 296 320 298 316 296 310 292 309 292 308 292 297 292 296 292 295 292 290 296 286 299 238 299 233 296 228 292 227 292 226 292 225 292 218 296 213 298 84 296 84 316"/></Shape>
+	    <String CONTENT="1305 Amérique Centrale. Guatemala. Demi-escudo d’or, 1848."
+                    HPOS="83"
+                    VPOS="292"
+                    WIDTH="487"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT4083"
+                    BASELINE="144 335 324 335" 
+                    HPOS="144"
+                    VPOS="324"
+                    WIDTH="180"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="144 335 144 344 297 346 298 346 324 342 324 335 324 324 144 324 144 335"/></Shape>
+	    <String CONTENT="Lion en contremarque."
+                    HPOS="144"
+                    VPOS="324"
+                    WIDTH="180"
+                    HEIGHT="22"
+                    WC="0.9969"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT4083"
+                    BASELINE="84 356 572 355" 
+                    HPOS="83"
+                    VPOS="335"
+                    WIDTH="489"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="84 356 84 367 102 368 103 368 104 368 108 367 121 364 262 364 274 366 284 368 285 369 312 369 312 368 313 368 316 366 318 364 321 366 324 368 325 368 326 368 327 368 329 366 334 363 351 363 357 366 360 368 361 368 362 368 416 367 417 367 422 366 431 363 434 366 438 368 439 368 440 368 571 364 572 355 570 336 485 339 480 336 478 336 477 336 476 336 475 336 474 336 470 340 453 336 443 335 442 335 432 336 412 340 370 340 358 337 351 335 350 335 331 337 301 340 83 338 84 356"/></Shape>
+	    <String CONTENT="1306 Piastre de 8 réaux au type des cinq montagnes et du soleil"
+                    HPOS="83"
+                    VPOS="335"
+                    WIDTH="489"
+                    HEIGHT="34"
+                    WC="0.982015384615385"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT4083"
+                    BASELINE="144 372 288 375" 
+                    HPOS="144"
+                    VPOS="358"
+                    WIDTH="144"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="144 372 144 382 286 384 288 375 288 364 280 360 279 360 238 362 227 362 224 362 216 358 215 358 214 358 207 361 204 362 144 359 144 372"/></Shape>
+	    <String CONTENT="levant, 1840. Arg."
+                    HPOS="144"
+                    VPOS="358"
+                    WIDTH="144"
+                    HEIGHT="26"
+                    WC="0.998866666666667"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT4083"
+                    BASELINE="83 396 452 396" 
+                    HPOS="83"
+                    VPOS="380"
+                    WIDTH="369"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="83 396 83 402 452 402 452 396 452 380 83 380 83 396"/></Shape>
+	    <String CONTENT="1307 Peso de 1866 au buste de R. Carrera. Arg."
+                    HPOS="83"
+                    VPOS="380"
+                    WIDTH="369"
+                    HEIGHT="22"
+                    WC="0.9833"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT4083"
+                    BASELINE="83 416 516 417" 
+                    HPOS="83"
+                    VPOS="398"
+                    WIDTH="433"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="83 416 83 428 516 426 516 417 516 402 494 398 493 398 404 402 397 402 395 402 374 398 373 398 365 402 364 402 358 402 298 398 297 398 296 398 287 401 287 402 234 402 233 401 228 398 227 398 226 398 218 401 205 398 204 398 203 398 202 398 197 401 196 401 83 401 83 416"/></Shape>
+	    <String CONTENT="1308 Peso de 1873 au type de la République assise. Arg."
+                    HPOS="83"
+                    VPOS="398"
+                    WIDTH="433"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT4083"
+                    BASELINE="83 437 361 438" 
+                    HPOS="82"
+                    VPOS="421"
+                    WIDTH="279"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="83 437 82 444 91 447 92 447 360 445 361 438 360 426 290 422 289 422 268 425 266 425 265 425 256 422 255 422 230 425 226 425 222 421 221 421 220 421 219 421 208 424 186 421 185 421 83 424 83 437"/></Shape>
+	    <String CONTENT="1309 Honduras. Peso de 1882. Arg."
+                    HPOS="82"
+                    VPOS="421"
+                    WIDTH="279"
+                    HEIGHT="26"
+                    WC="0.989133333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT4083"
+                    BASELINE="83 457 570 460" 
+                    HPOS="82"
+                    VPOS="441"
+                    WIDTH="488"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="83 457 82 464 92 468 93 468 202 466 210 469 211 469 442 467 447 470 448 470 449 470 569 467 570 460 569 441 83 441 83 457"/></Shape>
+	    <String CONTENT="1310 Monnaies diverses des républiques de l’Amérique Centrale."
+                    HPOS="82"
+                    VPOS="441"
+                    WIDTH="488"
+                    HEIGHT="29"
+                    WC="0.987575"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT4083"
+                    BASELINE="145 477 323 477" 
+                    HPOS="145"
+                    VPOS="462"
+                    WIDTH="178"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="145 477 145 485 178 488 179 488 194 485 200 484 203 485 213 488 214 488 215 488 226 484 229 484 235 484 264 488 265 488 274 484 323 484 323 477 323 466 302 462 301 462 300 462 291 465 290 465 145 463 145 477"/></Shape>
+	    <String CONTENT="22 p. arg. et 3 p. cuiv."
+                    HPOS="145"
+                    VPOS="462"
+                    WIDTH="178"
+                    HEIGHT="26"
+                    WC="0.976442857142857"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT4083"
+                    BASELINE="82 498 569 496" 
+                    HPOS="82"
+                    VPOS="477"
+                    WIDTH="487"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="82 498 82 509 304 506 310 509 312 510 313 510 314 510 318 509 334 506 346 509 347 509 348 509 569 508 569 496 567 482 545 482 544 481 534 477 533 477 532 477 507 481 503 482 486 482 484 481 479 477 478 477 477 477 430 481 428 481 414 478 413 478 412 478 408 481 408 482 404 481 385 477 384 477 369 481 368 481 342 477 341 477 340 477 334 481 332 482 312 482 306 481 298 479 297 479 287 481 280 483 208 483 206 481 203 478 202 478 201 478 187 481 178 482 166 481 152 479 136 481 123 482 116 481 104 478 103 478 82 480 82 498"/></Shape>
+	    <String CONTENT="1311 Haïti. Pièce de 30 sols de la présidence de Henri-Chris¬"
+                    HPOS="82"
+                    VPOS="477"
+                    WIDTH="487"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT4083"
+                    BASELINE="144 515 286 516" 
+                    HPOS="143"
+                    VPOS="499"
+                    WIDTH="143"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="144 515 143 522 284 526 286 516 285 504 214 499 213 499 212 499 201 502 199 502 144 502 144 515"/></Shape>
+	    <String CONTENT="tophe, 1808. Arg."
+                    HPOS="143"
+                    VPOS="499"
+                    WIDTH="143"
+                    HEIGHT="27"
+                    WC="0.976033333333333"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT4083"
+                    BASELINE="82 537 458 539" 
+                    HPOS="82"
+                    VPOS="521"
+                    WIDTH="376"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="82 537 82 546 98 549 99 549 100 549 102 547 104 546 105 547 108 549 109 549 110 549 122 547 135 545 150 548 160 549 161 549 176 548 202 545 210 548 212 548 213 548 220 548 245 546 256 548 262 550 263 550 264 550 268 548 278 546 286 549 288 550 289 550 290 550 293 549 302 546 309 549 310 550 311 550 312 550 315 549 328 546 359 550 367 550 368 550 370 550 379 546 420 546 457 550 458 539 458 521 82 521 82 537"/></Shape>
+	    <String CONTENT="1312 Ecu de Henri-Christophe, roi; an 17. Arg."
+                    HPOS="82"
+                    VPOS="521"
+                    WIDTH="376"
+                    HEIGHT="29"
+                    WC="0.9847875"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT4083"
+                    BASELINE="82 558 404 559" 
+                    HPOS="82"
+                    VPOS="542"
+                    WIDTH="322"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="82 558 82 567 403 567 404 559 403 546 376 542 375 542 374 542 366 546 364 546 343 542 342 542 322 546 319 546 316 545 306 542 305 542 304 542 292 545 288 546 270 545 210 542 82 543 82 558"/></Shape>
+	    <String CONTENT="1313 Boyer, Petion, monnaies d’arg. 3 p."
+                    HPOS="82"
+                    VPOS="542"
+                    WIDTH="322"
+                    HEIGHT="25"
+                    WC="0.991271428571429"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT4083"
+                    BASELINE="82 578 535 580" 
+                    HPOS="82"
+                    VPOS="562"
+                    WIDTH="453"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="82 578 82 586 332 590 414 587 422 587 424 587 448 590 534 587 535 580 535 562 82 562 82 578"/></Shape>
+	    <String CONTENT="1314 Monnaies de bronze de Faustin I, Geffrard, etc. 7 p."
+                    HPOS="82"
+                    VPOS="562"
+                    WIDTH="453"
+                    HEIGHT="28"
+                    WC="0.986545454545455"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT4083"
+                    BASELINE="82 600 568 602" 
+                    HPOS="82"
+                    VPOS="582"
+                    WIDTH="486"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="82 600 82 611 169 610 186 611 207 614 208 614 227 611 237 610 248 611 271 614 272 614 304 611 320 610 322 611 328 614 329 615 381 615 381 614 382 614 394 611 396 611 400 611 422 614 438 611 440 611 441 611 447 615 448 615 449 615 450 615 457 612 464 615 465 616 465 615 466 615 472 612 546 615 547 615 567 611 568 602 568 584 538 584 537 584 536 584 532 588 473 584 469 584 468 584 467 584 454 588 442 584 440 584 439 584 438 584 427 584 396 587 354 584 325 583 324 583 316 585 309 586 281 585 250 583 249 583 236 585 227 586 218 585 204 582 203 582 202 582 196 585 194 586 190 585 176 582 175 582 161 585 158 586 155 585 144 582 143 582 82 585 82 600"/></Shape>
+	    <String CONTENT="1315 Gourde, pièces de 20 et de 10 cent. de 1881 et 1882. Arg."
+                    HPOS="82"
+                    VPOS="582"
+                    WIDTH="486"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT4083"
+                    BASELINE="161 618 174 618" 
+                    HPOS="161"
+                    VPOS="604"
+                    WIDTH="13"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="161 618 161 630 174 629 174 618 174 606 161 604 161 618"/></Shape>
+	    <String CONTENT="p."
+                    HPOS="161"
+                    VPOS="604"
+                    WIDTH="13"
+                    HEIGHT="26"
+                    WC="0.9974"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24"
+                    TAGREFS="LT4083"
+                    BASELINE="82 639 568 640" 
+                    HPOS="82"
+                    VPOS="619"
+                    WIDTH="486"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="82 639 82 649 250 646 257 650 258 650 259 650 303 650 304 650 313 646 326 650 327 650 328 650 329 650 334 646 362 650 368 650 382 650 461 646 488 650 491 650 492 650 493 650 498 646 520 646 535 650 536 650 537 650 538 650 557 646 566 650 568 640 568 627 496 627 489 626 471 622 470 622 464 625 460 626 456 625 446 620 424 620 423 620 422 620 416 624 413 626 408 624 403 622 402 622 390 624 369 626 361 623 354 620 353 620 352 620 351 620 348 623 342 627 326 627 313 622 304 620 303 620 302 620 289 622 269 626 220 621 204 620 203 620 202 620 199 620 182 626 150 626 141 620 140 620 122 620 114 620 113 620 104 625 97 620 96 620 82 619 82 639"/></Shape>
+	    <String CONTENT="1316 Curaçao. Reaal et stuiver, 1821 et 1822. Arg. 2 p. —"
+                    HPOS="82"
+                    VPOS="619"
+                    WIDTH="486"
+                    HEIGHT="31"
+                    WC="0.994041666666667"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_25"
+                    TAGREFS="LT4083"
+                    BASELINE="143 657 568 658" 
+                    HPOS="142"
+                    VPOS="642"
+                    WIDTH="426"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="143 657 142 664 154 668 155 668 212 665 237 668 238 668 295 665 297 665 300 665 356 669 357 669 367 666 409 669 410 669 567 666 568 658 568 646 558 642 557 642 556 642 536 646 522 642 521 642 498 642 497 642 496 642 496 643 493 646 470 642 328 645 316 642 315 642 314 642 300 645 286 642 285 642 284 642 265 645 264 645 254 642 253 642 238 645 236 645 223 642 222 642 221 642 210 645 208 645 207 645 191 642 190 642 183 645 182 645 143 645 143 657"/></Shape>
+	    <String CONTENT="Antigoa. Farthing de 1836. Br. — Les Barbades. Cuiv. 2 p."
+                    HPOS="142"
+                    VPOS="642"
+                    WIDTH="426"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_26"
+                    TAGREFS="LT4083"
+                    BASELINE="82 678 569 680" 
+                    HPOS="81"
+                    VPOS="661"
+                    WIDTH="488"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="82 678 81 687 93 691 94 691 94 692 141 692 141 691 142 691 148 688 150 687 263 687 270 688 278 691 279 691 280 691 300 689 315 687 319 689 325 692 326 692 327 692 336 689 342 688 353 689 371 692 372 692 568 690 569 680 569 666 520 662 519 662 518 662 512 666 488 662 462 665 451 662 450 662 449 662 442 665 435 662 434 662 386 666 380 666 378 666 360 662 359 662 358 662 352 666 332 666 327 662 327 661 326 661 325 661 269 665 267 666 232 666 231 665 224 661 223 661 222 661 200 665 198 666 158 666 157 665 152 661 151 661 150 661 82 664 82 678"/></Shape>
+	    <String CONTENT="1317 Colombie. Piastre de 8 réaux à la tête de la Liberté avec"
+                    HPOS="81"
+                    VPOS="661"
+                    WIDTH="488"
+                    HEIGHT="31"
+                    WC="0.947107692307692"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_27"
+                    TAGREFS="LT4083"
+                    BASELINE="143 696 369 698" 
+                    HPOS="142"
+                    VPOS="683"
+                    WIDTH="227"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="143 696 142 706 368 706 369 698 368 685 143 683 143 696"/></Shape>
+	    <String CONTENT="coiffure indienne, 1820. Arg."
+                    HPOS="142"
+                    VPOS="683"
+                    WIDTH="227"
+                    HEIGHT="23"
+                    WC="0.994475"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_28"
+                    TAGREFS="LT4083"
+                    BASELINE="82 717 514 720" 
+                    HPOS="81"
+                    VPOS="698"
+                    WIDTH="433"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="82 717 81 724 93 728 94 728 146 725 149 725 151 725 170 728 183 726 186 725 192 726 214 729 215 729 264 727 290 726 303 728 320 730 321 730 326 728 329 726 513 730 514 720 514 706 490 702 472 705 469 706 468 705 462 700 461 700 426 700 425 700 424 700 420 704 417 706 390 705 389 704 386 700 385 700 384 700 383 700 376 703 370 706 316 706 300 702 293 700 292 700 284 702 267 704 256 701 255 701 253 701 196 704 186 700 185 700 164 704 159 700 158 700 157 700 145 702 141 699 141 698 140 698 82 698 82 717"/></Shape>
+	    <String CONTENT="1318 Piastre de 1864 et divisions. Arg. 4 p. et cuiv. 1 p."
+                    HPOS="81"
+                    VPOS="698"
+                    WIDTH="433"
+                    HEIGHT="32"
+                    WC="0.952815384615385"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_29"
+                    TAGREFS="LT4083"
+                    BASELINE="81 738 440 741" 
+                    HPOS="80"
+                    VPOS="720"
+                    WIDTH="360"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="80 746 439 748 440 741 440 726 137 721 136 721 132 721 93 724 82 720 81 738 80 746"/></Shape>
+	    <String CONTENT="1319 Nouvelle Grenade. Piastre de 1844. Arg."
+                    HPOS="80"
+                    VPOS="720"
+                    WIDTH="360"
+                    HEIGHT="28"
+                    WC="0.976828571428571"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_30"
+                    TAGREFS="LT4083"
+                    BASELINE="80 760 292 760" 
+                    HPOS="80"
+                    VPOS="742"
+                    WIDTH="212"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="80 760 80 768 292 768 292 760 292 747 270 742 269 742 249 746 248 746 228 742 202 746 192 742 191 742 164 746 162 746 160 746 137 742 136 742 120 746 118 746 80 746 80 760"/></Shape>
+	    <String CONTENT="1320 Piastre de 1849. Arg."
+                    HPOS="80"
+                    VPOS="742"
+                    WIDTH="212"
+                    HEIGHT="26"
+                    WC="0.96754"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_31"
+                    TAGREFS="LT4083"
+                    BASELINE="81 780 438 783" 
+                    HPOS="80"
+                    VPOS="762"
+                    WIDTH="358"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="81 780 80 787 131 786 149 788 170 790 192 788 204 787 217 788 240 791 241 791 256 788 260 788 268 788 298 792 299 792 348 788 355 788 359 788 388 792 438 788 438 783 438 770 425 765 424 765 423 765 422 765 416 769 381 765 380 765 318 768 313 768 312 768 308 764 307 764 306 764 260 768 256 768 252 768 174 763 173 763 155 767 153 767 152 767 141 762 140 762 122 766 120 766 81 766 81 780"/></Shape>
+	    <String CONTENT="1321 Monnaies divisionnaires. Arg. et br. 5 p."
+                    HPOS="80"
+                    VPOS="762"
+                    WIDTH="358"
+                    HEIGHT="30"
+                    WC="0.9886375"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_32"
+                    TAGREFS="LT4083"
+                    BASELINE="81 801 566 804" 
+                    HPOS="80"
+                    VPOS="782"
+                    WIDTH="486"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="374 783 372 783 364 786 361 788 357 786 351 784 350 784 349 784 344 786 340 789 288 789 285 786 282 784 281 784 280 784 224 786 198 788 184 786 135 782 134 782 124 786 122 787 81 787 81 801 80 810 92 815 93 815 94 815 118 811 124 810 148 812 178 814 179 814 200 813 234 811 255 814 280 817 281 817 282 817 288 814 296 812 314 812 320 815 324 818 325 818 326 818 344 815 368 812 380 816 385 818 386 818 387 818 392 816 403 813 410 816 414 818 415 818 438 817 500 813 508 818 509 819 510 819 511 820 566 820 566 804 566 786 467 782 466 782 457 786 454 788 408 789 394 786 378 783 374 783"/></Shape>
+	    <String CONTENT="1322 Vénézuéla. Piastre à la tête de Bolivar, par Barre, 1879."
+                    HPOS="80"
+                    VPOS="782"
+                    WIDTH="486"
+                    HEIGHT="38"
+                    WC="0.991172727272727"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_33"
+                    TAGREFS="LT4083"
+                    BASELINE="143 821 181 820" 
+                    HPOS="142"
+                    VPOS="804"
+                    WIDTH="39"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="143 821 143 828 154 827 156 828 160 831 161 831 162 831 181 826 181 820 180 808 162 804 161 804 160 804 160 805 157 808 149 805 148 805 147 805 146 805 142 807 143 821"/></Shape>
+	    <String CONTENT="Arg."
+                    HPOS="142"
+                    VPOS="804"
+                    WIDTH="39"
+                    HEIGHT="27"
+                    WC="0.8912"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_34"
+                    TAGREFS="LT4083"
+                    BASELINE="80 842 205 840 566 844" 
+                    HPOS="80"
+                    VPOS="819"
+                    WIDTH="486"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="80 842 80 852 88 855 89 855 90 855 98 852 104 850 111 852 123 856 124 856 125 856 135 853 144 850 261 850 277 855 287 858 288 858 314 858 315 858 318 856 322 853 331 856 338 858 339 858 366 856 402 854 410 858 414 859 415 860 444 860 444 859 445 859 446 858 454 854 466 858 468 859 469 859 470 859 480 858 511 856 532 860 535 860 536 860 537 860 542 856 565 860 566 844 566 829 539 822 538 822 490 827 414 821 413 821 395 826 362 823 361 823 354 827 352 827 346 826 310 823 309 823 299 826 298 826 296 826 274 822 273 822 248 826 247 826 238 820 237 820 209 820 208 820 207 820 201 825 200 826 196 825 177 822 176 822 153 825 149 825 148 825 140 819 139 819 128 819 127 819 126 819 120 824 118 825 80 824 80 842"/></Shape>
+	    <String CONTENT="1323 Monnaies divisionnaires. Arg. 2 p. Quartillo de Caracas,"
+                    HPOS="80"
+                    VPOS="819"
+                    WIDTH="486"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_35"
+                    TAGREFS="LT4083"
+                    BASELINE="142 858 274 860" 
+                    HPOS="142"
+                    VPOS="843"
+                    WIDTH="132"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="142 858 142 867 273 868 274 860 274 848 262 844 261 844 260 844 242 848 240 848 238 848 216 844 215 844 214 844 210 846 206 843 205 843 204 843 203 843 192 847 190 847 180 843 179 843 142 846 142 858"/></Shape>
+	    <String CONTENT="1818. Cuiv. 2 p."
+                    HPOS="142"
+                    VPOS="843"
+                    WIDTH="132"
+                    HEIGHT="25"
+                    WC="0.939125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_36"
+                    TAGREFS="LT4083"
+                    BASELINE="80 879 521 882" 
+                    HPOS="80"
+                    VPOS="858"
+                    WIDTH="441"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="80 879 80 892 140 888 166 893 168 893 169 893 170 893 176 889 188 893 189 893 190 893 192 893 218 889 268 893 269 893 270 893 287 890 294 893 296 894 297 894 302 894 320 890 343 894 354 895 355 895 360 894 370 890 391 894 401 895 402 895 408 894 420 890 442 894 456 896 520 894 521 882 521 868 502 860 501 860 478 860 477 860 476 860 467 866 457 860 456 860 411 865 397 860 396 860 353 860 352 860 351 860 343 866 317 866 284 859 283 859 282 859 274 866 270 866 258 866 251 866 209 862 208 862 201 866 200 866 146 866 146 865 131 858 130 858 129 858 128 858 118 865 80 865 80 879"/></Shape>
+	    <String CONTENT="1324 Equateur. Piastre au buste de la Liberté, 1858. Arg."
+                    HPOS="80"
+                    VPOS="858"
+                    WIDTH="441"
+                    HEIGHT="38"
+                    WC="0.97587"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_37"
+                    TAGREFS="LT4083"
+                    BASELINE="80 901 434 904" 
+                    HPOS="80"
+                    VPOS="884"
+                    WIDTH="354"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="80 901 80 908 187 912 188 912 250 909 256 909 257 909 265 912 266 912 315 910 346 913 434 910 434 904 434 890 364 886 348 890 346 890 343 889 326 886 325 886 275 889 268 889 264 889 242 885 241 885 240 885 235 888 232 886 232 885 231 885 206 885 205 885 204 885 204 886 201 888 196 888 140 884 139 884 80 887 80 901"/></Shape>
+	    <String CONTENT="1325 Monnaies divisionnaires. Arg. et br. 7 p."
+                    HPOS="80"
+                    VPOS="884"
+                    WIDTH="354"
+                    HEIGHT="29"
+                    WC="0.9685125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_38"
+                    TAGREFS="LT4083"
+                    BASELINE="80 922 454 924" 
+                    HPOS="80"
+                    VPOS="906"
+                    WIDTH="374"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="80 922 80 931 452 932 454 924 453 909 80 906 80 922"/></Shape>
+	    <String CONTENT="1326 Sucre d’arg. frappé en 1884 à Birmingham."
+                    HPOS="80"
+                    VPOS="906"
+                    WIDTH="374"
+                    HEIGHT="26"
+                    WC="0.97045"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_39"
+                    TAGREFS="LT4083"
+                    BASELINE="80 943 488 946" 
+                    HPOS="80"
+                    VPOS="926"
+                    WIDTH="408"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="80 951 486 954 488 946 488 931 464 928 463 928 450 930 441 932 430 930 414 928 413 928 412 928 410 930 407 932 391 932 367 930 340 927 339 927 332 929 326 931 319 929 312 927 311 927 310 927 307 929 304 931 302 929 300 927 299 927 298 927 297 927 292 929 289 930 283 929 269 926 268 926 263 928 259 931 208 931 198 928 192 926 191 926 190 926 189 926 187 928 182 930 178 928 173 926 172 926 135 927 85 930 82 927 80 943 80 951"/></Shape>
+	    <String CONTENT="1327 Bolivie. Piastre au buste de Bolivar, 1846. Arg."
+                    HPOS="80"
+                    VPOS="926"
+                    WIDTH="408"
+                    HEIGHT="28"
+                    WC="0.972611111111111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_40"
+                    TAGREFS="LT4083"
+                    BASELINE="80 964 474 966" 
+                    HPOS="80"
+                    VPOS="947"
+                    WIDTH="394"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="80 976 94 984 95 984 96 984 149 978 164 984 165 984 200 984 201 984 202 984 210 977 211 977 250 977 250 978 254 982 255 982 256 982 291 981 298 985 299 985 300 985 328 981 332 984 333 984 334 984 346 979 382 983 383 983 384 983 391 979 399 986 400 986 401 986 424 986 425 986 432 980 434 979 472 980 474 966 473 953 429 949 428 949 410 952 405 952 404 952 400 949 399 949 398 949 397 949 394 952 392 953 356 953 348 951 335 948 334 948 284 950 227 952 212 949 205 948 204 948 201 948 196 951 192 948 191 948 190 948 189 948 180 948 150 951 128 948 127 948 126 948 117 951 113 948 112 948 111 948 94 951 81 947 80 964 80 976"/></Shape>
+	    <String CONTENT="1328 Demi-piastre au buste de Bolivar, 1830. Arg."
+                    HPOS="80"
+                    VPOS="947"
+                    WIDTH="394"
+                    HEIGHT="39"
+                    WC="0.980925"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
