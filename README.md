@@ -1,7 +1,6 @@
 # FONDUE-MLT-PRINT-TEST
 
-[![DOI](https://zenodo.org/badge/10610960.svg)](https://zenodo.org/badge/latestdoi/10610960)
-
+[![DOI](https://zenodo.org/badge/10610961.svg)](https://zenodo.org/badge/latestdoi/10610961)
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
