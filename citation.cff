@@ -14,7 +14,7 @@ authors:
     given-names: Benoît
     email: benoit.sagot@inria.fr
     affiliation: INRIA Paris
-    orcid: https://orcid.org/0000-0001-8957-9503
+    orcid: https://orcid.org/0000-0002-0107-8526
   - family-names: Bawden
     given-names: Rachel
     email: rachel.bawden@inria.fr
@@ -25,9 +25,30 @@ authors:
     email: thibault.clerice@inria.fr
     affiliation: INRIA Paris
     orcid: https://orcid.org/0000-0003-1852-9204
+  - family-names: Janès
+    given-names: Juliette
+    email: juliette.janes@inria.fr
+    affiliation: INRIA Paris
+  - family-names: Dent
+    given-names: Rasul
+    email: rasul.dent@inria.fr
+    affiliation: INRIA Paris
+  - family-names: Nédey
+    given-names: Oriane
+    email: oriane.nedey@inria.fr
+    affiliation: INRIA Paris
 keywords:
   - HTR
   - contemporary
   - prints
+  - Catalan
+  - French créole
+  - German
+  - Spanish
+  - Alsatian
+  - Italian
+  - Occitan
+  - Picard
+  - Middle French
 version: 1.0
 date-released: 2024-01-27

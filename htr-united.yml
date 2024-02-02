@@ -20,10 +20,22 @@ authors:
   - transcriber
   surname: Bawden
 - name: Benoît
-  orcid: 0000-0001-8957-9503
+  orcid: 0000-0002-0107-8526
   roles:
   - transcriber
   surname: Sagot
+- name: Juliette
+  roles:
+  - transcriber
+  surname: Janès
+- name: Rasul
+  roles:
+  - transcriber
+  surname: Dent
+- name: Oriane
+  roles:
+- transcriber
+  surname: Nédey
 automatically-aligned: false
 characters:
   members:
