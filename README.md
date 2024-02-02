@@ -1,5 +1,8 @@
 # FONDUE-MLT-PRINT-TEST
 
+[![DOI](https://zenodo.org/badge/10610960.svg)](https://zenodo.org/badge/latestdoi/10610960)
+
+
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
 This repo contains the transcription various prints from several centuries in French (16th-21st c.) and several languages:
