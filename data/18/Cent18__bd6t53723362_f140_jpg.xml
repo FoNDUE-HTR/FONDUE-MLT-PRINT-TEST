@@ -341,7 +341,7 @@
                     WIDTH="83"
                     HEIGHT="29">
             <Shape><Polygon POINTS="292 685 292 694 374 691 374 683 372 665 291 666 292 685"/></Shape>
-	    <String CONTENT="ennemis!"
+	    <String CONTENT="ennemis"
                     HPOS="291"
                     VPOS="665"
                     WIDTH="83"
