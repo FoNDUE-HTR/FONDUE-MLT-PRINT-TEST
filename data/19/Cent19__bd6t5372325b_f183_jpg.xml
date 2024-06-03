@@ -114,7 +114,7 @@
                     WIDTH="511"
                     HEIGHT="30">
             <Shape><Polygon POINTS="128 205 128 214 160 211 293 214 294 214 294 214 302 210 430 213 430 213 470 210 636 212 638 203 636 188 600 184 600 184 575 188 484 184 483 184 482 184 473 187 388 184 387 184 386 184 386 184 380 189 344 189 300 184 300 184 299 184 288 188 258 185 257 185 256 185 256 185 249 189 248 189 230 186 229 186 228 186 228 186 222 189 222 190 127 190 128 205"/></Shape>
-	    <String CONTENT="est un —; il donne des — S’installer dans une maison,"
+	    <String CONTENT="est un —; il donne des —. S’installer dans une maison,"
                     HPOS="127"
                     VPOS="184"
                     WIDTH="511"
