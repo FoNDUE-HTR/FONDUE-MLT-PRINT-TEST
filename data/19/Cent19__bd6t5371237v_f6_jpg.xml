@@ -193,7 +193,7 @@
                     WIDTH="470"
                     HEIGHT="29">
             <Shape><Polygon POINTS="202 420 202 428 671 427 672 418 670 402 519 399 518 399 518 399 506 402 505 403 202 403 202 420"/></Shape>
-	    <String CONTENT="Le ministre de l’instruction publique trouve ra-"
+	    <String CONTENT="Le ministre de l’instruction publique trouve ra¬"
                     HPOS="202"
                     VPOS="399"
                     WIDTH="470"
