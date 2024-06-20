@@ -195,7 +195,7 @@ title: FONDUE-MLT-PRINT-TEST
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-PRINT-TEST
 volume:
-- count: 151987
+- count: 151993
   metric: characters
 - count: 100
   metric: files
