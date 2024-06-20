@@ -34,7 +34,7 @@ authors:
   surname: Dent
 - name: Oriane
   roles:
-- transcriber
+  - transcriber
   surname: Nédey
 automatically-aligned: false
 characters:
